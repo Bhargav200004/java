@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Introduction_to_OOPs/Introduction_to_OOPs.iml" filepath="$PROJECT_DIR$/Introduction_to_OOPs/Introduction_to_OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodandScope/MethodandScope.iml" filepath="$PROJECT_DIR$/MethodandScope/MethodandScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting_Algorithm/Sorting_Algorithm.iml" filepath="$PROJECT_DIR$/Sorting_Algorithm/Sorting_Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arraysproblems/arraysproblems.iml" filepath="$PROJECT_DIR$/arrays/arraysproblems/arraysproblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/callingmethod/callingmethod.iml" filepath="$PROJECT_DIR$/callingmethod/callingmethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coding.iml" filepath="$PROJECT_DIR$/coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/misclaniousproblem/misclaniousproblem.iml" filepath="$PROJECT_DIR$/misclaniousproblem/misclaniousproblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pakages/pakages.iml" filepath="$PROJECT_DIR$/pakages/pakages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patern/patern.iml" filepath="$PROJECT_DIR$/patern/patern.iml" />
+    </modules>
+  </component>
+</project>
