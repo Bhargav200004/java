@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Introduction_to_OOPs/Introduction_to_OOPs.iml" filepath="$PROJECT_DIR$/Introduction_to_OOPs/Introduction_to_OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked list/Linked list.iml" filepath="$PROJECT_DIR$/Linked list/Linked list.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodandScope/MethodandScope.iml" filepath="$PROJECT_DIR$/MethodandScope/MethodandScope.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting_Algorithm/Sorting_Algorithm.iml" filepath="$PROJECT_DIR$/Sorting_Algorithm/Sorting_Algorithm.iml" />
