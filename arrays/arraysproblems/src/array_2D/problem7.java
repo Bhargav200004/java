@@ -4,13 +4,17 @@ import java.util.Scanner;
 
 //Given a positive intrger n,generate  an n x n matrix filled with elements from 1 to n^2 in spiral order.
 public class problem7  {
-    static void printArray(int arr[][]){
+    public static void printArray(int arr[][]){
         for (int i=0;i< arr.length;i++){
             for (int j=0;j< arr[i].length;j++){
-                System.out.print(arr[i][j]+" ");
+                System.out.print(arr[i][j]+"  ");
             }
             System.out.println();
         }
+    }
+    //checking for matrix row or col are equal or not
+    public static boolean check(int arr[][]){
+        return arr.length == arr[0].length;
     }
     static int [][] spiralorderprint(int n){
     int arr[][]=new int[n][n];
