@@ -11,6 +11,8 @@ public class Count_sort {
         return max;
     }
 
+
+    //Without stable the array
     static void basicCountSort(int [] arr){
         //finding maximum number of element present in the array
         int max = findMaxElement(arr);
@@ -31,6 +33,39 @@ public class Count_sort {
 
     }
 
+
+    //with stable
+    static void countSort(int [] arr){
+        //outPut array
+        int n = arr.length;
+        int [] output = new int[n];
+
+        //Create frequency array or count array
+        int max = findMaxElement(arr);
+        int [] count = new  int[max+1];
+        for (int i = 0 ; i< arr.length;i++){
+            count[arr[i]]++;
+        }
+
+        //Creating prefix sum of the count array
+        for (int i = 1; i < count.length; i++) {
+            count[i] += count[i-1];
+        }
+
+        //finding the index of each element in the original Array and put it in the original array
+        for (int i = n-1; i >= 0 ; i--) {
+            int idx = count[arr[i]] -1;
+            output[idx]=arr[i];
+            count[arr[i]]--;
+        }
+
+        //copying the output array to original array
+        for (int i : output){
+            arr[i] = output[i];
+        }
+
+    }
+
     static void display(int [] arr){
         for (int i : arr) {
             System.out.print(i + " ");
@@ -41,7 +76,7 @@ public class Count_sort {
 
         int []arr= {2,6,2,6,3,6,3};
 
-        basicCountSort(arr);
+        countSort(arr);
 
         display(arr);
 
