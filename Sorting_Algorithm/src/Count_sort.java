@@ -52,7 +52,7 @@ public class Count_sort {
             count[i] += count[i-1];
         }
 
-        //finding the index of each element in the original Array and put it in the original array
+        //finding the index of each element in the original Array and put it in the output array
         for (int i = n-1; i >= 0 ; i--) {
             int idx = count[arr[i]] -1;
             output[idx]=arr[i];
