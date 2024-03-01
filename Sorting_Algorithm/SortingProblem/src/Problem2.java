@@ -13,17 +13,21 @@ public class Problem2 {
 
         int start = 0  , end = arr.length-1;
 
+        if (end <=1){
+            return;
+        }
+
         while (start < end){
 
-            if (arr[start] > 0){
+            if (arr[start] < 0){
                 start++;
             }
-            if (arr[end] < 0) {
+            if (arr[end] >= 0) {
                 end--;
             }
-            int temp = arr[start];
-            arr[start] =arr[end];
-            arr[end] = temp;
+            int temp = arr[end];
+            arr[end] =arr[start];
+            arr[start] = temp;
 
         }
 
@@ -31,7 +35,7 @@ public class Problem2 {
     }
 
     public static void main(String[] args) {
-        int [] arr = {19,-20,7,-4,-13,11,-5,3};
+        int [] arr = {19,-20,7,-4,-13,0,11,-5,3};
 
         sortArray(arr);
 
