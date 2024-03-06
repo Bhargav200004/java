@@ -9,7 +9,7 @@ public class Problem1 {
 
             boolean flag=true;          //true --> capital
 
-            char ch=str.charAt(i);          //here we talking one character at a time
+            char ch=str.charAt(i);          //here we're talking one character at a time
 
             if(ch==' ') continue;            // if there is space between them then it is ignored
 
