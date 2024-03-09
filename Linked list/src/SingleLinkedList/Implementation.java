@@ -21,6 +21,7 @@ public class Implementation {
     public static class linkList {
         Node head = null; //initialize at null
         Node tail = null;//initialize at null
+        int size = 0;
 
         void insertAtEnd(int data) {
             //Creating new Node
@@ -33,6 +34,7 @@ public class Implementation {
                 tail.next = temp;
             }
             tail = temp;
+            size++;
         }
 
         void insertAtBeginning(int data) {
@@ -45,6 +47,7 @@ public class Implementation {
                 temp.next = head;
                 head = temp;
             }
+            size++;
 
         }
 
@@ -69,6 +72,7 @@ public class Implementation {
             }
             temp.next = p.next;
             p.next = temp;
+            size++;
 
         }
 
@@ -88,6 +92,23 @@ public class Implementation {
 
         }
 
+        void deleteAtIndex(int index){
+            Node p =head;
+            if (index == 0){
+                head = head.next;
+                size--;
+                return;
+            }
+            for (int i = 1 ; i <= index-1;i++){
+                p = p.next;
+            }
+            p.next = p.next.next;
+            size--;
+            if (index == size){
+                tail = p;
+            }
+        }
+
         void display() {
             Node temp = head;
 
@@ -97,7 +118,7 @@ public class Implementation {
             }
         }
 
-        int size() {
+        int size() { // O(n)
             Node temp = head;
             int count = 0;
             while (temp != null) {
@@ -123,9 +144,16 @@ public class Implementation {
 
         linkList.insertAtIndex(34, 4);
         linkList.insertAtIndex(1302, 6);
+
+        linkList.deleteAtIndex(6);
         System.out.println(linkList.getAtIndex(0));
 
+        System.out.printf("tail data %d\n" , linkList.tail.data);
+        System.out.printf("head data %d\n" , linkList.head.data);
+
+
         linkList.display();
-        System.out.printf("\nsize of the linkList %d", linkList.size());
+        System.out.printf("\nsize of the linkList %d \n", linkList.size());
+
     }
 }
