@@ -1,28 +1,23 @@
 package SingleLinkedList;
 
 /*
-    Q1. Implement a method to insert a node at beginning.
-    Q2. Implement a method to insert a node at end.
-    Q3. Implement a method to insert a node at a specific index.
-    Q4. Implement a method to return the element at any given index of link list
-    Q5. Implement a method to delete a node at specific index
-
+    Q. Can we delete a node given the node itself as parameter
  */
 
-public class Implementation {
+public class problem2 {
 
-    static class Node {
+    static class Node{
         int data;
         Node next;
-
-        Node(int data) {
+        Node(int data){
             this.data = data;
         }
     }
 
-    static class linkList {
-        Node head = null; //initialize at null
-        Node tail = null;//initialize at null
+    static class linkList{
+        Node head = null;
+        Node tail = null;
+
         int size = 0;
 
         void insertAtEnd(int data) {
@@ -130,32 +125,27 @@ public class Implementation {
 
             return count;
         }
+
+        void deleteAtNode(Node node){
+            Node temp = head;
+            while (temp.data != node.data){
+                temp = temp.next;
+            }
+            temp.next = temp.next.next;
+        }
     }
 
     public static void main(String[] args) {
         linkList linkList = new linkList();
-        linkList.insertAtEnd(45);
+
+        linkList.insertAtBeginning(234);
         linkList.insertAtEnd(23);
-        linkList.insertAtEnd(56);
-
+        linkList.insertAtEnd(2);
+        linkList.insertAtEnd(43);
+        linkList.insertAtEnd(254);
+        
         linkList.display();
-        System.out.println();
 
-        linkList.insertAtBeginning(2);
-        linkList.insertAtBeginning(1000);
-
-        linkList.insertAtIndex(34, 4);
-        linkList.insertAtIndex(1302, 6);
-
-        linkList.deleteAtIndex(6);
-        System.out.println(linkList.getAtIndex(0));
-
-        System.out.printf("tail data %d\n" , linkList.tail.data);
-        System.out.printf("head data %d\n" , linkList.head.data);
-
-
-        linkList.display();
-        System.out.printf("\nsize of the linkList %d \n", linkList.size());
 
     }
 }
