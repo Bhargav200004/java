@@ -9,10 +9,7 @@ public class Problem3 {
 
     //checking the odd or even
     static boolean oddEven(int data){
-        if (data % 2 == 0){
-            return true;
-        }
-        return false;
+        return data % 2 == 0;
     }
 
     public static void main(String[] args) {
