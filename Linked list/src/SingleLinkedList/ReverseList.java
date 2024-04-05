@@ -50,9 +50,24 @@ public class ReverseList {
 //        System.out.println("\nPrinting the list in the reverse order");
 //        displayRev(a);
 
-        Node r = reverseList(a);
+//        Node r = reverseList(a);
+//
+//        display(r);
 
-        display(r);
+
+        Node curr = a;
+        Node prev = null;
+        Node front = null;
+
+        while (curr!=null){
+            front = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = front;
+        }
+
+        System.out.println("print with iteration");
+        display(prev);
     }
 
 }
