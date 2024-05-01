@@ -37,7 +37,6 @@ public class Problem4 {
         return res;
     }
 
-
     public static void main(String[] args) {
         int [] arr = {1,3,2,1,8,6,3,4};
         int [] res = nextGreater(arr);
