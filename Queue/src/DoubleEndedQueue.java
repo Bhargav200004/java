@@ -11,6 +11,8 @@ public class DoubleEndedQueue {
         dq.addLast(5600);
         dq.add(1);
 
+        System.out.println(dq.removeLast());
+        System.out.println(dq.peekLast());
         System.out.println(dq);
 
     }
