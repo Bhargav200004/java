@@ -10,17 +10,18 @@ public class MapInterfaceExample {
         hashMap.put(1,"vivek"); // override by new value
         hashMap.putIfAbsent(1,"sourik");
 
-        //iterating over map
+        System.out.println(hashMap);
 
-        for (var i : hashMap.values()){
-            if ("Bhargav" == i) System.out.print(i+" ");
-        }
+        //iterating over map
+//        for (var i : hashMap.values()){
+//            if ("Bhargav" == i) System.out.print(i+" ");
+//        }
 
 
 //        System.out.println(hashMap.keySet());
 //        System.out.println(hashMap.get(3));
 //        System.out.println(hashMap.containsKey(5));
 //        System.out.println(hashMap.containsValue("Bhargav"));
-        System.out.println(hashMap.values());
+//        System.out.println(hashMap.values());
     }
 }
