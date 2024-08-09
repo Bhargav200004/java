@@ -16,6 +16,11 @@ public class nLevelPrint {
         levelPrint(root.right , level - 1);
     }
 
+    static int height(Node root){
+        if(root == null ) return 0;
+        return 1 + Math.max(height(root.left) , height(root.right));
+    }
+
     public static void main(String[] args) {
         Node root = new Node(1);
         Node a = new Node(2);
@@ -32,6 +37,11 @@ public class nLevelPrint {
         e.right = g;
         Node f = new Node(8);
         g.right = f;
-        levelPrint(root , 5);
+        int height = height(root) + 1;
+        System.out.println("height" + height);
+        for (int i = 0 ; i < height ; i++){
+            levelPrint(root , i);
+            System.out.println();
+        }
     }
 }
