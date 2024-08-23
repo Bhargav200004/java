@@ -71,6 +71,15 @@ public class traversal {
         System.out.println();
         ArrayList<Integer> ans =  new ArrayList<>();
         sortedTree(root, ans );
+
+        int target = 5;
+
         System.out.println(ans);
+        for(int i = 0 ; i < ans.size() ; i++){
+            if(ans.get(i) ==  target){
+                System.out.println("Predeseor:- " + ans.get(i-1));
+                System.out.println("Succsseor:- " + ans.get(i+1)) ;
+            }
+        }
     }
 }
