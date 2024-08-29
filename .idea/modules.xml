@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/callingmethod/callingmethod.iml" filepath="$PROJECT_DIR$/callingmethod/callingmethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/coding.iml" filepath="$PROJECT_DIR$/coding.iml" />
       <module fileurl="file://$PROJECT_DIR$/misclaniousproblem/misclaniousproblem.iml" filepath="$PROJECT_DIR$/misclaniousproblem/misclaniousproblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/narryTree/narryTree.iml" filepath="$PROJECT_DIR$/narryTree/narryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/pakages/pakages.iml" filepath="$PROJECT_DIR$/pakages/pakages.iml" />
       <module fileurl="file://$PROJECT_DIR$/patern/patern.iml" filepath="$PROJECT_DIR$/patern/patern.iml" />
     </modules>
