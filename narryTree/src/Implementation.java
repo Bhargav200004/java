@@ -1,5 +1,9 @@
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
+
+import static java.util.Collections.reverse;
 
 public class Implementation {
     private static class Node{
@@ -47,12 +51,54 @@ public class Implementation {
 
     }
 
+    static void bfsTraversal(Node root){
+        Queue<Node> queue = new LinkedList<>();
+        queue.add(root);
+        while (!queue.isEmpty()){
+            Node temp = queue.remove();
+            System.out.print(temp.data +" ");
+            queue.addAll(temp.child);
+        }
+    }
+
+    static void zigZagTraversal(Node root){
+        Queue<Node> queue = new LinkedList<>();
+        queue.add(root);
+        int count = 0;
+        while (!queue.isEmpty()){
+            List<Integer> value = new ArrayList<>();
+            int size = queue.size();
+
+            while (size-- >0){
+                Node temp = queue.remove();
+                value.add(temp.data);
+                queue.addAll(temp.child);
+            }
+
+            if (count % 2 == 0){
+                System.out.println(value+" ");
+            }
+            else {
+                reverse(value);
+                System.out.println( value +" ");
+            }
+            count++;
+        }
+    }
+
     public static void main(String[] args) {
         Node root = new Node(30);
 
         formTree(root);
 
+        System.out.println();
         preOrderTraversal(root);
+        System.out.println();
+        System.out.println("Bfs");
+        bfsTraversal(root);
+        System.out.println();
+        System.out.println("Zig-Zag");
+        zigZagTraversal(root);
 
     }
 
