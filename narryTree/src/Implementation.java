@@ -43,7 +43,6 @@ public class Implementation {
             System.out.print(root.data + " ");
             return;
         }
-
         System.out.print(root.data + " ");
         for (var val : root.child){
             preOrderTraversal(val);
@@ -86,6 +85,29 @@ public class Implementation {
         }
     }
 
+    public static int findMax(Node root , int max){
+        if(root.child.isEmpty()){
+            return root.data;
+        }
+
+
+        for (var value : root.child){
+            max = Math.max(findMax(value , max),value.data);
+        }
+        return max;
+    }
+
+    public static void mirror(Node root){
+        if(root.child.isEmpty()) return;
+
+        if (root.child.size() == 1) return;
+
+        for (int i = 0; i < root.child.size() ; i++){
+            mirror(root.child.get(i));
+            reverse(root.child);
+        }
+    }
+
     public static void main(String[] args) {
         Node root = new Node(30);
 
@@ -93,12 +115,16 @@ public class Implementation {
 
         System.out.println();
         preOrderTraversal(root);
-        System.out.println();
-        System.out.println("Bfs");
+        System.out.println("\nBfs");
         bfsTraversal(root);
-        System.out.println();
-        System.out.println("Zig-Zag");
+        System.out.println("\nZig-Zag");
         zigZagTraversal(root);
+        System.out.println("\nMax Element");
+        System.out.println(findMax(root , 0));
+        System.out.println("\nReverse");
+        mirror(root);
+        bfsTraversal(root);
+
 
     }
 
