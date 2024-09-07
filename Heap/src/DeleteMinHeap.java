@@ -19,10 +19,10 @@ public class DeleteMinHeap {
         int rightIndex = (index * 2) + 2;
         int minimum = index;
 
-        if (leftIndex <= size && heap.get(leftIndex) < heap.get(index)  ){
+        if (leftIndex <= size && heap.get(leftIndex) < heap.get(minimum)  ){
             minimum = leftIndex;
         }
-        if ( rightIndex <= size && heap.get(rightIndex) < heap.get(index) ){
+        if ( rightIndex <= size && heap.get(rightIndex) < heap.get(minimum) ){
             minimum = rightIndex;
         }
 

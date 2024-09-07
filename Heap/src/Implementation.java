@@ -3,13 +3,13 @@ import java.util.List;
 
 public class Implementation {
 
-    private static void heapyfy(List<Integer> heap , int index){
+    private static void pushUpMinHeap(List<Integer> heap , int index){
         int parent = (index - 1) / 2;
         if (index == 0 || heap.get(parent) < heap.get(index)) return;
         int temp = heap.get(parent);
         heap.set(parent , heap.get(index));
         heap.set(index , temp);
-        heapyfy(heap , parent);
+        pushUpMinHeap(heap , parent);
     };
 
     private static void insertInMinHeap(List<Integer> heap , int element){
@@ -17,7 +17,7 @@ public class Implementation {
 
         int index = heap.size() - 1;
 
-        heapyfy(heap , index);
+        pushUpMinHeap(heap , index);
     }
 
     public static void main(String[] args) {

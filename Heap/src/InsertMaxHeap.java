@@ -3,7 +3,7 @@ import java.util.List;
 
 public class InsertMaxHeap {
 
-    private static void heapyfy(List<Integer> heap , int index){
+    private static void pushUpMaxHeap(List<Integer> heap , int index){
         int parent = (index - 1) / 2;
         if (index == 0 || heap.get(parent) > heap.get(index)) return;
 
@@ -11,14 +11,14 @@ public class InsertMaxHeap {
         heap.set(parent , heap.get(index));
         heap.set(index , temp);
 
-        heapyfy(heap , parent);
+        pushUpMaxHeap(heap , parent);
     }
 
     private static void insertMaxHeap(List<Integer> heap , int element){
         heap.add(element);
         int index = heap.size() - 1;
 
-        heapyfy(heap , index);
+        pushUpMaxHeap(heap , index);
 
     }
 
