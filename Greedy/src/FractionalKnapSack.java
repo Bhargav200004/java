@@ -1,8 +1,6 @@
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Comparator;
 import java.util.List;
-import java.util.stream.Collector;
 
 public class FractionalKnapSack {
 
@@ -49,7 +47,6 @@ public class FractionalKnapSack {
                 W = 0;
             }
         }
-
 
         System.out.println(profit);
 
