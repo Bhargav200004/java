@@ -1,0 +1,201 @@
+
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java∆
+FibonaciCLASSS
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java("
+packageFibonaci"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>Fibonaci"
+accesspublic*Fibonaci2z
+Fibonaci.fibo(int)DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2Ç
+Fibonaci.fibo2(int, int[])DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2
+Fibonaci.main(String[])DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2Å
+Fibonaci?count1@2.15:2.21DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2Å
+Fibonaci?count2@3.15:3.21DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (À
+Fibonaci.fibo(int)METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java ("
+isFinalfalse"¡
+declarationString´<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">fibo</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*fibo2s
+Fibonaci.fibo(int)CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2s
+Fibonaci.fibo(int)CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2u
+Fibonaci.fibo(int)!nCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2u
+Fibonaci.fibo(int)!nCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2z
+Fibonaci?count1@2.15:2.21CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2u
+Fibonaci.fibo(int)!nCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2u
+Fibonaci.fibo(int)!nCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java  (!2z
+Fibonaci.fibo(int)!n	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2k
+intRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (º
+Fibonaci.fibo(int)!n	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (ı
+Fibonaci.fibo2(int, int[])METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java ("
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">fibo2</mark>(<mark class="modifier">int</mark> n<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark>[] dp)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*fibo22{
+Fibonaci.fibo2(int, int[])CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2{
+Fibonaci.fibo2(int, int[])CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java) (.2}
+Fibonaci.fibo2(int, int[])!nCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2}
+Fibonaci.fibo2(int, int[])!nCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2~
+Fibonaci.fibo2(int, int[])!dpCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2}
+Fibonaci.fibo2(int, int[])!nCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2~
+Fibonaci.fibo2(int, int[])!dpCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2}
+Fibonaci.fibo2(int, int[])!nCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2z
+Fibonaci?count2@3.15:3.21CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2~
+Fibonaci.fibo2(int, int[])!dpCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2}
+Fibonaci.fibo2(int, int[])!nCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2}
+Fibonaci.fibo2(int, int[])!nCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2~
+Fibonaci.fibo2(int, int[])!dpCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java# (%2}
+Fibonaci.fibo2(int, int[])!nCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java/ (02~
+Fibonaci.fibo2(int, int[])!dpCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java5 (72Ç
+Fibonaci.fibo2(int, int[])!n	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2É
+Fibonaci.fibo2(int, int[])!dp	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java$ (&2k
+intRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (ƒ
+Fibonaci.fibo2(int, int[])!n	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (Õ
+Fibonaci.fibo2(int, int[])!dp	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java$ (&"
+typeint[]"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark>[] dp*dp2f
+int[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (#ı
+Fibonaci.main(String[])METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2{
+Fibonaci.fibo2(int, int[])CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java ( 2Ü
+%Fibonaci.main(String[])?n@22.12:22.13CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2Ü
+%Fibonaci.main(String[])?i@24.17:24.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2Ü
+%Fibonaci.main(String[])?n@22.12:22.13CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java ( 2Ü
+%Fibonaci.main(String[])?i@24.17:24.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java# ($2á
+&Fibonaci.main(String[])?dp@23.15:23.17CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2Ü
+%Fibonaci.main(String[])?i@24.17:24.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2Ü
+%Fibonaci.main(String[])?n@22.12:22.13CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java! ("2á
+&Fibonaci.main(String[])?dp@23.15:23.17CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java% ('2z
+Fibonaci?count2@3.15:3.21CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java7 (=2Ç
+Fibonaci.main(String[])!args	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java% ()2ç
+%Fibonaci.main(String[])?n@22.12:22.13DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2é
+&Fibonaci.main(String[])?dp@23.15:23.17DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2ç
+%Fibonaci.main(String[])?i@24.17:24.18DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2l
+voidRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (ê
+%Fibonaci.main(String[])?n@22.12:22.13VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = 5*n2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (Õ
+&Fibonaci.main(String[])?dp@23.15:23.17VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java ("
+typeint"
+isFinalfalse"´
+declarationStringï<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">dp</mark> = new <mark class="modifier">int</mark>[n + 1]*dp2f
+int[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (2Ü
+%Fibonaci.main(String[])?n@22.12:22.13CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (ê
+%Fibonaci.main(String[])?i@24.17:24.18VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (ª
+Fibonaci.main(String[])!args	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2i
+String[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java ($„
+Fibonaci?count1@2.15:2.21VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java ("
+isFinalfalse"
+typeint"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="class-field">count1</mark> = 0;"
+isStatictrue"
+accesspackage_private*count12d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java („
+Fibonaci?count2@3.15:3.21VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java ("
+isFinalfalse"
+typeint"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="class-field">count2</mark> = 0;"
+isStatictrue"
+accesspackage_private*count22d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\Fibonaci.java (

@@ -1,0 +1,433 @@
+
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java•
+nQueenCLASSK
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java("
+packagenQueen"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier">public </mark><mark class="modifier">class </mark>nQueen"
+accesspublic*nQueen2u
+nQueen.main(String[])DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2|
+nQueen.nqueen(char[][], int)DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2Å
+!nQueen.isSafe(char[][], int, int)DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java& &(!«
+nQueen.main(String[])METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2u
+nQueen.nqueen(char[][], int)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2z
+!nQueen.main(String[])?n@3.12:3.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java# ($2z
+!nQueen.main(String[])?n@3.12:3.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java& ('2z
+!nQueen.main(String[])?i@6.17:6.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2z
+!nQueen.main(String[])?n@3.12:3.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2z
+!nQueen.main(String[])?i@6.17:6.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java! ("2z
+!nQueen.main(String[])?j@7.21:7.22CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2z
+!nQueen.main(String[])?n@3.12:3.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java! ("2z
+!nQueen.main(String[])?j@7.21:7.22CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java% (&2~
+%nQueen.main(String[])?board@4.18:4.23CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2z
+!nQueen.main(String[])?i@6.17:6.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2z
+!nQueen.main(String[])?j@7.21:7.22CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2~
+%nQueen.main(String[])?board@4.18:4.23CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2x
+nQueen.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java% ()2Å
+!nQueen.main(String[])?n@3.12:3.13DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2Ö
+%nQueen.main(String[])?board@4.18:4.23DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2Å
+!nQueen.main(String[])?i@6.17:6.18DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2Å
+!nQueen.main(String[])?j@7.21:7.22DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2d
+voidRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (¸
+!nQueen.main(String[])?n@3.12:3.13VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = 8*n2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (˙
+%nQueen.main(String[])?board@4.18:4.23VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java ("
+typechar"
+isFinalfalse"t
+declarationString_<mark class="modifier"> </mark>char[][] <mark class="class-field">board</mark> = new char[n][n]*board2a
+char[][]TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2z
+!nQueen.main(String[])?n@3.12:3.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java# ($2z
+!nQueen.main(String[])?n@3.12:3.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java& ('¸
+!nQueen.main(String[])?i@6.17:6.18VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (¸
+!nQueen.main(String[])?j@7.21:7.22VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (©
+nQueen.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2a
+String[]TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java ($¥'
+nQueen.nqueen(char[][], int)METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java ("
+isFinalfalse"ô
+declarationStringÉ<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">nqueen</mark>(char[][] board<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> row)"
+isStatictrue"
+accessprivate"
+
+isAbstractfalse"
+typevoid*nqueen2z
+!nQueen.isSafe(char[][], int, int)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2u
+nQueen.nqueen(char[][], int)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2{
+"nQueen.nqueen(char[][], int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2y
+ nQueen.nqueen(char[][], int)!rowCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2É
+*nQueen.nqueen(char[][], int)?n@15.12:15.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2É
+*nQueen.nqueen(char[][], int)?i@17.21:17.22CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2É
+*nQueen.nqueen(char[][], int)?n@15.12:15.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java! ("2É
+*nQueen.nqueen(char[][], int)?i@17.21:17.22CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java% (&2É
+*nQueen.nqueen(char[][], int)?j@18.25:18.26CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java! ("2É
+*nQueen.nqueen(char[][], int)?n@15.12:15.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java% (&2É
+*nQueen.nqueen(char[][], int)?j@18.25:18.26CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java) (*2{
+"nQueen.nqueen(char[][], int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java% (*2É
+*nQueen.nqueen(char[][], int)?i@17.21:17.22CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java+ (,2É
+*nQueen.nqueen(char[][], int)?j@18.25:18.26CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java. (/2É
+*nQueen.nqueen(char[][], int)?j@27.17:27.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2É
+*nQueen.nqueen(char[][], int)?n@15.12:15.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2É
+*nQueen.nqueen(char[][], int)?j@27.17:27.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java! ("2{
+"nQueen.nqueen(char[][], int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2y
+ nQueen.nqueen(char[][], int)!rowCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java ("2É
+*nQueen.nqueen(char[][], int)?j@27.17:27.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java% (&2{
+"nQueen.nqueen(char[][], int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2y
+ nQueen.nqueen(char[][], int)!rowCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2É
+*nQueen.nqueen(char[][], int)?j@27.17:27.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2{
+"nQueen.nqueen(char[][], int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2y
+ nQueen.nqueen(char[][], int)!rowCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java ("2{
+"nQueen.nqueen(char[][], int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java! !(2y
+ nQueen.nqueen(char[][], int)!rowCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java! !(2É
+*nQueen.nqueen(char[][], int)?j@27.17:27.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java! !(2Ä
+"nQueen.nqueen(char[][], int)!board	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java( (-2~
+ nQueen.nqueen(char[][], int)!row	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java3 (62ä
+*nQueen.nqueen(char[][], int)?n@15.12:15.13DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2ä
+*nQueen.nqueen(char[][], int)?i@17.21:17.22DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2ä
+*nQueen.nqueen(char[][], int)?j@18.25:18.26DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2ä
+*nQueen.nqueen(char[][], int)?j@27.17:27.18DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2d
+voidRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (é
+*nQueen.nqueen(char[][], int)?n@15.12:15.13VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = board.length*n2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (2{
+"nQueen.nqueen(char[][], int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (Ö
+*nQueen.nqueen(char[][], int)?i@17.21:17.22VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (Ö
+*nQueen.nqueen(char[][], int)?j@18.25:18.26VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (Ö
+*nQueen.nqueen(char[][], int)?j@27.17:27.18VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (≥
+"nQueen.nqueen(char[][], int)!board	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java( (-"
+typechar[][]"
+isFinalfalse"#
+declarationStringchar[][] board*board2a
+char[][]TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java (%º
+ nQueen.nqueen(char[][], int)!row	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java3 (6"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> row*row2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java/ (2ùM
+!nQueen.isSafe(char[][], int, int)METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java& &(!"
+isFinalfalse"ˇ
+declarationStringÈ<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">isSafe</mark>(char[][] board<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> row<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> col)"
+isStatictrue"
+accessprivate"
+
+isAbstractfalse"
+typeboolean*isSafe2Ä
+'nQueen.isSafe(char[][], int, int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java' '(2à
+/nQueen.isSafe(char[][], int, int)?j@42.17:42.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java* *(2à
+/nQueen.isSafe(char[][], int, int)?n@39.12:39.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java* *(2à
+/nQueen.isSafe(char[][], int, int)?j@42.17:42.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java*! *("2Ä
+'nQueen.isSafe(char[][], int, int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java+ +(2~
+%nQueen.isSafe(char[][], int, int)!rowCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java+ +(2à
+/nQueen.isSafe(char[][], int, int)?j@42.17:42.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java+ +(2à
+/nQueen.isSafe(char[][], int, int)?i@46.17:46.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java. .(2à
+/nQueen.isSafe(char[][], int, int)?n@39.12:39.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java. .(2à
+/nQueen.isSafe(char[][], int, int)?i@46.17:46.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java.! .("2Ä
+'nQueen.isSafe(char[][], int, int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java/ /(2à
+/nQueen.isSafe(char[][], int, int)?i@46.17:46.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java/ /(2~
+%nQueen.isSafe(char[][], int, int)!colCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java/ /(2~
+%nQueen.isSafe(char[][], int, int)!rowCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java2 2(2~
+%nQueen.isSafe(char[][], int, int)!colCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java3 3(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java6 6(2à
+/nQueen.isSafe(char[][], int, int)?n@39.12:39.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java6 6(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java6 6(2Ä
+'nQueen.isSafe(char[][], int, int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java8 8(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java8 8(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java8 8(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java9 9(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java: :(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java= =(	2~
+%nQueen.isSafe(char[][], int, int)!rowCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java= =(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java> >(	2~
+%nQueen.isSafe(char[][], int, int)!colCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java> >(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaB B(2à
+/nQueen.isSafe(char[][], int, int)?n@39.12:39.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaB B(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaB B(2à
+/nQueen.isSafe(char[][], int, int)?n@39.12:39.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaB B(2Ä
+'nQueen.isSafe(char[][], int, int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaD D(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaD D(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaD D(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaE E(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaF F(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaI I(	2~
+%nQueen.isSafe(char[][], int, int)!rowCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaI I(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaJ J(	2~
+%nQueen.isSafe(char[][], int, int)!colCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaJ J(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaM M(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaM M(2à
+/nQueen.isSafe(char[][], int, int)?n@39.12:39.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaM M(2Ä
+'nQueen.isSafe(char[][], int, int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaN N(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaN N(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaN N(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaO O(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaP P(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaS S(	2~
+%nQueen.isSafe(char[][], int, int)!rowCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaS S(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaT T(	2~
+%nQueen.isSafe(char[][], int, int)!colCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaT T(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaW W(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaW W(2Ä
+'nQueen.isSafe(char[][], int, int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaX X(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaX X(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaX X(2à
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaY Y(2à
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.javaZ Z(2Ö
+'nQueen.isSafe(char[][], int, int)!board	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java&+ &(02É
+%nQueen.isSafe(char[][], int, int)!row	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java&6 &(92É
+%nQueen.isSafe(char[][], int, int)!col	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java&? &(B2è
+/nQueen.isSafe(char[][], int, int)?n@39.12:39.13DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java' '(2è
+/nQueen.isSafe(char[][], int, int)?j@42.17:42.18DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java* *(2è
+/nQueen.isSafe(char[][], int, int)?i@46.17:46.18DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java. .(2è
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java2 2(2è
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java3 3(2g
+booleanRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java& &(ô
+/nQueen.isSafe(char[][], int, int)?n@39.12:39.13VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java' '("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = board.length*n2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java' '(2Ä
+'nQueen.isSafe(char[][], int, int)!boardCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java' '(ä
+/nQueen.isSafe(char[][], int, int)?j@42.17:42.18VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java* *("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java* *(ä
+/nQueen.isSafe(char[][], int, int)?i@46.17:46.18VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java. .("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java. .(å
+/nQueen.isSafe(char[][], int, int)?i@50.12:50.13VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java2 2("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = row*i2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java2 2(2~
+%nQueen.isSafe(char[][], int, int)!rowCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java2 2(å
+/nQueen.isSafe(char[][], int, int)?j@51.12:51.13VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java3 3("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = col*j2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java3 3(2~
+%nQueen.isSafe(char[][], int, int)!colCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java3 3(∏
+'nQueen.isSafe(char[][], int, int)!board	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java&+ &(0"
+typechar[][]"
+isFinalfalse"#
+declarationStringchar[][] board*board2a
+char[][]TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java&" &((¡
+%nQueen.isSafe(char[][], int, int)!row	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java&6 &(9"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> row*row2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java&2 &(5¡
+%nQueen.isSafe(char[][], int, int)!col	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java&? &(B"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> col*col2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nQueen.java&; &(>

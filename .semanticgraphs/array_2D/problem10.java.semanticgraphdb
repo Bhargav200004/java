@@ -1,0 +1,287 @@
+
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.javaì
+array_2D.problem10CLASSd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java ("
+packagearray_2D"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>problem10"
+accesspublic*	problem102†
++array_2D.problem10.main(java.lang.String[])DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java	 	(2î
+array_2D.problem10?sc@8.19:8.21DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (Åc
++array_2D.problem10.main(java.lang.String[])METHODd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java	 	("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java
+ 
+(2â
+java.util.Scanner.nextInt()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2â
+java.util.Scanner.nextInt()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (&2õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ì
+%array_2D.problem7.printArray(int[][])CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java! !(2ì
+%array_2D.problem7.printArray(int[][])CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java" "(2õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java6 6(2ì
+%array_2D.problem7.printArray(int[][])CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java7 7(2ç
+array_2D.problem10?sc@8.19:8.21CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?n@11.12:11.13CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?n@11.12:11.13CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java! ("2ß
+9array_2D.problem10.main(java.lang.String[])?i@15.17:15.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2©
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java ( 2ß
+9array_2D.problem10.main(java.lang.String[])?i@15.17:15.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java* (+2ß
+9array_2D.problem10.main(java.lang.String[])?j@16.21:16.22CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2©
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java! ($2ß
+9array_2D.problem10.main(java.lang.String[])?j@16.21:16.22CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java. (/2©
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?i@15.17:15.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?j@16.21:16.22CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ç
+array_2D.problem10?sc@8.19:8.21CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2©
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?i@24.17:24.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2©
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java ( 2ß
+9array_2D.problem10.main(java.lang.String[])?i@24.17:24.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java) (*2ß
+9array_2D.problem10.main(java.lang.String[])?j@25.21:25.22CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?i@24.17:24.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java! ("2ß
+9array_2D.problem10.main(java.lang.String[])?j@25.21:25.22CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java' ((2©
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?i@24.17:24.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java ( 2ß
+9array_2D.problem10.main(java.lang.String[])?j@25.21:25.22CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java" (#2©
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?i@24.17:24.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?j@25.21:25.22CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2©
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?j@25.21:25.22CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java  (!2ß
+9array_2D.problem10.main(java.lang.String[])?i@24.17:24.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java# ($2©
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?j@25.21:25.22CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?i@24.17:24.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2™
+<array_2D.problem10.main(java.lang.String[])?temp@26.20:26.24CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java ( 2©
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java" "(2©
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java& &(2ß
+9array_2D.problem10.main(java.lang.String[])?k@38.17:38.20CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java( ((2ß
+9array_2D.problem10.main(java.lang.String[])?i@39.16:39.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java* *(2ß
+9array_2D.problem10.main(java.lang.String[])?j@40.16:40.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java* *(2ß
+9array_2D.problem10.main(java.lang.String[])?k@38.17:38.20CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java+ +(2ß
+9array_2D.problem10.main(java.lang.String[])?i@39.16:39.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java+ +(2ß
+9array_2D.problem10.main(java.lang.String[])?k@38.17:38.20CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java, ,(2ß
+9array_2D.problem10.main(java.lang.String[])?i@39.16:39.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java, ,(2ß
+9array_2D.problem10.main(java.lang.String[])?k@38.17:38.20CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java, ,(2ß
+9array_2D.problem10.main(java.lang.String[])?j@40.16:40.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java, ,(2ß
+9array_2D.problem10.main(java.lang.String[])?k@38.17:38.20CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java- -(2ß
+9array_2D.problem10.main(java.lang.String[])?j@40.16:40.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java- -(2™
+<array_2D.problem10.main(java.lang.String[])?temp@43.20:43.24CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java- -(2ß
+9array_2D.problem10.main(java.lang.String[])?i@39.16:39.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java/ /(2ß
+9array_2D.problem10.main(java.lang.String[])?j@40.16:40.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java0 0(2©
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java7 7(2£
+0array_2D.problem10.main(java.lang.String[])!args	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java	% 	()2Æ
+9array_2D.problem10.main(java.lang.String[])?n@11.12:11.13DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2∞
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2Æ
+9array_2D.problem10.main(java.lang.String[])?i@15.17:15.18DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2Æ
+9array_2D.problem10.main(java.lang.String[])?j@16.21:16.22DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2Æ
+9array_2D.problem10.main(java.lang.String[])?i@24.17:24.18DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2Æ
+9array_2D.problem10.main(java.lang.String[])?j@25.21:25.22DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2±
+<array_2D.problem10.main(java.lang.String[])?temp@26.20:26.24DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2Æ
+9array_2D.problem10.main(java.lang.String[])?k@38.17:38.20DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java& &(2Æ
+9array_2D.problem10.main(java.lang.String[])?i@39.16:39.17DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java' '(2Æ
+9array_2D.problem10.main(java.lang.String[])?j@40.16:40.17DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java( ((2±
+<array_2D.problem10.main(java.lang.String[])?temp@43.20:43.24DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java+ +(2y
+voidRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java	 	(Ê
+9array_2D.problem10.main(java.lang.String[])?n@11.12:11.13VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = sc.nextInt()*n2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2â
+java.util.Scanner.nextInt()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ç
+array_2D.problem10?sc@8.19:8.21CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (Ã
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java ("
+typeint"
+isFinalfalse"≠
+declarationStringó<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n][n]*arr2u
+int[][]TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?n@11.12:11.13CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?n@11.12:11.13CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java! ("æ
+9array_2D.problem10.main(java.lang.String[])?i@15.17:15.18VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (æ
+9array_2D.problem10.main(java.lang.String[])?j@16.21:16.22VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (æ
+9array_2D.problem10.main(java.lang.String[])?i@24.17:24.18VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (æ
+9array_2D.problem10.main(java.lang.String[])?j@25.21:25.22VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (–
+<array_2D.problem10.main(java.lang.String[])?temp@26.20:26.24VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">temp</mark> = arr[i][j]*temp2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2©
+;array_2D.problem10.main(java.lang.String[])?arr@13.16:13.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ß
+9array_2D.problem10.main(java.lang.String[])?i@24.17:24.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java ( 2ß
+9array_2D.problem10.main(java.lang.String[])?j@25.21:25.22CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java" (#æ
+9array_2D.problem10.main(java.lang.String[])?k@38.17:38.20VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java& &("
+typeint"
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">k</mark>*k2s
+int[]TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java& &(æ
+9array_2D.problem10.main(java.lang.String[])?i@39.16:39.17VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java' '("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java' '(Ù
+9array_2D.problem10.main(java.lang.String[])?j@40.16:40.17VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java( (("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = k.length - 1*j2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java( ((2ß
+9array_2D.problem10.main(java.lang.String[])?k@38.17:38.20CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java( ((ü
+<array_2D.problem10.main(java.lang.String[])?temp@43.20:43.24VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java+ +("
+typeint"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">temp</mark> = k[i]*temp2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java+ +(2ß
+9array_2D.problem10.main(java.lang.String[])?k@38.17:38.20CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java+ +(2ß
+9array_2D.problem10.main(java.lang.String[])?i@39.16:39.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java+ +(Ù
+0array_2D.problem10.main(java.lang.String[])!args	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java	% 	()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ä
+java.lang.String[]TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java	 	($ß
+array_2D.problem10?sc@8.19:8.21VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java ("
+isFinalfalse"
+typeScanner"ü
+declarationStringâ<mark class="modifier"> </mark><mark class="modifier">static </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in);"
+isStatictrue"
+accesspackage_private*sc2
+java.util.ScannerTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (2ú
+.java.util.Scanner.Scanner(java.io.InputStream)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem10.java (#

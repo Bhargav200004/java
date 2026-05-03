@@ -1,0 +1,120 @@
+
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.javaﬁ
+array_2D.testCLASS_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java ("
+packagearray_2D"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>test"
+accesspublic*test2ñ
+&array_2D.test.main(java.lang.String[])DECLARATION_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (˘"
+&array_2D.test.main(java.lang.String[])METHOD_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ñ
+-java.io.PrintStream.println(java.lang.String)CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2Ñ
+java.util.Scanner.nextInt()CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2ñ
+-java.io.PrintStream.println(java.lang.String)CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (!2ñ
+-java.io.PrintStream.println(java.lang.String)CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2ñ
+-java.io.PrintStream.println(java.lang.String)CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2ñ
+-java.io.PrintStream.println(java.lang.String)CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2ó
+.java.util.Scanner.Scanner(java.io.InputStream)CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2ú
+3array_2D.test.main(java.lang.String[])?sc@6.16:6.18CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2õ
+2array_2D.test.main(java.lang.String[])?n@8.11:8.12CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java
+ 
+(2õ
+2array_2D.test.main(java.lang.String[])?n@8.11:8.12CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2õ
+2array_2D.test.main(java.lang.String[])?n@8.11:8.12CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2ù
+4array_2D.test.main(java.lang.String[])?i@15.24:15.25CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2õ
+2array_2D.test.main(java.lang.String[])?n@8.11:8.12CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2ù
+4array_2D.test.main(java.lang.String[])?i@15.24:15.25CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java  (!2õ
+2array_2D.test.main(java.lang.String[])?n@8.11:8.12CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2ù
+4array_2D.test.main(java.lang.String[])?i@15.24:15.25CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2õ
+2array_2D.test.main(java.lang.String[])?a@9.11:9.12CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2õ
+2array_2D.test.main(java.lang.String[])?a@9.11:9.12CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java
+ (2õ
+2array_2D.test.main(java.lang.String[])?n@8.11:8.12CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2õ
+2array_2D.test.main(java.lang.String[])?n@8.11:8.12CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2ô
++array_2D.test.main(java.lang.String[])!args	PARAMETER_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java% ()2£
+3array_2D.test.main(java.lang.String[])?sc@6.16:6.18DECLARATION_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2¢
+2array_2D.test.main(java.lang.String[])?n@8.11:8.12DECLARATION_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2¢
+2array_2D.test.main(java.lang.String[])?a@9.11:9.12DECLARATION_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java	 	(2§
+4array_2D.test.main(java.lang.String[])?i@15.24:15.25DECLARATION_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2t
+voidRETURN_TYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (◊
+3array_2D.test.main(java.lang.String[])?sc@6.16:6.18VARIABLE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2z
+java.util.ScannerTYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2ó
+.java.util.Scanner.Scanner(java.io.InputStream)CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (ﬂ
+2array_2D.test.main(java.lang.String[])?n@8.11:8.12VARIABLE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = sc.nextInt()*n2l
+intTYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (
+2Ñ
+java.util.Scanner.nextInt()CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (2ú
+3array_2D.test.main(java.lang.String[])?sc@6.16:6.18CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (≠
+2array_2D.test.main(java.lang.String[])?a@9.11:9.12VARIABLE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java	 	("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = 0*a2l
+intTYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java	 	(
+Ø
+4array_2D.test.main(java.lang.String[])?i@15.24:15.25VARIABLE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 2*i2l
+intTYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java (‰
++array_2D.test.main(java.lang.String[])!args	PARAMETER_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2{
+java.lang.String[]TYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\test.java ($

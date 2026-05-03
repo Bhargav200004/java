@@ -1,0 +1,260 @@
+
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java«
+Problem3_optimalAprochCLASSo
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java(#"!
+packageProblem3_optimalAproch"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"t
+declarationString_<mark class="modifier">public </mark><mark class="modifier">class </mark>Problem3_optimalAproch"
+accesspublic*Problem3_optimalAproch2©
+%Problem3_optimalAproch.display(int[])DECLARATIONs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2∞
+,Problem3_optimalAproch.swap(int[], int, int)DECLARATIONs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java	 	(2©
+%Problem3_optimalAproch.sort012(int[])DECLARATIONs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2©
+%Problem3_optimalAproch.main(String[])DECLARATIONs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java# #(¶
+
+%Problem3_optimalAproch.display(int[])METHODs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java ("
+isFinalfalse"…
+declarationString≥<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">display</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2¶
+)Problem3_optimalAproch.display(int[])!arrCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2Æ
+1Problem3_optimalAproch.display(int[])?i@3.17:3.18CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2´
+)Problem3_optimalAproch.display(int[])!arr	PARAMETERs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java ("2µ
+1Problem3_optimalAproch.display(int[])?i@3.17:3.18DECLARATIONs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2à
+voidRETURN_TYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (—
+1Problem3_optimalAproch.display(int[])?i@3.17:3.18VARIABLEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java ("
+typeint"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark>*i2Ä
+intTYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (î
+)Problem3_optimalAproch.display(int[])!arr	PARAMETERs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (""
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2Ç
+int[]TYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (Ω
+,Problem3_optimalAproch.swap(int[], int, int)METHODs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java	 	("
+isFinalfalse"à
+declarationStringÚ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">swap</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> x<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> y)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*swap2≠
+0Problem3_optimalAproch.swap(int[], int, int)!arrCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java
+ 
+(2´
+.Problem3_optimalAproch.swap(int[], int, int)!xCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java
+ 
+(2≠
+0Problem3_optimalAproch.swap(int[], int, int)!arrCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2´
+.Problem3_optimalAproch.swap(int[], int, int)!xCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2≠
+0Problem3_optimalAproch.swap(int[], int, int)!arrCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2´
+.Problem3_optimalAproch.swap(int[], int, int)!yCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2≠
+0Problem3_optimalAproch.swap(int[], int, int)!arrCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2´
+.Problem3_optimalAproch.swap(int[], int, int)!yCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2∫
+=Problem3_optimalAproch.swap(int[], int, int)?temp@10.12:10.16CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2≤
+0Problem3_optimalAproch.swap(int[], int, int)!arr	PARAMETERs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java	 	(2∞
+.Problem3_optimalAproch.swap(int[], int, int)!x	PARAMETERs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java	& 	('2∞
+.Problem3_optimalAproch.swap(int[], int, int)!y	PARAMETERs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java	. 	(/2¡
+=Problem3_optimalAproch.swap(int[], int, int)?temp@10.12:10.16DECLARATIONs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java
+ 
+(2à
+voidRETURN_TYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java	 	(À
+=Problem3_optimalAproch.swap(int[], int, int)?temp@10.12:10.16VARIABLEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java
+ 
+("
+typeint"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">temp</mark> = arr[x]*temp2Ä
+intTYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java
+ 
+(2≠
+0Problem3_optimalAproch.swap(int[], int, int)!arrCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java
+ 
+(2´
+.Problem3_optimalAproch.swap(int[], int, int)!xCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java
+ 
+(õ
+0Problem3_optimalAproch.swap(int[], int, int)!arr	PARAMETERs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java	 	("
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2Ç
+int[]TYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java	 	(è
+.Problem3_optimalAproch.swap(int[], int, int)!x	PARAMETERs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java	& 	('"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> x*x2Ä
+intTYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java	" 	(%è
+.Problem3_optimalAproch.swap(int[], int, int)!y	PARAMETERs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java	. 	(/"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> y*y2Ä
+intTYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java	* 	(-Ô$
+%Problem3_optimalAproch.sort012(int[])METHODs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java ("
+isFinalfalse"…
+declarationString≥<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">sort012</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*sort0122©
+,Problem3_optimalAproch.swap(int[], int, int)CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2©
+,Problem3_optimalAproch.swap(int[], int, int)CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2¶
+)Problem3_optimalAproch.sort012(int[])!arrCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java' (*2≤
+5Problem3_optimalAproch.sort012(int[])?mid@16.24:16.27CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2≤
+5Problem3_optimalAproch.sort012(int[])?end@16.33:16.36CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2¶
+)Problem3_optimalAproch.sort012(int[])!arrCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2≤
+5Problem3_optimalAproch.sort012(int[])?mid@16.24:16.27CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2¶
+)Problem3_optimalAproch.sort012(int[])!arrCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2≤
+5Problem3_optimalAproch.sort012(int[])?mid@16.24:16.27CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2¥
+7Problem3_optimalAproch.sort012(int[])?start@16.12:16.17CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java ("2≤
+5Problem3_optimalAproch.sort012(int[])?mid@16.24:16.27CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2¥
+7Problem3_optimalAproch.sort012(int[])?start@16.12:16.17CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2¶
+)Problem3_optimalAproch.sort012(int[])!arrCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2≤
+5Problem3_optimalAproch.sort012(int[])?mid@16.24:16.27CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2≤
+5Problem3_optimalAproch.sort012(int[])?mid@16.24:16.27CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2¶
+)Problem3_optimalAproch.sort012(int[])!arrCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2≤
+5Problem3_optimalAproch.sort012(int[])?mid@16.24:16.27CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2≤
+5Problem3_optimalAproch.sort012(int[])?end@16.33:16.36CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java! ($2≤
+5Problem3_optimalAproch.sort012(int[])?end@16.33:16.36CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2´
+)Problem3_optimalAproch.sort012(int[])!arr	PARAMETERs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java ("2ª
+7Problem3_optimalAproch.sort012(int[])?start@16.12:16.17DECLARATIONs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2π
+5Problem3_optimalAproch.sort012(int[])?mid@16.24:16.27DECLARATIONs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2π
+5Problem3_optimalAproch.sort012(int[])?end@16.33:16.36DECLARATIONs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java! ($2à
+voidRETURN_TYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (Ñ
+7Problem3_optimalAproch.sort012(int[])?start@16.12:16.17VARIABLEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java ("
+typeint"
+isFinalfalse"†
+declarationStringä<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">start</mark> = 0, mid = 0, end = arr.length - 1*start2Ä
+intTYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (˛
+5Problem3_optimalAproch.sort012(int[])?mid@16.24:16.27VARIABLEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java ("
+typeint"
+isFinalfalse"û
+declarationStringà<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">mid</mark> = 0, mid = 0, end = arr.length - 1*mid2Ä
+intTYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (ß
+5Problem3_optimalAproch.sort012(int[])?end@16.33:16.36VARIABLEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java! ($"
+typeint"
+isFinalfalse"û
+declarationStringà<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">end</mark> = 0, mid = 0, end = arr.length - 1*end2Ä
+intTYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (2¶
+)Problem3_optimalAproch.sort012(int[])!arrCALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java' (*î
+)Problem3_optimalAproch.sort012(int[])!arr	PARAMETERs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (""
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2Ç
+int[]TYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java (‚
+%Problem3_optimalAproch.main(String[])METHODs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java# #("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¢
+%Problem3_optimalAproch.sort012(int[])CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java& &(2¢
+%Problem3_optimalAproch.display(int[])CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java' '(2≤
+5Problem3_optimalAproch.main(String[])?arr@37.15:37.18CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java& &(2≤
+5Problem3_optimalAproch.main(String[])?arr@37.15:37.18CALLs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java' '(2¨
+*Problem3_optimalAproch.main(String[])!args	PARAMETERs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java#% #()2π
+5Problem3_optimalAproch.main(String[])?arr@37.15:37.18DECLARATIONs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java% %(2à
+voidRETURN_TYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java# #(Ç
+5Problem3_optimalAproch.main(String[])?arr@37.15:37.18VARIABLEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java% %("
+typeint"
+isFinalfalse"†
+declarationStringä<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = { 2, 2, 0, 0, 1, 1, 2, 0, 1, 0 }*arr2Ç
+int[]TYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java% %(Ç
+*Problem3_optimalAproch.main(String[])!args	PARAMETERs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java#% #()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ö
+String[]TYPEs
+iC:\Users\BHARGAV\Desktop\Personal\coding\Sorting_Algorithm\SortingProblem\src\Problem3_optimalAproch.java# #($

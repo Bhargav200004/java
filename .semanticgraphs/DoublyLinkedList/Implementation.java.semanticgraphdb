@@ -1,0 +1,426 @@
+
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaç	
+DoublyLinkedList.ImplementationCLASSg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java ("
+packageDoublyLinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier">public </mark><mark class="modifier">class </mark>Implementation"
+accesspublic*Implementation2≈
+MDoublyLinkedList.Implementation.display(DoublyLinkedList.Implementation.Node)DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2∆
+NDoublyLinkedList.Implementation.displayR(DoublyLinkedList.Implementation.Node)DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2À
+SDoublyLinkedList.Implementation.randomDisplay(DoublyLinkedList.Implementation.Node)DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2∞
+8DoublyLinkedList.Implementation.main(java.lang.String[])DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java* *(ß
+MDoublyLinkedList.Implementation.display(DoublyLinkedList.Implementation.Node)METHODg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java ("
+isFinalfalse"´
+declarationStringï<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">display</mark>(Node head)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2ú
++java.io.PrintStream.print(java.lang.String)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2√
+RDoublyLinkedList.Implementation.display(DoublyLinkedList.Implementation.Node)!headCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2√
+RDoublyLinkedList.Implementation.display(DoublyLinkedList.Implementation.Node)!headCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (!2√
+RDoublyLinkedList.Implementation.display(DoublyLinkedList.Implementation.Node)!headCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2√
+RDoublyLinkedList.Implementation.display(DoublyLinkedList.Implementation.Node)!headCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2§
+3DoublyLinkedList.Implementation.Node?data@6.12:6.16CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java" (&2§
+3DoublyLinkedList.Implementation.Node?next@7.13:7.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2»
+RDoublyLinkedList.Implementation.display(DoublyLinkedList.Implementation.Node)!head	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (!2|
+voidRETURN_TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (¶
+RDoublyLinkedList.Implementation.display(DoublyLinkedList.Implementation.Node)!head	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (!"
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2ï
+$DoublyLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (Ø
+NDoublyLinkedList.Implementation.displayR(DoublyLinkedList.Implementation.Node)METHODg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java ("
+isFinalfalse"¨
+declarationStringñ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">displayR</mark>(Node tail)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*displayR2ú
++java.io.PrintStream.print(java.lang.String)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2ƒ
+SDoublyLinkedList.Implementation.displayR(DoublyLinkedList.Implementation.Node)!tailCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2ƒ
+SDoublyLinkedList.Implementation.displayR(DoublyLinkedList.Implementation.Node)!tailCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (!2ƒ
+SDoublyLinkedList.Implementation.displayR(DoublyLinkedList.Implementation.Node)!tailCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2ƒ
+SDoublyLinkedList.Implementation.displayR(DoublyLinkedList.Implementation.Node)!tailCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2§
+3DoublyLinkedList.Implementation.Node?data@6.12:6.16CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java" (&2§
+3DoublyLinkedList.Implementation.Node?prev@8.13:8.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2…
+SDoublyLinkedList.Implementation.displayR(DoublyLinkedList.Implementation.Node)!tail	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java ("2|
+voidRETURN_TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (ß
+SDoublyLinkedList.Implementation.displayR(DoublyLinkedList.Implementation.Node)!tail	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (""
+typeNode"
+isFinalfalse"
+declarationString	Node tail*tail2ï
+$DoublyLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (õ
+SDoublyLinkedList.Implementation.randomDisplay(DoublyLinkedList.Implementation.Node)METHODg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java ("
+isFinalfalse"≥
+declarationStringù<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">randomDisplay</mark>(Node random)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*randomDisplay2ú
++java.io.PrintStream.print(java.lang.String)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java$ $(2À
+ZDoublyLinkedList.Implementation.randomDisplay(DoublyLinkedList.Implementation.Node)!randomCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2À
+ZDoublyLinkedList.Implementation.randomDisplay(DoublyLinkedList.Implementation.Node)!randomCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java   (2À
+ZDoublyLinkedList.Implementation.randomDisplay(DoublyLinkedList.Implementation.Node)!randomCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java   (2À
+ZDoublyLinkedList.Implementation.randomDisplay(DoublyLinkedList.Implementation.Node)!randomCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java# #(2À
+ZDoublyLinkedList.Implementation.randomDisplay(DoublyLinkedList.Implementation.Node)!randomCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java$ $(#2À
+ZDoublyLinkedList.Implementation.randomDisplay(DoublyLinkedList.Implementation.Node)!randomCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java% %(2À
+ZDoublyLinkedList.Implementation.randomDisplay(DoublyLinkedList.Implementation.Node)!randomCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java% %(2§
+3DoublyLinkedList.Implementation.Node?prev@8.13:8.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2§
+3DoublyLinkedList.Implementation.Node?prev@8.13:8.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java   ( 2§
+3DoublyLinkedList.Implementation.Node?data@6.12:6.16CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java$$ $((2§
+3DoublyLinkedList.Implementation.Node?next@7.13:7.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java% %( 2–
+ZDoublyLinkedList.Implementation.randomDisplay(DoublyLinkedList.Implementation.Node)!random	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java# ()2|
+voidRETURN_TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (≤
+ZDoublyLinkedList.Implementation.randomDisplay(DoublyLinkedList.Implementation.Node)!random	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java# ()"
+typeNode"
+isFinalfalse" 
+declarationStringNode random*random2ï
+$DoublyLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java ("»\
+8DoublyLinkedList.Implementation.main(java.lang.String[])METHODg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java* *("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2æ
+MDoublyLinkedList.Implementation.display(DoublyLinkedList.Implementation.Node)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaK K(2é
+java.io.PrintStream.println()CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaL L(2ø
+NDoublyLinkedList.Implementation.displayR(DoublyLinkedList.Implementation.Node)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaM M(2é
+java.io.PrintStream.println()CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaN N(2ƒ
+SDoublyLinkedList.Implementation.randomDisplay(DoublyLinkedList.Implementation.Node)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaO O(2ü
+.DoublyLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java. .(2ü
+.DoublyLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java/ /(2ü
+.DoublyLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java0 0(2ü
+.DoublyLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java1 1(2ü
+.DoublyLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java2 2(2ü
+.DoublyLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java3 3(2ü
+.DoublyLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java4 4(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?a@46.13:46.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java6 6(	2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?b@47.13:47.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java6 6(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?a@46.13:46.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java7 7(	2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?b@47.13:47.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java9 9(	2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?c@48.13:48.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java9 9(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?b@47.13:47.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java: :(	2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?a@46.13:46.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java: :(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?c@48.13:48.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java< <(	2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?d@49.13:49.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java< <(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?c@48.13:48.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java= =(	2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?b@47.13:47.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java= =(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?d@49.13:49.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java? ?(	2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?e@50.13:50.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java? ?(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?d@49.13:49.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java@ @(	2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?c@48.13:48.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java@ @(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?e@50.13:50.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaB B(	2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?f@51.13:51.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaB B(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?e@50.13:50.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaC C(	2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?d@49.13:49.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaC C(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?f@51.13:51.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaE E(	2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?g@52.13:52.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaE E(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?f@51.13:51.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaF F(	2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?e@50.13:50.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaF F(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?g@52.13:52.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaH H(	2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?g@52.13:52.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaI I(	2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?f@51.13:51.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaI I(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?a@46.13:46.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaK K(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?g@52.13:52.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaM M(2∑
+FDoublyLinkedList.Implementation.main(java.lang.String[])?c@48.13:48.14CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaO O(2§
+3DoublyLinkedList.Implementation.Node?next@7.13:7.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java6
+ 6(2§
+3DoublyLinkedList.Implementation.Node?prev@8.13:8.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java7
+ 7(2§
+3DoublyLinkedList.Implementation.Node?next@7.13:7.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java9
+ 9(2§
+3DoublyLinkedList.Implementation.Node?prev@8.13:8.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java:
+ :(2§
+3DoublyLinkedList.Implementation.Node?next@7.13:7.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java<
+ <(2§
+3DoublyLinkedList.Implementation.Node?prev@8.13:8.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java=
+ =(2§
+3DoublyLinkedList.Implementation.Node?next@7.13:7.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java?
+ ?(2§
+3DoublyLinkedList.Implementation.Node?prev@8.13:8.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java@
+ @(2§
+3DoublyLinkedList.Implementation.Node?next@7.13:7.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaB
+ B(2§
+3DoublyLinkedList.Implementation.Node?prev@8.13:8.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaC
+ C(2§
+3DoublyLinkedList.Implementation.Node?next@7.13:7.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaE
+ E(2§
+3DoublyLinkedList.Implementation.Node?prev@8.13:8.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaF
+ F(2§
+3DoublyLinkedList.Implementation.Node?next@7.13:7.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaH
+ H(2§
+3DoublyLinkedList.Implementation.Node?prev@8.13:8.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.javaI
+ I(2≥
+=DoublyLinkedList.Implementation.main(java.lang.String[])!args	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java*% *()2æ
+FDoublyLinkedList.Implementation.main(java.lang.String[])?a@46.13:46.14DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java. .(2æ
+FDoublyLinkedList.Implementation.main(java.lang.String[])?b@47.13:47.14DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java/ /(2æ
+FDoublyLinkedList.Implementation.main(java.lang.String[])?c@48.13:48.14DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java0 0(2æ
+FDoublyLinkedList.Implementation.main(java.lang.String[])?d@49.13:49.14DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java1 1(2æ
+FDoublyLinkedList.Implementation.main(java.lang.String[])?e@50.13:50.14DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java2 2(2æ
+FDoublyLinkedList.Implementation.main(java.lang.String[])?f@51.13:51.14DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java3 3(2æ
+FDoublyLinkedList.Implementation.main(java.lang.String[])?g@52.13:52.14DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java4 4(2|
+voidRETURN_TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java* *(Ñ
+FDoublyLinkedList.Implementation.main(java.lang.String[])?a@46.13:46.14VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java. .("
+typeNode"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Node <mark class="class-field">a</mark> = new Node(20)*a2ï
+$DoublyLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java. .(2ü
+.DoublyLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java. .(É
+FDoublyLinkedList.Implementation.main(java.lang.String[])?b@47.13:47.14VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java/ /("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">b</mark> = new Node(3)*b2ï
+$DoublyLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java/ /(2ü
+.DoublyLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java/ /(Ö
+FDoublyLinkedList.Implementation.main(java.lang.String[])?c@48.13:48.14VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java0 0("
+typeNode"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>Node <mark class="class-field">c</mark> = new Node(345)*c2ï
+$DoublyLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java0 0(2ü
+.DoublyLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java0 0(Ö
+FDoublyLinkedList.Implementation.main(java.lang.String[])?d@49.13:49.14VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java1 1("
+typeNode"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>Node <mark class="class-field">d</mark> = new Node(456)*d2ï
+$DoublyLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java1 1(2ü
+.DoublyLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java1 1(É
+FDoublyLinkedList.Implementation.main(java.lang.String[])?e@50.13:50.14VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java2 2("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">e</mark> = new Node(3)*e2ï
+$DoublyLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java2 2(2ü
+.DoublyLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java2 2(É
+FDoublyLinkedList.Implementation.main(java.lang.String[])?f@51.13:51.14VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java3 3("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">f</mark> = new Node(3)*f2ï
+$DoublyLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java3 3(2ü
+.DoublyLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java3 3(É
+FDoublyLinkedList.Implementation.main(java.lang.String[])?g@52.13:52.14VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java4 4("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">g</mark> = new Node(2)*g2ï
+$DoublyLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java4 4(2ü
+.DoublyLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java4 4(á
+=DoublyLinkedList.Implementation.main(java.lang.String[])!args	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java*% *()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2É
+java.lang.String[]TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java* *($±
+$DoublyLinkedList.Implementation.NodeCLASSg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java ("*
+packageDoublyLinkedList.Implementation"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2¶
+.DoublyLinkedList.Implementation.Node.Node(int)DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java
+ 
+(2´
+3DoublyLinkedList.Implementation.Node?data@6.12:6.16DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2´
+3DoublyLinkedList.Implementation.Node?next@7.13:7.17DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2´
+3DoublyLinkedList.Implementation.Node?prev@8.13:8.17DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (√
+.DoublyLinkedList.Implementation.Node.Node(int)CONSTRUCTORg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java
+ 
+("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2§
+3DoublyLinkedList.Implementation.Node.Node(int)!dataCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2§
+3DoublyLinkedList.Implementation.Node?data@6.12:6.16CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (2©
+3DoublyLinkedList.Implementation.Node.Node(int)!data	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java
+ 
+(2ú
+$DoublyLinkedList.Implementation.NodeRETURN_TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java
+ 
+(Å
+3DoublyLinkedList.Implementation.Node.Node(int)!data	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java
+ 
+("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java
+ 
+(Ó
+3DoublyLinkedList.Implementation.Node?data@6.12:6.16VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (Ù
+3DoublyLinkedList.Implementation.Node?next@7.13:7.17VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">next</mark>"
+isStaticfalse"
+accesspackage_private*next2ï
+$DoublyLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (Ù
+3DoublyLinkedList.Implementation.Node?prev@8.13:8.17VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">prev</mark>"
+isStaticfalse"
+accesspackage_private*prev2ï
+$DoublyLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\Implementation.java (

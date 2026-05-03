@@ -1,0 +1,99 @@
+
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java€
+javalloop.pattern8CLASST
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java ("
+package	javalloop"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>pattern8"
+accesspublic*pattern82ê
++javalloop.pattern8.main(java.lang.String[])DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (·
++javalloop.pattern8.main(java.lang.String[])METHODT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2y
+java.util.Scanner.nextInt()CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2|
+java.io.PrintStream.print(int)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java ( 2{
+java.io.PrintStream.println()CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java	 	(2å
+.java.util.Scanner.Scanner(java.io.InputStream)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2ï
+7javalloop.pattern8.main(java.lang.String[])?A@4.16:4.17CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2ï
+7javalloop.pattern8.main(java.lang.String[])?i@6.16:6.17CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2ï
+7javalloop.pattern8.main(java.lang.String[])?a@5.12:5.13CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2ï
+7javalloop.pattern8.main(java.lang.String[])?i@6.16:6.17CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2ï
+7javalloop.pattern8.main(java.lang.String[])?j@7.20:7.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2ï
+7javalloop.pattern8.main(java.lang.String[])?i@6.16:6.17CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2ï
+7javalloop.pattern8.main(java.lang.String[])?j@7.20:7.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2ï
+7javalloop.pattern8.main(java.lang.String[])?j@7.20:7.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java! ("2ì
+0javalloop.pattern8.main(java.lang.String[])!args	PARAMETERT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java# ()2ú
+7javalloop.pattern8.main(java.lang.String[])?A@4.16:4.17DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2ú
+7javalloop.pattern8.main(java.lang.String[])?a@5.12:5.13DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2ú
+7javalloop.pattern8.main(java.lang.String[])?i@6.16:6.17DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2ú
+7javalloop.pattern8.main(java.lang.String[])?j@7.20:7.21DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2i
+voidRETURN_TYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (∏
+7javalloop.pattern8.main(java.lang.String[])?A@4.16:4.17VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java ("
+typeScanner"
+isFinalfalse"w
+declarationStringb<mark class="modifier"> </mark>Scanner <mark class="class-field">A</mark> = new Scanner(System.in)*A2o
+java.util.ScannerTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2å
+.java.util.Scanner.Scanner(java.io.InputStream)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (∫
+7javalloop.pattern8.main(java.lang.String[])?a@5.12:5.13VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java ("
+typeint"
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = A.nextInt()*a2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2y
+java.util.Scanner.nextInt()CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (2ï
+7javalloop.pattern8.main(java.lang.String[])?A@4.16:4.17CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (ú
+7javalloop.pattern8.main(java.lang.String[])?i@6.16:6.17VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (ú
+7javalloop.pattern8.main(java.lang.String[])?j@7.20:7.21VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java (”
+0javalloop.pattern8.main(java.lang.String[])!args	PARAMETERT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java# ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2p
+java.lang.String[]TYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern8.java ()

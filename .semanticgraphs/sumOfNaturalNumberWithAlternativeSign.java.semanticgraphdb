@@ -1,0 +1,75 @@
+
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java¯
+%sumOfNaturalNumberWithAlternativeSignCLASSg
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java(2"0
+package%sumOfNaturalNumberWithAlternativeSign"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ƒ
+declarationStringn<mark class="modifier">public </mark><mark class="modifier">class </mark>sumOfNaturalNumberWithAlternativeSign"
+accesspublic*%sumOfNaturalNumberWithAlternativeSign2´
+8sumOfNaturalNumberWithAlternativeSign.naturalNumber(int)DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java (2°
+4sumOfNaturalNumberWithAlternativeSign.main(String[])DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java	 	(°
+8sumOfNaturalNumberWithAlternativeSign.naturalNumber(int)METHODk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java ("
+isFinalfalse"Ê
+declarationString´<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">naturalNumber</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*naturalNumber2­
+8sumOfNaturalNumberWithAlternativeSign.naturalNumber(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java (,2­
+8sumOfNaturalNumberWithAlternativeSign.naturalNumber(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java (!2¯
+:sumOfNaturalNumberWithAlternativeSign.naturalNumber(int)!nCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java (2¯
+:sumOfNaturalNumberWithAlternativeSign.naturalNumber(int)!nCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java (2¯
+:sumOfNaturalNumberWithAlternativeSign.naturalNumber(int)!nCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java- (.2¯
+:sumOfNaturalNumberWithAlternativeSign.naturalNumber(int)!nCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java6 (72¯
+:sumOfNaturalNumberWithAlternativeSign.naturalNumber(int)!nCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java" (#2¯
+:sumOfNaturalNumberWithAlternativeSign.naturalNumber(int)!nCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java+ (,2´
+:sumOfNaturalNumberWithAlternativeSign.naturalNumber(int)!n	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java! ("2
+intRETURN_TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java (Š
+:sumOfNaturalNumberWithAlternativeSign.naturalNumber(int)!n	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java! (""
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2x
+intTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java ( ¨
+4sumOfNaturalNumberWithAlternativeSign.main(String[])METHODk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java	 	("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2­
+8sumOfNaturalNumberWithAlternativeSign.naturalNumber(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java
+ 
+((2³
+9sumOfNaturalNumberWithAlternativeSign.main(String[])!args	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java	% 	()2€
+voidRETURN_TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java	 	(€
+9sumOfNaturalNumberWithAlternativeSign.main(String[])!args	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java	% 	()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2}
+String[]TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\sumOfNaturalNumberWithAlternativeSign.java	 	($

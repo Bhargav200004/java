@@ -1,0 +1,68 @@
+
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java‡
+DoubleEndedQueueCLASSR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java ("
+packageDoubleEndedQueue"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier">public </mark><mark class="modifier">class </mark>DoubleEndedQueue"
+accesspublic*DoubleEndedQueue2Ç
+DoubleEndedQueue.main(String[])DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java (‡
+DoubleEndedQueue.main(String[])METHODR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2}
+!java.util.LinkedList.LinkedList()CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java  (,2à
+,DoubleEndedQueue.main(String[])?dq@6.23:6.25CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java (
+2à
+,DoubleEndedQueue.main(String[])?dq@6.23:6.25CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java	 	(
+2à
+,DoubleEndedQueue.main(String[])?dq@6.23:6.25CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java
+ 
+(
+2à
+,DoubleEndedQueue.main(String[])?dq@6.23:6.25CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java (
+2à
+,DoubleEndedQueue.main(String[])?dq@6.23:6.25CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java (2à
+,DoubleEndedQueue.main(String[])?dq@6.23:6.25CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java (2à
+,DoubleEndedQueue.main(String[])?dq@6.23:6.25CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java (2Ö
+$DoubleEndedQueue.main(String[])!args	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java% ()2è
+,DoubleEndedQueue.main(String[])?dq@6.23:6.25DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java (2g
+voidRETURN_TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java (ë
+,DoubleEndedQueue.main(String[])?dq@6.23:6.25VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java ("
+typeDeque<Integer>"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark>Deque<Integer> <mark class="class-field">dq</mark> = new LinkedList<>()*dq2k
+java.util.DequeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java (2l
+IntegerTYPE_ARGUMENTR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java (2}
+!java.util.LinkedList.LinkedList()CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java  (,π
+$DoubleEndedQueue.main(String[])!args	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2d
+String[]TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\DoubleEndedQueue.java ($

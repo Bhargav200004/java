@@ -1,0 +1,367 @@
+
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java”
+MaximumMeetingCLASSQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java ("
+packageMaximumMeeting"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier">public </mark><mark class="modifier">class </mark>MaximumMeeting"
+accesspublic*MaximumMeeting2
+MaximumMeeting.main(String[])DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java! !(û/
+MaximumMeeting.main(String[])METHODQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java! !("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2~
+#java.util.List.of(E, E, E, E, E, E)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java"# "(%2~
+#java.util.List.of(E, E, E, E, E, E)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java#! #(#2z
+java.util.ArrayList.ArrayList()CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java$( $(32è
+4MaximumMeeting.meetingComparator.meetingComparator()CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java* *(.2z
+java.util.ArrayList.ArrayList()CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java,# ,(.2Ü
++MaximumMeeting.main(String[])?i@38.17:38.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java& &(2ä
+/MaximumMeeting.main(String[])?Start@34.22:34.27CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java& &("2Ü
++MaximumMeeting.main(String[])?i@38.17:38.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java&, &(-2ê
+5MaximumMeeting.main(String[])?meetingList@36.22:36.33CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java' '(2ä
+/MaximumMeeting.main(String[])?Start@34.22:34.27CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java') '(.2Ü
++MaximumMeeting.main(String[])?i@38.17:38.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java'3 '(42à
+-MaximumMeeting.main(String[])?End@35.22:35.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java'8 '(;2Ü
++MaximumMeeting.main(String[])?i@38.17:38.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java'@ '(A2Ü
++MaximumMeeting.main(String[])?i@38.17:38.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java'E '(F2ê
+5MaximumMeeting.main(String[])?meetingList@36.22:36.33CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java* *(2ã
+0MaximumMeeting.main(String[])?result@44.22:44.28CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java- -(2ê
+5MaximumMeeting.main(String[])?meetingList@36.22:36.33CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java- -(2ê
+5MaximumMeeting.main(String[])?meetingList@36.22:36.33CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java.! .(,2Ü
++MaximumMeeting.main(String[])?i@48.17:48.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java0 0(2ê
+5MaximumMeeting.main(String[])?meetingList@36.22:36.33CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java0 0((2Ü
++MaximumMeeting.main(String[])?i@48.17:48.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java02 0(32ê
+5MaximumMeeting.main(String[])?meetingList@36.22:36.33CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java1% 1(02Ü
++MaximumMeeting.main(String[])?i@48.17:48.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java15 1(62ì
+8MaximumMeeting.main(String[])?currentMeeting@49.20:49.34CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java2 2(2ì
+8MaximumMeeting.main(String[])?onGoingMeeting@46.16:46.30CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java2' 2(52ã
+0MaximumMeeting.main(String[])?result@44.22:44.28CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java3 3(2Ü
++MaximumMeeting.main(String[])?i@48.17:48.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java3 3(2ì
+8MaximumMeeting.main(String[])?onGoingMeeting@46.16:46.30CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java4 4(2ì
+8MaximumMeeting.main(String[])?currentMeeting@49.20:49.34CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java4! 4(/2ã
+0MaximumMeeting.main(String[])?result@44.22:44.28CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java8 8(!2Ç
+"MaximumMeeting.main(String[])!args	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java!% !()2ë
+/MaximumMeeting.main(String[])?Start@34.22:34.27DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java" "(2è
+-MaximumMeeting.main(String[])?End@35.22:35.25DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java# #(2ó
+5MaximumMeeting.main(String[])?meetingList@36.22:36.33DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java$ $(!2ç
++MaximumMeeting.main(String[])?i@38.17:38.18DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java& &(2í
+0MaximumMeeting.main(String[])?result@44.22:44.28DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java, ,(2ö
+8MaximumMeeting.main(String[])?onGoingMeeting@46.16:46.30DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java. .(2ç
++MaximumMeeting.main(String[])?i@48.17:48.18DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java0 0(2ö
+8MaximumMeeting.main(String[])?currentMeeting@49.20:49.34DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java1 1("2f
+voidRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java! !(ù
+/MaximumMeeting.main(String[])?Start@34.22:34.27VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java" "("
+typeList<Integer>"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark>List<Integer> <mark class="class-field">Start</mark> = List.of(1, 3, 0, 5, 8, 5)*Start2i
+java.util.ListTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java" "(2k
+IntegerTYPE_ARGUMENTQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java" "(2~
+#java.util.List.of(E, E, E, E, E, E)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java"# "(%ó
+-MaximumMeeting.main(String[])?End@35.22:35.25VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java# #("
+typeList<Integer>"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark>List<Integer> <mark class="class-field">End</mark> = List.of(2, 4, 6, 7, 9, 9)*End2i
+java.util.ListTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java# #(2k
+IntegerTYPE_ARGUMENTQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java# #(2~
+#java.util.List.of(E, E, E, E, E, E)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java#! #(#≤
+5MaximumMeeting.main(String[])?meetingList@36.22:36.33VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java$ $(!"
+typeList<Meeting>"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark>List<Meeting> <mark class="class-field">meetingList</mark> = new ArrayList<>()*meetingList2i
+java.util.ListTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java$ $(2z
+MaximumMeeting.MeetingTYPE_ARGUMENTQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java$ $(2z
+java.util.ArrayList.ArrayList()CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java$( $(3ä
++MaximumMeeting.main(String[])?i@38.17:38.18VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java& &("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java& &(ì
+0MaximumMeeting.main(String[])?result@44.22:44.28VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java, ,("
+typeList<Integer>"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>List<Integer> <mark class="class-field">result</mark> = new ArrayList<>()*result2i
+java.util.ListTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java, ,(2k
+IntegerTYPE_ARGUMENTQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java, ,(2z
+java.util.ArrayList.ArrayList()CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java,# ,(.”
+8MaximumMeeting.main(String[])?onGoingMeeting@46.16:46.30VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java. .("
+typeMeeting"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark>Meeting <mark class="class-field">onGoingMeeting</mark> = meetingList.get(0)*onGoingMeeting2q
+MaximumMeeting.MeetingTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java. .(2ê
+5MaximumMeeting.main(String[])?meetingList@36.22:36.33CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java.! .(,ä
++MaximumMeeting.main(String[])?i@48.17:48.18VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java0 0("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java0 0(‹
+8MaximumMeeting.main(String[])?currentMeeting@49.20:49.34VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java1 1(""
+typeMeeting"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark>Meeting <mark class="class-field">currentMeeting</mark> = meetingList.get(i)*currentMeeting2q
+MaximumMeeting.MeetingTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java1 1(2ê
+5MaximumMeeting.main(String[])?meetingList@36.22:36.33CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java1% 1(02Ü
++MaximumMeeting.main(String[])?i@48.17:48.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java15 1(6µ
+"MaximumMeeting.main(String[])!args	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java!% !()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2c
+String[]TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java! !($é
+MaximumMeeting.MeetingCLASSQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java ("
+packageMaximumMeeting"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier"> </mark><mark class="modifier">class </mark>Meeting"
+accesspackage_private*Meeting2è
+-MaximumMeeting.Meeting.Meeting(int, int, int)DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java
+ 
+(2É
+!MaximumMeeting.Meeting.toString()DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java (2à
+&MaximumMeeting.Meeting?start@7.12:7.17DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java (2Ü
+$MaximumMeeting.Meeting?end@8.12:8.15DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java (2ê
+.MaximumMeeting.Meeting?meetingNumber@9.12:9.25DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java	 	(¯
+-MaximumMeeting.Meeting.Meeting(int, int, int)CONSTRUCTORQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java
+ 
+("—
+declarationStringª<mark class="modifier"> </mark><mark class="method">Meeting</mark>(<mark class="modifier">int</mark> start<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> end<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> meetingNumber)*Meeting2é
+3MaximumMeeting.Meeting.Meeting(int, int, int)!startCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java (2å
+1MaximumMeeting.Meeting.Meeting(int, int, int)!endCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java (2ñ
+;MaximumMeeting.Meeting.Meeting(int, int, int)!meetingNumberCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java! (.2Å
+&MaximumMeeting.Meeting?start@7.12:7.17CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java (2
+$MaximumMeeting.Meeting?end@8.12:8.15CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java (2â
+.MaximumMeeting.Meeting?meetingNumber@9.12:9.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java (2ì
+3MaximumMeeting.Meeting.Meeting(int, int, int)!start	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java
+ 
+(2ë
+1MaximumMeeting.Meeting.Meeting(int, int, int)!end	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java
+  
+(#2õ
+;MaximumMeeting.Meeting.Meeting(int, int, int)!meetingNumber	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java
+* 
+(72x
+MaximumMeeting.MeetingRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java
+ 
+(◊
+3MaximumMeeting.Meeting.Meeting(int, int, int)!start	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java
+ 
+("
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> start*start2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java
+ 
+(—
+1MaximumMeeting.Meeting.Meeting(int, int, int)!end	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java
+  
+(#"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> end*end2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java
+ 
+(Ô
+;MaximumMeeting.Meeting.Meeting(int, int, int)!meetingNumber	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java
+* 
+(7"
+typeint"
+isFinalfalse"D
+declarationString/<mark class="modifier">int</mark> meetingNumber*meetingNumber2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java
+& 
+()Ï
+!MaximumMeeting.Meeting.toString()METHODQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java ("
+isFinalfalse"ñ
+declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2Å
+&MaximumMeeting.Meeting?start@7.12:7.17CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java ($2
+$MaximumMeeting.Meeting?end@8.12:8.15CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java ("2h
+StringRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java (∑
+&MaximumMeeting.Meeting?start@7.12:7.17VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java ("
+isFinalfalse"
+typeint"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">start</mark>"
+isStaticfalse"
+accesspackage_private*start2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java (±
+$MaximumMeeting.Meeting?end@8.12:8.15VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java ("
+isFinalfalse"
+typeint"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">end</mark>"
+isStaticfalse"
+accesspackage_private*end2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java (–
+.MaximumMeeting.Meeting?meetingNumber@9.12:9.25VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java	 	("
+isFinalfalse"
+typeint"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">meetingNumber</mark>"
+isStaticfalse"
+accesspackage_private*meetingNumber2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java	 	(Ë
+ MaximumMeeting.meetingComparatorCLASSQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java (*"
+packageMaximumMeeting"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"∑
+declarationString°<mark class="modifier">private </mark><mark class="modifier">class </mark>meetingComparator<mark class="modifier"><br>implements </mark>Comparator&lt;Meeting&gt;"
+accessprivate*meetingComparator2∫
+XMaximumMeeting.meetingComparator.compare(MaximumMeeting.Meeting, MaximumMeeting.Meeting)DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java (2q
+java.util.ComparatorEXTENDQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java6 (@2Å
+MaximumMeeting.MeetingEXTEND_TYPE_ARGUMENTQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.javaA (HÒ
+
+XMaximumMeeting.meetingComparator.compare(MaximumMeeting.Meeting, MaximumMeeting.Meeting)METHODQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java ("
+isFinalfalse"Ç
+declarationStringÏ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">compare</mark>(Meeting o1<mark class="modifier"><mark class="modifier">,</mark></mark> Meeting o2)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*compare2∂
+[MaximumMeeting.meetingComparator.compare(MaximumMeeting.Meeting, MaximumMeeting.Meeting)!o1CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java# (%2∂
+[MaximumMeeting.meetingComparator.compare(MaximumMeeting.Meeting, MaximumMeeting.Meeting)!o2CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java, (.2ª
+[MaximumMeeting.meetingComparator.compare(MaximumMeeting.Meeting, MaximumMeeting.Meeting)!o1	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java# (%2ª
+[MaximumMeeting.meetingComparator.compare(MaximumMeeting.Meeting, MaximumMeeting.Meeting)!o2	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java/ (12e
+intRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java (ˆ
+[MaximumMeeting.meetingComparator.compare(MaximumMeeting.Meeting, MaximumMeeting.Meeting)!o1	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java# (%"
+typeMeeting"
+isFinalfalse"
+declarationString
+Meeting o1*o12q
+MaximumMeeting.MeetingTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java ("ˆ
+[MaximumMeeting.meetingComparator.compare(MaximumMeeting.Meeting, MaximumMeeting.Meeting)!o2	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java/ (1"
+typeMeeting"
+isFinalfalse"
+declarationString
+Meeting o2*o22q
+MaximumMeeting.MeetingTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumMeeting.java' (.

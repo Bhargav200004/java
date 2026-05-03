@@ -1,0 +1,533 @@
+
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java«
+#SingleLinkedList.PalindromeLinkListCLASSk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java ("
+packageSingleLinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"p
+declarationString[<mark class="modifier">public </mark><mark class="modifier">class </mark>PalindromeLinkList"
+accesspublic*PalindromeLinkList2—
+USingleLinkedList.PalindromeLinkList.display(SingleLinkedList.PalindromeLinkList.Node)DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2®
+,SingleLinkedList.PalindromeLinkList.add(int)DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2“
+VSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2—
+USingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java+ +(2÷
+ZSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java3 3(2∏
+<SingleLinkedList.PalindromeLinkList.main(java.lang.String[])DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaI I(á
+USingleLinkedList.PalindromeLinkList.display(SingleLinkedList.PalindromeLinkList.Node)METHODk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java ("
+isFinalfalse"´
+declarationStringï<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">display</mark>(Node head)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2†
++java.io.PrintStream.print(java.lang.String)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2œ
+ZSingleLinkedList.PalindromeLinkList.display(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2œ
+ZSingleLinkedList.PalindromeLinkList.display(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (!2œ
+ZSingleLinkedList.PalindromeLinkList.display(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2œ
+ZSingleLinkedList.PalindromeLinkList.display(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2´
+6SingleLinkedList.PalindromeLinkList.Node?val@5.12:5.15CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java" (%2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2‘
+ZSingleLinkedList.PalindromeLinkList.display(SingleLinkedList.PalindromeLinkList.Node)!head	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (!2Ä
+voidRETURN_TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (∫
+ZSingleLinkedList.PalindromeLinkList.display(SingleLinkedList.PalindromeLinkList.Node)!head	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (!"
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (Ã
+,SingleLinkedList.PalindromeLinkList.add(int)METHODk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java ("
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">static </mark>Node <mark class="method">add</mark>(<mark class="modifier">int</mark> data)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeNode*add2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2¶
+1SingleLinkedList.PalindromeLinkList.add(int)!dataCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (!2≤
+=SingleLinkedList.PalindromeLinkList.add(int)?node@22.13:22.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2´
+1SingleLinkedList.PalindromeLinkList.add(int)!data	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2π
+=SingleLinkedList.PalindromeLinkList.add(int)?node@22.13:22.17DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2§
+(SingleLinkedList.PalindromeLinkList.NodeRETURN_TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (¿
+=SingleLinkedList.PalindromeLinkList.add(int)?node@22.13:22.17VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java ("
+typeNode"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>Node <mark class="class-field">node</mark> = new Node(data)*node2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2¶
+1SingleLinkedList.PalindromeLinkList.add(int)!dataCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (!á
+1SingleLinkedList.PalindromeLinkList.add(int)!data	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2x
+intTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (É%
+VSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)METHODk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java ("
+isFinalfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">static </mark>Node <mark class="method">copyList</mark>(Node head)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeNode*copyList2°
+,SingleLinkedList.PalindromeLinkList.add(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java" "(2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2›
+hSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)?dummy@30.13:30.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2–
+[SingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java! !(2–
+[SingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java" "(2‹
+gSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)?temp@31.13:31.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java# #(2Ÿ
+dSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)?a@34.17:34.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java# #(2‹
+gSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)?temp@31.13:31.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java$ $(2Ÿ
+dSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)?a@34.17:34.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java$ $(2–
+[SingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java% %(2–
+[SingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java% %(2›
+hSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)?dummy@30.13:30.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java' '(2´
+6SingleLinkedList.PalindromeLinkList.Node?val@5.12:5.15CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java" "(!2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java# #(2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java% %(2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java' '(2’
+[SingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)!head	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java ("2‰
+hSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)?dummy@30.13:30.18DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2„
+gSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)?temp@31.13:31.17DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2‡
+dSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)?a@34.17:34.18DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java" "(2§
+(SingleLinkedList.PalindromeLinkList.NodeRETURN_TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (¡
+hSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)?dummy@30.13:30.18VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java ("
+typeNode"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>Node <mark class="class-field">dummy</mark> = new Node(3)*dummy2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (Ó
+gSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)?temp@31.13:31.17VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java ("
+typeNode"
+isFinalfalse"f
+declarationStringQ<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = dummy*temp2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2›
+hSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)?dummy@30.13:30.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (≤
+dSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)?a@34.17:34.18VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java" "("
+typeNode"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>Node <mark class="class-field">a</mark> = add(head.val)*a2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java" "(2°
+,SingleLinkedList.PalindromeLinkList.add(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java" "(2–
+[SingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java" "(2´
+6SingleLinkedList.PalindromeLinkList.Node?val@5.12:5.15CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java" "(!ª
+[SingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)!head	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (""
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (˚
+USingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)METHODk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java+ +("
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">static </mark>Node <mark class="method">reverse</mark>(Node head)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeNode*reverse2 
+USingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java- -(2œ
+ZSingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java, ,(2œ
+ZSingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java, ,( 2œ
+ZSingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java,6 ,(:2œ
+ZSingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java- -(2œ
+ZSingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java. .(2œ
+ZSingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java. .(2œ
+ZSingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java/ /(2⁄
+eSingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)?rev@45.13:45.16CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java0 0(2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java,! ,(%2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java-  -($2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java. .(2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java. .(2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java/ /(2‘
+ZSingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)!head	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java+ +(!2·
+eSingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)?rev@45.13:45.16DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java- -(2§
+(SingleLinkedList.PalindromeLinkList.NodeRETURN_TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java+ +(Â
+eSingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)?rev@45.13:45.16VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java- -("
+typeNode"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Node <mark class="class-field">rev</mark> = reverse(head.next)*rev2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java- -(2 
+USingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java- -(2œ
+ZSingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java- -(2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java-  -($∫
+ZSingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)!head	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java+ +(!"
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java+ +(ï+
+ZSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)METHODk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java3 3("
+isFinalfalse"≥
+declarationStringù<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">isPalindrome</mark>(Node head)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*isPalindrome2À
+VSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java6 6(2 
+USingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java8 8(2‘
+_SingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java4 4(2‘
+_SingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java6 6(2›
+hSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?a@54.13:54.14CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java8 8(2‘
+_SingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java: :(2‘
+_SingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java: :( 2·
+lSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?temp1@52.13:52.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java> >(2·
+lSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?temp1@52.13:52.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java? ?(2·
+lSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?temp2@56.13:56.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java? ?("2·
+lSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?temp1@52.13:52.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaB B(2·
+lSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?temp1@52.13:52.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaB B(2·
+lSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?temp2@56.13:56.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaC C(2·
+lSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?temp2@56.13:56.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaC C(2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java:! :(%2´
+6SingleLinkedList.PalindromeLinkList.Node?val@5.12:5.15CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java? ?(2´
+6SingleLinkedList.PalindromeLinkList.Node?val@5.12:5.15CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java?# ?(&2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaB B(2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaC C(2Ÿ
+_SingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)!head	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java3% 3()2Ë
+lSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?temp1@52.13:52.18DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java4 4(2‰
+hSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?a@54.13:54.14DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java6 6(2Ë
+lSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?temp2@56.13:56.18DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java8 8(2É
+booleanRETURN_TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java3 3(Î
+lSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?temp1@52.13:52.18VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java4 4("
+typeNode"
+isFinalfalse"f
+declarationStringQ<mark class="modifier"> </mark>Node <mark class="class-field">temp1</mark> = head*temp12ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java4 4(2‘
+_SingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java4 4(∑
+hSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?a@54.13:54.14VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java6 6("
+typeNode"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>Node <mark class="class-field">a</mark> = copyList(head)*a2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java6 6(2À
+VSingleLinkedList.PalindromeLinkList.copyList(SingleLinkedList.PalindromeLinkList.Node)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java6 6(2‘
+_SingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)!headCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java6 6(«
+lSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?temp2@56.13:56.18VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java8 8("
+typeNode"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>Node <mark class="class-field">temp2</mark> = reverse(a)*temp22ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java8 8(2 
+USingleLinkedList.PalindromeLinkList.reverse(SingleLinkedList.PalindromeLinkList.Node)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java8 8(2›
+hSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)?a@54.13:54.14CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java8 8(ø
+_SingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)!head	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java3% 3()"
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java3  3($È1
+<SingleLinkedList.PalindromeLinkList.main(java.lang.String[])METHODk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaI I("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ô
+$java.io.PrintStream.println(boolean)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaZ Z(2œ
+ZSingleLinkedList.PalindromeLinkList.isPalindrome(SingleLinkedList.PalindromeLinkList.Node)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaZ Z('2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaJ J(2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaK K(2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaL L(2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaM M(2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaN N(2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaO O(2ø
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?a@74.13:74.14CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaQ Q(	2ø
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?b@75.13:75.14CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaQ Q(2ø
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?b@75.13:75.14CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaR R(	2ø
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?c@76.13:76.14CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaR R(2ø
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?c@76.13:76.14CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaS S(	2ø
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?d@77.13:77.14CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaS S(2ø
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?d@77.13:77.14CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaT T(	2ø
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?e@78.13:78.14CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaT T(2ø
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?e@78.13:78.14CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaU U(	2ø
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?f@79.13:79.14CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaU U(2ø
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?a@74.13:74.14CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaZ( Z()2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaQ
+ Q(2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaR
+ R(2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaS
+ S(2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaT
+ T(2¨
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaU
+ U(2ª
+ASingleLinkedList.PalindromeLinkList.main(java.lang.String[])!args	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaI% I()2∆
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?a@74.13:74.14DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaJ J(2∆
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?b@75.13:75.14DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaK K(2∆
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?c@76.13:76.14DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaL L(2∆
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?d@77.13:77.14DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaM M(2∆
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?e@78.13:78.14DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaN N(2∆
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?f@79.13:79.14DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaO O(2Ä
+voidRETURN_TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaI I(õ
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?a@74.13:74.14VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaJ J("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">a</mark> = new Node(1)*a2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaJ J(2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaJ J(õ
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?b@75.13:75.14VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaK K("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">b</mark> = new Node(2)*b2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaK K(2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaK K(õ
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?c@76.13:76.14VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaL L("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">c</mark> = new Node(3)*c2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaL L(2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaL L(õ
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?d@77.13:77.14VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaM M("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">d</mark> = new Node(3)*d2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaM M(2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaM M(õ
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?e@78.13:78.14VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaN N("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">e</mark> = new Node(2)*e2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaN N(2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaN N(õ
+JSingleLinkedList.PalindromeLinkList.main(java.lang.String[])?f@79.13:79.14VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaO O("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">f</mark> = new Node(1)*f2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaO O(2ß
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaO O(ì
+ASingleLinkedList.PalindromeLinkList.main(java.lang.String[])!args	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaI% I()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2á
+java.lang.String[]TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.javaI I($¶
+(SingleLinkedList.PalindromeLinkList.NodeCLASSk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (".
+package#SingleLinkedList.PalindromeLinkList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2Æ
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2≤
+6SingleLinkedList.PalindromeLinkList.Node?val@5.12:5.15DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2≥
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (Í
+2SingleLinkedList.PalindromeLinkList.Node.Node(int)CONSTRUCTORk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java ("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2¨
+7SingleLinkedList.PalindromeLinkList.Node.Node(int)!dataCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java	 	(2´
+6SingleLinkedList.PalindromeLinkList.Node?val@5.12:5.15CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java	 	(2±
+7SingleLinkedList.PalindromeLinkList.Node.Node(int)!data	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (2§
+(SingleLinkedList.PalindromeLinkList.NodeRETURN_TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (ç
+7SingleLinkedList.PalindromeLinkList.Node.Node(int)!data	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2x
+intTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (˜
+6SingleLinkedList.PalindromeLinkList.Node?val@5.12:5.15VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java ("
+isFinalfalse"
+typeint"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">val</mark>"
+isStaticfalse"
+accesspackage_private*val2x
+intTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (Ñ
+7SingleLinkedList.PalindromeLinkList.Node?next@6.13:6.17VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">next</mark>"
+isStaticfalse"
+accesspackage_private*next2ù
+(SingleLinkedList.PalindromeLinkList.NodeTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\PalindromeLinkList.java (

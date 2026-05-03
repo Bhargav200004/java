@@ -1,0 +1,194 @@
+
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java®
+Problem1CLASSL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java ("
+packageProblem1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>Problem1"
+accesspublic*Problem12{
+Problem1.Toggle(StringBuilder)DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2t
+Problem1.main(String[])DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java$ $(ç#
+Problem1.Toggle(StringBuilder)METHODL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">Toggle</mark>(StringBuilder str)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*Toggle2Ä
+*Problem1.Toggle(StringBuilder)?i@7.17:7.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2x
+"Problem1.Toggle(StringBuilder)!strCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2Ä
+*Problem1.Toggle(StringBuilder)?i@7.17:7.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java$ (%2x
+"Problem1.Toggle(StringBuilder)!strCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2Ä
+*Problem1.Toggle(StringBuilder)?i@7.17:7.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java ( 2É
+-Problem1.Toggle(StringBuilder)?ch@11.17:11.19CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2É
+-Problem1.Toggle(StringBuilder)?ch@11.17:11.19CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2É
+-Problem1.Toggle(StringBuilder)?ch@11.17:11.19CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2É
+-Problem1.Toggle(StringBuilder)?ch@11.17:11.19CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2Ö
+/Problem1.Toggle(StringBuilder)?asci@17.16:17.20CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2É
+-Problem1.Toggle(StringBuilder)?flag@9.20:9.24CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2É
+-Problem1.Toggle(StringBuilder)?flag@9.20:9.24CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2Ö
+/Problem1.Toggle(StringBuilder)?asci@17.16:17.20CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2Ö
+/Problem1.Toggle(StringBuilder)?asci@17.16:17.20CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java ("2x
+"Problem1.Toggle(StringBuilder)!strCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2Ä
+*Problem1.Toggle(StringBuilder)?i@7.17:7.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2É
+-Problem1.Toggle(StringBuilder)?dh@24.21:24.23CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java  ("2Ö
+/Problem1.Toggle(StringBuilder)?asci@17.16:17.20CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2Ö
+/Problem1.Toggle(StringBuilder)?asci@17.16:17.20CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (#2x
+"Problem1.Toggle(StringBuilder)!strCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2Ä
+*Problem1.Toggle(StringBuilder)?i@7.17:7.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2É
+-Problem1.Toggle(StringBuilder)?dh@30.21:30.23CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java  ("2x
+"Problem1.Toggle(StringBuilder)!strCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java" "(2}
+"Problem1.Toggle(StringBuilder)!str	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java% ((2á
+*Problem1.Toggle(StringBuilder)?i@7.17:7.18DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2ä
+-Problem1.Toggle(StringBuilder)?flag@9.20:9.24DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java	 	(2ä
+-Problem1.Toggle(StringBuilder)?ch@11.17:11.19DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2å
+/Problem1.Toggle(StringBuilder)?asci@17.16:17.20DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2ä
+-Problem1.Toggle(StringBuilder)?dh@24.21:24.23DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2ä
+-Problem1.Toggle(StringBuilder)?dh@30.21:30.23DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2a
+voidRETURN_TYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (ˇ
+*Problem1.Toggle(StringBuilder)?i@7.17:7.18VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2Y
+intTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (ò
+-Problem1.Toggle(StringBuilder)?flag@9.20:9.24VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java	 	("
+typeboolean"
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">flag</mark> = true*flag2]
+booleanTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java	 	(Ú
+-Problem1.Toggle(StringBuilder)?ch@11.17:11.19VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java ("
+typechar"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>char <mark class="class-field">ch</mark> = str.charAt(i)*ch2Z
+charTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2x
+"Problem1.Toggle(StringBuilder)!strCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2Ä
+*Problem1.Toggle(StringBuilder)?i@7.17:7.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java ( ∑
+/Problem1.Toggle(StringBuilder)?asci@17.16:17.20VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java ("
+typeint"
+isFinalfalse"•
+declarationStringè<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">asci</mark> = (<mark class="modifier">int</mark>) ch*asci2Y
+intTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2É
+-Problem1.Toggle(StringBuilder)?ch@11.17:11.19CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (˚
+-Problem1.Toggle(StringBuilder)?dh@24.21:24.23VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java ("
+typechar"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>char <mark class="class-field">dh</mark> = (char) asci*dh2Z
+charTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2Ö
+/Problem1.Toggle(StringBuilder)?asci@17.16:17.20CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java ("˚
+-Problem1.Toggle(StringBuilder)?dh@30.21:30.23VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java ("
+typechar"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>char <mark class="class-field">dh</mark> = (char) asci*dh2Z
+charTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (2Ö
+/Problem1.Toggle(StringBuilder)?asci@17.16:17.20CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java (#∏
+"Problem1.Toggle(StringBuilder)!str	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java% (("
+typeStringBuilder"
+isFinalfalse"&
+declarationStringStringBuilder str*str2c
+StringBuilderTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java ($ﬁ
+
+Problem1.main(String[])METHODL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java$ $("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2t
+Problem1.Toggle(StringBuilder)CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java, ,(2|
+&Problem1.main(String[])?sc@37.16:37.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java'- '(/2}
+'Problem1.main(String[])?str@39.22:39.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java) )(2}
+'Problem1.main(String[])?str@39.22:39.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java, ,(2w
+Problem1.main(String[])!args	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java$% $()2É
+&Problem1.main(String[])?sc@37.16:37.18DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java% %(2Ñ
+'Problem1.main(String[])?str@39.22:39.25DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java' '(2a
+voidRETURN_TYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java$ $(Ä
+&Problem1.main(String[])?sc@37.16:37.18VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java% %("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2]
+ScannerTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java% %(û
+'Problem1.main(String[])?str@39.22:39.25VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java' '("
+typeStringBuilder"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark>StringBuilder <mark class="class-field">str</mark> = new StringBuilder(sc.nextLine())*str2c
+StringBuilderTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java' '(2|
+&Problem1.main(String[])?sc@37.16:37.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java'- '(/•
+Problem1.main(String[])!args	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java$% $()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2^
+String[]TYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Problem1.java$ $($

@@ -1,0 +1,138 @@
+
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java„	
+studentsCLASSU
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java("
+packagestudents"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>students"
+accesspublic*students2}
+students.students()DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (2à
+students.students(String, int)DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (2Ö
+students.students(students)DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (2}
+students.check(int)DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (2É
+students?Roll_No@1.8:1.15DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (2Å
+students?Name@2.11:2.15DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (2á
+students?Attendence@3.12:3.22DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (◊
+students.students()CONSTRUCTORY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java ("Z
+declarationStringE<mark class="modifier"> </mark><mark class="method">students</mark>()*students2r
+studentsRETURN_TYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (Ï	
+students.students(String, int)CONSTRUCTORY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java ("≈
+declarationStringØ<mark class="modifier"> </mark><mark class="method">students</mark>(String s1<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> y)*students2z
+students?Name@2.11:2.15CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java	 	(2Ñ
+!students.students(String, int)!s1CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java	 	(2|
+students?Roll_No@1.8:1.15CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java
+ 
+(2É
+ students.students(String, int)!yCALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java
+ 
+(2â
+!students.students(String, int)!s1	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (2à
+ students.students(String, int)!y	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (2r
+studentsRETURN_TYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (∫
+!students.students(String, int)!s1	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java ("
+typeString"
+isFinalfalse"
+declarationString	String s1*s12i
+StringTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (Ã
+ students.students(String, int)!y	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> y*y2f
+intTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (ı
+students.students(students)CONSTRUCTORY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java ("e
+declarationStringP<mark class="modifier"> </mark><mark class="method">students</mark>(students s1)*students2z
+students?Name@2.11:2.15CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (2Å
+students.students(students)!s1CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (2|
+students?Roll_No@1.8:1.15CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (2Å
+students.students(students)!s1CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (2Ü
+students.students(students)!s1	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (2r
+studentsRETURN_TYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (Ω
+students.students(students)!s1	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java ("
+typestudents"
+isFinalfalse" 
+declarationStringstudents s1*s12k
+studentsTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (ˆ
+students.check(int)METHODY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java ("
+isFinalfalse"®
+declarationStringí<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">check</mark>(<mark class="modifier">int</mark> speed)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*check2|
+students.check(int)!speedCALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java@ (E2Å
+students.check(int)!speed	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (2n
+voidRETURN_TYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (Õ
+students.check(int)!speed	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java ("
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> speed*speed2f
+intTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (æ
+students?Roll_No@1.8:1.15VARIABLEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java ("
+isFinalfalse"
+typeint"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">Roll_No</mark>"
+isStaticfalse"
+accesspackage_private*Roll_No2f
+intTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (°
+students?Name@2.11:2.15VARIABLEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java ("
+isFinalfalse"
+typeString"`
+declarationStringK<mark class="modifier"> </mark>String <mark class="class-field">Name</mark>"
+isStaticfalse"
+accesspackage_private*Name2i
+StringTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (
+∂
+students?Attendence@3.12:3.22VARIABLEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java ("
+isFinalfalse"
+typeBoolean"g
+declarationStringR<mark class="modifier"> </mark>Boolean <mark class="class-field">Attendence</mark>"
+isStaticfalse"
+accesspackage_private*
+Attendence2j
+BooleanTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\students.java (

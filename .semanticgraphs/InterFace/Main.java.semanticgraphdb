@@ -1,0 +1,56 @@
+
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java·
+InterFace.MainCLASS_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java ("
+package	InterFace"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Main"
+accesspublic*Main2ó
+'InterFace.Main.main(java.lang.String[])DECLARATION_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java (∑
+'InterFace.Main.main(java.lang.String[])METHOD_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Å
+InterFace.student.fun1()CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java (2â
+ InterFace.student.fun2(int, int)CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java	 	(2Ñ
+InterFace.student.student()CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java (2ù
+4InterFace.Main.main(java.lang.String[])?s1@7.16:7.18CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java (
+2ù
+4InterFace.Main.main(java.lang.String[])?s1@7.16:7.18CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java	 	(
+2ö
+,InterFace.Main.main(java.lang.String[])!args	PARAMETER_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java% ()2§
+4InterFace.Main.main(java.lang.String[])?s1@7.16:7.18DECLARATION_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java (2t
+voidRETURN_TYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java (º
+4InterFace.Main.main(java.lang.String[])?s1@7.16:7.18VARIABLE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java ("
+typestudent"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>student <mark class="class-field">s1</mark> = new student()*s12z
+InterFace.studentTYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java (2Ñ
+InterFace.student.student()CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java (Â
+,InterFace.Main.main(java.lang.String[])!args	PARAMETER_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2{
+java.lang.String[]TYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\Main.java ($

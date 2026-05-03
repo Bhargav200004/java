@@ -6,15 +6,18 @@
       <module fileurl="file://$PROJECT_DIR$/BST/BST.iml" filepath="$PROJECT_DIR$/BST/BST.iml" />
       <module fileurl="file://$PROJECT_DIR$/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/BackTracking/BackTracking.iml" />
       <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
       <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy.iml" filepath="$PROJECT_DIR$/Greedy/Greedy.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/HashSet/HashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputPractice/InputPractice.iml" filepath="$PROJECT_DIR$/InputPractice/InputPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction_to_OOPs/Introduction_to_OOPs.iml" filepath="$PROJECT_DIR$/Introduction_to_OOPs/Introduction_to_OOPs.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollectionFrameWork/JavaCollectionFrameWork.iml" filepath="$PROJECT_DIR$/JavaCollectionFrameWork/JavaCollectionFrameWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked list/Linked list.iml" filepath="$PROJECT_DIR$/Linked list/Linked list.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodandScope/MethodandScope.iml" filepath="$PROJECT_DIR$/MethodandScope/MethodandScope.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProrityQueue/ProrityQueue.iml" filepath="$PROJECT_DIR$/ProrityQueue/ProrityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuestionsDebugger/QuestionsDebugger.iml" filepath="$PROJECT_DIR$/QuestionsDebugger/QuestionsDebugger.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Searching_Algorithm/Searching_Algorithm.iml" filepath="$PROJECT_DIR$/Searching_Algorithm/Searching_Algorithm.iml" />
@@ -32,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/narryTree/narryTree.iml" filepath="$PROJECT_DIR$/narryTree/narryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/pakages/pakages.iml" filepath="$PROJECT_DIR$/pakages/pakages.iml" />
       <module fileurl="file://$PROJECT_DIR$/patern/patern.iml" filepath="$PROJECT_DIR$/patern/patern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/principal/principal.iml" filepath="$PROJECT_DIR$/principal/principal.iml" />
     </modules>
   </component>
 </project>

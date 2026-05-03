@@ -1,0 +1,46 @@
+
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\Main.javaë
+inheritance.MainCLASSa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\Main.java ("
+packageinheritance"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Main"
+accesspublic*Main2›
+)inheritance.Main.main(java.lang.String[])DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\Main.java (õ
+)inheritance.Main.main(java.lang.String[])METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\Main.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2„
+inheritance.child.child()CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\Main.java (2ž
+.inheritance.Main.main(java.lang.String[])!args	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\Main.java% ()2¨
+6inheritance.Main.main(java.lang.String[])?ch@4.14:4.16DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\Main.java (2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\Main.java (¼
+6inheritance.Main.main(java.lang.String[])?ch@4.14:4.16VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\Main.java ("
+typechild"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>child <mark class="class-field">ch</mark> = new child()*ch2|
+inheritance.childTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\Main.java (2„
+inheritance.child.child()CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\Main.java (ë
+.inheritance.Main.main(java.lang.String[])!args	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\Main.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2}
+java.lang.String[]TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\Main.java ($

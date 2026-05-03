@@ -1,0 +1,349 @@
+
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.javaª
+array1.problem8TwopointersCLASSl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java ( "
+packagearray1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier">public </mark><mark class="modifier">class </mark>problem8Twopointers"
+accesspublic*problem8Twopointers2©
+,array1.problem8Twopointers.printArray(int[])DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2≠
+0array1.problem8Twopointers.swap(int[], int, int)DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2Æ
+1array1.problem8Twopointers.sortZeroAndones(int[])DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2∞
+3array1.problem8Twopointers.main(java.lang.String[])DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java, ,(’
+,array1.problem8Twopointers.printArray(int[])METHODl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java ("
+isFinalfalse"Ã
+declarationString∂<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">printArray</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*
+printArray2£
+-java.io.PrintStream.println(java.lang.String)CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java
+ 
+(2ì
+java.io.PrintStream.println()CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2¶
+0array1.problem8Twopointers.printArray(int[])!arrCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2Æ
+8array1.problem8Twopointers.printArray(int[])?i@9.17:9.18CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java	 	(2Æ
+8array1.problem8Twopointers.printArray(int[])?n@8.12:8.13CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java	 	(2Æ
+8array1.problem8Twopointers.printArray(int[])?i@9.17:9.18CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java	 	( 2¶
+0array1.problem8Twopointers.printArray(int[])!arrCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java
+ 
+("2Æ
+8array1.problem8Twopointers.printArray(int[])?i@9.17:9.18CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java
+# 
+($2´
+0array1.problem8Twopointers.printArray(int[])!arr	PARAMETERl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java ($2µ
+8array1.problem8Twopointers.printArray(int[])?n@8.12:8.13DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2µ
+8array1.problem8Twopointers.printArray(int[])?i@9.17:9.18DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java	 	(2Å
+voidRETURN_TYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (Ä
+8array1.problem8Twopointers.printArray(int[])?n@8.12:8.13VARIABLEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java ("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = arr.length*n2y
+intTYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2¶
+0array1.problem8Twopointers.printArray(int[])!arrCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (Õ
+8array1.problem8Twopointers.printArray(int[])?i@9.17:9.18VARIABLEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java	 	("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2y
+intTYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java	 	(å
+0array1.problem8Twopointers.printArray(int[])!arr	PARAMETERl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java ($"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2{
+int[]TYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java ($å
+0array1.problem8Twopointers.swap(int[], int, int)METHODl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java ("
+isFinalfalse"à
+declarationStringÚ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">swap</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> i<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> j)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*swap2™
+4array1.problem8Twopointers.swap(int[], int, int)!arrCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2®
+2array1.problem8Twopointers.swap(int[], int, int)!iCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2™
+4array1.problem8Twopointers.swap(int[], int, int)!arrCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2®
+2array1.problem8Twopointers.swap(int[], int, int)!iCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2™
+4array1.problem8Twopointers.swap(int[], int, int)!arrCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2®
+2array1.problem8Twopointers.swap(int[], int, int)!jCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2™
+4array1.problem8Twopointers.swap(int[], int, int)!arrCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2®
+2array1.problem8Twopointers.swap(int[], int, int)!jCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2∑
+Aarray1.problem8Twopointers.swap(int[], int, int)?temp@18.12:18.16CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2Ø
+4array1.problem8Twopointers.swap(int[], int, int)!arr	PARAMETERl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2≠
+2array1.problem8Twopointers.swap(int[], int, int)!i	PARAMETERl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java$ (%2≠
+2array1.problem8Twopointers.swap(int[], int, int)!j	PARAMETERl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java+ (,2æ
+Aarray1.problem8Twopointers.swap(int[], int, int)?temp@18.12:18.16DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2Å
+voidRETURN_TYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (∫
+Aarray1.problem8Twopointers.swap(int[], int, int)?temp@18.12:18.16VARIABLEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java ("
+typeint"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">temp</mark> = arr[i]*temp2y
+intTYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2™
+4array1.problem8Twopointers.swap(int[], int, int)!arrCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2®
+2array1.problem8Twopointers.swap(int[], int, int)!iCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (ê
+4array1.problem8Twopointers.swap(int[], int, int)!arr	PARAMETERl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java ("
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2{
+int[]TYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (Ñ
+2array1.problem8Twopointers.swap(int[], int, int)!i	PARAMETERl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java$ (%"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> i*i2y
+intTYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java  (#Ñ
+2array1.problem8Twopointers.swap(int[], int, int)!j	PARAMETERl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java+ (,"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> j*j2y
+intTYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java' (*Ä#
+1array1.problem8Twopointers.sortZeroAndones(int[])METHODl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java ("
+isFinalfalse"—
+declarationStringª<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">sortZeroAndones</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*sortZeroAndones2´
+5array1.problem8Twopointers.sortZeroAndones(int[])!arrCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2µ
+?array1.problem8Twopointers.sortZeroAndones(int[])?i@27.17:27.18CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2´
+5array1.problem8Twopointers.sortZeroAndones(int[])!arrCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2µ
+?array1.problem8Twopointers.sortZeroAndones(int[])?i@27.17:27.18CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java( ()2´
+5array1.problem8Twopointers.sortZeroAndones(int[])!arrCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2µ
+?array1.problem8Twopointers.sortZeroAndones(int[])?i@27.17:27.18CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2∫
+Darray1.problem8Twopointers.sortZeroAndones(int[])?zeroes@25.12:25.18CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2µ
+?array1.problem8Twopointers.sortZeroAndones(int[])?i@34.17:34.18CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java" "(2µ
+?array1.problem8Twopointers.sortZeroAndones(int[])?n@24.12:24.13CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java" "(2µ
+?array1.problem8Twopointers.sortZeroAndones(int[])?i@34.17:34.18CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java" "( 2µ
+?array1.problem8Twopointers.sortZeroAndones(int[])?i@34.17:34.18CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java# #(2∫
+Darray1.problem8Twopointers.sortZeroAndones(int[])?zeroes@25.12:25.18CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java# #(2´
+5array1.problem8Twopointers.sortZeroAndones(int[])!arrCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java$ $(2µ
+?array1.problem8Twopointers.sortZeroAndones(int[])?i@34.17:34.18CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java$ $(2´
+5array1.problem8Twopointers.sortZeroAndones(int[])!arrCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java& &(2µ
+?array1.problem8Twopointers.sortZeroAndones(int[])?i@34.17:34.18CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java& &(2∞
+5array1.problem8Twopointers.sortZeroAndones(int[])!arr	PARAMETERl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java$ ()2º
+?array1.problem8Twopointers.sortZeroAndones(int[])?n@24.12:24.13DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2¡
+Darray1.problem8Twopointers.sortZeroAndones(int[])?zeroes@25.12:25.18DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2º
+?array1.problem8Twopointers.sortZeroAndones(int[])?i@27.17:27.18DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2º
+?array1.problem8Twopointers.sortZeroAndones(int[])?i@34.17:34.18DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java" "(2Å
+voidRETURN_TYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (å
+?array1.problem8Twopointers.sortZeroAndones(int[])?n@24.12:24.13VARIABLEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java ("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = arr.length*n2y
+intTYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (2´
+5array1.problem8Twopointers.sortZeroAndones(int[])!arrCALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (‰
+Darray1.problem8Twopointers.sortZeroAndones(int[])?zeroes@25.12:25.18VARIABLEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">zeroes</mark> = 0*zeroes2y
+intTYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (‘
+?array1.problem8Twopointers.sortZeroAndones(int[])?i@27.17:27.18VARIABLEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2y
+intTYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java (‘
+?array1.problem8Twopointers.sortZeroAndones(int[])?i@34.17:34.18VARIABLEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java" "("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2y
+intTYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java" "(ë
+5array1.problem8Twopointers.sortZeroAndones(int[])!arr	PARAMETERl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java$ ()"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2{
+int[]TYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java  ()ù*
+3array1.problem8Twopointers.main(java.lang.String[])METHODl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java, ,("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2£
+-java.io.PrintStream.println(java.lang.String)CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java. .(2ë
+java.util.Scanner.nextInt()CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java/ /(2£
+-java.io.PrintStream.println(java.lang.String)CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java3 3(2ë
+java.util.Scanner.nextInt()CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java5 5(#2£
+-java.io.PrintStream.println(java.lang.String)CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java7 7(2¢
+,array1.problem8Twopointers.printArray(int[])CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java8 8(2ß
+1array1.problem8Twopointers.sortZeroAndones(int[])CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java9 9(2£
+-java.io.PrintStream.println(java.lang.String)CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java: :(2¢
+,array1.problem8Twopointers.printArray(int[])CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java; ;(2§
+.java.util.Scanner.Scanner(java.io.InputStream)CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java- -($2∏
+Barray1.problem8Twopointers.main(java.lang.String[])?sc@45.20:45.22CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java/ /(2∑
+Aarray1.problem8Twopointers.main(java.lang.String[])?n@47.16:47.17CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java0  0(!2∑
+Aarray1.problem8Twopointers.main(java.lang.String[])?n@47.16:47.17CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java3* 3(+2∑
+Aarray1.problem8Twopointers.main(java.lang.String[])?i@52.21:52.22CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java4 4(2∑
+Aarray1.problem8Twopointers.main(java.lang.String[])?n@47.16:47.17CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java4  4(!2∑
+Aarray1.problem8Twopointers.main(java.lang.String[])?i@52.21:52.22CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java4# 4($2π
+Carray1.problem8Twopointers.main(java.lang.String[])?arr@48.18:48.21CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java5 5(2∑
+Aarray1.problem8Twopointers.main(java.lang.String[])?i@52.21:52.22CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java5 5(2∏
+Barray1.problem8Twopointers.main(java.lang.String[])?sc@45.20:45.22CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java5 5(2π
+Carray1.problem8Twopointers.main(java.lang.String[])?arr@48.18:48.21CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java8 8(2π
+Carray1.problem8Twopointers.main(java.lang.String[])?arr@48.18:48.21CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java9 9(2π
+Carray1.problem8Twopointers.main(java.lang.String[])?arr@48.18:48.21CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java; ;(2≥
+8array1.problem8Twopointers.main(java.lang.String[])!args	PARAMETERl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java,* ,(.2ø
+Barray1.problem8Twopointers.main(java.lang.String[])?sc@45.20:45.22DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java- -(2æ
+Aarray1.problem8Twopointers.main(java.lang.String[])?n@47.16:47.17DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java/ /(2¿
+Carray1.problem8Twopointers.main(java.lang.String[])?arr@48.18:48.21DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java0 0(2æ
+Aarray1.problem8Twopointers.main(java.lang.String[])?i@52.21:52.22DECLARATIONl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java4 4(2Å
+voidRETURN_TYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java, ,(é
+Barray1.problem8Twopointers.main(java.lang.String[])?sc@45.20:45.22VARIABLEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java- -("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2á
+java.util.ScannerTYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java- -(2§
+.java.util.Scanner.Scanner(java.io.InputStream)CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java- -($±
+Aarray1.problem8Twopointers.main(java.lang.String[])?n@47.16:47.17VARIABLEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java/ /("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = sc.nextInt()*n2y
+intTYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java/ /(2ë
+java.util.Scanner.nextInt()CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java/ /(2∏
+Barray1.problem8Twopointers.main(java.lang.String[])?sc@45.20:45.22CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java/ /(√
+Carray1.problem8Twopointers.main(java.lang.String[])?arr@48.18:48.21VARIABLEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java0 0("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n]*arr2{
+int[]TYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java0 0(2∑
+Aarray1.problem8Twopointers.main(java.lang.String[])?n@47.16:47.17CALLl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java0  0(!÷
+Aarray1.problem8Twopointers.main(java.lang.String[])?i@52.21:52.22VARIABLEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java4 4("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2y
+intTYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java4 4(å
+8array1.problem8Twopointers.main(java.lang.String[])!args	PARAMETERl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java,* ,(."
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2à
+java.lang.String[]TYPEl
+bC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem8Twopointers.java,! ,(*

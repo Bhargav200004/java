@@ -1,0 +1,85 @@
+
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java£
+InterFace.studentCLASSb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java ("
+package	InterFace"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"”
+declarationString<mark class="modifier">public </mark><mark class="modifier">class </mark>student<mark class="modifier"><br>implements </mark>I2"
+accesspublic*student2‹
+InterFace.student.fun1()DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java (2“
+ InterFace.student.fun2(int, int)DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java
+ 
+(2z
+InterFace.I2EXTENDb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java  ("²
+InterFace.student.fun1()METHODb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java ("
+isFinalfalse"®
+declarationString˜<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">fun1</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*fun12™
+-java.io.PrintStream.println(java.lang.String)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java (2ƒ
+InterFace.I1.fun1()OVERRIDEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java (2w
+voidRETURN_TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java (ò	
+ InterFace.student.fun2(int, int)METHODb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java
+ 
+("
+isFinalfalse"²
+declarationStringœ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">fun2</mark>(<mark class="modifier">int</mark> a<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> b)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*fun22™
+-java.io.PrintStream.println(java.lang.String)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java (2‹
+InterFace.I2.fun2(int, int)OVERRIDEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java
+ 
+(2“
+"InterFace.student.fun2(int, int)!a	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java
+ 
+(2“
+"InterFace.student.fun2(int, int)!b	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java
+  
+(!2w
+voidRETURN_TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java
+ 
+(à
+"InterFace.student.fun2(int, int)!a	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java
+ 
+("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> a*a2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java
+ 
+(à
+"InterFace.student.fun2(int, int)!b	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java
+  
+(!"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> b*b2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\student.java
+ 
+(

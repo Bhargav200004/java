@@ -1,0 +1,151 @@
+
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.javaõ
+K1AndK2SumBetweenCLASSZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java ("
+packageK1AndK2SumBetween"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"o
+declarationStringZ<mark class="modifier">public </mark><mark class="modifier">class </mark>K1AndK2SumBetween"
+accesspublic*K1AndK2SumBetween2‹
+ K1AndK2SumBetween.main(String[])DECLARATIONZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (Î+
+ K1AndK2SumBetween.main(String[])METHODZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2‡
+#java.util.Comparator.reverseOrder()CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.javaN (Z2ƒ
+java.util.ArrayList.ArrayList()CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java! (,2ª
+Fjava.util.PriorityQueue.PriorityQueue(java.util.Comparator<? super E>)CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java3 (B2“
+/K1AndK2SumBetween.main(String[])?list@8.22:8.26CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java	 	(2“
+/K1AndK2SumBetween.main(String[])?list@8.22:8.26CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java
+ 
+(2“
+/K1AndK2SumBetween.main(String[])?list@8.22:8.26CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2“
+/K1AndK2SumBetween.main(String[])?list@8.22:8.26CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2“
+/K1AndK2SumBetween.main(String[])?list@8.22:8.26CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2“
+/K1AndK2SumBetween.main(String[])?list@8.22:8.26CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2“
+/K1AndK2SumBetween.main(String[])?list@8.22:8.26CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2’
+.K1AndK2SumBetween.main(String[])?i@21.17:21.18CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2“
+/K1AndK2SumBetween.main(String[])?list@8.22:8.26CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (!2’
+.K1AndK2SumBetween.main(String[])?i@21.17:21.18CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java+ (,2ž
+:K1AndK2SumBetween.main(String[])?priorityQueue@19.31:19.44CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2“
+/K1AndK2SumBetween.main(String[])?list@8.22:8.26CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java ("2’
+.K1AndK2SumBetween.main(String[])?i@21.17:21.18CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java' ((2ž
+:K1AndK2SumBetween.main(String[])?priorityQueue@19.31:19.44CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2“
+/K1AndK2SumBetween.main(String[])?k2@17.21:17.23CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java' ()2ž
+:K1AndK2SumBetween.main(String[])?priorityQueue@19.31:19.44CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2ž
+:K1AndK2SumBetween.main(String[])?priorityQueue@19.31:19.44CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2ž
+:K1AndK2SumBetween.main(String[])?priorityQueue@19.31:19.44CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2“
+/K1AndK2SumBetween.main(String[])?k1@17.12:17.14CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java& ((2”
+0K1AndK2SumBetween.main(String[])?sum@30.12:30.15CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java   (2ž
+:K1AndK2SumBetween.main(String[])?priorityQueue@19.31:19.44CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java   (2”
+0K1AndK2SumBetween.main(String[])?sum@30.12:30.15CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java +  (.2”
+0K1AndK2SumBetween.main(String[])?sum@30.12:30.15CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java# #(2Ž
+%K1AndK2SumBetween.main(String[])!args	PARAMETERZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java% ()2š
+/K1AndK2SumBetween.main(String[])?list@8.22:8.26DECLARATIONZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2š
+/K1AndK2SumBetween.main(String[])?k1@17.12:17.14DECLARATIONZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2š
+/K1AndK2SumBetween.main(String[])?k2@17.21:17.23DECLARATIONZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2¥
+:K1AndK2SumBetween.main(String[])?priorityQueue@19.31:19.44DECLARATIONZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (,2™
+.K1AndK2SumBetween.main(String[])?i@21.17:21.18DECLARATIONZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2›
+0K1AndK2SumBetween.main(String[])?sum@30.12:30.15DECLARATIONZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2o
+voidRETURN_TYPEZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (³
+/K1AndK2SumBetween.main(String[])?list@8.22:8.26VARIABLEZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java ("
+typeList<Integer>"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark>List<Integer> <mark class="class-field">list</mark> = new ArrayList<>()*list2r
+java.util.ListTYPEZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2t
+IntegerTYPE_ARGUMENTZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2ƒ
+java.util.ArrayList.ArrayList()CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java! (,«
+/K1AndK2SumBetween.main(String[])?k1@17.12:17.14VARIABLEZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java ("
+typeint"
+isFinalfalse"…
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k1</mark> = 3, k2 = 6*k12g
+intTYPEZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java («
+/K1AndK2SumBetween.main(String[])?k2@17.21:17.23VARIABLEZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java ("
+typeint"
+isFinalfalse"…
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k2</mark> = 3, k2 = 6*k22g
+intTYPEZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (»
+:K1AndK2SumBetween.main(String[])?priorityQueue@19.31:19.44VARIABLEZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (,"
+typePriorityQueue<Integer>"
+isFinalfalse"«
+declarationString•<mark class="modifier"> </mark>PriorityQueue<Integer> <mark class="class-field">priorityQueue</mark> = new PriorityQueue<>(Comparator.reverseOrder())*priorityQueue2{
+java.util.PriorityQueueTYPEZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2t
+IntegerTYPE_ARGUMENTZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (2‡
+#java.util.Comparator.reverseOrder()CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.javaN (Z2ª
+Fjava.util.PriorityQueue.PriorityQueue(java.util.Comparator<? super E>)CALLZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java3 (BŸ
+.K1AndK2SumBetween.main(String[])?i@21.17:21.18VARIABLEZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2g
+intTYPEZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (¥
+0K1AndK2SumBetween.main(String[])?sum@30.12:30.15VARIABLEZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = 0*sum2g
+intTYPEZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java (Ê
+%K1AndK2SumBetween.main(String[])!args	PARAMETERZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2l
+String[]TYPEZ
+PC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\K1AndK2SumBetween.java ($

@@ -1,0 +1,141 @@
+
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java‡
+MaximumElementCLASSW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java ("
+packageMaximumElement"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier">public </mark><mark class="modifier">class </mark>MaximumElement"
+accesspublic*MaximumElement2Ö
+MaximumElement.main(String[])DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (ﬂ#
+MaximumElement.main(String[])METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ä
+java.util.ArrayList.ArrayList()CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java! (,2©
+Hjava.util.PriorityQueue.PriorityQueue(java.util.Collection<? extends E>)CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java3 (B2ç
+,MaximumElement.main(String[])?list@7.22:7.26CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2ç
+,MaximumElement.main(String[])?list@7.22:7.26CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2ç
+,MaximumElement.main(String[])?list@7.22:7.26CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2ç
+,MaximumElement.main(String[])?list@7.22:7.26CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2ç
+,MaximumElement.main(String[])?list@7.22:7.26CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2ç
+,MaximumElement.main(String[])?list@7.22:7.26CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.javaC (G2ò
+7MaximumElement.main(String[])?priorityQueue@17.31:17.44CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java ((2å
++MaximumElement.main(String[])?i@20.17:20.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2ä
+)MaximumElement.main(String[])?k@9.12:9.13CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2å
++MaximumElement.main(String[])?i@20.17:20.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java! ("2ò
+7MaximumElement.main(String[])?priorityQueue@17.31:17.44CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (,2ò
+7MaximumElement.main(String[])?priorityQueue@17.31:17.44CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java  (-2ò
+7MaximumElement.main(String[])?priorityQueue@17.31:17.44CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2ó
+6MaximumElement.main(String[])?firstElement@21.16:21.28CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (*2ò
+7MaximumElement.main(String[])?secondElement@22.16:22.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java- (:2ò
+7MaximumElement.main(String[])?priorityQueue@17.31:17.44CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2ò
+7MaximumElement.main(String[])?priorityQueue@17.31:17.44CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java* (72ò
+7MaximumElement.main(String[])?priorityQueue@17.31:17.44CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java ((2à
+"MaximumElement.main(String[])!args	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java% ()2î
+,MaximumElement.main(String[])?list@7.22:7.26DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2ë
+)MaximumElement.main(String[])?k@9.12:9.13DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java	 	(2ü
+7MaximumElement.main(String[])?priorityQueue@17.31:17.44DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (,2ì
++MaximumElement.main(String[])?i@20.17:20.18DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2û
+6MaximumElement.main(String[])?firstElement@21.16:21.28DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2ü
+7MaximumElement.main(String[])?secondElement@22.16:22.29DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2l
+voidRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (§
+,MaximumElement.main(String[])?list@7.22:7.26VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java ("
+typeList<Integer>"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark>List<Integer> <mark class="class-field">list</mark> = new ArrayList<>()*list2o
+java.util.ListTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2q
+IntegerTYPE_ARGUMENTW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2Ä
+java.util.ArrayList.ArrayList()CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java! (,î
+)MaximumElement.main(String[])?k@9.12:9.13VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java	 	("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = 3*k2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java	 	(ü
+7MaximumElement.main(String[])?priorityQueue@17.31:17.44VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (,"
+typePriorityQueue<Integer>"
+isFinalfalse"ñ
+declarationStringÄ<mark class="modifier"> </mark>PriorityQueue<Integer> <mark class="class-field">priorityQueue</mark> = new PriorityQueue<>(list)*priorityQueue2x
+java.util.PriorityQueueTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2q
+IntegerTYPE_ARGUMENTW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2©
+Hjava.util.PriorityQueue.PriorityQueue(java.util.Collection<? extends E>)CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java3 (B2ç
+,MaximumElement.main(String[])?list@7.22:7.26CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.javaC (Gñ
++MaximumElement.main(String[])?i@20.17:20.18VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (È
+6MaximumElement.main(String[])?firstElement@21.16:21.28VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java ("
+typeint"
+isFinalfalse"ù
+declarationStringá<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">firstElement</mark> = priorityQueue.remove()*firstElement2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2ò
+7MaximumElement.main(String[])?priorityQueue@17.31:17.44CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (,Ï
+7MaximumElement.main(String[])?secondElement@22.16:22.29VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java ("
+typeint"
+isFinalfalse"û
+declarationStringà<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">secondElement</mark> = priorityQueue.remove()*secondElement2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java (2ò
+7MaximumElement.main(String[])?priorityQueue@17.31:17.44CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java  (-¡
+"MaximumElement.main(String[])!args	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2i
+String[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\ProrityQueue\src\MaximumElement.java ($

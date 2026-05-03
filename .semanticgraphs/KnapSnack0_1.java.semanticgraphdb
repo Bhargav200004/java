@@ -1,0 +1,360 @@
+
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java£
+KnapSnack0_1CLASS[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ("
+packageKnapSnack0_1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"j
+declarationStringU<mark class="modifier">public </mark><mark class="modifier">class </mark>KnapSnack0_1"
+accesspublic*KnapSnack0_12¬
+VKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)DECLARATION[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ($2á
+KnapSnack0_1.main(String[])DECLARATION[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (˜6
+VKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)METHOD[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ($"
+isFinalfalse"‰
+declarationStringŒ<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">maximumProfit</mark>(<mark class="modifier">int</mark> idx<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> W<mark class="modifier"><mark class="modifier">,</mark></mark> List&lt;Integer&gt; profit<mark class="modifier"><mark class="modifier">,</mark></mark> List&lt;Integer&gt; weight)"
+isStatictrue"
+accessprivate"
+
+isAbstractfalse"
+typeint*maximumProfit2ª
+VKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (#2ø
+ZKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!idxCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2¬
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!weightCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2ø
+ZKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!idxCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2Ω
+XKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!WCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java$ (%2¬
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!profitCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2ø
+ZKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!idxCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java" (%2Ω
+XKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!WCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2¬
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!weightCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2ø
+ZKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!idxCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2Ã
+gKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)?pick@12.12:12.16CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2¬
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!profitCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2ø
+ZKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!idxCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (!2ø
+ZKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!idxCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java3 (62Ω
+XKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!WCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java< (=2¬
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!weightCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java@ (F2ø
+ZKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!idxCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.javaK (N2¬
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!profitCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.javaR (X2¬
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!weightCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java[ (a2ø
+ZKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!idxCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java$ ('2Ω
+XKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!WCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java. (/2¬
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!profitCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java2 (82¬
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!weightCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java; (A2Ã
+gKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)?pick@12.12:12.16CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2œ
+jKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)?notPick@16.12:16.19CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (&2ƒ
+ZKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!idx	PARAMETER[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java) (,2¬
+XKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!W	PARAMETER[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java3 (42«
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!profit	PARAMETER[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.javaE (K2«
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!weight	PARAMETER[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java\ (b2”
+gKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)?pick@12.12:12.16DECLARATION[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2÷
+jKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)?notPick@16.12:16.19DECLARATION[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2o
+intRETURN_TYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (‡
+gKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)?pick@12.12:12.16VARIABLE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">pick</mark> = 0*pick2h
+intTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (›
+jKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)?notPick@16.12:16.19VARIABLE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ("
+typeint"
+isFinalfalse"´
+declarationStringï<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">notPick</mark> = maximumProfit(idx - 1, W, profit, weight)*notPick2h
+intTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2ª
+VKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (#2ø
+ZKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!idxCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java$ ('2Ω
+XKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!WCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java. (/2¬
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!profitCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java2 (82¬
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!weightCALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java; (Aé
+ZKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!idx	PARAMETER[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java) (,"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> idx*idx2h
+intTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java% ((à
+XKnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!W	PARAMETER[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java3 (4"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> W*W2h
+intTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java/ (2è
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!profit	PARAMETER[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.javaE (K"
+typeList<Integer>"
+isFinalfalse")
+declarationStringList<Integer> profit*profit2s
+java.util.ListTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java7 (;2u
+IntegerTYPE_ARGUMENT[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java< (Cè
+]KnapSnack0_1.maximumProfit(int, int, java.util.List<Integer>, java.util.List<Integer>)!weight	PARAMETER[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java\ (b"
+typeList<Integer>"
+isFinalfalse")
+declarationStringList<Integer> weight*weight2s
+java.util.ListTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.javaN (R2u
+IntegerTYPE_ARGUMENT[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.javaS (ZõB
+KnapSnack0_1.main(String[])METHOD[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2
+java.util.List.of(E, E, E)CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java$ (&2
+java.util.List.of(E, E, E)CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java$ (&2ì
+.KnapSnack0_1.main(String[])?profit@22.22:22.28CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2é
+)KnapSnack0_1.main(String[])?n@25.12:25.13CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2è
+*KnapSnack0_1.main(String[])?Wt@24.12:24.14CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java% ('2é
+)KnapSnack0_1.main(String[])?i@29.17:29.18CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2è
+*KnapSnack0_1.main(String[])?Wt@24.12:24.14CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ( 2é
+)KnapSnack0_1.main(String[])?i@29.17:29.18CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java# ($2ì
+.KnapSnack0_1.main(String[])?weight@23.22:23.28CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2é
+)KnapSnack0_1.main(String[])?i@29.17:29.18CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java" (#2è
+*KnapSnack0_1.main(String[])?dp@27.17:27.19CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2é
+)KnapSnack0_1.main(String[])?i@29.17:29.18CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2ì
+.KnapSnack0_1.main(String[])?profit@22.22:22.28CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ("2è
+*KnapSnack0_1.main(String[])?dp@27.17:27.19CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java! !(2é
+)KnapSnack0_1.main(String[])?i@29.17:29.18CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java! !(2ê
++KnapSnack0_1.main(String[])?idx@36.17:36.20CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java$ $(2é
+)KnapSnack0_1.main(String[])?n@25.12:25.13CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java$! $("2ê
++KnapSnack0_1.main(String[])?idx@36.17:36.20CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java$% $((2é
+)KnapSnack0_1.main(String[])?W@37.21:37.22CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java% %(2è
+*KnapSnack0_1.main(String[])?Wt@24.12:24.14CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java%" %($2é
+)KnapSnack0_1.main(String[])?W@37.21:37.22CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java%' %((2é
+)KnapSnack0_1.main(String[])?W@37.21:37.22CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java' '(2ì
+.KnapSnack0_1.main(String[])?weight@23.22:23.28CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java' '(2ê
++KnapSnack0_1.main(String[])?idx@36.17:36.20CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java'$ '('2ë
+,KnapSnack0_1.main(String[])?pick@38.20:38.24CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java( ((2ì
+.KnapSnack0_1.main(String[])?profit@22.22:22.28CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java( ((!2ê
++KnapSnack0_1.main(String[])?idx@36.17:36.20CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java(& (()2è
+*KnapSnack0_1.main(String[])?dp@27.17:27.19CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java(- ((/2ê
++KnapSnack0_1.main(String[])?idx@36.17:36.20CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java(0 ((32é
+)KnapSnack0_1.main(String[])?W@37.21:37.22CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java(9 ((:2ì
+.KnapSnack0_1.main(String[])?weight@23.22:23.28CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java(= ((C2ê
++KnapSnack0_1.main(String[])?idx@36.17:36.20CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java(H ((K2è
+*KnapSnack0_1.main(String[])?dp@27.17:27.19CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java* *( 2ê
++KnapSnack0_1.main(String[])?idx@36.17:36.20CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java*! *($2é
+)KnapSnack0_1.main(String[])?W@37.21:37.22CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java** *(+2è
+*KnapSnack0_1.main(String[])?dp@27.17:27.19CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java, ,(2ê
++KnapSnack0_1.main(String[])?idx@36.17:36.20CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java, ,(2é
+)KnapSnack0_1.main(String[])?W@37.21:37.22CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java, ,(2ë
+,KnapSnack0_1.main(String[])?pick@38.20:38.24CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java,' ,(+2î
+/KnapSnack0_1.main(String[])?notPick@42.20:42.27CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java,. ,(52è
+*KnapSnack0_1.main(String[])?dp@27.17:27.19CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java2 2(2é
+)KnapSnack0_1.main(String[])?n@25.12:25.13CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java2 2(2è
+*KnapSnack0_1.main(String[])?Wt@24.12:24.14CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java2% 2('2ä
+ KnapSnack0_1.main(String[])!args	PARAMETER[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java% ()2ö
+.KnapSnack0_1.main(String[])?profit@22.22:22.28DECLARATION[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2ö
+.KnapSnack0_1.main(String[])?weight@23.22:23.28DECLARATION[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2ñ
+*KnapSnack0_1.main(String[])?Wt@24.12:24.14DECLARATION[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2ï
+)KnapSnack0_1.main(String[])?n@25.12:25.13DECLARATION[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2ñ
+*KnapSnack0_1.main(String[])?dp@27.17:27.19DECLARATION[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2ï
+)KnapSnack0_1.main(String[])?i@29.17:29.18DECLARATION[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2ó
++KnapSnack0_1.main(String[])?idx@36.17:36.20DECLARATION[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java$ $(2ï
+)KnapSnack0_1.main(String[])?W@37.21:37.22DECLARATION[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java% %(2ò
+,KnapSnack0_1.main(String[])?pick@38.20:38.24DECLARATION[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java& &(2õ
+/KnapSnack0_1.main(String[])?notPick@42.20:42.27DECLARATION[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java* *(2p
+voidRETURN_TYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (≥
+.KnapSnack0_1.main(String[])?profit@22.22:22.28VARIABLE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ("
+typeList<Integer>"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark>List<Integer> <mark class="class-field">profit</mark> = List.of(1, 2, 3)*profit2s
+java.util.ListTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2u
+IntegerTYPE_ARGUMENT[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2
+java.util.List.of(E, E, E)CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java$ (&≥
+.KnapSnack0_1.main(String[])?weight@23.22:23.28VARIABLE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ("
+typeList<Integer>"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark>List<Integer> <mark class="class-field">weight</mark> = List.of(4, 5, 1)*weight2s
+java.util.ListTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2u
+IntegerTYPE_ARGUMENT[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2
+java.util.List.of(E, E, E)CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java$ (&ü
+*KnapSnack0_1.main(String[])?Wt@24.12:24.14VARIABLE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ("
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">Wt</mark> = 4*Wt2h
+intTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (ø
+)KnapSnack0_1.main(String[])?n@25.12:25.13VARIABLE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ("
+typeint"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = profit.size()*n2h
+intTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2ì
+.KnapSnack0_1.main(String[])?profit@22.22:22.28CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (ˇ
+*KnapSnack0_1.main(String[])?dp@27.17:27.19VARIABLE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ("
+typeint"
+isFinalfalse"µ
+declarationStringü<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">dp</mark> = new <mark class="modifier">int</mark>[n + 1][Wt + 1]*dp2l
+int[][]TYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2é
+)KnapSnack0_1.main(String[])?n@25.12:25.13CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (2è
+*KnapSnack0_1.main(String[])?Wt@24.12:24.14CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java% ('ú
+)KnapSnack0_1.main(String[])?i@29.17:29.18VARIABLE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2h
+intTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java (¢
++KnapSnack0_1.main(String[])?idx@36.17:36.20VARIABLE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java$ $("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">idx</mark> = 1*idx2h
+intTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java$ $(ú
+)KnapSnack0_1.main(String[])?W@37.21:37.22VARIABLE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java% %("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">W</mark> = 0*W2h
+intTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java% %(•
+,KnapSnack0_1.main(String[])?pick@38.20:38.24VARIABLE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java& &("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">pick</mark> = 0*pick2h
+intTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java& &(Ú
+/KnapSnack0_1.main(String[])?notPick@42.20:42.27VARIABLE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java* *("
+typeint"
+isFinalfalse"è
+declarationStringz<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">notPick</mark> = dp[idx - 1][W]*notPick2h
+intTYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java* *(2è
+*KnapSnack0_1.main(String[])?dp@27.17:27.19CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java* *( 2ê
++KnapSnack0_1.main(String[])?idx@36.17:36.20CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java*! *($2é
+)KnapSnack0_1.main(String[])?W@37.21:37.22CALL[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java** *(+«
+ KnapSnack0_1.main(String[])!args	PARAMETER[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2m
+String[]TYPE[
+QC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\KnapSnack0_1.java ($

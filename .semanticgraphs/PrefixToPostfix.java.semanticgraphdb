@@ -1,0 +1,162 @@
+
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.javaŸ
+PrefixToPostfixCLASSQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java ("
+packagePrefixToPostfix"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier">public </mark><mark class="modifier">class </mark>PrefixToPostfix"
+accesspublic*PrefixToPostfix2Ä
+PrefixToPostfix.main(String[])DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (û 
+PrefixToPostfix.main(String[])METHODQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2r
+java.util.Stack.Stack()CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java  ('2á
+,PrefixToPostfix.main(String[])?str@4.15:4.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java	 	(2Ö
+*PrefixToPostfix.main(String[])?i@9.17:9.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java	& 	('2Ö
+*PrefixToPostfix.main(String[])?i@9.17:9.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java	/ 	(02á
+,PrefixToPostfix.main(String[])?str@4.15:4.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java
+ 
+(2Ö
+*PrefixToPostfix.main(String[])?i@9.17:9.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java
+! 
+("2à
+-PrefixToPostfix.main(String[])?ch@10.17:10.19CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java ( 2ã
+0PrefixToPostfix.main(String[])?ascii@11.16:11.21CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2ã
+0PrefixToPostfix.main(String[])?ascii@11.16:11.21CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java ($2á
+,PrefixToPostfix.main(String[])?val@7.22:7.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2à
+-PrefixToPostfix.main(String[])?ch@10.17:10.19CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java ( 2á
+,PrefixToPostfix.main(String[])?val@7.22:7.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2á
+,PrefixToPostfix.main(String[])?val@7.22:7.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2á
+,PrefixToPostfix.main(String[])?val@7.22:7.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2à
+-PrefixToPostfix.main(String[])?v1@16.23:16.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2à
+-PrefixToPostfix.main(String[])?v2@17.23:17.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java ( 2à
+-PrefixToPostfix.main(String[])?ch@10.17:10.19CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java# (%2á
+,PrefixToPostfix.main(String[])?val@7.22:7.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2É
+#PrefixToPostfix.main(String[])!args	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java% ()2é
+,PrefixToPostfix.main(String[])?str@4.15:4.18DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2é
+,PrefixToPostfix.main(String[])?val@7.22:7.25DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2å
+*PrefixToPostfix.main(String[])?i@9.17:9.18DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java	 	(2è
+-PrefixToPostfix.main(String[])?ch@10.17:10.19DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java
+ 
+(2í
+0PrefixToPostfix.main(String[])?ascii@11.16:11.21DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2è
+-PrefixToPostfix.main(String[])?v1@16.23:16.25DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2è
+-PrefixToPostfix.main(String[])?v2@17.23:17.25DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2f
+voidRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (Ñ
+,PrefixToPostfix.main(String[])?str@4.15:4.18VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java ("
+typeString"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>String <mark class="class-field">str</mark> = "-9/*+5346"*str2a
+StringTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (˝
+,PrefixToPostfix.main(String[])?val@7.22:7.25VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java ("
+typeStack<String>"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Stack<String> <mark class="class-field">val</mark> = new Stack<>()*val2j
+java.util.StackTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2j
+StringTYPE_ARGUMENTQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2r
+java.util.Stack.Stack()CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java  ('£
+*PrefixToPostfix.main(String[])?i@9.17:9.18VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java	 	("
+typeint"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = str.length() - 1*i2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java	 	(2á
+,PrefixToPostfix.main(String[])?str@4.15:4.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java	 	(ë
+-PrefixToPostfix.main(String[])?ch@10.17:10.19VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java
+ 
+("
+typechar"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>char <mark class="class-field">ch</mark> = str.charAt(i)*ch2_
+charTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java
+ 
+(2á
+,PrefixToPostfix.main(String[])?str@4.15:4.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java
+ 
+(2Ö
+*PrefixToPostfix.main(String[])?i@9.17:9.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java
+! 
+("…
+0PrefixToPostfix.main(String[])?ascii@11.16:11.21VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java ("
+typeint"
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">ascii</mark> = (<mark class="modifier">int</mark>) ch*ascii2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2à
+-PrefixToPostfix.main(String[])?ch@10.17:10.19CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java ( ã
+-PrefixToPostfix.main(String[])?v1@16.23:16.25VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java ("
+typeString"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>String <mark class="class-field">v1</mark> = val.pop()*v12a
+StringTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2á
+,PrefixToPostfix.main(String[])?val@7.22:7.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (ã
+-PrefixToPostfix.main(String[])?v2@17.23:17.25VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java ("
+typeString"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>String <mark class="class-field">v2</mark> = val.pop()*v22a
+StringTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (2á
+,PrefixToPostfix.main(String[])?val@7.22:7.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java (∂
+#PrefixToPostfix.main(String[])!args	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2c
+String[]TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToPostfix.java ($

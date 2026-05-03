@@ -1,0 +1,180 @@
+
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java˙
+Binary_SearchCLASSY
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java("
+packageBinary_Search"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier">public </mark><mark class="modifier">class </mark>Binary_Search"
+accesspublic*Binary_Search2î
+&Binary_Search.binarySearch(int[], int)DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2ä
+Binary_Search.main(String[])DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (‘!
+&Binary_Search.binarySearch(int[], int)METHOD]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java ("
+isFinalfalse"∑
+declarationString°<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">binarySearch</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> target)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*binarySearch2ë
+*Binary_Search.binarySearch(int[], int)!arrCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2ô
+2Binary_Search.binarySearch(int[], int)?n@5.12:5.13CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2ù
+6Binary_Search.binarySearch(int[], int)?start@6.12:6.17CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2õ
+4Binary_Search.binarySearch(int[], int)?end@6.24:6.27CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2ù
+6Binary_Search.binarySearch(int[], int)?start@6.12:6.17CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java	 	(2õ
+4Binary_Search.binarySearch(int[], int)?end@6.24:6.27CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java	 	("2ù
+6Binary_Search.binarySearch(int[], int)?start@6.12:6.17CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java	# 	((2î
+-Binary_Search.binarySearch(int[], int)!targetCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java
+ 
+(2ë
+*Binary_Search.binarySearch(int[], int)!arrCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java
+ 
+(2õ
+4Binary_Search.binarySearch(int[], int)?mid@9.16:9.19CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java
+ 
+(!2î
+-Binary_Search.binarySearch(int[], int)!targetCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2ë
+*Binary_Search.binarySearch(int[], int)!arrCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (!2õ
+4Binary_Search.binarySearch(int[], int)?mid@9.16:9.19CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java" (%2ù
+6Binary_Search.binarySearch(int[], int)?start@6.12:6.17CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2õ
+4Binary_Search.binarySearch(int[], int)?mid@9.16:9.19CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2õ
+4Binary_Search.binarySearch(int[], int)?end@6.24:6.27CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2õ
+4Binary_Search.binarySearch(int[], int)?mid@9.16:9.19CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2ñ
+*Binary_Search.binarySearch(int[], int)!arr	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java' (*2ô
+-Binary_Search.binarySearch(int[], int)!target	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java1 (72†
+2Binary_Search.binarySearch(int[], int)?n@5.12:5.13DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2§
+6Binary_Search.binarySearch(int[], int)?start@6.12:6.17DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2¢
+4Binary_Search.binarySearch(int[], int)?end@6.24:6.27DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2¢
+4Binary_Search.binarySearch(int[], int)?mid@9.16:9.19DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java	 	(2u
+booleanRETURN_TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java («
+2Binary_Search.binarySearch(int[], int)?n@5.12:5.13VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java ("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = arr.length*n2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2ë
+*Binary_Search.binarySearch(int[], int)!arrCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (√
+6Binary_Search.binarySearch(int[], int)?start@6.12:6.17VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java ("
+typeint"
+isFinalfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">start</mark> = 0, end = n - 1*start2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (Ÿ
+4Binary_Search.binarySearch(int[], int)?end@6.24:6.27VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java ("
+typeint"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">end</mark> = 0, end = n - 1*end2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2ô
+2Binary_Search.binarySearch(int[], int)?n@5.12:5.13CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (ß
+4Binary_Search.binarySearch(int[], int)?mid@9.16:9.19VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java	 	("
+typeint"
+isFinalfalse"ó
+declarationStringÅ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">mid</mark> = start + (end - start) / 2*mid2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java	 	(2ù
+6Binary_Search.binarySearch(int[], int)?start@6.12:6.17CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java	 	(2õ
+4Binary_Search.binarySearch(int[], int)?end@6.24:6.27CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java	 	("2ù
+6Binary_Search.binarySearch(int[], int)?start@6.12:6.17CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java	# 	((Ë
+*Binary_Search.binarySearch(int[], int)!arr	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java' (*"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2l
+int[]TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java  (&Î
+-Binary_Search.binarySearch(int[], int)!target	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java1 (7"
+typeint"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark> target*target2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java- (0‰
+Binary_Search.main(String[])METHOD]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ç
+&Binary_Search.binarySearch(int[], int)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.javaD (P2ñ
+/Binary_Search.main(String[])?target@27.12:27.18CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2ñ
+/Binary_Search.main(String[])?target@27.12:27.18CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java< (B2ì
+,Binary_Search.main(String[])?arr@26.15:26.18CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.javaQ (T2ñ
+/Binary_Search.main(String[])?target@27.12:27.18CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.javaW (]2ñ
+/Binary_Search.main(String[])?target@27.12:27.18CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2ç
+!Binary_Search.main(String[])!args	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java% ()2ö
+,Binary_Search.main(String[])?arr@26.15:26.18DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2ù
+/Binary_Search.main(String[])?target@27.12:27.18DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (2r
+voidRETURN_TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (–
+,Binary_Search.main(String[])?arr@26.15:26.18VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java ("
+typeint"
+isFinalfalse"§
+declarationStringé<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = { 1, 4, 5, 8, 8, 58, 59, 585, 5890 }*arr2l
+int[]TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (±
+/Binary_Search.main(String[])?target@27.12:27.18VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">target</mark> = 0*target2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java (Ã
+!Binary_Search.main(String[])!args	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2o
+String[]TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\Binary_Search.java ($

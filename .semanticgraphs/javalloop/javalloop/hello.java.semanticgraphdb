@@ -1,0 +1,52 @@
+
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java…
+javalloop.helloCLASSQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java ("
+package	javalloop"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier">public </mark><mark class="modifier">class </mark>hello"
+accesspublic*hello2ä
+(javalloop.hello.main(java.lang.String[])DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java (ë
+(javalloop.hello.main(java.lang.String[])METHODQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2à
+-java.io.PrintStream.println(java.lang.String)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java (2ì
+8javalloop.hello.main(java.lang.String[])?count@5.12:5.17CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java (2ì
+8javalloop.hello.main(java.lang.String[])?count@5.12:5.17CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java' (,2ì
+8javalloop.hello.main(java.lang.String[])?count@5.12:5.17CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java (2ì
+8javalloop.hello.main(java.lang.String[])?count@5.12:5.17CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java (2ç
+-javalloop.hello.main(java.lang.String[])!args	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java% ()2ö
+8javalloop.hello.main(java.lang.String[])?count@5.12:5.17DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java (2f
+voidRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java (†
+8javalloop.hello.main(java.lang.String[])?count@5.12:5.17VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">count</mark> = 1*count2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java ( 
+-javalloop.hello.main(java.lang.String[])!args	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2m
+java.lang.String[]TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\hello.java ($

@@ -1,0 +1,271 @@
+
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java•
+SingleLinkedList.Problem3CLASSa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java ("
+packageSingleLinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>Problem3"
+accesspublic*Problem32ò
+&SingleLinkedList.Problem3.oddEven(int)DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java
+ 
+(2§
+2SingleLinkedList.Problem3.main(java.lang.String[])DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (Å
+&SingleLinkedList.Problem3.oddEven(int)METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java
+ 
+("
+isFinalfalse"À
+declarationStringµ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">oddEven</mark>(<mark class="modifier">int</mark> data)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*oddEven2ñ
++SingleLinkedList.Problem3.oddEven(int)!dataCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2õ
++SingleLinkedList.Problem3.oddEven(int)!data	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java
+ 
+(#2y
+booleanRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java
+ 
+(Ì
++SingleLinkedList.Problem3.oddEven(int)!data	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java
+ 
+(#"
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java
+ 
+(Ë[
+2SingleLinkedList.Problem3.main(java.lang.String[])METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2§
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2§
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2§
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2§
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2§
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2§
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2§
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2§
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2§
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2ò
+-java.io.PrintStream.println(java.lang.String)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2ù
+2SingleLinkedList.Implementation.linkList.display()CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2ë
+&SingleLinkedList.Problem3.oddEven(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java( ((2ò
+-java.io.PrintStream.println(java.lang.String)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java: :(2ñ
++java.io.PrintStream.print(java.lang.String)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java< <(2ò
+-java.io.PrintStream.println(java.lang.String)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java? ?(2ñ
++java.io.PrintStream.print(java.lang.String)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.javaA A(2û
+3SingleLinkedList.Implementation.linkList.linkList()CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java+ (B2ô
+.SingleLinkedList.Implementation.Node.Node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java!' !(:2ô
+.SingleLinkedList.Implementation.Node.Node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java"& "(92Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?list@15.32:15.36CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?list@15.32:15.36CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?list@15.32:15.36CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?list@15.32:15.36CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?list@15.32:15.36CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?list@15.32:15.36CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?list@15.32:15.36CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?list@15.32:15.36CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?list@15.32:15.36CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?list@15.32:15.36CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?even@33.28:33.32CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java#! #(%2≠
+BSingleLinkedList.Problem3.main(java.lang.String[])?odd@34.28:34.31CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java$! $($2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?list@15.32:15.36CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java%# %('2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?temp@37.28:37.32CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java' '(2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?temp@37.28:37.32CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java( ((2¨
+ASingleLinkedList.Problem3.main(java.lang.String[])?t1@35.28:35.30CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java) )(2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?temp@37.28:37.32CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java) )(2¨
+ASingleLinkedList.Problem3.main(java.lang.String[])?t1@35.28:35.30CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java* *(2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?temp@37.28:37.32CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java* *(2¨
+ASingleLinkedList.Problem3.main(java.lang.String[])?t2@36.28:36.30CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java- -(2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?temp@37.28:37.32CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java- -(2¨
+ASingleLinkedList.Problem3.main(java.lang.String[])?t2@36.28:36.30CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java. .(2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?temp@37.28:37.32CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java. .(2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?temp@37.28:37.32CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java0 0(2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?temp@37.28:37.32CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java0 0(2¨
+ASingleLinkedList.Problem3.main(java.lang.String[])?t1@35.28:35.30CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java3 3(
+2¨
+ASingleLinkedList.Problem3.main(java.lang.String[])?t2@36.28:36.30CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java4 4(
+2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?even@33.28:33.32CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java7  7($2≠
+BSingleLinkedList.Problem3.main(java.lang.String[])?odd@34.28:34.31CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java8  8(#2´
+@SingleLinkedList.Problem3.main(java.lang.String[])?e@55.28:55.29CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java; ;(2´
+@SingleLinkedList.Problem3.main(java.lang.String[])?e@55.28:55.29CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java<! <("2´
+@SingleLinkedList.Problem3.main(java.lang.String[])?e@55.28:55.29CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java= =(2´
+@SingleLinkedList.Problem3.main(java.lang.String[])?e@55.28:55.29CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java= =(2´
+@SingleLinkedList.Problem3.main(java.lang.String[])?o@56.28:56.29CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java@ @(2´
+@SingleLinkedList.Problem3.main(java.lang.String[])?o@56.28:56.29CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.javaA! A("2´
+@SingleLinkedList.Problem3.main(java.lang.String[])?o@56.28:56.29CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.javaB B(2´
+@SingleLinkedList.Problem3.main(java.lang.String[])?o@56.28:56.29CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.javaB B(2ß
+7SingleLinkedList.Problem3.main(java.lang.String[])!args	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java% ()2µ
+CSingleLinkedList.Problem3.main(java.lang.String[])?list@15.32:15.36DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java  ($2µ
+CSingleLinkedList.Problem3.main(java.lang.String[])?even@33.28:33.32DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java! !( 2¥
+BSingleLinkedList.Problem3.main(java.lang.String[])?odd@34.28:34.31DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java" "(2≥
+ASingleLinkedList.Problem3.main(java.lang.String[])?t1@35.28:35.30DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java# #(2≥
+ASingleLinkedList.Problem3.main(java.lang.String[])?t2@36.28:36.30DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java$ $(2µ
+CSingleLinkedList.Problem3.main(java.lang.String[])?temp@37.28:37.32DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java% %( 2≤
+@SingleLinkedList.Problem3.main(java.lang.String[])?e@55.28:55.29DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java7 7(2≤
+@SingleLinkedList.Problem3.main(java.lang.String[])?o@56.28:56.29DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java8 8(2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (∂
+CSingleLinkedList.Problem3.main(java.lang.String[])?list@15.32:15.36VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java  ($"
+typeImplementation.linkList"
+isFinalfalse"ë
+declarationString|<mark class="modifier"> </mark>Implementation.linkList <mark class="class-field">list</mark> = new Implementation.linkList()*list2ì
+(SingleLinkedList.Implementation.linkListTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java (2û
+3SingleLinkedList.Implementation.linkList.linkList()CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java+ (B£
+CSingleLinkedList.Problem3.main(java.lang.String[])?even@33.28:33.32VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java! !( "
+typeImplementation.Node"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark>Implementation.Node <mark class="class-field">even</mark> = new Implementation.Node(23)*even2è
+$SingleLinkedList.Implementation.NodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java! !(2ô
+.SingleLinkedList.Implementation.Node.Node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java!' !(:†
+BSingleLinkedList.Problem3.main(java.lang.String[])?odd@34.28:34.31VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java" "("
+typeImplementation.Node"
+isFinalfalse"ä
+declarationStringu<mark class="modifier"> </mark>Implementation.Node <mark class="class-field">odd</mark> = new Implementation.Node(10)*odd2è
+$SingleLinkedList.Implementation.NodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java" "(2ô
+.SingleLinkedList.Implementation.Node.Node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java"& "(9ö
+ASingleLinkedList.Problem3.main(java.lang.String[])?t1@35.28:35.30VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java# #("
+typeImplementation.Node"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Implementation.Node <mark class="class-field">t1</mark> = even*t12è
+$SingleLinkedList.Implementation.NodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java# #(2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?even@33.28:33.32CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java#! #(%ò
+ASingleLinkedList.Problem3.main(java.lang.String[])?t2@36.28:36.30VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java$ $("
+typeImplementation.Node"
+isFinalfalse"q
+declarationString\<mark class="modifier"> </mark>Implementation.Node <mark class="class-field">t2</mark> = odd*t22è
+$SingleLinkedList.Implementation.NodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java$ $(2≠
+BSingleLinkedList.Problem3.main(java.lang.String[])?odd@34.28:34.31CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java$! $($•
+CSingleLinkedList.Problem3.main(java.lang.String[])?temp@37.28:37.32VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java% %( "
+typeImplementation.Node"
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark>Implementation.Node <mark class="class-field">temp</mark> = list.head*temp2è
+$SingleLinkedList.Implementation.NodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java% %(2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?list@15.32:15.36CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java%# %('ú
+@SingleLinkedList.Problem3.main(java.lang.String[])?e@55.28:55.29VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java7 7("
+typeImplementation.Node"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Implementation.Node <mark class="class-field">e</mark> = even.next*e2è
+$SingleLinkedList.Implementation.NodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java7 7(2Æ
+CSingleLinkedList.Problem3.main(java.lang.String[])?even@33.28:33.32CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java7  7($ö
+@SingleLinkedList.Problem3.main(java.lang.String[])?o@56.28:56.29VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java8 8("
+typeImplementation.Node"
+isFinalfalse"u
+declarationString`<mark class="modifier"> </mark>Implementation.Node <mark class="class-field">o</mark> = odd.next*o2è
+$SingleLinkedList.Implementation.NodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java8 8(2≠
+BSingleLinkedList.Problem3.main(java.lang.String[])?odd@34.28:34.31CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java8  8(#Ù
+7SingleLinkedList.Problem3.main(java.lang.String[])!args	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2}
+java.lang.String[]TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Problem3.java ($

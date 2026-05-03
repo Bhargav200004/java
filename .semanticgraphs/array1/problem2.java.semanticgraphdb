@@ -1,0 +1,271 @@
+
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.javaá
+array1.problem2CLASSa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java ("
+packagearray1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>problem2"
+accesspublic*problem22ò
+&array1.problem2.tripletsum(int[], int)DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2ö
+(array1.problem2.main(java.lang.String[])DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (æ(
+&array1.problem2.tripletsum(int[], int)METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java ("
+isFinalfalse"±
+declarationStringõ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">tripletsum</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> target)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*
+tripletsum2ï
+*array1.problem2.tripletsum(int[], int)!arrCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2ù
+2array1.problem2.tripletsum(int[], int)?i@9.16:9.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java	 	(2ù
+2array1.problem2.tripletsum(int[], int)?n@7.12:7.13CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java	 	(2ù
+2array1.problem2.tripletsum(int[], int)?i@9.16:9.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java	 	(2ù
+2array1.problem2.tripletsum(int[], int)?i@9.16:9.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java
+ 
+(2ü
+4array1.problem2.tripletsum(int[], int)?j@10.20:10.21CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java
+ 
+(2ù
+2array1.problem2.tripletsum(int[], int)?n@7.12:7.13CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java
+ 
+(2ü
+4array1.problem2.tripletsum(int[], int)?j@10.20:10.21CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java
+ 
+(2ü
+4array1.problem2.tripletsum(int[], int)?j@10.20:10.21CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2ü
+4array1.problem2.tripletsum(int[], int)?k@11.24:11.25CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2ù
+2array1.problem2.tripletsum(int[], int)?n@7.12:7.13CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java  (!2ü
+4array1.problem2.tripletsum(int[], int)?k@11.24:11.25CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java" (#2ï
+*array1.problem2.tripletsum(int[], int)!arrCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2ù
+2array1.problem2.tripletsum(int[], int)?i@9.16:9.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2ï
+*array1.problem2.tripletsum(int[], int)!arrCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java! ($2ü
+4array1.problem2.tripletsum(int[], int)?j@10.20:10.21CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java% (&2ï
+*array1.problem2.tripletsum(int[], int)!arrCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java* (-2ü
+4array1.problem2.tripletsum(int[], int)?k@11.24:11.25CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java. (/2ò
+-array1.problem2.tripletsum(int[], int)!targetCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java3 (92ü
+4array1.problem2.tripletsum(int[], int)?ans@8.12:8.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2ü
+4array1.problem2.tripletsum(int[], int)?ans@8.12:8.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2ö
+*array1.problem2.tripletsum(int[], int)!arr	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java  (#2ù
+-array1.problem2.tripletsum(int[], int)!target	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java) (/2§
+2array1.problem2.tripletsum(int[], int)?n@7.12:7.13DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2¶
+4array1.problem2.tripletsum(int[], int)?ans@8.12:8.15DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2§
+2array1.problem2.tripletsum(int[], int)?i@9.16:9.17DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java	 	(2¶
+4array1.problem2.tripletsum(int[], int)?j@10.20:10.21DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java
+ 
+(2¶
+4array1.problem2.tripletsum(int[], int)?k@11.24:11.25DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2u
+intRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (”
+2array1.problem2.tripletsum(int[], int)?n@7.12:7.13VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java ("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = arr.length*n2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2ï
+*array1.problem2.tripletsum(int[], int)!arrCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (∑
+4array1.problem2.tripletsum(int[], int)?ans@8.12:8.15VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">ans</mark> = 0*ans2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (±
+2array1.problem2.tripletsum(int[], int)?i@9.16:9.17VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java	 	("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java	 	(ÿ
+4array1.problem2.tripletsum(int[], int)?j@10.20:10.21VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java
+ 
+("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = i + 1*j2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java
+ 
+(2ù
+2array1.problem2.tripletsum(int[], int)?i@9.16:9.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java
+ 
+(⁄
+4array1.problem2.tripletsum(int[], int)?k@11.24:11.25VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = j + 1*k2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2ü
+4array1.problem2.tripletsum(int[], int)?j@10.20:10.21CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (
+*array1.problem2.tripletsum(int[], int)!arr	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java  (#"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2p
+int[]TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (Û
+-array1.problem2.tripletsum(int[], int)!target	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java) (/"
+typeint"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark> target*target2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java% ((‚$
+(array1.problem2.main(java.lang.String[])METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ò
+-java.io.PrintStream.println(java.lang.String)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2Ü
+java.util.Scanner.nextInt()CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2ò
+-java.io.PrintStream.println(java.lang.String)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2Ü
+java.util.Scanner.nextInt()CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2ò
+-java.io.PrintStream.println(java.lang.String)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java   (2Ü
+java.util.Scanner.nextInt()CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java! !(2ã
+ java.io.PrintStream.println(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java" "(2ë
+&array1.problem2.tripletsum(int[], int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java" "(%2ô
+.java.util.Scanner.Scanner(java.io.InputStream)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2¢
+7array1.problem2.main(java.lang.String[])?sc@22.16:22.18CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2°
+6array1.problem2.main(java.lang.String[])?n@24.12:24.13CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2°
+6array1.problem2.main(java.lang.String[])?i@28.16:28.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2°
+6array1.problem2.main(java.lang.String[])?n@24.12:24.13CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2°
+6array1.problem2.main(java.lang.String[])?i@28.16:28.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2£
+8array1.problem2.main(java.lang.String[])?arr@25.15:25.18CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2°
+6array1.problem2.main(java.lang.String[])?i@28.16:28.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2¢
+7array1.problem2.main(java.lang.String[])?sc@22.16:22.18CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2¢
+7array1.problem2.main(java.lang.String[])?sc@22.16:22.18CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java! !(2£
+8array1.problem2.main(java.lang.String[])?arr@25.15:25.18CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java"& "()2¶
+;array1.problem2.main(java.lang.String[])?target@33.12:33.18CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java"* "(02ù
+-array1.problem2.main(java.lang.String[])!args	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java% ()2©
+7array1.problem2.main(java.lang.String[])?sc@22.16:22.18DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2®
+6array1.problem2.main(java.lang.String[])?n@24.12:24.13DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2™
+8array1.problem2.main(java.lang.String[])?arr@25.15:25.18DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2®
+6array1.problem2.main(java.lang.String[])?i@28.16:28.17DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2≠
+;array1.problem2.main(java.lang.String[])?target@33.12:33.18DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java! !(2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (·
+7array1.problem2.main(java.lang.String[])?sc@22.16:22.18VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2|
+java.util.ScannerTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2ô
+.java.util.Scanner.Scanner(java.io.InputStream)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (Ô
+6array1.problem2.main(java.lang.String[])?n@24.12:24.13VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = sc.nextInt()*n2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2Ü
+java.util.Scanner.nextInt()CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2¢
+7array1.problem2.main(java.lang.String[])?sc@22.16:22.18CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (å
+8array1.problem2.main(java.lang.String[])?arr@25.15:25.18VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java ("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n]*arr2p
+int[]TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (2°
+6array1.problem2.main(java.lang.String[])?n@24.12:24.13CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (µ
+6array1.problem2.main(java.lang.String[])?i@28.16:28.17VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java (˛
+;array1.problem2.main(java.lang.String[])?target@33.12:33.18VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java! !("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">target</mark> = sc.nextInt()*target2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java! !(2Ü
+java.util.Scanner.nextInt()CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java! !(2¢
+7array1.problem2.main(java.lang.String[])?sc@22.16:22.18CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java! !(Í
+-array1.problem2.main(java.lang.String[])!args	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2}
+java.lang.String[]TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem2.java ($

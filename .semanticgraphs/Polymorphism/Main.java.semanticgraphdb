@@ -1,0 +1,60 @@
+
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java
+Polymorphism.MainCLASSb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java ("
+packagePolymorphism"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Main"
+accesspublic*Main2ù
+*Polymorphism.Main.main(java.lang.String[])DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java (¯
+*Polymorphism.Main.main(java.lang.String[])METHODb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ó
++Polymorphism.A.check(int, java.lang.String)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java (2ó
++Polymorphism.A.check(java.lang.String, int)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java
+ 
+(2~
+Polymorphism.A.A()CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java (2§
+8Polymorphism.Main.main(java.lang.String[])?obj@4.10:4.13CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java (2§
+8Polymorphism.Main.main(java.lang.String[])?obj@4.10:4.13CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java
+ 
+(2†
+/Polymorphism.Main.main(java.lang.String[])!args	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java% ()2´
+8Polymorphism.Main.main(java.lang.String[])?obj@4.10:4.13DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java
+ (2w
+voidRETURN_TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java (¨
+8Polymorphism.Main.main(java.lang.String[])?obj@4.10:4.13VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java
+ ("	
+typeA"
+isFinalfalse"d
+declarationStringO<mark class="modifier"> </mark>A <mark class="class-field">obj</mark> = new A()*obj2z
+Polymorphism.ATYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java (	2~
+Polymorphism.A.A()CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java (Ó
+/Polymorphism.Main.main(java.lang.String[])!args	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2~
+java.lang.String[]TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\Main.java ($

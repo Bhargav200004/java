@@ -1,0 +1,275 @@
+
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.javaå
+NonOverlappingIntervalCLASSY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (#"!
+packageNonOverlappingInterval"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"t
+declarationString_<mark class="modifier">public </mark><mark class="modifier">class </mark>NonOverlappingInterval"
+accesspublic*NonOverlappingInterval2è
+%NonOverlappingInterval.main(String[])DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (¥-
+%NonOverlappingInterval.main(String[])METHODY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ç
+java.util.ArrayList.ArrayList()CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java* (52ï
+2NonOverlappingInterval.Interval.Interval(int, int)CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java! !(%2ï
+2NonOverlappingInterval.Interval.Interval(int, int)CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java" "(%2ï
+2NonOverlappingInterval.Interval.Interval(int, int)CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java# #(%2ï
+2NonOverlappingInterval.Interval.Interval(int, int)CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java$ $(%2°
+>NonOverlappingInterval.IntervalComparator.IntervalComparator()CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java& &(02°
+>NonOverlappingInterval.main(String[])?intervalList@31.23:31.35CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java! !(2°
+>NonOverlappingInterval.main(String[])?intervalList@31.23:31.35CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java" "(2°
+>NonOverlappingInterval.main(String[])?intervalList@31.23:31.35CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java# #(2°
+>NonOverlappingInterval.main(String[])?intervalList@31.23:31.35CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java$ $(2°
+>NonOverlappingInterval.main(String[])?intervalList@31.23:31.35CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java& &(2°
+>NonOverlappingInterval.main(String[])?intervalList@31.23:31.35CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java) )('2°
+>NonOverlappingInterval.main(String[])?intervalList@31.23:31.35CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java- -(*2ñ
+3NonOverlappingInterval.main(String[])?i@46.17:46.18CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java. .(2°
+>NonOverlappingInterval.main(String[])?intervalList@31.23:31.35CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java. .()2ñ
+3NonOverlappingInterval.main(String[])?i@46.17:46.18CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java.3 .(42°
+>NonOverlappingInterval.main(String[])?intervalList@31.23:31.35CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java/ /(+2ñ
+3NonOverlappingInterval.main(String[])?i@46.17:46.18CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java/0 /(12ú
+9NonOverlappingInterval.main(String[])?current@47.21:47.28CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java0 0(2§
+ANonOverlappingInterval.main(String[])?previousEndTime@45.12:45.27CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java0$ 0(32§
+ANonOverlappingInterval.main(String[])?previousEndTime@45.12:45.27CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java1 1(2ú
+9NonOverlappingInterval.main(String[])?current@47.21:47.28CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java1+ 1(22§
+ANonOverlappingInterval.main(String[])?previousEndTime@45.12:45.27CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java1= 1(L2õ
+8NonOverlappingInterval.main(String[])?result@43.12:43.18CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java2 2(2§
+ANonOverlappingInterval.main(String[])?previousEndTime@45.12:45.27CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java5 5(2ú
+9NonOverlappingInterval.main(String[])?current@47.21:47.28CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java5" 5()2õ
+8NonOverlappingInterval.main(String[])?result@43.12:43.18CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java9 9(!2í
+*NonOverlappingInterval.main(String[])!args	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java% ()2®
+>NonOverlappingInterval.main(String[])?intervalList@31.23:31.35DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (#2¢
+8NonOverlappingInterval.main(String[])?result@43.12:43.18DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java+ +(2´
+ANonOverlappingInterval.main(String[])?previousEndTime@45.12:45.27DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java- -(2ù
+3NonOverlappingInterval.main(String[])?i@46.17:46.18DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java. .(2£
+9NonOverlappingInterval.main(String[])?current@47.21:47.28DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java/ /(2n
+voidRETURN_TYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (Í
+>NonOverlappingInterval.main(String[])?intervalList@31.23:31.35VARIABLEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (#"
+typeList<Interval>"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark>List<Interval> <mark class="class-field">intervalList</mark> = new ArrayList<>()*intervalList2q
+java.util.ListTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (2ã
+NonOverlappingInterval.IntervalTYPE_ARGUMENTY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (2Ç
+java.util.ArrayList.ArrayList()CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java* (5≤
+8NonOverlappingInterval.main(String[])?result@43.12:43.18VARIABLEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java+ +("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">result</mark> = 0*result2f
+intTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java+ +(å
+ANonOverlappingInterval.main(String[])?previousEndTime@45.12:45.27VARIABLEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java- -("
+typeint"
+isFinalfalse"•
+declarationStringè<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">previousEndTime</mark> = intervalList.get(0).endTime*previousEndTime2f
+intTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java- -(2°
+>NonOverlappingInterval.main(String[])?intervalList@31.23:31.35CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java- -(*¢
+3NonOverlappingInterval.main(String[])?i@46.17:46.18VARIABLEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java. .("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2f
+intTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java. .(å
+9NonOverlappingInterval.main(String[])?current@47.21:47.28VARIABLEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java/ /("
+typeInterval"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark>Interval <mark class="class-field">current</mark> = intervalList.get(i)*current2Ç
+NonOverlappingInterval.IntervalTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java/ /(2°
+>NonOverlappingInterval.main(String[])?intervalList@31.23:31.35CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java/ /(+2ñ
+3NonOverlappingInterval.main(String[])?i@46.17:46.18CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java/0 /(1Õ
+*NonOverlappingInterval.main(String[])!args	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2k
+String[]TYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java ($›
+NonOverlappingInterval.IntervalCLASSY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (!"!
+packageNonOverlappingInterval"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">private </mark><mark class="modifier">class </mark>Interval"
+accessprivate*Interval2ú
+2NonOverlappingInterval.Interval.Interval(int, int)DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java	 	(2î
+*NonOverlappingInterval.Interval.toString()DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (2ù
+3NonOverlappingInterval.Interval?startTime@7.12:7.21DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (2õ
+1NonOverlappingInterval.Interval?endTime@8.12:8.19DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (‡
+2NonOverlappingInterval.Interval.Interval(int, int)CONSTRUCTORY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java	 	("Ì
+declarationString◊<mark class="modifier"> </mark><mark class="method">Interval</mark>(<mark class="modifier">int</mark> startTime<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> endTime)*Interval2ü
+<NonOverlappingInterval.Interval.Interval(int, int)!startTimeCALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java
+ 
+(&2ù
+:NonOverlappingInterval.Interval.Interval(int, int)!endTimeCALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java ("2ñ
+3NonOverlappingInterval.Interval?startTime@7.12:7.21CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java
+ 
+(2î
+1NonOverlappingInterval.Interval?endTime@8.12:8.19CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (2§
+<NonOverlappingInterval.Interval.Interval(int, int)!startTime	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java	 	(2¢
+:NonOverlappingInterval.Interval.Interval(int, int)!endTime	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java	% 	(,2â
+NonOverlappingInterval.IntervalRETURN_TYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java	 	(¯
+<NonOverlappingInterval.Interval.Interval(int, int)!startTime	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java	 	("
+typeint"
+isFinalfalse"@
+declarationString+<mark class="modifier">int</mark> startTime*	startTime2f
+intTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java	 	(Ú
+:NonOverlappingInterval.Interval.Interval(int, int)!endTime	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java	% 	(,"
+typeint"
+isFinalfalse">
+declarationString)<mark class="modifier">int</mark> endTime*endTime2f
+intTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java	! 	($∞
+*NonOverlappingInterval.Interval.toString()METHODY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java ("
+isFinalfalse"ñ
+declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2ñ
+3NonOverlappingInterval.Interval?startTime@7.12:7.21CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java0 (92î
+1NonOverlappingInterval.Interval?endTime@8.12:8.19CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.javaK (R2p
+StringRETURN_TYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (›
+3NonOverlappingInterval.Interval?startTime@7.12:7.21VARIABLEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java ("
+isFinalfalse"
+typeint"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">startTime</mark>"
+isStaticfalse"
+accesspackage_private*	startTime2f
+intTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (÷
+1NonOverlappingInterval.Interval?endTime@8.12:8.19VARIABLEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java ("
+isFinalfalse"
+typeint"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">endTime</mark>"
+isStaticfalse"
+accesspackage_private*endTime2f
+intTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (¡
+)NonOverlappingInterval.IntervalComparatorCLASSY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (#"!
+packageNonOverlappingInterval"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"≤
+declarationStringú<mark class="modifier"> </mark><mark class="modifier">class </mark>IntervalComparator<mark class="modifier"><br>implements </mark>Comparator&lt;Interval&gt;"
+accesspackage_private*IntervalComparator2›
+sNonOverlappingInterval.IntervalComparator.compare(NonOverlappingInterval.Interval, NonOverlappingInterval.Interval)DECLARATIONY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (2y
+java.util.ComparatorEXTENDY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java/ (92í
+NonOverlappingInterval.IntervalEXTEND_TYPE_ARGUMENTY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java: (B™
+sNonOverlappingInterval.IntervalComparator.compare(NonOverlappingInterval.Interval, NonOverlappingInterval.Interval)METHODY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java ("
+isFinalfalse"Ñ
+declarationStringÓ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">compare</mark>(Interval o1<mark class="modifier"><mark class="modifier">,</mark></mark> Interval o2)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*compare2Ÿ
+vNonOverlappingInterval.IntervalComparator.compare(NonOverlappingInterval.Interval, NonOverlappingInterval.Interval)!o1CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java# (%2Ÿ
+vNonOverlappingInterval.IntervalComparator.compare(NonOverlappingInterval.Interval, NonOverlappingInterval.Interval)!o2CALLY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java2 (42ﬁ
+vNonOverlappingInterval.IntervalComparator.compare(NonOverlappingInterval.Interval, NonOverlappingInterval.Interval)!o1	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java$ (&2ﬁ
+vNonOverlappingInterval.IntervalComparator.compare(NonOverlappingInterval.Interval, NonOverlappingInterval.Interval)!o2	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java1 (32m
+intRETURN_TYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (≠
+vNonOverlappingInterval.IntervalComparator.compare(NonOverlappingInterval.Interval, NonOverlappingInterval.Interval)!o1	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java$ (&"
+typeInterval"
+isFinalfalse" 
+declarationStringInterval o1*o12Ç
+NonOverlappingInterval.IntervalTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java (#≠
+vNonOverlappingInterval.IntervalComparator.compare(NonOverlappingInterval.Interval, NonOverlappingInterval.Interval)!o2	PARAMETERY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java1 (3"
+typeInterval"
+isFinalfalse" 
+declarationStringInterval o2*o22Ç
+NonOverlappingInterval.IntervalTYPEY
+OC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\NonOverlappingInterval.java( (0

@@ -1,0 +1,322 @@
+
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaÉ
+LinkedListImplOfQueueCLASSW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ("" 
+packageLinkedListImplOfQueue"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"s
+declarationString^<mark class="modifier">public </mark><mark class="modifier">class </mark>LinkedListImplOfQueue"
+accesspublic*LinkedListImplOfQueue2å
+$LinkedListImplOfQueue.main(String[])DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaE E(ı
+$LinkedListImplOfQueue.main(String[])METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaE E("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ò
+7LinkedListImplOfQueue.LinkedListQueue.LinkedListQueue()CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaF$ F(32ó
+6LinkedListImplOfQueue.main(String[])?queue@70.24:70.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaH H(2ó
+6LinkedListImplOfQueue.main(String[])?queue@70.24:70.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaI I(2ó
+6LinkedListImplOfQueue.main(String[])?queue@70.24:70.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaJ J(2ó
+6LinkedListImplOfQueue.main(String[])?queue@70.24:70.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaK K(2ó
+6LinkedListImplOfQueue.main(String[])?queue@70.24:70.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaM M( 2ó
+6LinkedListImplOfQueue.main(String[])?queue@70.24:70.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaN N(2ó
+6LinkedListImplOfQueue.main(String[])?queue@70.24:70.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaO/ O(42ó
+6LinkedListImplOfQueue.main(String[])?queue@70.24:70.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaP P(2ó
+6LinkedListImplOfQueue.main(String[])?queue@70.24:70.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaQ Q( 2ó
+6LinkedListImplOfQueue.main(String[])?queue@70.24:70.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaR/ R(42ó
+6LinkedListImplOfQueue.main(String[])?queue@70.24:70.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaS S(2è
+)LinkedListImplOfQueue.main(String[])!args	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaE% E()2û
+6LinkedListImplOfQueue.main(String[])?queue@70.24:70.29DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaF F(2l
+voidRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaE E(ˆ
+6LinkedListImplOfQueue.main(String[])?queue@70.24:70.29VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaF F("
+typeLinkedListQueue"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark>LinkedListQueue <mark class="class-field">queue</mark> = new LinkedListQueue()*queue2Ü
+%LinkedListImplOfQueue.LinkedListQueueTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaF F(2ò
+7LinkedListImplOfQueue.LinkedListQueue.LinkedListQueue()CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaF$ F(3»
+)LinkedListImplOfQueue.main(String[])!args	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaE% E()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2i
+String[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.javaE E($ë
+LinkedListImplOfQueue.NodeCLASSW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (" 
+packageLinkedListImplOfQueue"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2å
+$LinkedListImplOfQueue.Node.Node(int)DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2ë
+)LinkedListImplOfQueue.Node?data@4.12:4.16DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2ë
+)LinkedListImplOfQueue.Node?next@5.13:5.17DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (¡
+$LinkedListImplOfQueue.Node.Node(int)CONSTRUCTORW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2ä
+)LinkedListImplOfQueue.Node.Node(int)!dataCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2ä
+)LinkedListImplOfQueue.Node?data@4.12:4.16CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2è
+)LinkedListImplOfQueue.Node.Node(int)!data	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2Ç
+LinkedListImplOfQueue.NodeRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (◊
+)LinkedListImplOfQueue.Node.Node(int)!data	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (ƒ
+)LinkedListImplOfQueue.Node?data@4.12:4.16VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (ø
+)LinkedListImplOfQueue.Node?next@5.13:5.17VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">next</mark>"
+isStaticfalse"
+accesspackage_private*next2{
+LinkedListImplOfQueue.NodeTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (ı
+%LinkedListImplOfQueue.LinkedListQueueCLASSW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ( " 
+packageLinkedListImplOfQueue"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier"> </mark><mark class="modifier">class </mark>LinkedListQueue"
+accesspackage_private*LinkedListQueue2ñ
+.LinkedListImplOfQueue.LinkedListQueue.add(int)DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2ñ
+.LinkedListImplOfQueue.LinkedListQueue.remove()DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2î
+,LinkedListImplOfQueue.LinkedListQueue.peek()DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java, ,(2ó
+/LinkedListImplOfQueue.LinkedListQueue.isEmpty()DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java2 2(2ó
+/LinkedListImplOfQueue.LinkedListQueue.getSize()DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java7 7(2ó
+/LinkedListImplOfQueue.LinkedListQueue.display()DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java; ;(2û
+6LinkedListImplOfQueue.LinkedListQueue?head@12.20:12.24DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2û
+6LinkedListImplOfQueue.LinkedListQueue?tail@13.20:13.24DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2û
+6LinkedListImplOfQueue.LinkedListQueue?size@14.19:14.23DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (ç
+.LinkedListImplOfQueue.LinkedListQueue.add(int)METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ("
+isFinalfalse"ü
+declarationStringâ<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">add</mark>(<mark class="modifier">int</mark> data)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*add2Ö
+$LinkedListImplOfQueue.Node.Node(int)CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ( 2î
+3LinkedListImplOfQueue.LinkedListQueue.add(int)!dataCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java! (%2ó
+6LinkedListImplOfQueue.LinkedListQueue?head@12.20:12.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2ó
+6LinkedListImplOfQueue.LinkedListQueue?tail@13.20:13.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java  ($2ó
+6LinkedListImplOfQueue.LinkedListQueue?head@12.20:12.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2ó
+6LinkedListImplOfQueue.LinkedListQueue?tail@13.20:13.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2†
+?LinkedListImplOfQueue.LinkedListQueue.add(int)?node@18.17:18.21CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ("2ó
+6LinkedListImplOfQueue.LinkedListQueue?tail@13.20:13.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2†
+?LinkedListImplOfQueue.LinkedListQueue.add(int)?node@18.17:18.21CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ( 2ó
+6LinkedListImplOfQueue.LinkedListQueue?tail@13.20:13.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2†
+?LinkedListImplOfQueue.LinkedListQueue.add(int)?node@18.17:18.21CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2ó
+6LinkedListImplOfQueue.LinkedListQueue?size@14.19:14.23CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2ô
+3LinkedListImplOfQueue.LinkedListQueue.add(int)!data	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2ß
+?LinkedListImplOfQueue.LinkedListQueue.add(int)?node@18.17:18.21DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2l
+voidRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (◊
+?LinkedListImplOfQueue.LinkedListQueue.add(int)?node@18.17:18.21VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ("
+typeNode"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>Node <mark class="class-field">node</mark> = new Node(data)*node2{
+LinkedListImplOfQueue.NodeTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (2Ö
+$LinkedListImplOfQueue.Node.Node(int)CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ( 2î
+3LinkedListImplOfQueue.LinkedListQueue.add(int)!dataCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java! (%·
+3LinkedListImplOfQueue.LinkedListQueue.add(int)!data	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (Ê	
+.LinkedListImplOfQueue.LinkedListQueue.remove()METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ("
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="method">remove</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*remove2ó
+6LinkedListImplOfQueue.LinkedListQueue?head@12.20:12.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java   (2ó
+6LinkedListImplOfQueue.LinkedListQueue?head@12.20:12.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java$ $(2ó
+6LinkedListImplOfQueue.LinkedListQueue?head@12.20:12.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java$ $(2ó
+6LinkedListImplOfQueue.LinkedListQueue?size@14.19:14.23CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java% %(2ó
+6LinkedListImplOfQueue.LinkedListQueue?head@12.20:12.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java& &(2k
+intRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (¯
+,LinkedListImplOfQueue.LinkedListQueue.peek()METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java, ,("
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="method">peek</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*peek2ó
+6LinkedListImplOfQueue.LinkedListQueue?head@12.20:12.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java- -(2k
+intRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java, ,(Ô
+/LinkedListImplOfQueue.LinkedListQueue.isEmpty()METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java2 2("
+isFinalfalse"a
+declarationStringL<mark class="modifier"> </mark>Boolean <mark class="method">isEmpty</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeBoolean*isEmpty2ó
+6LinkedListImplOfQueue.LinkedListQueue?tail@13.20:13.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java3 3(2o
+BooleanRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java2 2(Å
+/LinkedListImplOfQueue.LinkedListQueue.getSize()METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java7 7("
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="method">getSize</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*getSize2ó
+6LinkedListImplOfQueue.LinkedListQueue?size@14.19:14.23CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java8 8(2k
+intRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java7 7(ø
+/LinkedListImplOfQueue.LinkedListQueue.display()METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java; ;("
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">display</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2ó
+6LinkedListImplOfQueue.LinkedListQueue?head@12.20:12.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java< <(2°
+@LinkedListImplOfQueue.LinkedListQueue.display()?temp@60.17:60.21CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java= =(2°
+@LinkedListImplOfQueue.LinkedListQueue.display()?temp@60.17:60.21CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java>! >(%2°
+@LinkedListImplOfQueue.LinkedListQueue.display()?temp@60.17:60.21CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java? ?(2°
+@LinkedListImplOfQueue.LinkedListQueue.display()?temp@60.17:60.21CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java? ?(2®
+@LinkedListImplOfQueue.LinkedListQueue.display()?temp@60.17:60.21DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java< <(2l
+voidRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java; ;(…
+@LinkedListImplOfQueue.LinkedListQueue.display()?temp@60.17:60.21VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java< <("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = head*temp2{
+LinkedListImplOfQueue.NodeTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java< <(2ó
+6LinkedListImplOfQueue.LinkedListQueue?head@12.20:12.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java< <(ò
+6LinkedListImplOfQueue.LinkedListQueue?head@12.20:12.24VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ("
+isFinalfalse"
+typeNode"™
+declarationStringî<mark class="modifier"> </mark><mark class="modifier">static </mark>Node <mark class="class-field">head</mark> = <mark class="modifier">null</mark>;"
+isStatictrue"
+accesspackage_private*head2{
+LinkedListImplOfQueue.NodeTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (ò
+6LinkedListImplOfQueue.LinkedListQueue?tail@13.20:13.24VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ("
+isFinalfalse"
+typeNode"™
+declarationStringî<mark class="modifier"> </mark><mark class="modifier">static </mark>Node <mark class="class-field">tail</mark> = <mark class="modifier">null</mark>;"
+isStatictrue"
+accesspackage_private*tail2{
+LinkedListImplOfQueue.NodeTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (¸
+6LinkedListImplOfQueue.LinkedListQueue?size@14.19:14.23VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java ("
+isFinalfalse"
+typeint"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="class-field">size</mark> = 0;"
+isStatictrue"
+accesspackage_private*size2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\LinkedListImplOfQueue.java (

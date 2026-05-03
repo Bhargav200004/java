@@ -1,0 +1,117 @@
+
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.javaì
+insertAtIndexCLASSO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java ("
+packageinsertAtIndex"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier">public </mark><mark class="modifier">class </mark>insertAtIndex"
+accesspublic*insertAtIndex2Ÿ
+?insertAtIndex.displayStackRecursively(java.util.Stack<Integer>)DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java ('2|
+insertAtIndex.main(String[])DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (ÿ
+?insertAtIndex.displayStackRecursively(java.util.Stack<Integer>)METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java ('"
+isFinalfalse"É
+declarationString³<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">displayStackRecursively</mark>(Stack&lt;Integer&gt; st)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*displayStackRecursively2˜
+?insertAtIndex.displayStackRecursively(java.util.Stack<Integer>)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (2›
+BinsertAtIndex.displayStackRecursively(java.util.Stack<Integer>)!stCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (2›
+BinsertAtIndex.displayStackRecursively(java.util.Stack<Integer>)!stCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (2›
+BinsertAtIndex.displayStackRecursively(java.util.Stack<Integer>)!stCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java  ("2¦
+MinsertAtIndex.displayStackRecursively(java.util.Stack<Integer>)?top@6.12:6.15CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (2›
+BinsertAtIndex.displayStackRecursively(java.util.Stack<Integer>)!stCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java	 	(
+2¦
+MinsertAtIndex.displayStackRecursively(java.util.Stack<Integer>)?top@6.12:6.15CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java	 	(2 
+BinsertAtIndex.displayStackRecursively(java.util.Stack<Integer>)!st	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java7 (92­
+MinsertAtIndex.displayStackRecursively(java.util.Stack<Integer>)?top@6.12:6.15DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (2d
+voidRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (Ò
+MinsertAtIndex.displayStackRecursively(java.util.Stack<Integer>)?top@6.12:6.15VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java ("
+typeint"
+isFinalfalse"…
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">top</mark> = st.pop()*top2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (2›
+BinsertAtIndex.displayStackRecursively(java.util.Stack<Integer>)!stCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (Ë
+BinsertAtIndex.displayStackRecursively(java.util.Stack<Integer>)!st	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java7 (9"
+typeStack<Integer>"
+isFinalfalse"&
+declarationStringStack<Integer> st*st2h
+java.util.StackTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java( (-2i
+IntegerTYPE_ARGUMENTO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java. (5·
+insertAtIndex.main(String[])METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2˜
+?insertAtIndex.displayStackRecursively(java.util.Stack<Integer>)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (2p
+java.util.Stack.Stack()CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java  ('2„
++insertAtIndex.main(String[])?st@13.23:13.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (
+2„
++insertAtIndex.main(String[])?st@13.23:13.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (
+2„
++insertAtIndex.main(String[])?st@13.23:13.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (
+2„
++insertAtIndex.main(String[])?st@13.23:13.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (
+2„
++insertAtIndex.main(String[])?st@13.23:13.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (
+2„
++insertAtIndex.main(String[])?st@13.23:13.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java  ("2
+!insertAtIndex.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java% ()2‹
++insertAtIndex.main(String[])?st@13.23:13.25DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (2d
+voidRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (õ
++insertAtIndex.main(String[])?st@13.23:13.25VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java ("
+typeStack<Integer>"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Stack<Integer> <mark class="class-field">st</mark> = new Stack<>()*st2h
+java.util.StackTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (2i
+IntegerTYPE_ARGUMENTO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java (2p
+java.util.Stack.Stack()CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java  ('°
+!insertAtIndex.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2a
+String[]TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\insertAtIndex.java ($

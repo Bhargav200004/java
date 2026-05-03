@@ -1,0 +1,93 @@
+
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java–
+IntroductionCLASSR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java ("
+packageIntroduction"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"j
+declarationStringU<mark class="modifier">public </mark><mark class="modifier">class </mark>Introduction"
+accesspublic*Introduction2Ç
+Introduction.printIncrease(int)DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (2~
+Introduction.main(String[])DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (£
+
+Introduction.printIncrease(int)METHODR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java ("
+isFinalfalse"À
+declarationStringµ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">printIncrease</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*printIncrease2{
+Introduction.printIncrease(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (2}
+!Introduction.printIncrease(int)!nCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (2}
+!Introduction.printIncrease(int)!nCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java	 	(2}
+!Introduction.printIncrease(int)!nCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (2}
+!Introduction.printIncrease(int)!nCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (2Ç
+!Introduction.printIncrease(int)!n	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java" (#2g
+voidRETURN_TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (ø
+!Introduction.printIncrease(int)!n	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java" (#"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2_
+intTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (!ß
+
+Introduction.main(String[])METHODR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2{
+Introduction.printIncrease(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (2Ü
+*Introduction.main(String[])?sc@16.16:16.18CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (2Ö
+)Introduction.main(String[])?n@18.12:18.13CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (2Å
+ Introduction.main(String[])!args	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java% ()2ç
+*Introduction.main(String[])?sc@16.16:16.18DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (2å
+)Introduction.main(String[])?n@18.12:18.13DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (2g
+voidRETURN_TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (ö
+*Introduction.main(String[])?sc@16.16:16.18VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2m
+java.util.ScannerTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (ü
+)Introduction.main(String[])?n@18.12:18.13VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = sc.nextInt()*n2_
+intTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (2Ü
+*Introduction.main(String[])?sc@16.16:16.18CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java (µ
+ Introduction.main(String[])!args	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2d
+String[]TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Introduction.java ($

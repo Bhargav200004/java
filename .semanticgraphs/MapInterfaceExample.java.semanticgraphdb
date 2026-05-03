@@ -1,0 +1,66 @@
+
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.javaô
+MapInterfaceExampleCLASSg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java ( "
+packageMapInterfaceExample"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier">public </mark><mark class="modifier">class </mark>MapInterfaceExample"
+accesspublic*MapInterfaceExample2ö
+"MapInterfaceExample.main(String[])DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java (ù
+"MapInterfaceExample.main(String[])METHODg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2å
+java.util.HashMap.HashMap()CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java0 (92•
+4MapInterfaceExample.main(String[])?hashMap@4.34:4.41CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java (2•
+4MapInterfaceExample.main(String[])?hashMap@4.34:4.41CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java (2•
+4MapInterfaceExample.main(String[])?hashMap@4.34:4.41CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java (2•
+4MapInterfaceExample.main(String[])?hashMap@4.34:4.41CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java (2•
+4MapInterfaceExample.main(String[])?hashMap@4.34:4.41CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java	 	(2•
+4MapInterfaceExample.main(String[])?hashMap@4.34:4.41CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java
+ 
+(2•
+4MapInterfaceExample.main(String[])?hashMap@4.34:4.41CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java ("2ù
+'MapInterfaceExample.main(String[])!args	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java% ()2¨
+4MapInterfaceExample.main(String[])?hashMap@4.34:4.41DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java" ()2|
+voidRETURN_TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java (ã
+4MapInterfaceExample.main(String[])?hashMap@4.34:4.41VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java" ()" 
+typeHashMap<Integer, String>"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark>HashMap<Integer, String> <mark class="class-field">hashMap</mark> = new HashMap<>()*hashMap2Ç
+java.util.HashMapTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java (2Ä
+StringTYPE_ARGUMENTg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java (2Å
+IntegerTYPE_ARGUMENTg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java ( 2å
+java.util.HashMap.HashMap()CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java0 (9Ê
+'MapInterfaceExample.main(String[])!args	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2y
+String[]TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\MapInterfaceExample.java ($

@@ -1,0 +1,111 @@
+
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.javaÎ
+testsprintingCLASSO
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java("
+packagetestsprinting"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier"> </mark><mark class="modifier">class </mark>testsprinting"
+accesspackage_private*testsprinting2ñ
+2testsprinting.traverseTwoDArray(int[][], int, int)DECLARATIONS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java (!2Ä
+testsprinting.main(String[])DECLARATIONS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java (˝
+2testsprinting.traverseTwoDArray(int[][], int, int)METHODS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java (!"
+isFinalfalse"ò
+declarationStringÇ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">traverseTwoDArray</mark>(<mark class="modifier">int</mark>[][] nums<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> i<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> j)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*traverseTwoDArray2è
+2testsprinting.traverseTwoDArray(int[][], int, int)CALLS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java	 	(2ë
+4testsprinting.traverseTwoDArray(int[][], int, int)!iCALLS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java (2î
+7testsprinting.traverseTwoDArray(int[][], int, int)!numsCALLS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java (2ë
+4testsprinting.traverseTwoDArray(int[][], int, int)!iCALLS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java  (!2ë
+4testsprinting.traverseTwoDArray(int[][], int, int)!jCALLS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java# ($2î
+7testsprinting.traverseTwoDArray(int[][], int, int)!numsCALLS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java	 	(2ë
+4testsprinting.traverseTwoDArray(int[][], int, int)!iCALLS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java	! 	("2ë
+4testsprinting.traverseTwoDArray(int[][], int, int)!jCALLS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java	) 	(*2ô
+7testsprinting.traverseTwoDArray(int[][], int, int)!nums	PARAMETERS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java+ (/2ñ
+4testsprinting.traverseTwoDArray(int[][], int, int)!i	PARAMETERS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java6 (72ñ
+4testsprinting.traverseTwoDArray(int[][], int, int)!j	PARAMETERS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java> (?2h
+voidRETURN_TYPES
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java (È
+7testsprinting.traverseTwoDArray(int[][], int, int)!nums	PARAMETERS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java+ (/"
+typeint[][]"
+isFinalfalse"?
+declarationString*<mark class="modifier">int</mark>[][] nums*nums2d
+int[][]TYPES
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java" ((‘
+4testsprinting.traverseTwoDArray(int[][], int, int)!i	PARAMETERS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java6 (7"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> i*i2`
+intTYPES
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java2 (5‘
+4testsprinting.traverseTwoDArray(int[][], int, int)!j	PARAMETERS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java> (?"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> j*j2`
+intTYPES
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java: (=≈	
+testsprinting.main(String[])METHODS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2è
+2testsprinting.traverseTwoDArray(int[][], int, int)CALLS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java (2â
+,testsprinting.main(String[])?arr@13.17:13.20CALLS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java (2É
+!testsprinting.main(String[])!args	PARAMETERS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java% ()2ê
+,testsprinting.main(String[])?arr@13.17:13.20DECLARATIONS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java (2í
+.testsprinting.main(String[])?board@14.18:14.23DECLARATIONS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java (2h
+voidRETURN_TYPES
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java (Å
+,testsprinting.main(String[])?arr@13.17:13.20VARIABLES
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java ("
+typeint"
+isFinalfalse"Á
+declarationString—<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">arr</mark> = { { 1, 2, 3 }<mark class="modifier">,</mark> { 4, 5, 6 }<mark class="modifier">,</mark> { 7, 8, 9 } }*arr2d
+int[][]TYPES
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java (ì
+.testsprinting.main(String[])?board@14.18:14.23VARIABLES
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java ("
+typechar"
+isFinalfalse"t
+declarationString_<mark class="modifier"> </mark>char[][] <mark class="class-field">board</mark> = new char[3][3]*board2e
+char[][]TYPES
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java (∏
+!testsprinting.main(String[])!args	PARAMETERS
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2e
+String[]TYPES
+IC:/Users/BHARGAV/Desktop/Personal/coding/Recursion/src/testsprinting.java ($

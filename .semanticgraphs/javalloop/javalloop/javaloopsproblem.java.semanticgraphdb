@@ -1,0 +1,118 @@
+
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.javaã
+javalloop.javaloopsproblemCLASS\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java ("
+package	javalloop"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier">public </mark><mark class="modifier">class </mark>javaloopsproblem"
+accesspublic*javaloopsproblem2†
+3javalloop.javaloopsproblem.main(java.lang.String[])DECLARATION\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (û
+3javalloop.javaloopsproblem.main(java.lang.String[])METHOD\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java ("
+isFinalfalse"±
+declarationStringõ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] arg)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Å
+java.util.Scanner.nextInt()CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2Å
+java.util.Scanner.nextInt()CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (#2Ü
+ java.io.PrintStream.println(int)CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2î
+.java.util.Scanner.Scanner(java.io.InputStream)CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2•
+?javalloop.javaloopsproblem.main(java.lang.String[])?A@6.11:6.12CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java
+ (2•
+?javalloop.javaloopsproblem.main(java.lang.String[])?A@6.11:6.12CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2ß
+Ajavalloop.javaloopsproblem.main(java.lang.String[])?i@11.11:11.12CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2•
+?javalloop.javaloopsproblem.main(java.lang.String[])?b@7.24:7.25CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2ß
+Ajavalloop.javaloopsproblem.main(java.lang.String[])?i@11.11:11.12CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2¶
+@javalloop.javaloopsproblem.main(java.lang.String[])?ans@9.7:9.10CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2£
+=javalloop.javaloopsproblem.main(java.lang.String[])?a@7.7:7.8CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2¶
+@javalloop.javaloopsproblem.main(java.lang.String[])?ans@9.7:9.10CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2¢
+7javalloop.javaloopsproblem.main(java.lang.String[])!arg	PARAMETER\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java# ((2¨
+?javalloop.javaloopsproblem.main(java.lang.String[])?A@6.11:6.12DECLARATION\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2™
+=javalloop.javaloopsproblem.main(java.lang.String[])?a@7.7:7.8DECLARATION\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2¨
+?javalloop.javaloopsproblem.main(java.lang.String[])?b@7.24:7.25DECLARATION\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2≠
+@javalloop.javaloopsproblem.main(java.lang.String[])?ans@9.7:9.10DECLARATION\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java	 	(
+2Æ
+Ajavalloop.javaloopsproblem.main(java.lang.String[])?i@11.11:11.12DECLARATION\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2q
+voidRETURN_TYPE\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (ÿ
+?javalloop.javaloopsproblem.main(java.lang.String[])?A@6.11:6.12VARIABLE\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java ("
+typeScanner"
+isFinalfalse"w
+declarationStringb<mark class="modifier"> </mark>Scanner <mark class="class-field">A</mark> = new Scanner(System.in)*A2w
+java.util.ScannerTYPE\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (
+2î
+.java.util.Scanner.Scanner(java.io.InputStream)CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (ô
+=javalloop.javaloopsproblem.main(java.lang.String[])?a@7.7:7.8VARIABLE\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java ("
+typeint"
+isFinalfalse"∂
+declarationString†<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = A.nextInt()<mark class="modifier">,</mark> b = A.nextInt()*a2i
+intTYPE\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2Å
+java.util.Scanner.nextInt()CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2•
+?javalloop.javaloopsproblem.main(java.lang.String[])?A@6.11:6.12CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java
+ (õ
+?javalloop.javaloopsproblem.main(java.lang.String[])?b@7.24:7.25VARIABLE\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java ("
+typeint"
+isFinalfalse"∂
+declarationString†<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = A.nextInt()<mark class="modifier">,</mark> b = A.nextInt()*b2i
+intTYPE\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (2Å
+java.util.Scanner.nextInt()CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (#2•
+?javalloop.javaloopsproblem.main(java.lang.String[])?A@6.11:6.12CALL\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (π
+@javalloop.javaloopsproblem.main(java.lang.String[])?ans@9.7:9.10VARIABLE\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java	 	(
+"
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">ans</mark> = 1*ans2i
+intTYPE\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java	 	(∂
+Ajavalloop.javaloopsproblem.main(java.lang.String[])?i@11.11:11.12VARIABLE\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2i
+intTYPE\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java (
+Ë
+7javalloop.javaloopsproblem.main(java.lang.String[])!arg	PARAMETER\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java# (("
+typeString[]"
+isFinalfalse"!
+declarationStringString[] arg*arg2x
+java.lang.String[]TYPE\
+RC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\javaloopsproblem.java ((

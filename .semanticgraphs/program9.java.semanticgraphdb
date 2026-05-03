@@ -1,0 +1,121 @@
+
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java¬
+program9CLASSN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java ("
+packageprogram9"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>program9"
+accesspublic*program92{
+program9.Remove(String, int)DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java (2v
+program9.main(String[])DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java (ú
+program9.Remove(String, int)METHODN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java ("
+isFinalfalse"ô
+declarationStringÞ<mark class="modifier"> </mark><mark class="modifier">static </mark>String <mark class="method">Remove</mark>(String str<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> index)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeString*Remove2t
+program9.Remove(String, int)CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java	< 	(B2t
+program9.Remove(String, int)CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java
+ 
+(2z
+"program9.Remove(String, int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java (2x
+ program9.Remove(String, int)!strCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java (2x
+ program9.Remove(String, int)!strCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java	 	(2z
+"program9.Remove(String, int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java	 	(2x
+ program9.Remove(String, int)!strCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java	* 	(-2z
+"program9.Remove(String, int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java	5 	(:2x
+ program9.Remove(String, int)!strCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java	C 	(F2z
+"program9.Remove(String, int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java	G 	(L2x
+ program9.Remove(String, int)!strCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java
+ 
+(2z
+"program9.Remove(String, int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java
+ 
+($2}
+ program9.Remove(String, int)!str	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java  (#2
+"program9.Remove(String, int)!index	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java( (-2e
+StringRETURN_TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java (¥
+ program9.Remove(String, int)!str	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java  (#"
+typeString"
+isFinalfalse"
+declarationString
+String str*str2^
+StringTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java (À
+"program9.Remove(String, int)!index	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java( (-"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> index*index2[
+intTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java$ ('é	
+program9.main(String[])METHODN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2t
+program9.Remove(String, int)CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java (!2~
+&program9.main(String[])?sc@13.16:13.18CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java (2}
+%program9.main(String[])?s@15.15:15.16CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java" (#2y
+program9.main(String[])!args	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java% ()2…
+&program9.main(String[])?sc@13.16:13.18DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java (2„
+%program9.main(String[])?s@15.15:15.16DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java (2c
+voidRETURN_TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java (Ž
+&program9.main(String[])?sc@13.16:13.18VARIABLEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2i
+java.util.ScannerTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java (õ
+%program9.main(String[])?s@15.15:15.16VARIABLEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java ("
+typeString"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>String <mark class="class-field">s</mark> = sc.nextLine()*s2^
+StringTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java (2~
+&program9.main(String[])?sc@13.16:13.18CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java (©
+program9.main(String[])!args	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2`
+String[]TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\program9.java ($

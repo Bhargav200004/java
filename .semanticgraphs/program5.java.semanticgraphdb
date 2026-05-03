@@ -1,0 +1,129 @@
+
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java©
+program5CLASSK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java ("
+packageprogram5"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>program5"
+accesspublic*program52s
+program5.main(String[])DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (±
+program5.main(String[])METHODK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2y
+$program5.main(String[])?sc@4.13:4.15CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2y
+$program5.main(String[])?sc@4.13:4.15CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2z
+%program5.main(String[])?i@10.17:10.18CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java
+ 
+(2x
+#program5.main(String[])?r@6.12:6.13CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java
+ 
+(2z
+%program5.main(String[])?i@10.17:10.18CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java
+ 
+(2z
+%program5.main(String[])?j@11.21:11.22CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2z
+%program5.main(String[])?i@10.17:10.18CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2x
+#program5.main(String[])?r@6.12:6.13CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2z
+%program5.main(String[])?j@11.21:11.22CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java  (!2z
+%program5.main(String[])?j@14.21:14.22CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2x
+#program5.main(String[])?r@6.12:6.13CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2z
+%program5.main(String[])?i@10.17:10.18CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2z
+%program5.main(String[])?j@14.21:14.22CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java" (#2v
+program5.main(String[])!args	PARAMETERK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java% ()2Ä
+$program5.main(String[])?sc@4.13:4.15DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2
+#program5.main(String[])?r@6.12:6.13DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2
+#program5.main(String[])?c@8.12:8.13DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2Å
+%program5.main(String[])?i@10.17:10.18DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java
+ 
+(2Å
+%program5.main(String[])?j@11.21:11.22DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2Å
+%program5.main(String[])?j@14.21:14.22DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2`
+voidRETURN_TYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (Ü
+$program5.main(String[])?sc@4.13:4.15VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2f
+java.util.ScannerTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (˝
+#program5.main(String[])?r@6.12:6.13VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">r</mark> = sc.nextInt()*r2X
+intTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2y
+$program5.main(String[])?sc@4.13:4.15CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (˝
+#program5.main(String[])?c@8.12:8.13VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c</mark> = sc.nextInt()*c2X
+intTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (2y
+$program5.main(String[])?sc@4.13:4.15CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (¯
+%program5.main(String[])?i@10.17:10.18VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java
+ 
+("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2X
+intTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java
+ 
+(¯
+%program5.main(String[])?j@11.21:11.22VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2X
+intTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (¯
+%program5.main(String[])?j@14.21:14.22VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2X
+intTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java (£
+program5.main(String[])!args	PARAMETERK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2]
+String[]TYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\patern\src\program5.java ($

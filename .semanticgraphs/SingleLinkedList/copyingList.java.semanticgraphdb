@@ -1,0 +1,364 @@
+
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java∏
+SingleLinkedList.copyingListCLASSd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("
+packageSingleLinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"i
+declarationStringT<mark class="modifier">public </mark><mark class="modifier">class </mark>copyingList"
+accesspublic*copyingList2º
+GSingleLinkedList.copyingList.display(SingleLinkedList.copyingList.Node)DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ö
+%SingleLinkedList.copyingList.add(int)DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2Ω
+HSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2™
+5SingleLinkedList.copyingList.main(java.lang.String[])DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java% %(ﬂ
+GSingleLinkedList.copyingList.display(SingleLinkedList.copyingList.Node)METHODd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("
+isFinalfalse"´
+declarationStringï<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">display</mark>(Node head)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2ô
++java.io.PrintStream.print(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2∫
+LSingleLinkedList.copyingList.display(SingleLinkedList.copyingList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2∫
+LSingleLinkedList.copyingList.display(SingleLinkedList.copyingList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (!2∫
+LSingleLinkedList.copyingList.display(SingleLinkedList.copyingList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2∫
+LSingleLinkedList.copyingList.display(SingleLinkedList.copyingList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2û
+0SingleLinkedList.copyingList.Node?data@4.12:4.16CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java" (&2û
+0SingleLinkedList.copyingList.Node?next@5.13:5.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ø
+LSingleLinkedList.copyingList.display(SingleLinkedList.copyingList.Node)!head	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (!2y
+voidRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (ó
+LSingleLinkedList.copyingList.display(SingleLinkedList.copyingList.Node)!head	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (!"
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2è
+!SingleLinkedList.copyingList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (í
+%SingleLinkedList.copyingList.add(int)METHODd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("
+isFinalfalse"•
+declarationStringè<mark class="modifier"> </mark><mark class="modifier">static </mark>Node <mark class="method">add</mark>(<mark class="modifier">int</mark> val)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeNode*add2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ó
+)SingleLinkedList.copyingList.add(int)!valCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ú
+)SingleLinkedList.copyingList.add(int)!val	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ñ
+!SingleLinkedList.copyingList.NodeRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (Ô
+)SingleLinkedList.copyingList.add(int)!val	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> val*val2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (ã#
+HSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)METHODd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("
+isFinalfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">static </mark>Node <mark class="method">copyList</mark>(Node head)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeNode*copyList2ì
+%SingleLinkedList.copyingList.add(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2»
+ZSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)?dummy@25.13:25.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ª
+MSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ª
+MSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2«
+YSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)?temp@26.13:26.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ƒ
+VSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)?a@29.17:29.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2«
+YSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)?temp@26.13:26.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2«
+YSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)?temp@26.13:26.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ª
+MSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java   (2ª
+MSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java   (2»
+ZSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)?dummy@25.13:25.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java" "(2û
+0SingleLinkedList.copyingList.Node?data@4.12:4.16CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("2û
+0SingleLinkedList.copyingList.Node?next@5.13:5.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2û
+0SingleLinkedList.copyingList.Node?next@5.13:5.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2û
+0SingleLinkedList.copyingList.Node?next@5.13:5.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java   (2û
+0SingleLinkedList.copyingList.Node?next@5.13:5.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java" "(2¿
+MSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)!head	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (#2œ
+ZSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)?dummy@25.13:25.18DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2Œ
+YSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)?temp@26.13:26.17DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2À
+VSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)?a@29.17:29.18DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ñ
+!SingleLinkedList.copyingList.NodeRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (ê
+ZSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)?dummy@25.13:25.18VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("
+typeNode"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>Node <mark class="class-field">dummy</mark> = new Node(3)*dummy2è
+!SingleLinkedList.copyingList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (∂
+YSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)?temp@26.13:26.17VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("
+typeNode"
+isFinalfalse"f
+declarationStringQ<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = dummy*temp2è
+!SingleLinkedList.copyingList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2»
+ZSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)?dummy@25.13:25.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (‡
+VSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)?a@29.17:29.18VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("
+typeNode"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>Node <mark class="class-field">a</mark> = add(head.data)*a2è
+!SingleLinkedList.copyingList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ì
+%SingleLinkedList.copyingList.add(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ª
+MSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2û
+0SingleLinkedList.copyingList.Node?data@4.12:4.16CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("ò
+MSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)!head	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (#"
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2è
+!SingleLinkedList.copyingList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (∫2
+5SingleLinkedList.copyingList.main(java.lang.String[])METHODd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java% %("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2µ
+GSingleLinkedList.copyingList.display(SingleLinkedList.copyingList.Node)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java3 3(2ã
+java.io.PrintStream.println()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java4 4(2µ
+GSingleLinkedList.copyingList.display(SingleLinkedList.copyingList.Node)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java5 5(2∂
+HSingleLinkedList.copyingList.copyList(SingleLinkedList.copyingList.Node)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java5 5(2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java& &(2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java' '(2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java( ((2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java) )(2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java* *(2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java+ +(2±
+CSingleLinkedList.copyingList.main(java.lang.String[])?a@38.13:38.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java- -(	2±
+CSingleLinkedList.copyingList.main(java.lang.String[])?b@39.13:39.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java- -(2±
+CSingleLinkedList.copyingList.main(java.lang.String[])?b@39.13:39.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java. .(	2±
+CSingleLinkedList.copyingList.main(java.lang.String[])?c@40.13:40.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java. .(2±
+CSingleLinkedList.copyingList.main(java.lang.String[])?c@40.13:40.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java/ /(	2±
+CSingleLinkedList.copyingList.main(java.lang.String[])?d@41.13:41.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java/ /(2±
+CSingleLinkedList.copyingList.main(java.lang.String[])?d@41.13:41.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java0 0(	2±
+CSingleLinkedList.copyingList.main(java.lang.String[])?e@42.13:42.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java0 0(2±
+CSingleLinkedList.copyingList.main(java.lang.String[])?e@42.13:42.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java1 1(	2±
+CSingleLinkedList.copyingList.main(java.lang.String[])?f@43.13:43.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java1 1(2±
+CSingleLinkedList.copyingList.main(java.lang.String[])?a@38.13:38.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java3 3(2±
+CSingleLinkedList.copyingList.main(java.lang.String[])?a@38.13:38.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java5 5(2û
+0SingleLinkedList.copyingList.Node?next@5.13:5.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java-
+ -(2û
+0SingleLinkedList.copyingList.Node?next@5.13:5.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java.
+ .(2û
+0SingleLinkedList.copyingList.Node?next@5.13:5.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java/
+ /(2û
+0SingleLinkedList.copyingList.Node?next@5.13:5.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java0
+ 0(2û
+0SingleLinkedList.copyingList.Node?next@5.13:5.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java1
+ 1(2≠
+:SingleLinkedList.copyingList.main(java.lang.String[])!args	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java%% %()2∏
+CSingleLinkedList.copyingList.main(java.lang.String[])?a@38.13:38.14DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java& &(2∏
+CSingleLinkedList.copyingList.main(java.lang.String[])?b@39.13:39.14DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java' '(2∏
+CSingleLinkedList.copyingList.main(java.lang.String[])?c@40.13:40.14DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java( ((2∏
+CSingleLinkedList.copyingList.main(java.lang.String[])?d@41.13:41.14DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java) )(2∏
+CSingleLinkedList.copyingList.main(java.lang.String[])?e@42.13:42.14DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java* *(2∏
+CSingleLinkedList.copyingList.main(java.lang.String[])?f@43.13:43.14DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java+ +(2y
+voidRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java% %(Ò
+CSingleLinkedList.copyingList.main(java.lang.String[])?a@38.13:38.14VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java& &("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">a</mark> = new Node(1)*a2è
+!SingleLinkedList.copyingList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java& &(2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java& &(Ò
+CSingleLinkedList.copyingList.main(java.lang.String[])?b@39.13:39.14VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java' '("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">b</mark> = new Node(2)*b2è
+!SingleLinkedList.copyingList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java' '(2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java' '(Ò
+CSingleLinkedList.copyingList.main(java.lang.String[])?c@40.13:40.14VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java( (("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">c</mark> = new Node(3)*c2è
+!SingleLinkedList.copyingList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java( ((2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java( ((Ò
+CSingleLinkedList.copyingList.main(java.lang.String[])?d@41.13:41.14VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java) )("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">d</mark> = new Node(3)*d2è
+!SingleLinkedList.copyingList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java) )(2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java) )(Ò
+CSingleLinkedList.copyingList.main(java.lang.String[])?e@42.13:42.14VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java* *("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">e</mark> = new Node(2)*e2è
+!SingleLinkedList.copyingList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java* *(2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java* *(Ò
+CSingleLinkedList.copyingList.main(java.lang.String[])?f@43.13:43.14VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java+ +("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">f</mark> = new Node(1)*f2è
+!SingleLinkedList.copyingList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java+ +(2ô
++SingleLinkedList.copyingList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java+ +(˛
+:SingleLinkedList.copyingList.main(java.lang.String[])!args	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java%% %()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ä
+java.lang.String[]TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java% %($Ë
+!SingleLinkedList.copyingList.NodeCLASSd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("'
+packageSingleLinkedList.copyingList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2†
++SingleLinkedList.copyingList.Node.Node(int)DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2•
+0SingleLinkedList.copyingList.Node?data@4.12:4.16DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2•
+0SingleLinkedList.copyingList.Node?next@5.13:5.17DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (•
++SingleLinkedList.copyingList.Node.Node(int)CONSTRUCTORd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2û
+0SingleLinkedList.copyingList.Node.Node(int)!dataCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2û
+0SingleLinkedList.copyingList.Node?data@4.12:4.16CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2£
+0SingleLinkedList.copyingList.Node.Node(int)!data	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (2ñ
+!SingleLinkedList.copyingList.NodeRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (¯
+0SingleLinkedList.copyingList.Node.Node(int)!data	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (Â
+0SingleLinkedList.copyingList.Node?data@4.12:4.16VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (Ë
+0SingleLinkedList.copyingList.Node?next@5.13:5.17VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">next</mark>"
+isStaticfalse"
+accesspackage_private*next2è
+!SingleLinkedList.copyingList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\copyingList.java (

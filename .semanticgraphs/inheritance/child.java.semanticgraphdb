@@ -1,0 +1,34 @@
+
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\child.java¨
+inheritance.childCLASSb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\child.java ("
+packageinheritance"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ê
+declarationString{<mark class="modifier">public </mark><mark class="modifier">class </mark>child<mark class="modifier"> extends </mark>parent"
+accesspublic*child2å
+inheritance.child.child()DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\child.java (	2ò
+%inheritance.child?childMoney@3.8:3.18DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\child.java (2Ä
+inheritance.parentEXTENDb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\child.java (!è
+inheritance.child.child()CONSTRUCTORb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\child.java (	"W
+declarationStringB<mark class="modifier"> </mark><mark class="method">child</mark>()*child2ô
+-java.io.PrintStream.println(java.lang.String)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\child.java (2Ñ
+inheritance.childRETURN_TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\child.java (	„
+%inheritance.child?childMoney@3.8:3.18VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\child.java ("
+isFinalfalse"
+typeint"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">childMoney</mark>"
+isStaticfalse"
+accesspackage_private*
+childMoney2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\child.java (

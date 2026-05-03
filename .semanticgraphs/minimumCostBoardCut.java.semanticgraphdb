@@ -1,0 +1,224 @@
+
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java˜
+minimumCostBoardCutCLASSV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java ( "
+packageminimumCostBoardCut"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier">public </mark><mark class="modifier">class </mark>minimumCostBoardCut"
+accesspublic*minimumCostBoardCut2â
+"minimumCostBoardCut.main(String[])DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (äB
+"minimumCostBoardCut.main(String[])METHODV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ä
+ java.util.List.of(E, E, E, E, E)CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java/ (12z
+java.util.List.of(E, E, E)CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java	/ 	(12É
+#java.util.Comparator.reverseOrder()CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (&2É
+#java.util.Comparator.reverseOrder()CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (&2†
+@java.util.ArrayList.ArrayList(java.util.Collection<? extends E>)CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java ()2†
+@java.util.ArrayList.ArrayList(java.util.Collection<? extends E>)CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java	 	()2é
+.minimumCostBoardCut.main(String[])?X@8.22:8.23CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (	2é
+.minimumCostBoardCut.main(String[])?Y@9.22:9.23CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (	2ê
+0minimumCostBoardCut.main(String[])?i@18.12:18.13CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2ê
+0minimumCostBoardCut.main(String[])?M@10.12:10.13CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2ê
+0minimumCostBoardCut.main(String[])?j@18.19:18.20CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2ê
+0minimumCostBoardCut.main(String[])?N@10.19:10.20CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java  (!2é
+.minimumCostBoardCut.main(String[])?X@8.22:8.23CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2ê
+0minimumCostBoardCut.main(String[])?i@18.12:18.13CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2é
+.minimumCostBoardCut.main(String[])?Y@9.22:9.23CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2ê
+0minimumCostBoardCut.main(String[])?j@18.19:18.20CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java! ("2ò
+8minimumCostBoardCut.main(String[])?totalCost@14.12:14.21CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2é
+.minimumCostBoardCut.main(String[])?X@8.22:8.23CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2ê
+0minimumCostBoardCut.main(String[])?i@18.12:18.13CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java# ($2ù
+=minimumCostBoardCut.main(String[])?horizontalCuts@15.12:15.26CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java( (62õ
+;minimumCostBoardCut.main(String[])?verticalCuts@16.12:16.24CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2ê
+0minimumCostBoardCut.main(String[])?i@18.12:18.13CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2ò
+8minimumCostBoardCut.main(String[])?totalCost@14.12:14.21CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2é
+.minimumCostBoardCut.main(String[])?Y@9.22:9.23CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2ê
+0minimumCostBoardCut.main(String[])?j@18.19:18.20CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java# ($2õ
+;minimumCostBoardCut.main(String[])?verticalCuts@16.12:16.24CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java( (42ù
+=minimumCostBoardCut.main(String[])?horizontalCuts@15.12:15.26CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2ê
+0minimumCostBoardCut.main(String[])?j@18.19:18.20CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2ê
+0minimumCostBoardCut.main(String[])?i@18.12:18.13CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java   (2ê
+0minimumCostBoardCut.main(String[])?M@10.12:10.13CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java   (2ò
+8minimumCostBoardCut.main(String[])?totalCost@14.12:14.21CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java! !(2é
+.minimumCostBoardCut.main(String[])?X@8.22:8.23CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java! !(2ê
+0minimumCostBoardCut.main(String[])?i@18.12:18.13CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java! !( 2ù
+=minimumCostBoardCut.main(String[])?horizontalCuts@15.12:15.26CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java!$ !(22ê
+0minimumCostBoardCut.main(String[])?i@18.12:18.13CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java" "(2ê
+0minimumCostBoardCut.main(String[])?j@18.19:18.20CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java% %(2ê
+0minimumCostBoardCut.main(String[])?N@10.19:10.20CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java% %(2ò
+8minimumCostBoardCut.main(String[])?totalCost@14.12:14.21CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java& &(2é
+.minimumCostBoardCut.main(String[])?Y@9.22:9.23CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java& &(2ê
+0minimumCostBoardCut.main(String[])?j@18.19:18.20CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java& &( 2õ
+;minimumCostBoardCut.main(String[])?verticalCuts@16.12:16.24CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java&$ &(02ê
+0minimumCostBoardCut.main(String[])?j@18.19:18.20CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java' '(2ò
+8minimumCostBoardCut.main(String[])?totalCost@14.12:14.21CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java) )($2å
+'minimumCostBoardCut.main(String[])!args	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java% ()2ï
+.minimumCostBoardCut.main(String[])?X@8.22:8.23DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2ï
+.minimumCostBoardCut.main(String[])?Y@9.22:9.23DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java	 	(2ó
+0minimumCostBoardCut.main(String[])?M@10.12:10.13DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java
+ 
+(2ó
+0minimumCostBoardCut.main(String[])?N@10.19:10.20DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java
+ 
+(2ü
+8minimumCostBoardCut.main(String[])?totalCost@14.12:14.21DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2§
+=minimumCostBoardCut.main(String[])?horizontalCuts@15.12:15.26DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2¢
+;minimumCostBoardCut.main(String[])?verticalCuts@16.12:16.24DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2ó
+0minimumCostBoardCut.main(String[])?i@18.12:18.13DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2ó
+0minimumCostBoardCut.main(String[])?j@18.19:18.20DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2k
+voidRETURN_TYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (◊
+.minimumCostBoardCut.main(String[])?X@8.22:8.23VARIABLEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java ("
+typeList<Integer>"
+isFinalfalse"é
+declarationStringy<mark class="modifier"> </mark>List<Integer> <mark class="class-field">X</mark> = new ArrayList<>(List.of(2, 1, 3, 1, 4))*X2n
+java.util.ListTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2p
+IntegerTYPE_ARGUMENTV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (2Ä
+ java.util.List.of(E, E, E, E, E)CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java/ (12†
+@java.util.ArrayList.ArrayList(java.util.Collection<? extends E>)CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java () 
+.minimumCostBoardCut.main(String[])?Y@9.22:9.23VARIABLEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java	 	("
+typeList<Integer>"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark>List<Integer> <mark class="class-field">Y</mark> = new ArrayList<>(List.of(4, 1, 2))*Y2n
+java.util.ListTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java	 	(2p
+IntegerTYPE_ARGUMENTV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java	 	(2z
+java.util.List.of(E, E, E)CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java	/ 	(12†
+@java.util.ArrayList.ArrayList(java.util.Collection<? extends E>)CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java	 	()°
+0minimumCostBoardCut.main(String[])?M@10.12:10.13VARIABLEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java
+ 
+("
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">M</mark> = 6, N = 4*M2c
+intTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java
+ 
+(°
+0minimumCostBoardCut.main(String[])?N@10.19:10.20VARIABLEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java
+ 
+("
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">N</mark> = 6, N = 4*N2c
+intTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java
+ 
+(≤
+8minimumCostBoardCut.main(String[])?totalCost@14.12:14.21VARIABLEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java ("
+typeint"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">totalCost</mark> = 0*	totalCost2c
+intTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (¡
+=minimumCostBoardCut.main(String[])?horizontalCuts@15.12:15.26VARIABLEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java ("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">horizontalCuts</mark> = 1*horizontalCuts2c
+intTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (ª
+;minimumCostBoardCut.main(String[])?verticalCuts@16.12:16.24VARIABLEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">verticalCuts</mark> = 1*verticalCuts2c
+intTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (°
+0minimumCostBoardCut.main(String[])?i@18.12:18.13VARIABLEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java ("
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0, j = 0*i2c
+intTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (°
+0minimumCostBoardCut.main(String[])?j@18.19:18.20VARIABLEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java ("
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0, j = 0*j2c
+intTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java (ƒ
+'minimumCostBoardCut.main(String[])!args	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2h
+String[]TYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\minimumCostBoardCut.java ($

@@ -1,0 +1,172 @@
+
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java√
+	problem15CLASSO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java ("
+package	problem15"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>problem15"
+accesspublic*	problem152ä
+*problem15.printPermutation(String, String)DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java ( 2x
+problem15.main(String[])DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (ò 
+*problem15.printPermutation(String, String)METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java ( "
+isFinalfalse"˝
+declarationStringÁ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">printPermutation</mark>(String str<mark class="modifier"><mark class="modifier">,</mark></mark> String ans)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*printPermutation2É
+*problem15.printPermutation(String, String)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2á
+.problem15.printPermutation(String, String)!strCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2á
+.problem15.printPermutation(String, String)!ansCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java ("2ë
+8problem15.printPermutation(String, String)?i@11.17:11.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2á
+.problem15.printPermutation(String, String)!strCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java ( 2ë
+8problem15.printPermutation(String, String)?i@11.17:11.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java, (-2á
+.problem15.printPermutation(String, String)!strCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2ë
+8problem15.printPermutation(String, String)?i@11.17:11.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java! ("2á
+.problem15.printPermutation(String, String)!strCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2ë
+8problem15.printPermutation(String, String)?i@11.17:11.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java, (-2á
+.problem15.printPermutation(String, String)!strCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2ë
+8problem15.printPermutation(String, String)?i@11.17:11.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java( ()2î
+;problem15.printPermutation(String, String)?left@13.19:13.23CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2ï
+<problem15.printPermutation(String, String)?right@14.19:14.24CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java  (%2ì
+:problem15.printPermutation(String, String)?rem@15.19:15.22CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java ( 2á
+.problem15.printPermutation(String, String)!ansCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java# (&2í
+9problem15.printPermutation(String, String)?ch@12.17:12.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java) (+2å
+.problem15.printPermutation(String, String)!str	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java( (+2å
+.problem15.printPermutation(String, String)!ans	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java5 (82ò
+8problem15.printPermutation(String, String)?i@11.17:11.18DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2ô
+9problem15.printPermutation(String, String)?ch@12.17:12.19DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2õ
+;problem15.printPermutation(String, String)?left@13.19:13.23DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2ú
+<problem15.printPermutation(String, String)?right@14.19:14.24DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2ö
+:problem15.printPermutation(String, String)?rem@15.19:15.22DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2d
+voidRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (ì
+8problem15.printPermutation(String, String)?i@11.17:11.18VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (•
+9problem15.printPermutation(String, String)?ch@12.17:12.19VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java ("
+typechar"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>char <mark class="class-field">ch</mark> = str.charAt(i)*ch2]
+charTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2á
+.problem15.printPermutation(String, String)!strCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2ë
+8problem15.printPermutation(String, String)?i@11.17:11.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java! ("∑
+;problem15.printPermutation(String, String)?left@13.19:13.23VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java ("
+typeString"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>String <mark class="class-field">left</mark> = str.substring(0, i)*left2_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2á
+.problem15.printPermutation(String, String)!strCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2ë
+8problem15.printPermutation(String, String)?i@11.17:11.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java, (-ª
+<problem15.printPermutation(String, String)?right@14.19:14.24VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java ("
+typeString"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>String <mark class="class-field">right</mark> = str.substring(i + 1)*right2_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2á
+.problem15.printPermutation(String, String)!strCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2ë
+8problem15.printPermutation(String, String)?i@11.17:11.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java( ()æ
+:problem15.printPermutation(String, String)?rem@15.19:15.22VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java ("
+typeString"
+isFinalfalse"n
+declarationStringY<mark class="modifier"> </mark>String <mark class="class-field">rem</mark> = left + right*rem2_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2î
+;problem15.printPermutation(String, String)?left@13.19:13.23CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2ï
+<problem15.printPermutation(String, String)?right@14.19:14.24CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java  (%µ
+.problem15.printPermutation(String, String)!str	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java( (+"
+typeString"
+isFinalfalse"
+declarationString
+String str*str2_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java! ('µ
+.problem15.printPermutation(String, String)!ans	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java5 (8"
+typeString"
+isFinalfalse"
+declarationString
+String ans*ans2_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java. (4˘
+problem15.main(String[])METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Å
+(problem15.main(String[])?str@21.15:21.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2{
+problem15.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java% ()2à
+(problem15.main(String[])?str@21.15:21.18DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (2d
+voidRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (ˆ
+(problem15.main(String[])?str@21.15:21.18VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java ("
+typeString"
+isFinalfalse"g
+declarationStringR<mark class="modifier"> </mark>String <mark class="class-field">str</mark> = "abc"*str2_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java (¨
+problem15.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2a
+String[]TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem15.java ($

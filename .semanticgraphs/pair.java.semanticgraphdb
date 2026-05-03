@@ -1,0 +1,68 @@
+
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.javaë
+pairCLASSQ
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java("
+packagepair"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>pair"
+accesspublic*pair2y
+pair.pair(int, int)DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java (2t
+pair?x@1.8:1.9DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java (	2t
+pair?y@2.8:2.9DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java (	è	
+pair.pair(int, int)CONSTRUCTORU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java ("›
+declarationString«<mark class="modifier"> </mark><mark class="method">pair</mark>(<mark class="modifier">int</mark> v1<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> v2)*pair2m
+pair?x@1.8:1.9CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java	 (
+2u
+pair.pair(int, int)!v1CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java (2m
+pair?y@2.8:2.9CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java	 (
+2u
+pair.pair(int, int)!v2CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java (2z
+pair.pair(int, int)!v1	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java (2z
+pair.pair(int, int)!v2	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java (2j
+pairRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java (º
+pair.pair(int, int)!v1	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java ("
+typeint"
+isFinalfalse"9
+declarationString$<mark class="modifier">int</mark> v1*v12b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java	 (º
+pair.pair(int, int)!v2	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java ("
+typeint"
+isFinalfalse"9
+declarationString$<mark class="modifier">int</mark> v2*v22b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java (ü
+pair?x@1.8:1.9VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java (	"
+isFinalfalse"
+typeint"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">x</mark>"
+isStaticfalse"
+accesspackage_private*x2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java (ü
+pair?y@2.8:2.9VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java (	"
+isFinalfalse"
+typeint"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">y</mark>"
+isStaticfalse"
+accesspackage_private*y2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\pair.java (

@@ -1,0 +1,435 @@
+
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.javaû
+sizeMaxSumHeightCLASSN
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java("
+packagesizeMaxSumHeight"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier">public </mark><mark class="modifier">class </mark>sizeMaxSumHeight"
+accesspublic*sizeMaxSumHeight2ú
+9sizeMaxSumHeight.preOrderTraversal(sizeMaxSumHeight.Node)DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java ( 2£
+@sizeMaxSumHeight.preOrderSumTraversalNode(sizeMaxSumHeight.Node)DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java ('2õ
+8sizeMaxSumHeight.preOrderMaxValue(sizeMaxSumHeight.Node)DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (2ú
+9sizeMaxSumHeight.preOrderMaxHeight(sizeMaxSumHeight.Node)DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java ( 2õ
+8sizeMaxSumHeight.preOrderMinValue(sizeMaxSumHeight.Node)DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java# #(2ü
+<sizeMaxSumHeight.preOrderProductValue(sizeMaxSumHeight.Node)DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java( ((#2Ç
+sizeMaxSumHeight.main(String[])DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java. .(£	
+9sizeMaxSumHeight.preOrderTraversal(sizeMaxSumHeight.Node)METHODR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java ( "
+isFinalfalse"¥
+declarationStringû<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">preOrderTraversal</mark>(Node root)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*preOrderTraversal2ö
+>sizeMaxSumHeight.preOrderTraversal(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (2ö
+>sizeMaxSumHeight.preOrderTraversal(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java! (%2ö
+>sizeMaxSumHeight.preOrderTraversal(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.javaA (E2ü
+>sizeMaxSumHeight.preOrderTraversal(sizeMaxSumHeight.Node)!root	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java& (*2f
+intRETURN_TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (ÿ
+>sizeMaxSumHeight.preOrderTraversal(sizeMaxSumHeight.Node)!root	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java& (*"
+typeNode"
+isFinalfalse"
+declarationString	Node root*root2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java! (%¯
+
+@sizeMaxSumHeight.preOrderSumTraversalNode(sizeMaxSumHeight.Node)METHODR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java ('"
+isFinalfalse"ª
+declarationString•<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">preOrderSumTraversalNode</mark>(Node root)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*preOrderSumTraversalNode2°
+EsizeMaxSumHeight.preOrderSumTraversalNode(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (2°
+EsizeMaxSumHeight.preOrderSumTraversalNode(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (2°
+EsizeMaxSumHeight.preOrderSumTraversalNode(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java4 (82°
+EsizeMaxSumHeight.preOrderSumTraversalNode(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java[ (_2¶
+EsizeMaxSumHeight.preOrderSumTraversalNode(sizeMaxSumHeight.Node)!root	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java- (12f
+intRETURN_TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (ﬂ
+EsizeMaxSumHeight.preOrderSumTraversalNode(sizeMaxSumHeight.Node)!root	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java- (1"
+typeNode"
+isFinalfalse"
+declarationString	Node root*root2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java( (,∏
+
+8sizeMaxSumHeight.preOrderMaxValue(sizeMaxSumHeight.Node)METHODR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java ("
+isFinalfalse"≥
+declarationStringù<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">preOrderMaxValue</mark>(Node root)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*preOrderMaxValue2ô
+=sizeMaxSumHeight.preOrderMaxValue(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (2ô
+=sizeMaxSumHeight.preOrderMaxValue(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java! (%2ô
+=sizeMaxSumHeight.preOrderMaxValue(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java> (B2ô
+=sizeMaxSumHeight.preOrderMaxValue(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java] (a2û
+=sizeMaxSumHeight.preOrderMaxValue(sizeMaxSumHeight.Node)!root	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java% ()2f
+intRETURN_TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (◊
+=sizeMaxSumHeight.preOrderMaxValue(sizeMaxSumHeight.Node)!root	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java% ()"
+typeNode"
+isFinalfalse"
+declarationString	Node root*root2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java  ($›
+9sizeMaxSumHeight.preOrderMaxHeight(sizeMaxSumHeight.Node)METHODR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java ( "
+isFinalfalse"¥
+declarationStringû<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">preOrderMaxHeight</mark>(Node root)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*preOrderMaxHeight2ö
+>sizeMaxSumHeight.preOrderMaxHeight(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (2ö
+>sizeMaxSumHeight.preOrderMaxHeight(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (2ö
+>sizeMaxSumHeight.preOrderMaxHeight(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java! (%2ö
+>sizeMaxSumHeight.preOrderMaxHeight(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java .  (22ö
+>sizeMaxSumHeight.preOrderMaxHeight(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java M  (Q2ü
+>sizeMaxSumHeight.preOrderMaxHeight(sizeMaxSumHeight.Node)!root	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java& (*2f
+intRETURN_TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (ÿ
+>sizeMaxSumHeight.preOrderMaxHeight(sizeMaxSumHeight.Node)!root	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java& (*"
+typeNode"
+isFinalfalse"
+declarationString	Node root*root2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java! (%∏
+
+8sizeMaxSumHeight.preOrderMinValue(sizeMaxSumHeight.Node)METHODR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java# #("
+isFinalfalse"≥
+declarationStringù<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">preOrderMinValue</mark>(Node root)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*preOrderMinValue2ô
+=sizeMaxSumHeight.preOrderMinValue(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java$ $(2ô
+=sizeMaxSumHeight.preOrderMinValue(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java% %(2ô
+=sizeMaxSumHeight.preOrderMinValue(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java%> %(B2ô
+=sizeMaxSumHeight.preOrderMinValue(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java%[ %(_2û
+=sizeMaxSumHeight.preOrderMinValue(sizeMaxSumHeight.Node)!root	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java#% #()2f
+intRETURN_TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java# #(◊
+=sizeMaxSumHeight.preOrderMinValue(sizeMaxSumHeight.Node)!root	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java#% #()"
+typeNode"
+isFinalfalse"
+declarationString	Node root*root2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java#  #($ÿ
+
+<sizeMaxSumHeight.preOrderProductValue(sizeMaxSumHeight.Node)METHODR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java( ((#"
+isFinalfalse"∑
+declarationString°<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">preOrderProductValue</mark>(Node root)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*preOrderProductValue2ù
+AsizeMaxSumHeight.preOrderProductValue(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java) )(2ù
+AsizeMaxSumHeight.preOrderProductValue(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java* *(2ù
+AsizeMaxSumHeight.preOrderProductValue(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java*0 *(42ù
+AsizeMaxSumHeight.preOrderProductValue(sizeMaxSumHeight.Node)!rootCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java*R *(V2¢
+AsizeMaxSumHeight.preOrderProductValue(sizeMaxSumHeight.Node)!root	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java() ((-2f
+intRETURN_TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java( ((€
+AsizeMaxSumHeight.preOrderProductValue(sizeMaxSumHeight.Node)!root	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java() ((-"
+typeNode"
+isFinalfalse"
+declarationString	Node root*root2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java($ (((•3
+sizeMaxSumHeight.main(String[])METHODR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java. .("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ï
+9sizeMaxSumHeight.preOrderTraversal(sizeMaxSumHeight.Node)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java> >(,2ú
+@sizeMaxSumHeight.preOrderSumTraversalNode(sizeMaxSumHeight.Node)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java?4 ?(L2î
+8sizeMaxSumHeight.preOrderMaxValue(sizeMaxSumHeight.Node)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java@: @(J2ï
+9sizeMaxSumHeight.preOrderMaxHeight(sizeMaxSumHeight.Node)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.javaA; A(L2î
+8sizeMaxSumHeight.preOrderMinValue(sizeMaxSumHeight.Node)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.javaB: B(J2ò
+<sizeMaxSumHeight.preOrderProductValue(sizeMaxSumHeight.Node)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.javaC8 C(L2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java/ /(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java0 0(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java1 1(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java4 4(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java5 5(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java8 8(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java: :(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java< <(2å
+0sizeMaxSumHeight.main(String[])?root@47.13:47.17CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java2 2(2â
+-sizeMaxSumHeight.main(String[])?a@48.13:48.14CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java2 2(2å
+0sizeMaxSumHeight.main(String[])?root@47.13:47.17CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java3 3(2â
+-sizeMaxSumHeight.main(String[])?b@49.13:49.14CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java3 3(2â
+-sizeMaxSumHeight.main(String[])?a@48.13:48.14CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java6 6(	2â
+-sizeMaxSumHeight.main(String[])?c@52.13:52.14CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java6 6(2â
+-sizeMaxSumHeight.main(String[])?a@48.13:48.14CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java7 7(	2â
+-sizeMaxSumHeight.main(String[])?d@53.13:53.14CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java7 7(2â
+-sizeMaxSumHeight.main(String[])?b@49.13:49.14CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java9 9(	2â
+-sizeMaxSumHeight.main(String[])?e@56.13:56.14CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java9 9(2â
+-sizeMaxSumHeight.main(String[])?e@56.13:56.14CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java; ;(	2â
+-sizeMaxSumHeight.main(String[])?g@58.13:58.14CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java; ;(2â
+-sizeMaxSumHeight.main(String[])?g@58.13:58.14CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java= =(	2â
+-sizeMaxSumHeight.main(String[])?f@60.13:60.14CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java= =(2å
+0sizeMaxSumHeight.main(String[])?root@47.13:47.17CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java>- >(12å
+0sizeMaxSumHeight.main(String[])?root@47.13:47.17CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java?M ?(Q2å
+0sizeMaxSumHeight.main(String[])?root@47.13:47.17CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java@K @(O2å
+0sizeMaxSumHeight.main(String[])?root@47.13:47.17CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.javaAM A(Q2å
+0sizeMaxSumHeight.main(String[])?root@47.13:47.17CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.javaBK B(O2å
+0sizeMaxSumHeight.main(String[])?root@47.13:47.17CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.javaCM C(Q2Ö
+$sizeMaxSumHeight.main(String[])!args	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java.% .()2ì
+0sizeMaxSumHeight.main(String[])?root@47.13:47.17DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java/ /(2ê
+-sizeMaxSumHeight.main(String[])?a@48.13:48.14DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java0 0(2ê
+-sizeMaxSumHeight.main(String[])?b@49.13:49.14DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java1 1(2ê
+-sizeMaxSumHeight.main(String[])?c@52.13:52.14DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java4 4(2ê
+-sizeMaxSumHeight.main(String[])?d@53.13:53.14DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java5 5(2ê
+-sizeMaxSumHeight.main(String[])?e@56.13:56.14DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java8 8(2ê
+-sizeMaxSumHeight.main(String[])?g@58.13:58.14DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java: :(2ê
+-sizeMaxSumHeight.main(String[])?f@60.13:60.14DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java< <(2g
+voidRETURN_TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java. .(î
+0sizeMaxSumHeight.main(String[])?root@47.13:47.17VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java/ /("
+typeNode"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>Node <mark class="class-field">root</mark> = new Node(1)*root2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java/ /(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java/ /(ã
+-sizeMaxSumHeight.main(String[])?a@48.13:48.14VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java0 0("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">a</mark> = new Node(2)*a2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java0 0(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java0 0(ã
+-sizeMaxSumHeight.main(String[])?b@49.13:49.14VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java1 1("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">b</mark> = new Node(3)*b2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java1 1(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java1 1(ã
+-sizeMaxSumHeight.main(String[])?c@52.13:52.14VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java4 4("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">c</mark> = new Node(4)*c2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java4 4(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java4 4(ã
+-sizeMaxSumHeight.main(String[])?d@53.13:53.14VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java5 5("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">d</mark> = new Node(5)*d2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java5 5(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java5 5(ã
+-sizeMaxSumHeight.main(String[])?e@56.13:56.14VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java8 8("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">e</mark> = new Node(6)*e2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java8 8(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java8 8(ã
+-sizeMaxSumHeight.main(String[])?g@58.13:58.14VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java: :("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">g</mark> = new Node(7)*g2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java: :(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java: :(ã
+-sizeMaxSumHeight.main(String[])?f@60.13:60.14VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java< <("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">f</mark> = new Node(8)*f2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java< <(2{
+sizeMaxSumHeight.Node.Node(int)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java< <(π
+$sizeMaxSumHeight.main(String[])!args	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java.% .()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2d
+String[]TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java. .($Ô
+sizeMaxSumHeight.NodeCLASSR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java ("
+packagesizeMaxSumHeight"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2Ç
+sizeMaxSumHeight.Node.Node(int)DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (2á
+$sizeMaxSumHeight.Node?data@3.12:3.16DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (2á
+$sizeMaxSumHeight.Node?left@4.13:4.17DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (2à
+%sizeMaxSumHeight.Node?right@5.13:5.18DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (é
+sizeMaxSumHeight.Node.Node(int)CONSTRUCTORR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java ("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2Ä
+$sizeMaxSumHeight.Node.Node(int)!dataCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (2Ä
+$sizeMaxSumHeight.Node?data@3.12:3.16CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (2Ö
+$sizeMaxSumHeight.Node.Node(int)!data	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (2x
+sizeMaxSumHeight.NodeRETURN_TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (»
+$sizeMaxSumHeight.Node.Node(int)!data	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2_
+intTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (µ
+$sizeMaxSumHeight.Node?data@3.12:3.16VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2_
+intTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (´
+$sizeMaxSumHeight.Node?left@4.13:4.17VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">left</mark>"
+isStaticfalse"
+accesspackage_private*left2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (Æ
+%sizeMaxSumHeight.Node?right@5.13:5.18VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java ("
+isFinalfalse"
+typeNode"_
+declarationStringJ<mark class="modifier"> </mark>Node <mark class="class-field">right</mark>"
+isStaticfalse"
+accesspackage_private*right2q
+sizeMaxSumHeight.NodeTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\sizeMaxSumHeight.java (

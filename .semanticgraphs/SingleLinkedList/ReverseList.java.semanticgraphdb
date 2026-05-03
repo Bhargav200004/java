@@ -1,0 +1,397 @@
+
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java‡
+SingleLinkedList.ReverseListCLASSd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ("
+packageSingleLinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"i
+declarationStringT<mark class="modifier">public </mark><mark class="modifier">class </mark>ReverseList"
+accesspublic*ReverseList2º
+GSingleLinkedList.ReverseList.display(SingleLinkedList.ReverseList.Node)DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2ø
+JSingleLinkedList.ReverseList.displayRev(SingleLinkedList.ReverseList.Node)DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2¿
+KSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2™
+5SingleLinkedList.ReverseList.main(java.lang.String[])DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (⁄
+GSingleLinkedList.ReverseList.display(SingleLinkedList.ReverseList.Node)METHODd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ("
+isFinalfalse"´
+declarationStringï<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">display</mark>(Node head)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2ô
++java.io.PrintStream.print(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2µ
+GSingleLinkedList.ReverseList.display(SingleLinkedList.ReverseList.Node)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2∫
+LSingleLinkedList.ReverseList.display(SingleLinkedList.ReverseList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2∫
+LSingleLinkedList.ReverseList.display(SingleLinkedList.ReverseList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2∫
+LSingleLinkedList.ReverseList.display(SingleLinkedList.ReverseList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2û
+0SingleLinkedList.ReverseList.Node?data@5.12:5.16CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ("2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2ø
+LSingleLinkedList.ReverseList.display(SingleLinkedList.ReverseList.Node)!head	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (!2y
+voidRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (ó
+LSingleLinkedList.ReverseList.display(SingleLinkedList.ReverseList.Node)!head	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (!"
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2è
+!SingleLinkedList.ReverseList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (Ú
+JSingleLinkedList.ReverseList.displayRev(SingleLinkedList.ReverseList.Node)METHODd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ("
+isFinalfalse"Æ
+declarationStringò<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">displayRev</mark>(Node head)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*
+displayRev2∏
+JSingleLinkedList.ReverseList.displayRev(SingleLinkedList.ReverseList.Node)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2ô
++java.io.PrintStream.print(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2Ω
+OSingleLinkedList.ReverseList.displayRev(SingleLinkedList.ReverseList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2Ω
+OSingleLinkedList.ReverseList.displayRev(SingleLinkedList.ReverseList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2Ω
+OSingleLinkedList.ReverseList.displayRev(SingleLinkedList.ReverseList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2û
+0SingleLinkedList.ReverseList.Node?data@5.12:5.16CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ("2¬
+OSingleLinkedList.ReverseList.displayRev(SingleLinkedList.ReverseList.Node)!head	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java  ($2y
+voidRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (ö
+OSingleLinkedList.ReverseList.displayRev(SingleLinkedList.ReverseList.Node)!head	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java  ($"
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2è
+!SingleLinkedList.ReverseList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (≤
+KSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)METHODd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ("
+isFinalfalse"ê
+declarationString{<mark class="modifier"> </mark><mark class="modifier">static </mark>Node <mark class="method">reverseList</mark>(Node head)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeNode*reverseList2π
+KSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (&2æ
+PSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2æ
+PSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java& (*2æ
+PSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java' (+2æ
+PSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2æ
+PSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2æ
+PSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2—
+cSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)?reverseNode@26.13:26.24CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java, (02û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2√
+PSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)!head	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java! (%2ÿ
+cSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)?reverseNode@26.13:26.24DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2ñ
+!SingleLinkedList.ReverseList.NodeRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (≤
+cSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)?reverseNode@26.13:26.24VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ("
+typeNode"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark>Node <mark class="class-field">reverseNode</mark> = reverseList(head.next)*reverseNode2è
+!SingleLinkedList.ReverseList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2π
+KSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (&2æ
+PSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)!headCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java' (+2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java, (0õ
+PSingleLinkedList.ReverseList.reverseList(SingleLinkedList.ReverseList.Node)!head	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java! (%"
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2è
+!SingleLinkedList.ReverseList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ( üF
+5SingleLinkedList.ReverseList.main(java.lang.String[])METHODd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.javaD D(2µ
+GSingleLinkedList.ReverseList.display(SingleLinkedList.ReverseList.Node)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.javaE E(2ô
++SingleLinkedList.ReverseList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java   (2ô
++SingleLinkedList.ReverseList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java! !(2ô
++SingleLinkedList.ReverseList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java" "(2ô
++SingleLinkedList.ReverseList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java# #(2ô
++SingleLinkedList.ReverseList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java$ $(2ô
++SingleLinkedList.ReverseList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java% %(2±
+CSingleLinkedList.ReverseList.main(java.lang.String[])?a@32.13:32.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java' '(	2±
+CSingleLinkedList.ReverseList.main(java.lang.String[])?b@33.13:33.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java' '(2±
+CSingleLinkedList.ReverseList.main(java.lang.String[])?b@33.13:33.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java( ((	2±
+CSingleLinkedList.ReverseList.main(java.lang.String[])?c@34.13:34.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java( ((2±
+CSingleLinkedList.ReverseList.main(java.lang.String[])?c@34.13:34.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java) )(	2±
+CSingleLinkedList.ReverseList.main(java.lang.String[])?d@35.13:35.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java) )(2±
+CSingleLinkedList.ReverseList.main(java.lang.String[])?d@35.13:35.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java* *(	2±
+CSingleLinkedList.ReverseList.main(java.lang.String[])?e@36.13:36.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java* *(2±
+CSingleLinkedList.ReverseList.main(java.lang.String[])?e@36.13:36.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java+ +(	2±
+CSingleLinkedList.ReverseList.main(java.lang.String[])?f@37.13:37.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java+ +(2±
+CSingleLinkedList.ReverseList.main(java.lang.String[])?f@37.13:37.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java, ,(	2±
+CSingleLinkedList.ReverseList.main(java.lang.String[])?a@32.13:32.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java9 9(2¥
+FSingleLinkedList.ReverseList.main(java.lang.String[])?curr@57.13:57.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java= =(2µ
+GSingleLinkedList.ReverseList.main(java.lang.String[])?front@59.13:59.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java> >(2¥
+FSingleLinkedList.ReverseList.main(java.lang.String[])?curr@57.13:57.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java> >(2¥
+FSingleLinkedList.ReverseList.main(java.lang.String[])?curr@57.13:57.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java? ?(2¥
+FSingleLinkedList.ReverseList.main(java.lang.String[])?prev@58.13:58.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java? ?(2¥
+FSingleLinkedList.ReverseList.main(java.lang.String[])?prev@58.13:58.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java@ @(2¥
+FSingleLinkedList.ReverseList.main(java.lang.String[])?curr@57.13:57.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java@ @(2¥
+FSingleLinkedList.ReverseList.main(java.lang.String[])?curr@57.13:57.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.javaA A(2µ
+GSingleLinkedList.ReverseList.main(java.lang.String[])?front@59.13:59.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.javaA A(2¥
+FSingleLinkedList.ReverseList.main(java.lang.String[])?prev@58.13:58.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.javaE E(2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java'
+ '(2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java(
+ ((2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java)
+ )(2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java*
+ *(2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java+
+ +(2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java,
+ ,(2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java> >(2û
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java? ?(2≠
+:SingleLinkedList.ReverseList.main(java.lang.String[])!args	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java% ()2∏
+CSingleLinkedList.ReverseList.main(java.lang.String[])?a@32.13:32.14DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java   (2∏
+CSingleLinkedList.ReverseList.main(java.lang.String[])?b@33.13:33.14DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java! !(2∏
+CSingleLinkedList.ReverseList.main(java.lang.String[])?c@34.13:34.14DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java" "(2∏
+CSingleLinkedList.ReverseList.main(java.lang.String[])?d@35.13:35.14DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java# #(2∏
+CSingleLinkedList.ReverseList.main(java.lang.String[])?e@36.13:36.14DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java$ $(2∏
+CSingleLinkedList.ReverseList.main(java.lang.String[])?f@37.13:37.14DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java% %(2ª
+FSingleLinkedList.ReverseList.main(java.lang.String[])?curr@57.13:57.17DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java9 9(2ª
+FSingleLinkedList.ReverseList.main(java.lang.String[])?prev@58.13:58.17DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java: :(2º
+GSingleLinkedList.ReverseList.main(java.lang.String[])?front@59.13:59.18DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java; ;(2y
+voidRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (Ú
+CSingleLinkedList.ReverseList.main(java.lang.String[])?a@32.13:32.14VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java   ("
+typeNode"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Node <mark class="class-field">a</mark> = new Node(34)*a2è
+!SingleLinkedList.ReverseList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java   (2ô
++SingleLinkedList.ReverseList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java   (Ò
+CSingleLinkedList.ReverseList.main(java.lang.String[])?b@33.13:33.14VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java! !("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">b</mark> = new Node(2)*b2è
+!SingleLinkedList.ReverseList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java! !(2ô
++SingleLinkedList.ReverseList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java! !(Ò
+CSingleLinkedList.ReverseList.main(java.lang.String[])?c@34.13:34.14VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java" "("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">c</mark> = new Node(4)*c2è
+!SingleLinkedList.ReverseList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java" "(2ô
++SingleLinkedList.ReverseList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java" "(Ú
+CSingleLinkedList.ReverseList.main(java.lang.String[])?d@35.13:35.14VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java# #("
+typeNode"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Node <mark class="class-field">d</mark> = new Node(74)*d2è
+!SingleLinkedList.ReverseList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java# #(2ô
++SingleLinkedList.ReverseList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java# #(Ú
+CSingleLinkedList.ReverseList.main(java.lang.String[])?e@36.13:36.14VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java$ $("
+typeNode"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Node <mark class="class-field">e</mark> = new Node(54)*e2è
+!SingleLinkedList.ReverseList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java$ $(2ô
++SingleLinkedList.ReverseList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java$ $(Û
+CSingleLinkedList.ReverseList.main(java.lang.String[])?f@37.13:37.14VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java% %("
+typeNode"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>Node <mark class="class-field">f</mark> = new Node(396)*f2è
+!SingleLinkedList.ReverseList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java% %(2ô
++SingleLinkedList.ReverseList.Node.Node(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java% %(à
+FSingleLinkedList.ReverseList.main(java.lang.String[])?curr@57.13:57.17VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java9 9("
+typeNode"
+isFinalfalse"b
+declarationStringM<mark class="modifier"> </mark>Node <mark class="class-field">curr</mark> = a*curr2è
+!SingleLinkedList.ReverseList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java9 9(2±
+CSingleLinkedList.ReverseList.main(java.lang.String[])?a@32.13:32.14CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java9 9(ˆ
+FSingleLinkedList.ReverseList.main(java.lang.String[])?prev@58.13:58.17VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java: :("
+typeNode"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark>Node <mark class="class-field">prev</mark> = <mark class="modifier">null</mark>*prev2è
+!SingleLinkedList.ReverseList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java: :(˘
+GSingleLinkedList.ReverseList.main(java.lang.String[])?front@59.13:59.18VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java; ;("
+typeNode"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark>Node <mark class="class-field">front</mark> = <mark class="modifier">null</mark>*front2è
+!SingleLinkedList.ReverseList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java; ;(˛
+:SingleLinkedList.ReverseList.main(java.lang.String[])!args	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ä
+java.lang.String[]TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ($Ë
+!SingleLinkedList.ReverseList.NodeCLASSd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ("'
+packageSingleLinkedList.ReverseList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2†
++SingleLinkedList.ReverseList.Node.Node(int)DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2•
+0SingleLinkedList.ReverseList.Node?data@5.12:5.16DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2•
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (•
++SingleLinkedList.ReverseList.Node.Node(int)CONSTRUCTORd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2û
+0SingleLinkedList.ReverseList.Node.Node(int)!dataCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2û
+0SingleLinkedList.ReverseList.Node?data@5.12:5.16CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2£
+0SingleLinkedList.ReverseList.Node.Node(int)!data	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (2ñ
+!SingleLinkedList.ReverseList.NodeRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (¯
+0SingleLinkedList.ReverseList.Node.Node(int)!data	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (Â
+0SingleLinkedList.ReverseList.Node?data@5.12:5.16VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (Ë
+0SingleLinkedList.ReverseList.Node?next@6.13:6.17VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">next</mark>"
+isStaticfalse"
+accesspackage_private*next2è
+!SingleLinkedList.ReverseList.NodeTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\ReverseList.java (

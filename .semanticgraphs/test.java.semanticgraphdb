@@ -1,0 +1,366 @@
+
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaÛ
+NodeCLASSB
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java(
+"
+packageNode"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2e
+Node.Node(int)DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2i
+Node?data@1.8:1.12DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2i
+Node?next@2.9:2.13DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java	 (Ý
+Node.Node(int)CONSTRUCTORF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java ("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2c
+Node.Node(int)!dataCALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2b
+Node?data@1.8:1.12CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2b
+Node?next@2.9:2.13CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2h
+Node.Node(int)!data	PARAMETERF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2[
+NodeRETURN_TYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (Ÿ
+Node.Node(int)!data	PARAMETERF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2S
+intTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java	 (‹
+Node?data@1.8:1.12VARIABLEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2S
+intTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (ð
+Node?next@2.9:2.13VARIABLEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java	 ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">next</mark>"
+isStaticfalse"
+accesspackage_private*next2T
+NodeTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (ö
+
+LinkedListCLASSF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java
+ 
+("
+package
+LinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier"> </mark><mark class="modifier">class </mark>LinkedList"
+accesspackage_private*
+LinkedList2n
+LinkedList.LinkedList()DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2j
+LinkedList.add(int)DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java	 (2k
+LinkedList.display()DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java	 (2q
+LinkedList?head@11.9:11.13DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java	 (§
+LinkedList.LinkedList()CONSTRUCTORF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java ("\
+declarationStringG<mark class="modifier"> </mark><mark class="method">LinkedList</mark>()*
+LinkedList2j
+LinkedList?head@11.9:11.13CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2a
+
+LinkedListRETURN_TYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (Ÿ
+LinkedList.add(int)METHODF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java	 ("
+isFinalfalse"Ÿ
+declarationString‰<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">add</mark>(<mark class="modifier">int</mark> data)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*add2^
+Node.Node(int)CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2h
+LinkedList.add(int)!dataCALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java  ($2j
+LinkedList?head@11.9:11.13CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2j
+LinkedList?head@11.9:11.13CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2w
+'LinkedList.add(int)?newNode@18.13:18.20CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2j
+LinkedList?head@11.9:11.13CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2w
+'LinkedList.add(int)?current@23.13:23.20CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2w
+'LinkedList.add(int)?current@23.13:23.20CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2w
+'LinkedList.add(int)?current@23.13:23.20CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2w
+'LinkedList.add(int)?current@23.13:23.20CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2w
+'LinkedList.add(int)?newNode@18.13:18.20CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2m
+LinkedList.add(int)!data	PARAMETERF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2~
+'LinkedList.add(int)?newNode@18.13:18.20DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2~
+'LinkedList.add(int)?current@23.13:23.20DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2[
+voidRETURN_TYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (¸
+'LinkedList.add(int)?newNode@18.13:18.20VARIABLEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java ("
+typeNode"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Node <mark class="class-field">newNode</mark> = new Node(data)*newNode2T
+NodeTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2^
+Node.Node(int)CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2h
+LinkedList.add(int)!dataCALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java  ($Ð
+'LinkedList.add(int)?current@23.13:23.20VARIABLEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java ("
+typeNode"
+isFinalfalse"h
+declarationStringS<mark class="modifier"> </mark>Node <mark class="class-field">current</mark> = head*current2T
+NodeTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2j
+LinkedList?head@11.9:11.13CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (¤
+LinkedList.add(int)!data	PARAMETERF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2S
+intTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (‚	
+LinkedList.display()METHODF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java	 ("
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">display</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2j
+LinkedList?head@11.9:11.13CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2x
+(LinkedList.display()?current@31.13:31.20CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java   (2x
+(LinkedList.display()?current@31.13:31.20CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java! !($2x
+(LinkedList.display()?current@31.13:31.20CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java" "(2x
+(LinkedList.display()?current@31.13:31.20CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java" "(2
+(LinkedList.display()?current@31.13:31.20DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2[
+voidRETURN_TYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (Ñ
+(LinkedList.display()?current@31.13:31.20VARIABLEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java ("
+typeNode"
+isFinalfalse"h
+declarationStringS<mark class="modifier"> </mark>Node <mark class="class-field">current</mark> = head*current2T
+NodeTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (2j
+LinkedList?head@11.9:11.13CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (ø
+LinkedList?head@11.9:11.13VARIABLEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java	 ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">head</mark>"
+isStaticfalse"
+accesspackage_private*head2T
+NodeTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java (ö
+testCLASSF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java( (("
+packagetest"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>test"
+accesspublic*test2i
+test.convert(Node)DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java* *(2j
+test.main(String[])DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java3 3(ª
+test.convert(Node)METHODF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java* *("
+isFinalfalse"Ž
+declarationStringy<mark class="modifier"> </mark><mark class="modifier">static </mark>String <mark class="method">convert</mark>(Node head)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeString*convert2g
+test.convert(Node)!headCALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java, ,(2r
+"test.convert(Node)?ans@43.15:43.18CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java- -(2r
+"test.convert(Node)?ans@43.15:43.18CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java- -(2g
+test.convert(Node)!headCALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java- -(2g
+test.convert(Node)!headCALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java. .(2g
+test.convert(Node)!headCALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java. .(2r
+"test.convert(Node)?ans@43.15:43.18CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java0 0(2l
+test.convert(Node)!head	PARAMETERF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java* *(#2y
+"test.convert(Node)?ans@43.15:43.18DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java+ +(2]
+StringRETURN_TYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java* *(Û
+"test.convert(Node)?ans@43.15:43.18VARIABLEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java+ +("
+typeString"
+isFinalfalse"d
+declarationStringO<mark class="modifier"> </mark>String <mark class="class-field">ans</mark> = ""*ans2V
+StringTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java+ +(ˆ
+test.convert(Node)!head	PARAMETERF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java* *(#"
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2T
+NodeTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java* *(ô
+test.main(String[])METHODF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java3 3("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2g
+LinkedList.LinkedList()CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java5 5((2g
+LinkedList.LinkedList()CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaA A('2u
+%test.main(String[])?array@52.14:52.19CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java6 6(2t
+$test.main(String[])?list@53.19:53.23CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java7 7(2t
+$test.main(String[])?data@54.17:54.21CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java7 7(2t
+$test.main(String[])?list@53.19:53.23CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java9# 9('2t
+$test.main(String[])?list@53.19:53.23CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java;4 ;(82t
+$test.main(String[])?list@53.19:53.23CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java>A >(E2v
+&test.main(String[])?number@62.15:62.21CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java@ @(!2q
+!test.main(String[])?i@66.17:66.18CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaB B(2v
+&test.main(String[])?number@62.15:62.21CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaB B(#2q
+!test.main(String[])?i@66.17:66.18CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaB. B(/2s
+#test.main(String[])?ans@65.19:65.22CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaC C(2v
+&test.main(String[])?number@62.15:62.21CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaC C( 2q
+!test.main(String[])?i@66.17:66.18CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaC( C()2s
+#test.main(String[])?ans@65.19:65.22CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaF F(2m
+test.main(String[])!args	PARAMETERF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java3% 3()2|
+%test.main(String[])?array@52.14:52.19DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java4 4(2{
+$test.main(String[])?list@53.19:53.23DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java5 5(2{
+$test.main(String[])?data@54.17:54.21DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java6 6(2}
+&test.main(String[])?number@62.15:62.21DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java> >(2z
+#test.main(String[])?ans@65.19:65.22DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaA A(2x
+!test.main(String[])?i@66.17:66.18DECLARATIONF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaB B(2[
+voidRETURN_TYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java3 3(…
+%test.main(String[])?array@52.14:52.19VARIABLEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java4 4("
+typeint"
+isFinalfalse"Œ
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">array</mark> = { 1, 8, 9 }*array2U
+int[]TYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java4 4(â
+$test.main(String[])?list@53.19:53.23VARIABLEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java5 5("
+type
+LinkedList"
+isFinalfalse"w
+declarationStringb<mark class="modifier"> </mark>LinkedList <mark class="class-field">list</mark> = new LinkedList()*list2Z
+
+LinkedListTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java5 5(2g
+LinkedList.LinkedList()CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java5 5((ï
+$test.main(String[])?data@54.17:54.21VARIABLEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java6 6("
+typeint"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>*data2S
+intTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java6 6(•
+&test.main(String[])?number@62.15:62.21VARIABLEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java> >("
+typeString"
+isFinalfalse" 
+declarationStringŠ<mark class="modifier"> </mark>String <mark class="class-field">number</mark> = Integer.toString(Integer.parseInt(convert(list.head)) * 2)*number2V
+StringTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java> >(2t
+$test.main(String[])?list@53.19:53.23CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java>A >(Eß
+#test.main(String[])?ans@65.19:65.22VARIABLEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaA A("
+type
+LinkedList"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>LinkedList <mark class="class-field">ans</mark> = new LinkedList()*ans2Z
+
+LinkedListTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaA A(2g
+LinkedList.LinkedList()CALLF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaA A('ê
+!test.main(String[])?i@66.17:66.18VARIABLEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaB B("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2S
+intTYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.javaB B(•
+test.main(String[])!args	PARAMETERF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java3% 3()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2X
+String[]TYPEF
+<C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\test.java3 3($

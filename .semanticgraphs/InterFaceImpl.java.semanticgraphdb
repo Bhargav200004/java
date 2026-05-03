@@ -1,0 +1,313 @@
+
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.javaÇ
+InterFaceImplCLASS]
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java("
+packageInterFaceImpl"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier">public </mark><mark class="modifier">class </mark>InterFaceImpl"
+accesspublic*InterFaceImpl2é
+InterFaceImpl.main(String[])DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java3 3(2ç
+InterFaceImpl.CarsFunctionsDECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java( ((2Ñ
+InterFaceImpl.carsDECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java. .(ë
+InterFaceImpl.main(String[])METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java3 3("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2à
+InterFaceImpl.toyota.toyota()CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java4 4(2Ñ
+InterFaceImpl.tata.tata()CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java5 5(2ñ
++InterFaceImpl.main(String[])?t1@52.15:52.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java7 7(
+2ñ
++InterFaceImpl.main(String[])?t1@52.15:52.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java8 8(
+2ñ
++InterFaceImpl.main(String[])?t1@52.15:52.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java9 9(2ñ
++InterFaceImpl.main(String[])?t2@53.13:53.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java; ;(
+2ñ
++InterFaceImpl.main(String[])?t2@53.13:53.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java< <(
+2ñ
++InterFaceImpl.main(String[])?t2@53.13:53.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java= =(2ë
+!InterFaceImpl.main(String[])!args	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java3% 3()2ù
++InterFaceImpl.main(String[])?t1@52.15:52.17DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java4 4(2ù
++InterFaceImpl.main(String[])?t2@53.13:53.15DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java5 5(2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java3 3(ª
++InterFaceImpl.main(String[])?t1@52.15:52.17VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java4 4("
+typetoyota"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>toyota <mark class="class-field">t1</mark> = new toyota()*t12
+InterFaceImpl.toyotaTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java4 4(2à
+InterFaceImpl.toyota.toyota()CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java4 4(Ø
++InterFaceImpl.main(String[])?t2@53.13:53.15VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java5 5("
+typetata"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>tata <mark class="class-field">t2</mark> = new tata()*t22}
+InterFaceImpl.tataTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java5 5(2Ñ
+InterFaceImpl.tata.tata()CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java5 5(‘
+!InterFaceImpl.main(String[])!args	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java3% 3()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2s
+String[]TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java3 3($—
+InterFaceImpl.tataCLASSa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java ("
+packageInterFaceImpl"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ó
+declarationStringÅ<mark class="modifier"> </mark><mark class="modifier">class </mark>tata<mark class="modifier"><br>implements </mark>CarsFunctions"
+accesspackage_private*tata2å
+InterFaceImpl.tata.start()DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (2í
+ InterFaceImpl.tata.engineStart()DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java
+ 
+(2è
+InterFaceImpl.tata.sound(int)DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (2à
+InterFaceImpl.CarsFunctionsEXTENDa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java! (.ß
+InterFaceImpl.tata.start()METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java ("
+isFinalfalse"Ø
+declarationStringô<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">start</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*start2í
+#InterFaceImpl.CarsFunctions.start()OVERRIDEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (ø
+ InterFaceImpl.tata.engineStart()METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java
+ 
+("
+isFinalfalse"µ
+declarationStringü<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">engineStart</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*engineStart2ò
+)InterFaceImpl.CarsFunctions.engineStart()OVERRIDEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java
+ 
+(2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java
+ 
+(¯
+InterFaceImpl.tata.sound(int)METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java ("
+isFinalfalse"’
+declarationStringø<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">sound</mark>(<mark class="modifier">int</mark> value)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*sound2é
+#InterFaceImpl.tata.sound(int)!valueCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (2ï
+&InterFaceImpl.CarsFunctions.sound(int)OVERRIDEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (2ì
+#InterFaceImpl.tata.sound(int)!value	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java ("2u
+intRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (Á
+#InterFaceImpl.tata.sound(int)!value	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (""
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> value*value2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (›
+InterFaceImpl.toyotaCLASSa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java ("
+packageInterFaceImpl"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ô
+declarationStringÉ<mark class="modifier"> </mark><mark class="modifier">class </mark>toyota<mark class="modifier"><br>implements </mark>CarsFunctions"
+accesspackage_private*toyota2é
+InterFaceImpl.toyota.start()DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (2î
+"InterFaceImpl.toyota.engineStart()DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (2ë
+InterFaceImpl.toyota.sound(int)DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java" "(2à
+InterFaceImpl.CarsFunctionsEXTENDa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java# (0©
+InterFaceImpl.toyota.start()METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java ("
+isFinalfalse"Ø
+declarationStringô<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">start</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*start2í
+#InterFaceImpl.CarsFunctions.start()OVERRIDEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (¡
+"InterFaceImpl.toyota.engineStart()METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java ("
+isFinalfalse"µ
+declarationStringü<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">engineStart</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*engineStart2ò
+)InterFaceImpl.CarsFunctions.engineStart()OVERRIDEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java (˛
+InterFaceImpl.toyota.sound(int)METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java" "("
+isFinalfalse"’
+declarationStringø<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">sound</mark>(<mark class="modifier">int</mark> value)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*sound2ê
+%InterFaceImpl.toyota.sound(int)!valueCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java# #(2ï
+&InterFaceImpl.CarsFunctions.sound(int)OVERRIDEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java" "(2ï
+%InterFaceImpl.toyota.sound(int)!value	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java" "("2u
+intRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java" "(È
+%InterFaceImpl.toyota.sound(int)!value	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java" "(""
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> value*value2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java" "(ƒ
+InterFaceImpl.CarsFunctionsTRAITa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java( (("
+packageInterFaceImpl"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"i
+declarationStringT<mark class="modifier"> </mark><mark class="modifier">interface </mark>CarsFunctions"
+accesspackage_private*CarsFunctions2ï
+#InterFaceImpl.CarsFunctions.start()DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java) )(2õ
+)InterFaceImpl.CarsFunctions.engineStart()DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java* *(2ò
+&InterFaceImpl.CarsFunctions.sound(int)DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java+ +(Ó
+#InterFaceImpl.CarsFunctions.start()METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java) )("
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">start</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*start2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java) )(Å
+)InterFaceImpl.CarsFunctions.engineStart()METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java* *("
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">engineStart</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*engineStart2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java* *(∂
+&InterFaceImpl.CarsFunctions.sound(int)METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java+ +("
+isFinalfalse"°
+declarationStringã<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="method">sound</mark>(<mark class="modifier">int</mark> value)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*sound2ú
+,InterFaceImpl.CarsFunctions.sound(int)!value	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java+ +(2u
+intRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java+ +(
+,InterFaceImpl.CarsFunctions.sound(int)!value	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java+ +("
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> value*value2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java+ +(ı
+InterFaceImpl.carsTRAITa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java. .("
+packageInterFaceImpl"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier"> </mark><mark class="modifier">interface </mark>cars"
+accesspackage_private*cars2å
+InterFaceImpl.cars.color()DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java/ /(2ã
+InterFaceImpl.cars.size()DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java0 0(Â
+InterFaceImpl.cars.color()METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java/ /("
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">color</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*color2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java/ /(‚
+InterFaceImpl.cars.size()METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java0 0("
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">size</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*size2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\InterFaceImpl.java0 0(

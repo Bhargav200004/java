@@ -1,0 +1,130 @@
+
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java€
+javalloop.pattern5CLASST
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java ("
+package	javalloop"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>pattern5"
+accesspublic*pattern52ê
++javalloop.pattern5.main(java.lang.String[])DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (Ú
++javalloop.pattern5.main(java.lang.String[])METHODT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2y
+java.util.Scanner.nextInt()CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2â
++java.io.PrintStream.print(java.lang.String)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2â
++java.io.PrintStream.print(java.lang.String)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2{
+java.io.PrintStream.println()CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2å
+.java.util.Scanner.Scanner(java.io.InputStream)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2ï
+7javalloop.pattern5.main(java.lang.String[])?A@6.12:6.13CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java
+ (2ó
+9javalloop.pattern5.main(java.lang.String[])?i@10.12:10.13CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java
+ 
+(2ì
+5javalloop.pattern5.main(java.lang.String[])?a@7.8:7.9CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java
+ 
+(2ó
+9javalloop.pattern5.main(java.lang.String[])?i@10.12:10.13CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java
+ 
+(2ó
+9javalloop.pattern5.main(java.lang.String[])?j@11.16:11.17CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2ì
+5javalloop.pattern5.main(java.lang.String[])?a@7.8:7.9CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2ó
+9javalloop.pattern5.main(java.lang.String[])?i@10.12:10.13CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2ó
+9javalloop.pattern5.main(java.lang.String[])?j@11.16:11.17CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2ó
+9javalloop.pattern5.main(java.lang.String[])?j@14.16:14.17CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2ó
+9javalloop.pattern5.main(java.lang.String[])?i@10.12:10.13CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2ó
+9javalloop.pattern5.main(java.lang.String[])?j@14.16:14.17CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2ì
+0javalloop.pattern5.main(java.lang.String[])!args	PARAMETERT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java# ()2ú
+7javalloop.pattern5.main(java.lang.String[])?A@6.12:6.13DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2ö
+5javalloop.pattern5.main(java.lang.String[])?a@7.8:7.9DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (	2û
+9javalloop.pattern5.main(java.lang.String[])?i@10.12:10.13DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java
+ 
+(2û
+9javalloop.pattern5.main(java.lang.String[])?j@11.16:11.17DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2û
+9javalloop.pattern5.main(java.lang.String[])?j@14.16:14.17DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2i
+voidRETURN_TYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (∏
+7javalloop.pattern5.main(java.lang.String[])?A@6.12:6.13VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java ("
+typeScanner"
+isFinalfalse"w
+declarationStringb<mark class="modifier"> </mark>Scanner <mark class="class-field">A</mark> = new Scanner(System.in)*A2o
+java.util.ScannerTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2å
+.java.util.Scanner.Scanner(java.io.InputStream)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (∏
+5javalloop.pattern5.main(java.lang.String[])?a@7.8:7.9VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (	"
+typeint"
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = A.nextInt()*a2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2y
+java.util.Scanner.nextInt()CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (2ï
+7javalloop.pattern5.main(java.lang.String[])?A@6.12:6.13CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java
+ (û
+9javalloop.pattern5.main(java.lang.String[])?i@10.12:10.13VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java
+ 
+("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java
+ 
+(û
+9javalloop.pattern5.main(java.lang.String[])?j@11.16:11.17VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (û
+9javalloop.pattern5.main(java.lang.String[])?j@14.16:14.17VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java (”
+0javalloop.pattern5.main(java.lang.String[])!args	PARAMETERT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java# ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2p
+java.lang.String[]TYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern5.java ()

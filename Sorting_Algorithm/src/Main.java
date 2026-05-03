@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Main {
 
     public static int[] twoSum(int[] nums, int target) {
@@ -24,9 +26,19 @@ public class Main {
 
 
     }
+
+    static class Index{
+        int row;
+        int col;
+        Index(int row , int col){
+            this.row = row;
+            this.col = col;
+        }
+    }
     public static void main(String[] args) {
-        int[]arr={1,2,3,4,5,6,7,8};
-        int target=6;
-        twoSum(arr,target);
+//        int[]arr={1,2,3,4,5,6,7,8};
+//        int target=6;
+//        twoSum(arr,target);
+        
     }
 }

@@ -1,0 +1,24 @@
+
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I1.java«
+InterFace.I1TRAIT]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I1.java ("
+package	InterFace"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier">public </mark><mark class="modifier">interface </mark>I1"
+accesspublic*I12Å
+InterFace.I1.fun1()DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I1.java	 (‘
+InterFace.I1.fun1()METHOD]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I1.java	 ("
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">fun1</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*fun12r
+voidRETURN_TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I1.java (

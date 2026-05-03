@@ -1,0 +1,210 @@
+
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java∫
+CodeDecodeProblemCLASS`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java ("
+packageCodeDecodeProblem"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"o
+declarationStringZ<mark class="modifier">public </mark><mark class="modifier">class </mark>CodeDecodeProblem"
+accesspublic*CodeDecodeProblem2°
+0CodeDecodeProblem.no_of_ways(String, int, int[])DECLARATION`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (!2ë
+ CodeDecodeProblem.main(String[])DECLARATION`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2í
+!CodeDecodeProblem?calls@4.23:4.28DECLARATION`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (∑0
+0CodeDecodeProblem.no_of_ways(String, int, int[])METHOD`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (!"
+isFinalfalse"ˇ
+declarationStringÈ<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">no_of_ways</mark>(String number<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> idx<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark>[] dp)"
+isStatictrue"
+accessprivate"
+
+isAbstractfalse"
+typeint*
+no_of_ways2ö
+0CodeDecodeProblem.no_of_ways(String, int, int[])CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java ($2ö
+0CodeDecodeProblem.no_of_ways(String, int, int[])CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java ( 2ã
+!CodeDecodeProblem?calls@4.23:4.28CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2û
+4CodeDecodeProblem.no_of_ways(String, int, int[])!idxCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java
+ 
+(2ù
+3CodeDecodeProblem.no_of_ways(String, int, int[])!dpCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2û
+4CodeDecodeProblem.no_of_ways(String, int, int[])!idxCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2ù
+3CodeDecodeProblem.no_of_ways(String, int, int[])!dpCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java" ($2û
+4CodeDecodeProblem.no_of_ways(String, int, int[])!idxCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java% ((2°
+7CodeDecodeProblem.no_of_ways(String, int, int[])!numberCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2û
+4CodeDecodeProblem.no_of_ways(String, int, int[])!idxCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2≤
+HCodeDecodeProblem.no_of_ways(String, int, int[])?not_combine@14.12:14.23CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2°
+7CodeDecodeProblem.no_of_ways(String, int, int[])!numberCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java% (+2û
+4CodeDecodeProblem.no_of_ways(String, int, int[])!idxCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java. (12ù
+3CodeDecodeProblem.no_of_ways(String, int, int[])!dpCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java8 (:2°
+7CodeDecodeProblem.no_of_ways(String, int, int[])!numberCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2û
+4CodeDecodeProblem.no_of_ways(String, int, int[])!idxCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2°
+7CodeDecodeProblem.no_of_ways(String, int, int[])!numberCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java- (32û
+4CodeDecodeProblem.no_of_ways(String, int, int[])!idxCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java; (>2°
+7CodeDecodeProblem.no_of_ways(String, int, int[])!numberCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.javaN (T2û
+4CodeDecodeProblem.no_of_ways(String, int, int[])!idxCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java\ (_2Æ
+DCodeDecodeProblem.no_of_ways(String, int, int[])?combine@18.12:18.19CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2°
+7CodeDecodeProblem.no_of_ways(String, int, int[])!numberCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java! ('2û
+4CodeDecodeProblem.no_of_ways(String, int, int[])!idxCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java* (-2ù
+3CodeDecodeProblem.no_of_ways(String, int, int[])!dpCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java4 (62ù
+3CodeDecodeProblem.no_of_ways(String, int, int[])!dpCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2û
+4CodeDecodeProblem.no_of_ways(String, int, int[])!idxCALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2≤
+HCodeDecodeProblem.no_of_ways(String, int, int[])?not_combine@14.12:14.23CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java ($2Æ
+DCodeDecodeProblem.no_of_ways(String, int, int[])?combine@18.12:18.19CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java' (.2¶
+7CodeDecodeProblem.no_of_ways(String, int, int[])!number	PARAMETER`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java) (/2£
+4CodeDecodeProblem.no_of_ways(String, int, int[])!idx	PARAMETER`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java6 (92¢
+3CodeDecodeProblem.no_of_ways(String, int, int[])!dp	PARAMETER`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.javaC (E2π
+HCodeDecodeProblem.no_of_ways(String, int, int[])?not_combine@14.12:14.23DECLARATION`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2µ
+DCodeDecodeProblem.no_of_ways(String, int, int[])?combine@18.12:18.19DECLARATION`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2t
+intRETURN_TYPE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (⁄
+HCodeDecodeProblem.no_of_ways(String, int, int[])?not_combine@14.12:14.23VARIABLE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java ("
+typeint"
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">not_combine</mark> = 0*not_combine2m
+intTYPE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (Œ
+DCodeDecodeProblem.no_of_ways(String, int, int[])?combine@18.12:18.19VARIABLE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java ("
+typeint"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">combine</mark> = 0*combine2m
+intTYPE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (Ê
+7CodeDecodeProblem.no_of_ways(String, int, int[])!number	PARAMETER`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java) (/"
+typeString"
+isFinalfalse""
+declarationStringString number*number2p
+StringTYPE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java" ((Ú
+4CodeDecodeProblem.no_of_ways(String, int, int[])!idx	PARAMETER`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java6 (9"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> idx*idx2m
+intTYPE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java2 (5ı
+3CodeDecodeProblem.no_of_ways(String, int, int[])!dp	PARAMETER`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.javaC (E"
+typeint[]"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark>[] dp*dp2o
+int[]TYPE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java< (BÅ
+ CodeDecodeProblem.main(String[])METHOD`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ã
+!java.util.Arrays.fill(int[], int)CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2ö
+0CodeDecodeProblem.no_of_ways(String, int, int[])CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (%2ù
+3CodeDecodeProblem.main(String[])?number@27.15:27.21CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2ò
+.CodeDecodeProblem.main(String[])?n@28.12:28.13CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2ô
+/CodeDecodeProblem.main(String[])?dp@29.15:29.17CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2ù
+3CodeDecodeProblem.main(String[])?number@27.15:27.21CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java& (,2ò
+.CodeDecodeProblem.main(String[])?n@28.12:28.13CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java/ (02ô
+/CodeDecodeProblem.main(String[])?dp@29.15:29.17CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java7 (92ã
+!CodeDecodeProblem?calls@4.23:4.28CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java   ( 2î
+%CodeDecodeProblem.main(String[])!args	PARAMETER`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java% ()2§
+3CodeDecodeProblem.main(String[])?number@27.15:27.21DECLARATION`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2ü
+.CodeDecodeProblem.main(String[])?n@28.12:28.13DECLARATION`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2†
+/CodeDecodeProblem.main(String[])?dp@29.15:29.17DECLARATION`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2u
+voidRETURN_TYPE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (¨
+3CodeDecodeProblem.main(String[])?number@27.15:27.21VARIABLE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java ("
+typeString"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>String <mark class="class-field">number</mark> = "115626"*number2p
+StringTYPE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (⁄
+.CodeDecodeProblem.main(String[])?n@28.12:28.13VARIABLE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java ("
+typeint"
+isFinalfalse"ä
+declarationStringu<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = number.length()*n2m
+intTYPE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2ù
+3CodeDecodeProblem.main(String[])?number@27.15:27.21CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (ˆ
+/CodeDecodeProblem.main(String[])?dp@29.15:29.17VARIABLE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java ("
+typeint"
+isFinalfalse"ß
+declarationStringë<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">dp</mark> = new <mark class="modifier">int</mark>[n]*dp2o
+int[]TYPE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (2ò
+.CodeDecodeProblem.main(String[])?n@28.12:28.13CALL`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (÷
+%CodeDecodeProblem.main(String[])!args	PARAMETER`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2r
+String[]TYPE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java ($˙
+!CodeDecodeProblem?calls@4.23:4.28VARIABLE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java ("
+isFinalfalse"
+typeint"Æ
+declarationStringò<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="class-field">calls</mark> = 0;"
+isStatictrue"
+accessprivate*calls2m
+intTYPE`
+VC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\CodeDecodeProblem.java (

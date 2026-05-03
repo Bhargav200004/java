@@ -1,0 +1,37 @@
+
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Vehicle.javaœ
+VehicleCLASSI
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Vehicle.java("
+packageVehicle"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>Vehicle"
+accesspublic*Vehicle2y
+Vehicle.getNumberOfWheels()DECLARATIONM
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Vehicle.java ($2q
+Vehicle.hasEngine()DECLARATIONM
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Vehicle.java (¾
+Vehicle.getNumberOfWheels()METHODM
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Vehicle.java ($"
+isFinalfalse"q
+declarationString\<mark class="modifier">public </mark>Integer <mark class="method">getNumberOfWheels</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeInteger*getNumberOfWheels2e
+IntegerRETURN_TYPEM
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Vehicle.java (¦
+Vehicle.hasEngine()METHODM
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Vehicle.java ("
+isFinalfalse"i
+declarationStringT<mark class="modifier">public </mark>Boolean <mark class="method">hasEngine</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeBoolean*	hasEngine2e
+BooleanRETURN_TYPEM
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Vehicle.java (

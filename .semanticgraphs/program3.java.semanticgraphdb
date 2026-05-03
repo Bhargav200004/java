@@ -1,0 +1,320 @@
+
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.javaŸ
+program3CLASSW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java ("
+packageprogram3"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>program3"
+accesspublic*program32Ñ
+program3.reverseArray(int[])DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2ã
+#program3.swapArray(int[], int, int)DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2|
+program3.swap(int[])DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2Ç
+program3.printarray(int[])DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java, ,(2
+program3.main(String[])DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java4 4(¸
+program3.reverseArray(int[])METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java ("
+isFinalfalse"œ
+declarationStringπ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[] <mark class="method">reverseArray</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint[]*reverseArray2Å
+ program3.reverseArray(int[])!arrCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2â
+(program3.reverseArray(int[])?l@6.12:6.13CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2â
+(program3.reverseArray(int[])?l@6.12:6.13CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2ã
+*program3.reverseArray(int[])?i@12.17:12.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2ã
+*program3.reverseArray(int[])?i@12.17:12.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2ã
+*program3.reverseArray(int[])?ans@7.15:7.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2â
+(program3.reverseArray(int[])?j@8.13:8.14CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2Å
+ program3.reverseArray(int[])!arrCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2ã
+*program3.reverseArray(int[])?i@12.17:12.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2ã
+*program3.reverseArray(int[])?ans@7.15:7.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2Ü
+ program3.reverseArray(int[])!arr	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java& ()2ê
+(program3.reverseArray(int[])?l@6.12:6.13DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2í
+*program3.reverseArray(int[])?ans@7.15:7.18DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2ê
+(program3.reverseArray(int[])?j@8.13:8.14DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2í
+*program3.reverseArray(int[])?i@12.17:12.18DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2m
+int[]RETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (°
+(program3.reverseArray(int[])?l@6.12:6.13VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java ("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">l</mark> = arr.length*l2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2Å
+ program3.reverseArray(int[])!arrCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (“
+*program3.reverseArray(int[])?ans@7.15:7.18VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java ("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">ans</mark> = new <mark class="modifier">int</mark>[l]*ans2f
+int[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2â
+(program3.reverseArray(int[])?l@6.12:6.13CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (ì
+(program3.reverseArray(int[])?j@8.13:8.14VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (¶
+*program3.reverseArray(int[])?i@12.17:12.18VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = l - 1*i2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2â
+(program3.reverseArray(int[])?l@6.12:6.13CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (“
+ program3.reverseArray(int[])!arr	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java& ()"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2f
+int[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (%û
+#program3.swapArray(int[], int, int)METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java ("
+isFinalfalse"ç
+declarationString˜<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">swapArray</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> i<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> j)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*	swapArray2à
+'program3.swapArray(int[], int, int)!arrCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2Ü
+%program3.swapArray(int[], int, int)!iCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2à
+'program3.swapArray(int[], int, int)!arrCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2Ü
+%program3.swapArray(int[], int, int)!iCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2à
+'program3.swapArray(int[], int, int)!arrCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2Ü
+%program3.swapArray(int[], int, int)!jCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2à
+'program3.swapArray(int[], int, int)!arrCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2Ü
+%program3.swapArray(int[], int, int)!jCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2í
+1program3.swapArray(int[], int, int)?t@23.12:23.13CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2ç
+'program3.swapArray(int[], int, int)!arr	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java ("2ã
+%program3.swapArray(int[], int, int)!i	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java( ()2ã
+%program3.swapArray(int[], int, int)!j	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java. (/2ô
+1program3.swapArray(int[], int, int)?t@23.12:23.13DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2l
+voidRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (∂
+1program3.swapArray(int[], int, int)?t@23.12:23.13VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">t</mark> = arr[i]*t2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2à
+'program3.swapArray(int[], int, int)!arrCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2Ü
+%program3.swapArray(int[], int, int)!iCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (Ÿ
+'program3.swapArray(int[], int, int)!arr	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (""
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2f
+int[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (Õ
+%program3.swapArray(int[], int, int)!i	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java( ()"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> i*i2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java$ ('Õ
+%program3.swapArray(int[], int, int)!j	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java. (/"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> j*j2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java* (-—
+program3.swap(int[])METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java ("
+isFinalfalse"∆
+declarationString∞<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">swap</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*swap2Ñ
+#program3.swapArray(int[], int, int)CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java% %(2y
+program3.swap(int[])!arrCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java# #(2É
+"program3.swap(int[])?i@35.13:35.14CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java$ $(2É
+"program3.swap(int[])?j@35.17:35.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java$ $(2y
+program3.swap(int[])!arrCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java% %(2É
+"program3.swap(int[])?i@35.13:35.14CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java% %(2É
+"program3.swap(int[])?j@35.17:35.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java% %(2É
+"program3.swap(int[])?i@35.13:35.14CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java& &(2É
+"program3.swap(int[])?j@35.17:35.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java' '(2~
+program3.swap(int[])!arr	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (2ä
+"program3.swap(int[])?i@35.13:35.14DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java# #(2ä
+"program3.swap(int[])?j@35.17:35.18DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java# #(2l
+voidRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (û
+"program3.swap(int[])?i@35.13:35.14VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java# #("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0, j = arr.length*i2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java#	 #(ô
+"program3.swap(int[])?j@35.17:35.18VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java# #("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0, j = arr.length*j2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java#	 #(2y
+program3.swap(int[])!arrCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java# #( 
+program3.swap(int[])!arr	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java ("
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2f
+int[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java (Ë
+program3.printarray(int[])METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java, ,("
+isFinalfalse"Ã
+declarationString∂<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">printarray</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*
+printarray2â
+(program3.printarray(int[])?i@45.17:45.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java- -(2
+program3.printarray(int[])!arrCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java- -(2â
+(program3.printarray(int[])?i@45.17:45.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java-" -(#2
+program3.printarray(int[])!arrCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java. .( 2â
+(program3.printarray(int[])?i@45.17:45.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java.! .("2Ñ
+program3.printarray(int[])!arr	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java, ,(%2ê
+(program3.printarray(int[])?i@45.17:45.18DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java- -(2l
+voidRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java, ,(ì
+(program3.printarray(int[])?i@45.17:45.18VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java- -("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java- -(–
+program3.printarray(int[])!arr	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java, ,(%"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2f
+int[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java, ,(%≈
+program3.main(String[])METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java4 4("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2{
+program3.printarray(int[])CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java9 9(2u
+program3.swap(int[])CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java; ;(2à
+'program3.main(String[])?arr@53.12:53.17CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java7 7(2à
+'program3.main(String[])?ans@54.12:54.17CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java7- 7(02à
+'program3.main(String[])?arr@53.12:53.17CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java9 9(2à
+'program3.main(String[])?ans@54.12:54.17CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java; ;(2Ç
+program3.main(String[])!args	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java4% 4()2è
+'program3.main(String[])?arr@53.12:53.17DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java5 5(2è
+'program3.main(String[])?ans@54.12:54.17DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java6 6(2l
+voidRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java4 4(´
+'program3.main(String[])?arr@53.12:53.17VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java5 5("
+typeint"
+isFinalfalse"ê
+declarationString{<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = { 1, 2, 3, 4, 5 }*arr2f
+int[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java5 5(√
+'program3.main(String[])?ans@54.12:54.17VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java6 6("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">ans</mark> = new <mark class="modifier">int</mark>[3]*ans2f
+int[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java6 6(ª
+program3.main(String[])!args	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java4% 4()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2i
+String[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\misclaniousproblem\src\program3.java4 4($

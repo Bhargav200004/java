@@ -1,0 +1,689 @@
+
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java∞
+SingleLinkedList.ImplementationCLASSg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ("
+packageSingleLinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier">public </mark><mark class="modifier">class </mark>Implementation"
+accesspublic*Implementation2≤
+8SingleLinkedList.Implementation.main(java.lang.String[])DECLARATIONi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaÜ Ü(Ì:
+8SingleLinkedList.Implementation.main(java.lang.String[])METHODi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaÜ Ü("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¨
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaà à(2¨
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaâ â(2¨
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaä ä(2•
+2SingleLinkedList.Implementation.linkList.display()CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaå å(2ê
+java.io.PrintStream.println()CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaç ç(2≤
+?SingleLinkedList.Implementation.linkList.insertAtBeginning(int)CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaè è("2≤
+?SingleLinkedList.Implementation.linkList.insertAtBeginning(int)CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaê ê("2≥
+@SingleLinkedList.Implementation.linkList.insertAtIndex(int, int)CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaí í(2≥
+@SingleLinkedList.Implementation.linkList.insertAtIndex(int, int)CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaì ì(2Æ
+;SingleLinkedList.Implementation.linkList.deleteAtIndex(int)CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaï ï(2ì
+ java.io.PrintStream.println(int)CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javañ ñ(2´
+8SingleLinkedList.Implementation.linkList.getAtIndex(int)CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javañ$ ñ(.2¥
+Ajava.io.PrintStream.printf(java.lang.String, java.lang.Object...)CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaò ò(2¥
+Ajava.io.PrintStream.printf(java.lang.String, java.lang.Object...)CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaô ô(2•
+2SingleLinkedList.Implementation.linkList.display()CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaú ú(2¥
+Ajava.io.PrintStream.printf(java.lang.String, java.lang.Object...)CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaù ù(2¢
+/SingleLinkedList.Implementation.linkList.size()CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaùC ù(G2¶
+3SingleLinkedList.Implementation.linkList.linkList()CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaá  á((2¬
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaà à(2¬
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaâ â(2¬
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaä ä(2¬
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaå å(2¬
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaè è(2¬
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaê ê(2¬
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaí í(2¬
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaì ì(2¬
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaï ï(2¬
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javañ ñ(#2¬
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaò- ò(52¬
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaô- ô(52¬
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaú ú(2¬
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaù: ù(B2®
+5SingleLinkedList.Implementation.Node?data@14.12:14.16CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaò; ò(?2¨
+9SingleLinkedList.Implementation.linkList?tail@24.13:24.17CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaò6 ò(:2®
+5SingleLinkedList.Implementation.Node?data@14.12:14.16CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaô; ô(?2¨
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaô6 ô(:2µ
+=SingleLinkedList.Implementation.main(java.lang.String[])!args	PARAMETERi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaÜ% Ü()2…
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25DECLARATIONi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaá á(2~
+voidRETURN_TYPEi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaÜ Ü(¥
+OSingleLinkedList.Implementation.main(java.lang.String[])?linkList@135.17:135.25VARIABLEi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaá á("
+typelinkList"
+isFinalfalse"w
+declarationStringb<mark class="modifier"> </mark>linkList <mark class="class-field">linkList</mark> = new linkList()*linkList2õ
+(SingleLinkedList.Implementation.linkListTYPEi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaá á(2¶
+3SingleLinkedList.Implementation.linkList.linkList()CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaá  á((ã
+=SingleLinkedList.Implementation.main(java.lang.String[])!args	PARAMETERi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaÜ% Ü()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ö
+java.lang.String[]TYPEi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaÜ Ü($á
+$SingleLinkedList.Implementation.NodeCLASSg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ("*
+packageSingleLinkedList.Implementation"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2¶
+.SingleLinkedList.Implementation.Node.Node(int)DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (2≠
+5SingleLinkedList.Implementation.Node?data@14.12:14.16DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (2≠
+5SingleLinkedList.Implementation.Node?next@15.13:15.17DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (≈
+.SingleLinkedList.Implementation.Node.Node(int)CONSTRUCTORg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2§
+3SingleLinkedList.Implementation.Node.Node(int)!dataCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (2¶
+5SingleLinkedList.Implementation.Node?data@14.12:14.16CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (2©
+3SingleLinkedList.Implementation.Node.Node(int)!data	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (2ú
+$SingleLinkedList.Implementation.NodeRETURN_TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (Å
+3SingleLinkedList.Implementation.Node.Node(int)!data	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (
+5SingleLinkedList.Implementation.Node?data@14.12:14.16VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (ˆ
+5SingleLinkedList.Implementation.Node?next@15.13:15.17VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">next</mark>"
+isStaticfalse"
+accesspackage_private*next2ï
+$SingleLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (è
+(SingleLinkedList.Implementation.linkListCLASSg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ("*
+packageSingleLinkedList.Implementation"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier"> </mark><mark class="modifier">class </mark>linkList"
+accesspackage_private*linkList2±
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (2∑
+?SingleLinkedList.Implementation.linkList.insertAtBeginning(int)DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java) )(2∏
+@SingleLinkedList.Implementation.linkList.insertAtIndex(int, int)DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java7 7(2∞
+8SingleLinkedList.Implementation.linkList.getAtIndex(int)DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaP P(2≥
+;SingleLinkedList.Implementation.linkList.deleteAtIndex(int)DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java` `(2™
+2SingleLinkedList.Implementation.linkList.display()DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaq q(2ß
+/SingleLinkedList.Implementation.linkList.size()DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaz z(2±
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (2±
+9SingleLinkedList.Implementation.linkList?tail@24.13:24.17DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (2±
+9SingleLinkedList.Implementation.linkList?size@25.12:25.16DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (ÿ
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)METHODg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ("
+isFinalfalse"ß
+declarationStringë<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">insertAtEnd</mark>(<mark class="modifier">int</mark> data)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*insertAtEnd2ü
+.SingleLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ( 2Ø
+>SingleLinkedList.Implementation.linkList.insertAtEnd(int)!dataCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java! (%2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java   (2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java! !(2ª
+JSingleLinkedList.Implementation.linkList.insertAtEnd(int)?temp@29.17:29.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java! !(2™
+9SingleLinkedList.Implementation.linkList?tail@24.13:24.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java# #(2ª
+JSingleLinkedList.Implementation.linkList.insertAtEnd(int)?temp@29.17:29.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java# #( 2™
+9SingleLinkedList.Implementation.linkList?tail@24.13:24.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java% %(2ª
+JSingleLinkedList.Implementation.linkList.insertAtEnd(int)?temp@29.17:29.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java% %(2™
+9SingleLinkedList.Implementation.linkList?size@25.12:25.16CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java& &(2¶
+5SingleLinkedList.Implementation.Node?next@15.13:15.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java# #(2¥
+>SingleLinkedList.Implementation.linkList.insertAtEnd(int)!data	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (!2¬
+JSingleLinkedList.Implementation.linkList.insertAtEnd(int)?temp@29.17:29.21DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (2|
+voidRETURN_TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (¬
+JSingleLinkedList.Implementation.linkList.insertAtEnd(int)?temp@29.17:29.21VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ("
+typeNode"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = new Node(data)*temp2ï
+$SingleLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (2ü
+.SingleLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ( 2Ø
+>SingleLinkedList.Implementation.linkList.insertAtEnd(int)!dataCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java! (%å
+>SingleLinkedList.Implementation.linkList.insertAtEnd(int)!data	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (!"
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (ˇ
+?SingleLinkedList.Implementation.linkList.insertAtBeginning(int)METHODg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java) )("
+isFinalfalse"≠
+declarationStringó<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">insertAtBeginning</mark>(<mark class="modifier">int</mark> data)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*insertAtBeginning2ü
+.SingleLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java* *( 2µ
+DSingleLinkedList.Implementation.linkList.insertAtBeginning(int)!dataCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java*! *(%2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java, ,(2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java- -(2¡
+PSingleLinkedList.Implementation.linkList.insertAtBeginning(int)?temp@42.17:42.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java- -(2™
+9SingleLinkedList.Implementation.linkList?tail@24.13:24.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java. .(2¡
+PSingleLinkedList.Implementation.linkList.insertAtBeginning(int)?temp@42.17:42.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java. .(2¡
+PSingleLinkedList.Implementation.linkList.insertAtBeginning(int)?temp@42.17:42.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java0 0(2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java0 0( 2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java1 1(2¡
+PSingleLinkedList.Implementation.linkList.insertAtBeginning(int)?temp@42.17:42.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java1 1(2™
+9SingleLinkedList.Implementation.linkList?size@25.12:25.16CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java3 3(2¶
+5SingleLinkedList.Implementation.Node?next@15.13:15.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java0 0(2∫
+DSingleLinkedList.Implementation.linkList.insertAtBeginning(int)!data	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java)# )('2»
+PSingleLinkedList.Implementation.linkList.insertAtBeginning(int)?temp@42.17:42.21DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java* *(2|
+voidRETURN_TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java) )(Œ
+PSingleLinkedList.Implementation.linkList.insertAtBeginning(int)?temp@42.17:42.21VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java* *("
+typeNode"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = new Node(data)*temp2ï
+$SingleLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java* *(2ü
+.SingleLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java* *( 2µ
+DSingleLinkedList.Implementation.linkList.insertAtBeginning(int)!dataCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java*! *(%í
+DSingleLinkedList.Implementation.linkList.insertAtBeginning(int)!data	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java)# )('"
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java) )("˙5
+@SingleLinkedList.Implementation.linkList.insertAtIndex(int, int)METHODg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java7 7("
+isFinalfalse"é
+declarationString¯<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">insertAtIndex</mark>(<mark class="modifier">int</mark> data<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> index)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*insertAtIndex2∞
+?SingleLinkedList.Implementation.linkList.insertAtBeginning(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java; ;(!2†
+/SingleLinkedList.Implementation.linkList.size()CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java= =(2™
+9SingleLinkedList.Implementation.linkList.insertAtEnd(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java> >(2†
+/SingleLinkedList.Implementation.linkList.size()CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java@ @(2û
+-java.io.PrintStream.println(java.lang.String)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaA A("2û
+-java.io.PrintStream.println(java.lang.String)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaD D("2ü
+.SingleLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java8 8( 2∂
+ESingleLinkedList.Implementation.linkList.insertAtIndex(int, int)!dataCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java8! 8(%2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java9 9(2∑
+FSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)!indexCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java: :(2∂
+ESingleLinkedList.Implementation.linkList.insertAtIndex(int, int)!dataCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java;" ;(&2∑
+FSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)!indexCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java=! =(&2∂
+ESingleLinkedList.Implementation.linkList.insertAtIndex(int, int)!dataCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java> >( 2∑
+FSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)!indexCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java@  @(%2∑
+FSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)!indexCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaC C(2ø
+NSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)?i@71.21:71.22CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaG G(2∑
+FSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)!indexCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaG  G(%2ø
+NSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)?i@71.21:71.22CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaG+ G(,2ø
+NSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)?p@57.17:57.18CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaH H(2ø
+NSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)?p@57.17:57.18CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaH H(2¬
+QSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)?temp@56.17:56.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaJ J(2ø
+NSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)?p@57.17:57.18CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaJ J(2ø
+NSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)?p@57.17:57.18CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaK K(2¬
+QSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)?temp@56.17:56.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaK K(2™
+9SingleLinkedList.Implementation.linkList?size@25.12:25.16CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaL L(2¶
+5SingleLinkedList.Implementation.Node?next@15.13:15.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaH H(2¶
+5SingleLinkedList.Implementation.Node?next@15.13:15.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaJ J(2¶
+5SingleLinkedList.Implementation.Node?next@15.13:15.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaJ J(2¶
+5SingleLinkedList.Implementation.Node?next@15.13:15.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaK K(2ª
+ESingleLinkedList.Implementation.linkList.insertAtIndex(int, int)!data	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java7 7(#2º
+FSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)!index	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java7) 7(.2…
+QSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)?temp@56.17:56.21DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java8 8(2∆
+NSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)?p@57.17:57.18DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java9 9(2∆
+NSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)?i@71.21:71.22DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaG G(2|
+voidRETURN_TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java7 7(–
+QSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)?temp@56.17:56.21VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java8 8("
+typeNode"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = new Node(data)*temp2ï
+$SingleLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java8 8(2ü
+.SingleLinkedList.Implementation.Node.Node(int)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java8 8( 2∂
+ESingleLinkedList.Implementation.linkList.insertAtIndex(int, int)!dataCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java8! 8(%è
+NSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)?p@57.17:57.18VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java9 9("
+typeNode"
+isFinalfalse"b
+declarationStringM<mark class="modifier"> </mark>Node <mark class="class-field">p</mark> = head*p2ï
+$SingleLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java9 9(2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java9 9(Ÿ
+NSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)?i@71.21:71.22VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaG G("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaG G(ì
+ESingleLinkedList.Implementation.linkList.insertAtIndex(int, int)!data	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java7 7(#"
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java7 7(ñ
+FSingleLinkedList.Implementation.linkList.insertAtIndex(int, int)!index	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java7) 7(."
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> index*index2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java7% 7((ﬁ
+8SingleLinkedList.Implementation.linkList.getAtIndex(int)METHODg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaP P("
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="method">getAtIndex</mark>(<mark class="modifier">int</mark> index)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*
+getAtIndex2†
+/SingleLinkedList.Implementation.linkList.size()CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaT T(2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaR R(2Ø
+>SingleLinkedList.Implementation.linkList.getAtIndex(int)!indexCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaT T(2Ø
+>SingleLinkedList.Implementation.linkList.getAtIndex(int)!indexCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaV V(2∑
+FSingleLinkedList.Implementation.linkList.getAtIndex(int)?i@89.21:89.22CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaY Y(2Ø
+>SingleLinkedList.Implementation.linkList.getAtIndex(int)!indexCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaY  Y(%2∑
+FSingleLinkedList.Implementation.linkList.getAtIndex(int)?i@89.21:89.22CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaY+ Y(,2∫
+ISingleLinkedList.Implementation.linkList.getAtIndex(int)?temp@82.17:82.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaZ Z(2∫
+ISingleLinkedList.Implementation.linkList.getAtIndex(int)?temp@82.17:82.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaZ Z(2∫
+ISingleLinkedList.Implementation.linkList.getAtIndex(int)?temp@82.17:82.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java\ \(2¶
+5SingleLinkedList.Implementation.Node?next@15.13:15.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaZ Z( 2¶
+5SingleLinkedList.Implementation.Node?data@14.12:14.16CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java\ \(2¥
+>SingleLinkedList.Implementation.linkList.getAtIndex(int)!index	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaP P( 2¡
+ISingleLinkedList.Implementation.linkList.getAtIndex(int)?temp@82.17:82.21DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaR R(2æ
+FSingleLinkedList.Implementation.linkList.getAtIndex(int)?i@89.21:89.22DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaY Y(2{
+intRETURN_TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaP P(ê
+ISingleLinkedList.Implementation.linkList.getAtIndex(int)?temp@82.17:82.21VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaR R("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = head*temp2ï
+$SingleLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaR R(2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaR R(—
+FSingleLinkedList.Implementation.linkList.getAtIndex(int)?i@89.21:89.22VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaY Y("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaY Y(é
+>SingleLinkedList.Implementation.linkList.getAtIndex(int)!index	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaP P( "
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> index*index2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaP P(Â'
+;SingleLinkedList.Implementation.linkList.deleteAtIndex(int)METHODg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java` `("
+isFinalfalse"™
+declarationStringî<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">deleteAtIndex</mark>(<mark class="modifier">int</mark> index)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*deleteAtIndex2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaa a(2≤
+ASingleLinkedList.Implementation.linkList.deleteAtIndex(int)!indexCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javab b(2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javac c(2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javac c(2™
+9SingleLinkedList.Implementation.linkList?size@25.12:25.16CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javad d(2º
+KSingleLinkedList.Implementation.linkList.deleteAtIndex(int)?i@103.21:103.22CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javag g(2≤
+ASingleLinkedList.Implementation.linkList.deleteAtIndex(int)!indexCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javag" g('2º
+KSingleLinkedList.Implementation.linkList.deleteAtIndex(int)?i@103.21:103.22CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javag* g(+2∫
+ISingleLinkedList.Implementation.linkList.deleteAtIndex(int)?p@97.17:97.18CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javah h(2∫
+ISingleLinkedList.Implementation.linkList.deleteAtIndex(int)?p@97.17:97.18CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javah h(2∫
+ISingleLinkedList.Implementation.linkList.deleteAtIndex(int)?p@97.17:97.18CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaj j(2∫
+ISingleLinkedList.Implementation.linkList.deleteAtIndex(int)?p@97.17:97.18CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaj j(2™
+9SingleLinkedList.Implementation.linkList?size@25.12:25.16CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javak k(2≤
+ASingleLinkedList.Implementation.linkList.deleteAtIndex(int)!indexCALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javal l(2™
+9SingleLinkedList.Implementation.linkList?size@25.12:25.16CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javal l(2™
+9SingleLinkedList.Implementation.linkList?tail@24.13:24.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javam m(2∫
+ISingleLinkedList.Implementation.linkList.deleteAtIndex(int)?p@97.17:97.18CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javam m(2¶
+5SingleLinkedList.Implementation.Node?next@15.13:15.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javac c( 2¶
+5SingleLinkedList.Implementation.Node?next@15.13:15.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javah h(2¶
+5SingleLinkedList.Implementation.Node?next@15.13:15.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaj j(2¶
+5SingleLinkedList.Implementation.Node?next@15.13:15.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaj j( 2¶
+5SingleLinkedList.Implementation.Node?next@15.13:15.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaj j(2∑
+ASingleLinkedList.Implementation.linkList.deleteAtIndex(int)!index	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java` `($2¡
+ISingleLinkedList.Implementation.linkList.deleteAtIndex(int)?p@97.17:97.18DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaa a(2√
+KSingleLinkedList.Implementation.linkList.deleteAtIndex(int)?i@103.21:103.22DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javag g(2|
+voidRETURN_TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java` `(ä
+ISingleLinkedList.Implementation.linkList.deleteAtIndex(int)?p@97.17:97.18VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaa a("
+typeNode"
+isFinalfalse"b
+declarationStringM<mark class="modifier"> </mark>Node <mark class="class-field">p</mark> = head*p2ï
+$SingleLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaa a(2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaa a(÷
+KSingleLinkedList.Implementation.linkList.deleteAtIndex(int)?i@103.21:103.22VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javag g("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javag g(ë
+ASingleLinkedList.Implementation.linkList.deleteAtIndex(int)!index	PARAMETERg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java` `($"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> index*index2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java` `(œ
+2SingleLinkedList.Implementation.linkList.display()METHODg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaq q("
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">display</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2ú
++java.io.PrintStream.print(java.lang.String)CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javau u( 2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javar r(2∂
+ESingleLinkedList.Implementation.linkList.display()?temp@114.17:114.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javat t(2∂
+ESingleLinkedList.Implementation.linkList.display()?temp@114.17:114.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javau! u(%2∂
+ESingleLinkedList.Implementation.linkList.display()?temp@114.17:114.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javav v(2∂
+ESingleLinkedList.Implementation.linkList.display()?temp@114.17:114.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javav v(2¶
+5SingleLinkedList.Implementation.Node?data@14.12:14.16CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javau& u(*2¶
+5SingleLinkedList.Implementation.Node?next@15.13:15.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javav v( 2Ω
+ESingleLinkedList.Implementation.linkList.display()?temp@114.17:114.21DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javar r(2|
+voidRETURN_TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaq q(å
+ESingleLinkedList.Implementation.linkList.display()?temp@114.17:114.21VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javar r("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = head*temp2ï
+$SingleLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javar r(2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javar r(‰
+/SingleLinkedList.Implementation.linkList.size()METHODg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaz z("
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="method">size</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*size2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java{ {(2≥
+BSingleLinkedList.Implementation.linkList.size()?temp@123.17:123.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java} }(2¥
+CSingleLinkedList.Implementation.linkList.size()?count@124.16:124.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java~ ~(2≥
+BSingleLinkedList.Implementation.linkList.size()?temp@123.17:123.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (2≥
+BSingleLinkedList.Implementation.linkList.size()?temp@123.17:123.21CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (2∂
+CSingleLinkedList.Implementation.linkList.size()?count@124.16:124.21CALLi
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaÇ Ç(2¶
+5SingleLinkedList.Implementation.Node?next@15.13:15.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ( 2∫
+BSingleLinkedList.Implementation.linkList.size()?temp@123.17:123.21DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java{ {(2ª
+CSingleLinkedList.Implementation.linkList.size()?count@124.16:124.21DECLARATIONg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java| |(2{
+intRETURN_TYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.javaz z(â
+BSingleLinkedList.Implementation.linkList.size()?temp@123.17:123.21VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java{ {("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = head*temp2ï
+$SingleLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java{ {(2™
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17CALLg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java{ {(◊
+CSingleLinkedList.Implementation.linkList.size()?count@124.16:124.21VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java| |("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">count</mark> = 0*count2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java| |(°
+9SingleLinkedList.Implementation.linkList?head@23.13:23.17VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ("
+isFinalfalse"
+typeNode"Ñ
+declarationStringo<mark class="modifier"> </mark>Node <mark class="class-field">head</mark> = <mark class="modifier">null</mark>;"
+isStaticfalse"
+accesspackage_private*head2ï
+$SingleLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (°
+9SingleLinkedList.Implementation.linkList?tail@24.13:24.17VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ("
+isFinalfalse"
+typeNode"Ñ
+declarationStringo<mark class="modifier"> </mark>Node <mark class="class-field">tail</mark> = <mark class="modifier">null</mark>;"
+isStaticfalse"
+accesspackage_private*tail2ï
+$SingleLinkedList.Implementation.NodeTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (˙
+9SingleLinkedList.Implementation.linkList?size@25.12:25.16VARIABLEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java ("
+isFinalfalse"
+typeint"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">size</mark> = 0;"
+isStaticfalse"
+accesspackage_private*size2t
+intTYPEg
+]C:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Implementation.java (

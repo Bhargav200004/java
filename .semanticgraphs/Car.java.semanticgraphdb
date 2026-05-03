@@ -1,0 +1,28 @@
+
+?C:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Car.javañ
+CarCLASSE
+?C:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Car.java("
+packageCar"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"è
+declarationStringz<mark class="modifier">public </mark><mark class="modifier">class </mark>Car<mark class="modifier"> extends </mark>Vehicle"
+accesspublic*Car2q
+Car.getNumberOfWheels()DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Car.java ($2X
+VehicleEXTENDE
+?C:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Car.java( ÷
+Car.getNumberOfWheels()METHODI
+?C:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Car.java ($"
+isFinalfalse"†
+declarationStringä<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>Integer <mark class="method">getNumberOfWheels</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeInteger*getNumberOfWheels2r
+Vehicle.getNumberOfWheels()OVERRIDEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Car.java ($2a
+IntegerRETURN_TYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Car.java (

@@ -1,0 +1,119 @@
+
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java∫
+	problem13CLASSK
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java("
+package	problem13"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>problem13"
+accesspublic*	problem132Ö
+%problem13.firstIndex(int[], int, int)DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (2x
+problem13.main(String[])DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (µ
+%problem13.firstIndex(int[], int, int)METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java ("
+isFinalfalse"ë
+declarationString˚<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">firstIndex</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> n<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> index)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*
+firstIndex2~
+%problem13.firstIndex(int[], int, int)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (2Ñ
++problem13.firstIndex(int[], int, int)!indexCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (2Ç
+)problem13.firstIndex(int[], int, int)!arrCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (2Ç
+)problem13.firstIndex(int[], int, int)!arrCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (2Ñ
++problem13.firstIndex(int[], int, int)!indexCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (2Ä
+'problem13.firstIndex(int[], int, int)!nCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (2Ñ
++problem13.firstIndex(int[], int, int)!indexCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (2Ç
+)problem13.firstIndex(int[], int, int)!arrCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (!2Ä
+'problem13.firstIndex(int[], int, int)!nCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java$ (%2Ñ
++problem13.firstIndex(int[], int, int)!indexCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java( (-2á
+)problem13.firstIndex(int[], int, int)!arr	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java! ($2Ö
+'problem13.firstIndex(int[], int, int)!n	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java+ (,2â
++problem13.firstIndex(int[], int, int)!index	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java3 (82c
+intRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (À
+)problem13.firstIndex(int[], int, int)!arr	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java! ($"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2^
+int[]TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java ( ø
+'problem13.firstIndex(int[], int, int)!n	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java+ (,"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java' (*À
++problem13.firstIndex(int[], int, int)!index	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java3 (8"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> index*index2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java/ (2É
+
+problem13.main(String[])METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2~
+%problem13.firstIndex(int[], int, int)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (%2Å
+(problem13.main(String[])?arr@18.15:18.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java& ()2
+&problem13.main(String[])?n@17.12:17.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java, (-2{
+problem13.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java% ()2Ü
+&problem13.main(String[])?n@17.12:17.13DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (2à
+(problem13.main(String[])?arr@18.15:18.18DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (2d
+voidRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (Å
+&problem13.main(String[])?n@17.12:17.13VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = 6*n2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (¨
+(problem13.main(String[])?arr@18.15:18.18VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java ("
+typeint"
+isFinalfalse"†
+declarationStringä<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = { 2, 6, 3, 6, 8, 3, 0, 5, 3, 7 }*arr2^
+int[]TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java (¨
+problem13.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2a
+String[]TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem13.java ($

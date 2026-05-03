@@ -1,0 +1,77 @@
+
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.javaì
+Arraylist.wrapperclassCLASSh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java ("
+package	Arraylist"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"j
+declarationStringU<mark class="modifier">public </mark><mark class="modifier">class </mark>wrapperclass"
+accesspublic*wrapperclass2®
+/Arraylist.wrapperclass.main(java.lang.String[])DECLARATIONh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java (†
+/Arraylist.wrapperclass.main(java.lang.String[])METHODh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ê
+java.lang.Integer.valueOf(int)CALLh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java (!2ü
+-java.io.PrintStream.println(java.lang.Object)CALLh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java (2ê
+java.lang.Float.valueOf(float)CALLh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java
+ 
+(2ü
+-java.io.PrintStream.println(java.lang.Object)CALLh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java (2≠
+;Arraylist.wrapperclass.main(java.lang.String[])?i@6.16:6.17CALLh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java (2Ø
+=Arraylist.wrapperclass.main(java.lang.String[])?f@10.14:10.15CALLh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java (2´
+4Arraylist.wrapperclass.main(java.lang.String[])!args	PARAMETERh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java% ()2¥
+;Arraylist.wrapperclass.main(java.lang.String[])?i@6.16:6.17DECLARATIONh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java (2∂
+=Arraylist.wrapperclass.main(java.lang.String[])?f@10.14:10.15DECLARATIONh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java
+ 
+(2}
+voidRETURN_TYPEh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java (Â
+;Arraylist.wrapperclass.main(java.lang.String[])?i@6.16:6.17VARIABLEh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java ("
+typeInteger"
+isFinalfalse"s
+declarationString^<mark class="modifier"> </mark>Integer <mark class="class-field">i</mark> = Integer.valueOf(5)*i2É
+java.lang.IntegerTYPEh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java (2ê
+java.lang.Integer.valueOf(int)CALLh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java (!‚
+=Arraylist.wrapperclass.main(java.lang.String[])?f@10.14:10.15VARIABLEh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java
+ 
+("
+typeFloat"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Float <mark class="class-field">f</mark> = Float.valueOf(0.5f)*f2Å
+java.lang.FloatTYPEh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java
+ 
+(2ê
+java.lang.Float.valueOf(float)CALLh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java
+ 
+(Ä
+4Arraylist.wrapperclass.main(java.lang.String[])!args	PARAMETERh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ñ
+java.lang.String[]TYPEh
+^C:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\wrapperclass.java ($

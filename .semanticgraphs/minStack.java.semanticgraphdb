@@ -1,0 +1,224 @@
+
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.javaß
+minStackCLASSJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java ("
+packageminStack"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>minStack"
+accesspublic*minStack2r
+minStack.main(String[])DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java+ +(ü
+minStack.main(String[])METHODJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java+ +("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2f
+minStack.Min.Min()CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java, ,(2{
+'minStack.main(String[])?min@44.12:44.15CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java. .(2{
+'minStack.main(String[])?min@44.12:44.15CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java/ /(2{
+'minStack.main(String[])?min@44.12:44.15CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java0 0(2{
+'minStack.main(String[])?min@44.12:44.15CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java1 1(2{
+'minStack.main(String[])?min@44.12:44.15CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java2 2(2{
+'minStack.main(String[])?min@44.12:44.15CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java3 3(2{
+'minStack.main(String[])?min@44.12:44.15CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java4 4(2{
+'minStack.main(String[])?min@44.12:44.15CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java6 6(2{
+'minStack.main(String[])?min@44.12:44.15CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java8 8(2{
+'minStack.main(String[])?min@44.12:44.15CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java9 9(2{
+'minStack.main(String[])?min@44.12:44.15CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java: :(2{
+'minStack.main(String[])?min@44.12:44.15CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java; ;(2{
+'minStack.main(String[])?min@44.12:44.15CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java= =(2u
+minStack.main(String[])!args	PARAMETERJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java+% +()2Ç
+'minStack.main(String[])?min@44.12:44.15DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java, ,(2_
+voidRETURN_TYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java+ +(◊
+'minStack.main(String[])?min@44.12:44.15VARIABLEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java, ,("
+typeMin"
+isFinalfalse"h
+declarationStringS<mark class="modifier"> </mark>Min <mark class="class-field">min</mark> = new Min()*min2`
+minStack.MinTYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java, ,(2f
+minStack.Min.Min()CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java, ,(°
+minStack.main(String[])!args	PARAMETERJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java+% +()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2\
+String[]TYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java+ +($Ì
+minStack.MinCLASSJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java ("
+packageminStack"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"[
+declarationStringF<mark class="modifier"> </mark><mark class="modifier">class </mark>Min"
+accesspackage_private*Min2q
+minStack.Min.push(int)DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java
+ 
+(2m
+minStack.Min.pop()DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2p
+minStack.Min.getMin()DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2t
+minStack.Min?st@5.24:5.26DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2u
+minStack.Min?min@6.24:6.27DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2z
+minStack.Min?minValue@8.19:8.27DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (·
+minStack.Min.push(int)METHODJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java
+ 
+("
+isFinalfalse"°
+declarationStringã<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">push</mark>(<mark class="modifier">int</mark> value)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*push2n
+minStack.Min?min@6.24:6.27CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2m
+minStack.Min?st@5.24:5.26CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2p
+minStack.Min.push(int)!valueCALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2n
+minStack.Min?min@6.24:6.27CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2p
+minStack.Min.push(int)!valueCALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2p
+minStack.Min.push(int)!valueCALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2s
+minStack.Min?minValue@8.19:8.27CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (%2s
+minStack.Min?minValue@8.19:8.27CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2p
+minStack.Min.push(int)!valueCALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java ( 2m
+minStack.Min?st@5.24:5.26CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2s
+minStack.Min?minValue@8.19:8.27CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java ( 2n
+minStack.Min?min@6.24:6.27CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2s
+minStack.Min?minValue@8.19:8.27CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (!2m
+minStack.Min?st@5.24:5.26CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2p
+minStack.Min.push(int)!valueCALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2n
+minStack.Min?min@6.24:6.27CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2s
+minStack.Min?minValue@8.19:8.27CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (!2u
+minStack.Min.push(int)!value	PARAMETERJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java
+ 
+(2_
+voidRETURN_TYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java
+ 
+(≤
+minStack.Min.push(int)!value	PARAMETERJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java
+ 
+("
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> value*value2W
+intTYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java
+ 
+(ä
+minStack.Min.pop()METHODJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java ("
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">pop</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*pop2m
+minStack.Min?st@5.24:5.26CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2n
+minStack.Min?min@6.24:6.27CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2_
+voidRETURN_TYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (ë
+minStack.Min.getMin()METHODJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java ("
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="method">getMin</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*getMin2n
+minStack.Min?min@6.24:6.27CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java   (2n
+minStack.Min?min@6.24:6.27CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java '  (*2^
+intRETURN_TYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (˛
+minStack.Min?st@5.24:5.26VARIABLEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java ("
+isFinalfalse"
+typeStack<Integer>"w
+declarationStringb<mark class="modifier"> </mark>Stack<Integer> <mark class="class-field">st</mark> = new Stack<>();"
+isStaticfalse"
+accesspackage_private*st2c
+java.util.StackTYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2d
+IntegerTYPE_ARGUMENTJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2k
+java.util.Stack.Stack()CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java! ((Å
+minStack.Min?min@6.24:6.27VARIABLEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java ("
+isFinalfalse"
+typeStack<Integer>"x
+declarationStringc<mark class="modifier"> </mark>Stack<Integer> <mark class="class-field">min</mark> = new Stack<>();"
+isStaticfalse"
+accesspackage_private*min2c
+java.util.StackTYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2d
+IntegerTYPE_ARGUMENTJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (2k
+java.util.Stack.Stack()CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java" ()„
+minStack.Min?minValue@8.19:8.27VARIABLEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java ("
+isFinalfalse"
+typeint"∫
+declarationString§<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="class-field">minValue</mark> = Integer.MAX_VALUE;"
+isStatictrue"
+accesspackage_private*minValue2W
+intTYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\minStack.java (

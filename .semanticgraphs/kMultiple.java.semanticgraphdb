@@ -1,0 +1,103 @@
+
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java∑
+	kMultipleCLASSK
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java("
+package	kMultiple"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>kMultiple"
+accesspublic*	kMultiple2Ç
+"kMultiple.PrintKMultiple(int, int)DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java (2x
+kMultiple.main(String[])DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java (ê
+"kMultiple.PrintKMultiple(int, int)METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java ("
+isFinalfalse"Ø
+declarationStringô<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">PrintKMultiple</mark>(<mark class="modifier">int</mark> num<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> k)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*PrintKMultiple2{
+"kMultiple.PrintKMultiple(int, int)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java (2}
+$kMultiple.PrintKMultiple(int, int)!kCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java (2
+&kMultiple.PrintKMultiple(int, int)!numCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java ("2
+&kMultiple.PrintKMultiple(int, int)!numCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java (2}
+$kMultiple.PrintKMultiple(int, int)!kCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java! ("2
+&kMultiple.PrintKMultiple(int, int)!numCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java ("2}
+$kMultiple.PrintKMultiple(int, int)!kCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java% (&2Ñ
+&kMultiple.PrintKMultiple(int, int)!num	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java# (&2Ç
+$kMultiple.PrintKMultiple(int, int)!k	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java- (.2d
+voidRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java (¬
+&kMultiple.PrintKMultiple(int, int)!num	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java# (&"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> num*num2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java ("º
+$kMultiple.PrintKMultiple(int, int)!k	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java- (."
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> k*k2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java) (,Ä
+
+kMultiple.main(String[])METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2{
+"kMultiple.PrintKMultiple(int, int)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java (2Å
+(kMultiple.main(String[])?num@12.12:12.15CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java (2
+&kMultiple.main(String[])?k@13.12:13.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java (2{
+kMultiple.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java% ()2à
+(kMultiple.main(String[])?num@12.12:12.15DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java (2Ü
+&kMultiple.main(String[])?k@13.12:13.13DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java (2d
+voidRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java (à
+(kMultiple.main(String[])?num@12.12:12.15VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">num</mark> = 12*num2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java (Å
+&kMultiple.main(String[])?k@13.12:13.13VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = 5*k2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java (¨
+kMultiple.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2a
+String[]TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\kMultiple.java ($

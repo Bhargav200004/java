@@ -1,0 +1,308 @@
+
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.javaÚ
+sudokuSolverCLASSQ
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java("
+packagesudokuSolver"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"j
+declarationStringU<mark class="modifier">public </mark><mark class="modifier">class </mark>sudokuSolver"
+accesspublic*sudokuSolver2î
+.sudokuSolver.isValid(char[][], int, int, char)DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ä
+$sudokuSolver.isValidSudoku(char[][])DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ( 2Å
+sudokuSolver.main(String[])DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java% %(¢2
+.sudokuSolver.isValid(char[][], int, int, char)METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ("
+isFinalfalse"ø
+declarationString©<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">isValid</mark>(char[][] board<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> row<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> col<mark class="modifier"><mark class="modifier">,</mark></mark> char num)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*isValid2ô
+:sudokuSolver.isValid(char[][], int, int, char)?i@3.17:3.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ô
+:sudokuSolver.isValid(char[][], int, int, char)?i@3.17:3.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java! ("2ì
+4sudokuSolver.isValid(char[][], int, int, char)!boardCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ô
+:sudokuSolver.isValid(char[][], int, int, char)?i@3.17:3.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValid(char[][], int, int, char)!colCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValid(char[][], int, int, char)!numCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java  (#2ô
+:sudokuSolver.isValid(char[][], int, int, char)?j@7.16:7.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ô
+:sudokuSolver.isValid(char[][], int, int, char)?j@7.16:7.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java  (!2ì
+4sudokuSolver.isValid(char[][], int, int, char)!boardCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValid(char[][], int, int, char)!rowCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ô
+:sudokuSolver.isValid(char[][], int, int, char)?j@7.16:7.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValid(char[][], int, int, char)!numCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java  (#2ë
+2sudokuSolver.isValid(char[][], int, int, char)!rowCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValid(char[][], int, int, char)!colCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2û
+?sudokuSolver.isValid(char[][], int, int, char)?sRow@12.12:12.16CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2õ
+<sudokuSolver.isValid(char[][], int, int, char)?i@14.16:14.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2û
+?sudokuSolver.isValid(char[][], int, int, char)?sRow@12.12:12.16CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (#2õ
+<sudokuSolver.isValid(char[][], int, int, char)?i@14.16:14.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java( ()2û
+?sudokuSolver.isValid(char[][], int, int, char)?sCol@13.12:13.16CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2õ
+<sudokuSolver.isValid(char[][], int, int, char)?j@15.20:15.21CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ( 2û
+?sudokuSolver.isValid(char[][], int, int, char)?sCol@13.12:13.16CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java# ('2õ
+<sudokuSolver.isValid(char[][], int, int, char)?j@15.20:15.21CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java. (/2ì
+4sudokuSolver.isValid(char[][], int, int, char)!boardCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2õ
+<sudokuSolver.isValid(char[][], int, int, char)?i@14.16:14.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2õ
+<sudokuSolver.isValid(char[][], int, int, char)?j@15.20:15.21CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValid(char[][], int, int, char)!numCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java" (%2ò
+4sudokuSolver.isValid(char[][], int, int, char)!board	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java$ ()2ñ
+2sudokuSolver.isValid(char[][], int, int, char)!row	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java0 (32ñ
+2sudokuSolver.isValid(char[][], int, int, char)!col	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java: (=2ñ
+2sudokuSolver.isValid(char[][], int, int, char)!num	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.javaE (H2†
+:sudokuSolver.isValid(char[][], int, int, char)?i@3.17:3.18DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2†
+:sudokuSolver.isValid(char[][], int, int, char)?j@7.16:7.17DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2•
+?sudokuSolver.isValid(char[][], int, int, char)?sRow@12.12:12.16DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2•
+?sudokuSolver.isValid(char[][], int, int, char)?sCol@13.12:13.16DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2¢
+<sudokuSolver.isValid(char[][], int, int, char)?i@14.16:14.17DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2¢
+<sudokuSolver.isValid(char[][], int, int, char)?j@15.20:15.21DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2m
+booleanRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (°
+:sudokuSolver.isValid(char[][], int, int, char)?i@3.17:3.18VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (°
+:sudokuSolver.isValid(char[][], int, int, char)?j@7.16:7.17VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (À
+?sudokuSolver.isValid(char[][], int, int, char)?sRow@12.12:12.16VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sRow</mark> = row / 3 * 3*sRow2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValid(char[][], int, int, char)!rowCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (À
+?sudokuSolver.isValid(char[][], int, int, char)?sCol@13.12:13.16VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sCol</mark> = col / 3 * 3*sCol2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValid(char[][], int, int, char)!colCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java («
+<sudokuSolver.isValid(char[][], int, int, char)?i@14.16:14.17VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = sRow*i2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2û
+?sudokuSolver.isValid(char[][], int, int, char)?sRow@12.12:12.16CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java («
+<sudokuSolver.isValid(char[][], int, int, char)?j@15.20:15.21VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = sCol*j2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2û
+?sudokuSolver.isValid(char[][], int, int, char)?sCol@13.12:13.16CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (—
+4sudokuSolver.isValid(char[][], int, int, char)!board	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java$ ()"
+typechar[][]"
+isFinalfalse"#
+declarationStringchar[][] board*board2g
+char[][]TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (!⁄
+2sudokuSolver.isValid(char[][], int, int, char)!row	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java0 (3"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> row*row2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java, (/⁄
+2sudokuSolver.isValid(char[][], int, int, char)!col	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java: (="
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> col*col2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java6 (9ø
+2sudokuSolver.isValid(char[][], int, int, char)!num	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.javaE (H"
+typechar"
+isFinalfalse"
+declarationStringchar num*num2c
+charTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java@ (Dò"
+$sudokuSolver.isValidSudoku(char[][])METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ( "
+isFinalfalse"π
+declarationString£<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">isValidSudoku</mark>(char[][] board)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*isValidSudoku2ç
+.sudokuSolver.isValid(char[][], int, int, char)CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValidSudoku(char[][])?i@25.17:25.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValidSudoku(char[][])?i@25.17:25.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java! ("2ë
+2sudokuSolver.isValidSudoku(char[][])?j@26.21:26.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValidSudoku(char[][])?j@26.21:26.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java% (&2â
+*sudokuSolver.isValidSudoku(char[][])!boardCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValidSudoku(char[][])?i@25.17:25.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValidSudoku(char[][])?j@26.21:26.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2â
+*sudokuSolver.isValidSudoku(char[][])!boardCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ( 2ë
+2sudokuSolver.isValidSudoku(char[][])?i@25.17:25.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java! ("2ë
+2sudokuSolver.isValidSudoku(char[][])?j@26.21:26.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java$ (%2â
+*sudokuSolver.isValidSudoku(char[][])!boardCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValidSudoku(char[][])?i@25.17:25.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValidSudoku(char[][])?j@26.21:26.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2â
+*sudokuSolver.isValidSudoku(char[][])!boardCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ("2ë
+2sudokuSolver.isValidSudoku(char[][])?i@25.17:25.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java% (&2ë
+2sudokuSolver.isValidSudoku(char[][])?j@26.21:26.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java) (*2ì
+4sudokuSolver.isValidSudoku(char[][])?num@28.21:28.24CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java- (02â
+*sudokuSolver.isValidSudoku(char[][])!boardCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValidSudoku(char[][])?i@25.17:25.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ë
+2sudokuSolver.isValidSudoku(char[][])?j@26.21:26.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ì
+4sudokuSolver.isValidSudoku(char[][])?num@28.21:28.24CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (!2é
+*sudokuSolver.isValidSudoku(char[][])!board	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java* (/2ò
+2sudokuSolver.isValidSudoku(char[][])?i@25.17:25.18DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ò
+2sudokuSolver.isValidSudoku(char[][])?j@26.21:26.22DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2ö
+4sudokuSolver.isValidSudoku(char[][])?num@28.21:28.24DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2m
+booleanRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (ô
+2sudokuSolver.isValidSudoku(char[][])?i@25.17:25.18VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (ô
+2sudokuSolver.isValidSudoku(char[][])?j@26.21:26.22VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (¬
+4sudokuSolver.isValidSudoku(char[][])?num@28.21:28.24VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ("
+typechar"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>char <mark class="class-field">num</mark> = board[i][j]*num2c
+charTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java (2â
+*sudokuSolver.isValidSudoku(char[][])!boardCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java ( 2ë
+2sudokuSolver.isValidSudoku(char[][])?i@25.17:25.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java! ("2ë
+2sudokuSolver.isValidSudoku(char[][])?j@26.21:26.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java$ (%«
+*sudokuSolver.isValidSudoku(char[][])!board	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java* (/"
+typechar[][]"
+isFinalfalse"#
+declarationStringchar[][] board*board2g
+char[][]TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java! ('Æ
+sudokuSolver.main(String[])METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java% %("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2É
+$sudokuSolver.isValidSudoku(char[][])CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java( (((2å
+-sudokuSolver.main(String[])?board@38.18:38.23CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java() ((.2Ñ
+ sudokuSolver.main(String[])!args	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java%% %()2ì
+-sudokuSolver.main(String[])?board@38.18:38.23DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java& &(2j
+voidRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java% %(•
+-sudokuSolver.main(String[])?board@38.18:38.23VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java& &("
+typechar"
+isFinalfalse"Ç
+declarationStringÏ<mark class="modifier"> </mark>char[][] <mark class="class-field">board</mark> = { { '5'<mark class="modifier">,</mark> '3'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '7'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.' }<mark class="modifier">,</mark> { '6'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '1'<mark class="modifier">,</mark> '9'<mark class="modifier">,</mark> '5'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.' }<mark class="modifier">,</mark> { '.'<mark class="modifier">,</mark> '9'<mark class="modifier">,</mark> '8'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '6'<mark class="modifier">,</mark> '.' }<mark class="modifier">,</mark> { '8'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '6'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '3' }<mark class="modifier">,</mark> { '4'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '8'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '3'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '1' }<mark class="modifier">,</mark> { '7'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '2'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '6' }<mark class="modifier">,</mark> { '.'<mark class="modifier">,</mark> '6'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '2'<mark class="modifier">,</mark> '8'<mark class="modifier">,</mark> '.' }<mark class="modifier">,</mark> { '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '4'<mark class="modifier">,</mark> '1'<mark class="modifier">,</mark> '9'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '5' }<mark class="modifier">,</mark> { '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '8'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '.'<mark class="modifier">,</mark> '7'<mark class="modifier">,</mark> '9' } }*board2g
+char[][]TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java& &(ª
+ sudokuSolver.main(String[])!args	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java%% %()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2g
+String[]TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\sudokuSolver.java% %($

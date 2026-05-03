@@ -1,0 +1,276 @@
+
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java˚
+array1.problem11prefixsumCLASSk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ("
+packagearray1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"p
+declarationString[<mark class="modifier">public </mark><mark class="modifier">class </mark>problem11prefixsum"
+accesspublic*problem11prefixsum2ß
++array1.problem11prefixsum.printArray(int[])DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2¶
+*array1.problem11prefixsum.prifixSum(int[])DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2Æ
+2array1.problem11prefixsum.main(java.lang.String[])DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (º
++array1.problem11prefixsum.printArray(int[])METHODk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ("
+isFinalfalse"Ã
+declarationString∂<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">printArray</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*
+printArray2†
++java.io.PrintStream.print(java.lang.String)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2í
+java.io.PrintStream.println()CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java
+ 
+(2§
+/array1.problem11prefixsum.printArray(int[])!arrCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2¨
+7array1.problem11prefixsum.printArray(int[])?i@7.17:7.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2¨
+7array1.problem11prefixsum.printArray(int[])?n@6.12:6.13CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2¨
+7array1.problem11prefixsum.printArray(int[])?i@7.17:7.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2§
+/array1.problem11prefixsum.printArray(int[])!arrCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ( 2¨
+7array1.problem11prefixsum.printArray(int[])?i@7.17:7.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java! ("2©
+/array1.problem11prefixsum.printArray(int[])!arr	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ($2≥
+7array1.problem11prefixsum.printArray(int[])?n@6.12:6.13DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2≥
+7array1.problem11prefixsum.printArray(int[])?i@7.17:7.18DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2Ä
+voidRETURN_TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (˚
+7array1.problem11prefixsum.printArray(int[])?n@6.12:6.13VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = arr.length*n2x
+intTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2§
+/array1.problem11prefixsum.printArray(int[])!arrCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ( 
+7array1.problem11prefixsum.printArray(int[])?i@7.17:7.18VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2x
+intTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (â
+/array1.problem11prefixsum.printArray(int[])!arr	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ($"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2z
+int[]TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ($Õ
+*array1.problem11prefixsum.prifixSum(int[])METHODk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ("
+isFinalfalse"Ã
+declarationString∂<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[] <mark class="method">prifixSum</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint[]*	prifixSum2£
+.array1.problem11prefixsum.prifixSum(int[])!arrCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2≠
+8array1.problem11prefixsum.prifixSum(int[])?n@14.12:14.13CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2≤
+=array1.problem11prefixsum.prifixSum(int[])?prefix@15.12:15.20CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2£
+.array1.problem11prefixsum.prifixSum(int[])!arrCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2≠
+8array1.problem11prefixsum.prifixSum(int[])?i@19.17:19.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2≠
+8array1.problem11prefixsum.prifixSum(int[])?n@14.12:14.13CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2≠
+8array1.problem11prefixsum.prifixSum(int[])?i@19.17:19.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2≤
+=array1.problem11prefixsum.prifixSum(int[])?prefix@15.12:15.20CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2≠
+8array1.problem11prefixsum.prifixSum(int[])?i@19.17:19.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2≤
+=array1.problem11prefixsum.prifixSum(int[])?prefix@15.12:15.20CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2≠
+8array1.problem11prefixsum.prifixSum(int[])?i@19.17:19.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2£
+.array1.problem11prefixsum.prifixSum(int[])!arrCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java" (%2≠
+8array1.problem11prefixsum.prifixSum(int[])?i@19.17:19.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java& ('2≤
+=array1.problem11prefixsum.prifixSum(int[])?prefix@15.12:15.20CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2®
+.array1.problem11prefixsum.prifixSum(int[])!arr	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ($2¥
+8array1.problem11prefixsum.prifixSum(int[])?n@14.12:14.13DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2π
+=array1.problem11prefixsum.prifixSum(int[])?prefix@15.12:15.20DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2¥
+8array1.problem11prefixsum.prifixSum(int[])?i@19.17:19.18DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2Å
+int[]RETURN_TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (˚
+8array1.problem11prefixsum.prifixSum(int[])?n@14.12:14.13VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = arr.length*n2x
+intTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2£
+.array1.problem11prefixsum.prifixSum(int[])!arrCALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (∑
+=array1.problem11prefixsum.prifixSum(int[])?prefix@15.12:15.20VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ("
+typeint"
+isFinalfalse"´
+declarationStringï<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">prefix</mark> = new <mark class="modifier">int</mark>[n]*prefix2z
+int[]TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2≠
+8array1.problem11prefixsum.prifixSum(int[])?n@14.12:14.13CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (À
+8array1.problem11prefixsum.prifixSum(int[])?i@19.17:19.18VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2x
+intTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (à
+.array1.problem11prefixsum.prifixSum(int[])!arr	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ($"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2z
+int[]TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ($¨+
+2array1.problem11prefixsum.main(java.lang.String[])METHODk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¢
+-java.io.PrintStream.println(java.lang.String)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2ê
+java.util.Scanner.nextInt()CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2¢
+-java.io.PrintStream.println(java.lang.String)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2ê
+java.util.Scanner.nextInt()CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java! !(2¢
+-java.io.PrintStream.println(java.lang.String)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java$ $(2†
++array1.problem11prefixsum.printArray(int[])CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java% %(2¢
+-java.io.PrintStream.println(java.lang.String)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java& &(2ü
+*array1.problem11prefixsum.prifixSum(int[])CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java' '(2†
++array1.problem11prefixsum.printArray(int[])CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java( ((2£
+.java.util.Scanner.Scanner(java.io.InputStream)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2∂
+Aarray1.problem11prefixsum.main(java.lang.String[])?sc@26.16:26.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2µ
+@array1.problem11prefixsum.main(java.lang.String[])?n@28.12:28.13CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2µ
+@array1.problem11prefixsum.main(java.lang.String[])?n@28.12:28.13CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java$ (%2µ
+@array1.problem11prefixsum.main(java.lang.String[])?i@32.17:32.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java   (2µ
+@array1.problem11prefixsum.main(java.lang.String[])?n@28.12:28.13CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java   (2µ
+@array1.problem11prefixsum.main(java.lang.String[])?i@32.17:32.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java   (2∑
+Barray1.problem11prefixsum.main(java.lang.String[])?arr@29.15:29.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java! !(2µ
+@array1.problem11prefixsum.main(java.lang.String[])?i@32.17:32.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java! !(2∂
+Aarray1.problem11prefixsum.main(java.lang.String[])?sc@26.16:26.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java! !(2∑
+Barray1.problem11prefixsum.main(java.lang.String[])?arr@29.15:29.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java% %(2∑
+Barray1.problem11prefixsum.main(java.lang.String[])?arr@29.15:29.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java'  '(#2∫
+Earray1.problem11prefixsum.main(java.lang.String[])?prefix@39.15:39.21CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java( ((2±
+7array1.problem11prefixsum.main(java.lang.String[])!args	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java% ()2Ω
+Aarray1.problem11prefixsum.main(java.lang.String[])?sc@26.16:26.18DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2º
+@array1.problem11prefixsum.main(java.lang.String[])?n@28.12:28.13DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2æ
+Barray1.problem11prefixsum.main(java.lang.String[])?arr@29.15:29.18DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2º
+@array1.problem11prefixsum.main(java.lang.String[])?i@32.17:32.18DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java   (2¡
+Earray1.problem11prefixsum.main(java.lang.String[])?prefix@39.15:39.21DECLARATIONk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java' '(2Ä
+voidRETURN_TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (ä
+Aarray1.problem11prefixsum.main(java.lang.String[])?sc@26.16:26.18VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2Ü
+java.util.ScannerTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2£
+.java.util.Scanner.Scanner(java.io.InputStream)CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (´
+@array1.problem11prefixsum.main(java.lang.String[])?n@28.12:28.13VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = sc.nextInt()*n2x
+intTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2ê
+java.util.Scanner.nextInt()CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2∂
+Aarray1.problem11prefixsum.main(java.lang.String[])?sc@26.16:26.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (æ
+Barray1.problem11prefixsum.main(java.lang.String[])?arr@29.15:29.18VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n]*arr2z
+int[]TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (2µ
+@array1.problem11prefixsum.main(java.lang.String[])?n@28.12:28.13CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java (”
+@array1.problem11prefixsum.main(java.lang.String[])?i@32.17:32.18VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java   ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2x
+intTYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java   (–
+Earray1.problem11prefixsum.main(java.lang.String[])?prefix@39.15:39.21VARIABLEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java' '("
+typeint"
+isFinalfalse"ê
+declarationString{<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">prefix</mark> = prifixSum(arr)*prefix2z
+int[]TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java' '(2ü
+*array1.problem11prefixsum.prifixSum(int[])CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java' '(2∑
+Barray1.problem11prefixsum.main(java.lang.String[])?arr@29.15:29.18CALLk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java'  '(#â
+7array1.problem11prefixsum.main(java.lang.String[])!args	PARAMETERk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2á
+java.lang.String[]TYPEk
+aC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem11prefixsum.java ($

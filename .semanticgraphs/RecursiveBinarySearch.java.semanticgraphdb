@@ -1,0 +1,188 @@
+
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.javaÃ
+RecursiveBinarySearchCLASSa
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java("" 
+packageRecursiveBinarySearch"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"s
+declarationString^<mark class="modifier">public </mark><mark class="modifier">class </mark>RecursiveBinarySearch"
+accesspublic*RecursiveBinarySearch2Æ
+8RecursiveBinarySearch.binarySearch(int[], int, int, int)DECLARATIONe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2ö
+$RecursiveBinarySearch.main(String[])DECLARATIONe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (ß+
+8RecursiveBinarySearch.binarySearch(int[], int, int, int)METHODe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java ("
+isFinalfalse"ˇ
+declarationStringÈ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">binarySearch</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> start<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> end<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> target)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*binarySearch2ß
+8RecursiveBinarySearch.binarySearch(int[], int, int, int)CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java
+ 
+(2ß
+8RecursiveBinarySearch.binarySearch(int[], int, int, int)CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2≠
+>RecursiveBinarySearch.binarySearch(int[], int, int, int)!startCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2´
+<RecursiveBinarySearch.binarySearch(int[], int, int, int)!endCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2≠
+>RecursiveBinarySearch.binarySearch(int[], int, int, int)!startCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2´
+<RecursiveBinarySearch.binarySearch(int[], int, int, int)!endCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2≠
+>RecursiveBinarySearch.binarySearch(int[], int, int, int)!startCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java ($2Æ
+?RecursiveBinarySearch.binarySearch(int[], int, int, int)!targetCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2´
+<RecursiveBinarySearch.binarySearch(int[], int, int, int)!arrCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2µ
+FRecursiveBinarySearch.binarySearch(int[], int, int, int)?mid@6.12:6.15CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2Æ
+?RecursiveBinarySearch.binarySearch(int[], int, int, int)!targetCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java	 	(2´
+<RecursiveBinarySearch.binarySearch(int[], int, int, int)!arrCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java	 	(2µ
+FRecursiveBinarySearch.binarySearch(int[], int, int, int)?mid@6.12:6.15CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java	  	(#2´
+<RecursiveBinarySearch.binarySearch(int[], int, int, int)!arrCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java
+  
+(#2≠
+>RecursiveBinarySearch.binarySearch(int[], int, int, int)!startCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java
+& 
+(+2µ
+FRecursiveBinarySearch.binarySearch(int[], int, int, int)?mid@6.12:6.15CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java
+. 
+(12Æ
+?RecursiveBinarySearch.binarySearch(int[], int, int, int)!targetCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java
+4 
+(:2´
+<RecursiveBinarySearch.binarySearch(int[], int, int, int)!arrCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java  (#2µ
+FRecursiveBinarySearch.binarySearch(int[], int, int, int)?mid@6.12:6.15CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java& ()2´
+<RecursiveBinarySearch.binarySearch(int[], int, int, int)!endCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java. (12Æ
+?RecursiveBinarySearch.binarySearch(int[], int, int, int)!targetCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java2 (82∞
+<RecursiveBinarySearch.binarySearch(int[], int, int, int)!arr	PARAMETERe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java' (*2≤
+>RecursiveBinarySearch.binarySearch(int[], int, int, int)!start	PARAMETERe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java1 (62∞
+<RecursiveBinarySearch.binarySearch(int[], int, int, int)!end	PARAMETERe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java= (@2≥
+?RecursiveBinarySearch.binarySearch(int[], int, int, int)!target	PARAMETERe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.javaG (M2º
+FRecursiveBinarySearch.binarySearch(int[], int, int, int)?mid@6.12:6.15DECLARATIONe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2}
+booleanRETURN_TYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (˘
+FRecursiveBinarySearch.binarySearch(int[], int, int, int)?mid@6.12:6.15VARIABLEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java ("
+typeint"
+isFinalfalse"ó
+declarationStringÅ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">mid</mark> = start + (end - start) / 2*mid2r
+intTYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2≠
+>RecursiveBinarySearch.binarySearch(int[], int, int, int)!startCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2´
+<RecursiveBinarySearch.binarySearch(int[], int, int, int)!endCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2≠
+>RecursiveBinarySearch.binarySearch(int[], int, int, int)!startCALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java ($ä
+<RecursiveBinarySearch.binarySearch(int[], int, int, int)!arr	PARAMETERe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java' (*"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2t
+int[]TYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java  (&ä
+>RecursiveBinarySearch.binarySearch(int[], int, int, int)!start	PARAMETERe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java1 (6"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> start*start2r
+intTYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java- (0Ñ
+<RecursiveBinarySearch.binarySearch(int[], int, int, int)!end	PARAMETERe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java= (@"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> end*end2r
+intTYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java9 (<ç
+?RecursiveBinarySearch.binarySearch(int[], int, int, int)!target	PARAMETERe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.javaG (M"
+typeint"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark> target*target2r
+intTYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.javaC (Fê
+$RecursiveBinarySearch.main(String[])METHODe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ß
+8RecursiveBinarySearch.binarySearch(int[], int, int, int)CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java ('2£
+4RecursiveBinarySearch.main(String[])?arr@18.15:18.18CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2£
+4RecursiveBinarySearch.main(String[])?arr@18.15:18.18CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java( (+2°
+2RecursiveBinarySearch.main(String[])?n@19.12:19.13CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java. (/2¶
+7RecursiveBinarySearch.main(String[])?target@20.12:20.18CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java2 (82ù
+)RecursiveBinarySearch.main(String[])!args	PARAMETERe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java% ()2™
+4RecursiveBinarySearch.main(String[])?arr@18.15:18.18DECLARATIONe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2®
+2RecursiveBinarySearch.main(String[])?n@19.12:19.13DECLARATIONe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2≠
+7RecursiveBinarySearch.main(String[])?target@20.12:20.18DECLARATIONe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2z
+voidRETURN_TYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (Ë
+4RecursiveBinarySearch.main(String[])?arr@18.15:18.18VARIABLEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java ("
+typeint"
+isFinalfalse"§
+declarationStringé<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = { 1, 4, 5, 8, 8, 58, 59, 585, 5890 }*arr2t
+int[]TYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (È
+2RecursiveBinarySearch.main(String[])?n@19.12:19.13VARIABLEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java ("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = arr.length*n2r
+intTYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (2£
+4RecursiveBinarySearch.main(String[])?arr@18.15:18.18CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java ( 
+7RecursiveBinarySearch.main(String[])?target@20.12:20.18VARIABLEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java ("
+typeint"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">target</mark> = 58*target2r
+intTYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java (‰
+)RecursiveBinarySearch.main(String[])!args	PARAMETERe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2w
+String[]TYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\Searching_Algorithm\src\RecursiveBinarySearch.java ($

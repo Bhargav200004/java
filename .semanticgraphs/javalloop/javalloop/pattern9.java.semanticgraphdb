@@ -1,0 +1,49 @@
+
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern9.java€
+javalloop.pattern9CLASST
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern9.java ("
+package	javalloop"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>pattern9"
+accesspublic*pattern92ê
++javalloop.pattern9.main(java.lang.String[])DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern9.java (Ò	
++javalloop.pattern9.main(java.lang.String[])METHODT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern9.java ("
+isFinalfalse"±
+declarationStringõ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] arg)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ã
+-java.io.PrintStream.println(java.lang.String)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern9.java	 	(2ã
+-java.io.PrintStream.println(java.lang.String)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern9.java (2ï
+7javalloop.pattern9.main(java.lang.String[])?N@4.11:4.12CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern9.java (2í
+/javalloop.pattern9.main(java.lang.String[])!arg	PARAMETERT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern9.java# ((2ú
+7javalloop.pattern9.main(java.lang.String[])?N@4.11:4.12DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern9.java (2i
+voidRETURN_TYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern9.java (ú
+7javalloop.pattern9.main(java.lang.String[])?N@4.11:4.12VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern9.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">N</mark> = 4*N2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern9.java (
+–
+/javalloop.pattern9.main(java.lang.String[])!arg	PARAMETERT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern9.java# (("
+typeString[]"
+isFinalfalse"!
+declarationStringString[] arg*arg2p
+java.lang.String[]TYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern9.java ((

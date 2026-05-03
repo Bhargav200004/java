@@ -1,0 +1,213 @@
+
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.javaµ
+Arraylist.problem1CLASSd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java
+ 
+("
+package	Arraylist"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>problem1"
+accesspublic*problem12∑
+BArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2†
++Arraylist.problem1.main(java.lang.String[])DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (ï&
+BArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)METHODd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java ("
+isFinalfalse"º
+declarationString¶<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">reverse</mark>(ArrayList&lt;Integer&gt; n)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*reverse2à
+java.util.ArrayList.size()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2å
+java.lang.Integer.valueOf(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java! ((2ä
+java.util.ArrayList.get(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java+ (.2ç
+java.util.ArrayList.set(int, E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2ä
+java.util.ArrayList.get(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2ç
+java.util.ArrayList.set(int, E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2≤
+DArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)!nCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2æ
+PArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?i@13.12:13.13CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2æ
+PArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?j@13.16:13.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2≤
+DArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)!nCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java) (*2æ
+PArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?i@13.12:13.13CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java/ (02≤
+DArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)!nCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2æ
+PArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?i@13.12:13.13CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2≤
+DArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)!nCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2æ
+PArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?j@13.16:13.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2≤
+DArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)!nCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2æ
+PArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?j@13.16:13.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2¡
+SArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?temp@16.19:16.23CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2æ
+PArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?i@13.12:13.13CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2æ
+PArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?j@13.16:13.17CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2∑
+DArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)!n	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java+ (,2≈
+PArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?i@13.12:13.13DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2≈
+PArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?j@13.16:13.17DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2»
+SArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?temp@16.19:16.23DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2y
+voidRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (Ë
+PArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?i@13.12:13.13VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java ("
+typeint"
+isFinalfalse"é
+declarationStringy<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0, j = n.size() - 1*i2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (®
+PArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?j@13.16:13.17VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java ("
+typeint"
+isFinalfalse"é
+declarationStringy<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0, j = n.size() - 1*j2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2à
+java.util.ArrayList.size()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2≤
+DArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)!nCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (Ä	
+SArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?temp@16.19:16.23VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java ("
+typeInteger"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Integer <mark class="class-field">temp</mark> = Integer.valueOf(n.get(i))*temp2
+java.lang.IntegerTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2å
+java.lang.Integer.valueOf(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java! ((2ä
+java.util.ArrayList.get(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java+ (.2≤
+DArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)!nCALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java) (*2æ
+PArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)?i@13.12:13.13CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java/ (0¢
+DArraylist.problem1.reverse(java.util.ArrayList<java.lang.Integer>)!n	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java+ (,"
+typeArrayList<Integer>"
+isFinalfalse")
+declarationStringArrayList<Integer> n*n2Å
+java.util.ArrayListTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (!2à
+java.lang.IntegerTYPE_ARGUMENTd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java" ()ô*
++Arraylist.problem1.main(java.lang.String[])METHODd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java
+ (2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java
+ (2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java
+ (2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java
+ (2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java 
+  (2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java!
+ !(2õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java# #(2∑
+Ijava.util.Collections.reverse(java.util.List<? extends java.lang.Object>)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java% %(2õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java' '(2õ
+-java.util.Collections.sort(java.util.List<T>)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java* *(2õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java+ +(2º
+Njava.util.Collections.sort(java.util.List<T>, java.util.Comparator<? super T>)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java. .(2í
+$java.util.Collections.reverseOrder()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java.' .(32õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java/ /(2ç
+java.util.ArrayList.ArrayList()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java! (,2ß
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (	2ß
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (	2ß
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (	2ß
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (	2ß
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java   (	2ß
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java! !(	2ß
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java#, #(-2ß
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java% %(2ß
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java'+ '(,2ß
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java* *(2ß
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java+. +(/2ß
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java. .(2ß
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java// /(02£
+0Arraylist.problem1.main(java.lang.String[])!args	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java% ()2Æ
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2y
+voidRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (˙
+9Arraylist.problem1.main(java.lang.String[])?n@27.27:27.28VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java ("
+typeArrayList<Integer>"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>ArrayList<Integer> <mark class="class-field">n</mark> = new ArrayList<>()*n2Å
+java.util.ArrayListTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2à
+java.lang.IntegerTYPE_ARGUMENTd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java (2ç
+java.util.ArrayList.ArrayList()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java! (,Ù
+0Arraylist.problem1.main(java.lang.String[])!args	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ä
+java.lang.String[]TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem1.java ($

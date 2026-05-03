@@ -1,0 +1,438 @@
+
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.javaÂ
+array_2D.problem5CLASSc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java ("
+packagearray_2D"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>problem5"
+accesspublic*problem52™
+%array_2D.problem5.PrintArray(int[][])DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java
+ 
+(2‘
+array_2D.problem5.pascal(int)DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2™
+%array_2D.problem5.fourSum(int[], int)DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java'& '(-2ž
+*array_2D.problem5.main(java.util.String[])DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.javaI I(ÿ
+%array_2D.problem5.PrintArray(int[][])METHODc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java
+ 
+("
+isFinalfalse"Î
+declarationString¸<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">PrintArray</mark>(<mark class="modifier">int</mark>[][] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*
+PrintArray2 
+3array_2D.problem5.PrintArray(int[][])?i@12.17:12.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2–
+)array_2D.problem5.PrintArray(int[][])!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2 
+3array_2D.problem5.PrintArray(int[][])?i@12.17:12.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java# ($2 
+3array_2D.problem5.PrintArray(int[][])?j@13.21:13.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2–
+)array_2D.problem5.PrintArray(int[][])!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2 
+3array_2D.problem5.PrintArray(int[][])?i@12.17:12.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java  (!2 
+3array_2D.problem5.PrintArray(int[][])?j@13.21:13.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java* (+2–
+)array_2D.problem5.PrintArray(int[][])!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java! ($2 
+3array_2D.problem5.PrintArray(int[][])?i@12.17:12.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java% (&2 
+3array_2D.problem5.PrintArray(int[][])?j@13.21:13.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java( ()2›
+)array_2D.problem5.PrintArray(int[][])!arr	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java
+ 
+(&2§
+3array_2D.problem5.PrintArray(int[][])?i@12.17:12.18DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2§
+3array_2D.problem5.PrintArray(int[][])?j@13.21:13.22DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2x
+voidRETURN_TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java
+ 
+(¶
+3array_2D.problem5.PrintArray(int[][])?i@12.17:12.18VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (¶
+3array_2D.problem5.PrintArray(int[][])?j@13.21:13.22VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (ù
+)array_2D.problem5.PrintArray(int[][])!arr	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java
+ 
+(&"
+typeint[][]"
+isFinalfalse">
+declarationString)<mark class="modifier">int</mark>[][] arr*arr2t
+int[][]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java
+ 
+($Õ'
+array_2D.problem5.pascal(int)METHODc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java ("
+isFinalfalse"Ç
+declarationString±<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[][] <mark class="method">pascal</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint[][]*pascal2Œ
+array_2D.problem5.pascal(int)!nCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2˜
++array_2D.problem5.pascal(int)?i@22.17:22.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2Œ
+array_2D.problem5.pascal(int)!nCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2˜
++array_2D.problem5.pascal(int)?i@22.17:22.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2š
+-array_2D.problem5.pascal(int)?ans@21.12:21.19CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2˜
++array_2D.problem5.pascal(int)?i@22.17:22.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2˜
++array_2D.problem5.pascal(int)?i@22.17:22.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2š
+-array_2D.problem5.pascal(int)?ans@21.12:21.19CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2˜
++array_2D.problem5.pascal(int)?i@22.17:22.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2š
+-array_2D.problem5.pascal(int)?ans@21.12:21.19CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2˜
++array_2D.problem5.pascal(int)?i@22.17:22.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2˜
++array_2D.problem5.pascal(int)?i@22.17:22.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2˜
++array_2D.problem5.pascal(int)?j@29.20:29.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2˜
++array_2D.problem5.pascal(int)?i@22.17:22.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2˜
++array_2D.problem5.pascal(int)?j@29.20:29.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2š
+-array_2D.problem5.pascal(int)?ans@21.12:21.19CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2˜
++array_2D.problem5.pascal(int)?i@22.17:22.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2˜
++array_2D.problem5.pascal(int)?j@29.20:29.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2š
+-array_2D.problem5.pascal(int)?ans@21.12:21.19CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2˜
++array_2D.problem5.pascal(int)?i@22.17:22.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2˜
++array_2D.problem5.pascal(int)?j@29.20:29.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java# ($2š
+-array_2D.problem5.pascal(int)?ans@21.12:21.19CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java& ()2˜
++array_2D.problem5.pascal(int)?i@22.17:22.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java* (+2˜
++array_2D.problem5.pascal(int)?j@29.20:29.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java/ (02š
+-array_2D.problem5.pascal(int)?ans@21.12:21.19CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java$ $(2‘
+array_2D.problem5.pascal(int)!n	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2¡
+-array_2D.problem5.pascal(int)?ans@21.12:21.19DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2Ÿ
++array_2D.problem5.pascal(int)?i@22.17:22.18DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2Ÿ
++array_2D.problem5.pascal(int)?j@29.20:29.21DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2{
+int[][]RETURN_TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (ö
+-array_2D.problem5.pascal(int)?ans@21.12:21.19VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java ("
+typeint"
+isFinalfalse"¬
+declarationString–<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">ans</mark> = new <mark class="modifier">int</mark>[n][]*ans2t
+int[][]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (2Œ
+array_2D.problem5.pascal(int)!nCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (®
++array_2D.problem5.pascal(int)?i@22.17:22.18VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (®
++array_2D.problem5.pascal(int)?j@29.20:29.21VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (ß
+array_2D.problem5.pascal(int)!n	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java (îL
+%array_2D.problem5.fourSum(int[], int)METHODc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java'& '(-"
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark>List&lt;List&lt;Integer&gt;&gt; <mark class="method">fourSum</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> target)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeList<List<Integer>>*fourSum2‰
+java.util.Arrays.sort(int[])CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java. .(2Š
+java.util.List.of(E, E, E, E)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java>7 >(92Œ
+java.util.ArrayList.ArrayList()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java+ +((2ˆ
+java.util.HashSet.HashSet()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java0+ 0(42­
+@java.util.ArrayList.ArrayList(java.util.Collection<? extends E>)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java>& >(12­
+@java.util.ArrayList.ArrayList(java.util.Collection<? extends E>)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.javaF F(2–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java) )(2 
+3array_2D.problem5.fourSum(int[], int)?n@41.12:41.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java+ +(2–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java. .(2 
+3array_2D.problem5.fourSum(int[], int)?i@49.16:49.17CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java1 1(2 
+3array_2D.problem5.fourSum(int[], int)?n@41.12:41.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java1 1(2 
+3array_2D.problem5.fourSum(int[], int)?i@49.16:49.17CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java1" 1(#2 
+3array_2D.problem5.fourSum(int[], int)?i@49.16:49.17CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java2 2(2 
+3array_2D.problem5.fourSum(int[], int)?j@50.20:50.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java2 2(2 
+3array_2D.problem5.fourSum(int[], int)?n@41.12:41.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java2" 2(#2 
+3array_2D.problem5.fourSum(int[], int)?j@50.20:50.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java2& 2('2 
+3array_2D.problem5.fourSum(int[], int)?j@50.20:50.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java3 3(2 
+3array_2D.problem5.fourSum(int[], int)?n@41.12:41.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java4 4(2 
+3array_2D.problem5.fourSum(int[], int)?k@51.20:51.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java5 5(2 
+3array_2D.problem5.fourSum(int[], int)?l@52.20:52.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java5 5(2–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java6 6(!2 
+3array_2D.problem5.fourSum(int[], int)?i@49.16:49.17CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java6" 6(#2–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java6' 6(*2 
+3array_2D.problem5.fourSum(int[], int)?j@50.20:50.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java6+ 6(,2–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java60 6(32 
+3array_2D.problem5.fourSum(int[], int)?k@51.20:51.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java64 6(52–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java68 6(;2 
+3array_2D.problem5.fourSum(int[], int)?l@52.20:52.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java6< 6(=2¢
+5array_2D.problem5.fourSum(int[], int)?sum@54.24:54.27CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java7 7(2™
+,array_2D.problem5.fourSum(int[], int)!targetCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java7 7(#2 
+3array_2D.problem5.fourSum(int[], int)?k@51.20:51.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java8 8(2¢
+5array_2D.problem5.fourSum(int[], int)?sum@54.24:54.27CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java: :(2™
+,array_2D.problem5.fourSum(int[], int)!targetCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java:" :((2 
+3array_2D.problem5.fourSum(int[], int)?l@52.20:52.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java; ;(2¤
+7array_2D.problem5.fourSum(int[], int)?value@48.31:48.36CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java> >(2–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java>: >(=2 
+3array_2D.problem5.fourSum(int[], int)?i@49.16:49.17CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java>> >(?2–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java>C >(F2 
+3array_2D.problem5.fourSum(int[], int)?j@50.20:50.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java>G >(H2–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java>L >(O2 
+3array_2D.problem5.fourSum(int[], int)?k@51.20:51.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java>P >(Q2–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java>U >(X2 
+3array_2D.problem5.fourSum(int[], int)?l@52.20:52.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java>Y >(Z2 
+3array_2D.problem5.fourSum(int[], int)?k@51.20:51.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java? ?(2 
+3array_2D.problem5.fourSum(int[], int)?l@52.20:52.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java@ @(2¤
+7array_2D.problem5.fourSum(int[], int)?value@48.31:48.36CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.javaF F($2›
+)array_2D.problem5.fourSum(int[], int)!arr	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java'4 '(72ž
+,array_2D.problem5.fourSum(int[], int)!target	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java'= '(C2§
+3array_2D.problem5.fourSum(int[], int)?n@41.12:41.13DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java) )(2«
+7array_2D.problem5.fourSum(int[], int)?value@48.31:48.36DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java0 0($2§
+3array_2D.problem5.fourSum(int[], int)?i@49.16:49.17DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java1 1(2§
+3array_2D.problem5.fourSum(int[], int)?j@50.20:50.21DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java2 2(2§
+3array_2D.problem5.fourSum(int[], int)?k@51.20:51.21DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java3 3(2§
+3array_2D.problem5.fourSum(int[], int)?l@52.20:52.21DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java4 4(2©
+5array_2D.problem5.fourSum(int[], int)?sum@54.24:54.27DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java6 6(2‚
+java.util.ListRETURN_TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java' '(2‹
+java.util.ListRETURN_TYPE_ARGUMENTc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java' '(2Ž
+java.util.IntegerRETURN_TYPE_ARGUMENTc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java' '(#Ù
+3array_2D.problem5.fourSum(int[], int)?n@41.12:41.13VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java) )("
+typeint"
+isFinalfalse"…
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = arr.length*n2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java) )(2–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java) )(ƒ
+7array_2D.problem5.fourSum(int[], int)?value@48.31:48.36VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java0 0($"
+typeHashSet<List<Integer>>"
+isFinalfalse"ƒ
+declarationStringn<mark class="modifier"> </mark>HashSet<List<Integer>> <mark class="class-field">value</mark> = new HashSet<>()*value2~
+java.util.HashSetTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java0 0(2„
+java.util.ListTYPE_ARGUMENTc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java0 0(2‡
+java.util.IntegerTYPE_ARGUMENTc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java0 0(2ˆ
+java.util.HashSet.HashSet()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java0+ 0(4¶
+3array_2D.problem5.fourSum(int[], int)?i@49.16:49.17VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java1 1("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java1 1(Þ
+3array_2D.problem5.fourSum(int[], int)?j@50.20:50.21VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java2 2("
+typeint"
+isFinalfalse"€
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = i + 1*j2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java2 2(2 
+3array_2D.problem5.fourSum(int[], int)?i@49.16:49.17CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java2 2(Þ
+3array_2D.problem5.fourSum(int[], int)?k@51.20:51.21VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java3 3("
+typeint"
+isFinalfalse"€
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = j + 1*k2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java3 3(2 
+3array_2D.problem5.fourSum(int[], int)?j@50.20:50.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java3 3(Þ
+3array_2D.problem5.fourSum(int[], int)?l@52.20:52.21VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java4 4("
+typeint"
+isFinalfalse"€
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">l</mark> = n - 1*l2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java4 4(2 
+3array_2D.problem5.fourSum(int[], int)?n@41.12:41.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java4 4(Î
+5array_2D.problem5.fourSum(int[], int)?sum@54.24:54.27VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java6 6("
+typeint"
+isFinalfalse"Ÿ
+declarationString‰<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = arr[i] + arr[j] + arr[k] + arr[l]*sum2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java6 6(2–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java6 6(!2 
+3array_2D.problem5.fourSum(int[], int)?i@49.16:49.17CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java6" 6(#2–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java6' 6(*2 
+3array_2D.problem5.fourSum(int[], int)?j@50.20:50.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java6+ 6(,2–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java60 6(32 
+3array_2D.problem5.fourSum(int[], int)?k@51.20:51.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java64 6(52–
+)array_2D.problem5.fourSum(int[], int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java68 6(;2 
+3array_2D.problem5.fourSum(int[], int)?l@52.20:52.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java6< 6(=ó
+)array_2D.problem5.fourSum(int[], int)!arr	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java'4 '(7"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2r
+int[]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java'. '(3ö
+,array_2D.problem5.fourSum(int[], int)!target	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java'= '(C"
+typeint"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark> target*target2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.java'9 '(<¢
+*array_2D.problem5.main(java.util.String[])METHODc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.javaI I("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¥
+8array_2D.problem5.main(java.util.String[])?n@88.15:88.16CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.javaZ: Z(;2¡
+/array_2D.problem5.main(java.util.String[])!args	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.javaI% I()2¬
+8array_2D.problem5.main(java.util.String[])?n@88.15:88.16DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.javaX X(2x
+voidRETURN_TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.javaI I(Ó
+8array_2D.problem5.main(java.util.String[])?n@88.15:88.16VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.javaX X("
+typeint"
+isFinalfalse"‘
+declarationString|<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">n</mark> = { 4, 3, 6, 2, 1, 1 }*n2r
+int[]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.javaX X(ð
+/array_2D.problem5.main(java.util.String[])!args	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.javaI% I()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2
+java.util.String[]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem5.javaI I($

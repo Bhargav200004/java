@@ -1,0 +1,102 @@
+
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.javaº
+powerFinderCLASSQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java ("
+packagepowerFinder"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"i
+declarationStringT<mark class="modifier">public </mark><mark class="modifier">class </mark>powerFinder"
+accesspublic*powerFinder2x
+powerFinder.power(int)DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (2z
+powerFinder.printOF(int)DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (2|
+powerFinder.main(String[])DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (Þ
+powerFinder.power(int)METHODQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java ("
+isFinalfalse"Â
+declarationString¬<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">power</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*power2q
+powerFinder.power(int)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (2s
+powerFinder.power(int)!nCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (2s
+powerFinder.power(int)!nCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (2x
+powerFinder.power(int)!n	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (2e
+intRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (´
+powerFinder.power(int)!n	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (ï
+powerFinder.printOF(int)METHODQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java ("
+isFinalfalse"È
+declarationString²<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">printOF</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*printOF2s
+powerFinder.printOF(int)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (2u
+powerFinder.printOF(int)!nCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (2u
+powerFinder.printOF(int)!nCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (2u
+powerFinder.printOF(int)!nCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (2z
+powerFinder.printOF(int)!n	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java ( 2i
+booleanRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (¶
+powerFinder.printOF(int)!n	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java ( "
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (ö
+powerFinder.main(String[])METHODQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2s
+powerFinder.printOF(int)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java ("2
+powerFinder.main(String[])!args	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java% ()2Š
+(powerFinder.main(String[])?n@22.12:22.13DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (2f
+voidRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (‡
+(powerFinder.main(String[])?n@22.12:22.13VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = 3*n2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java (²
+powerFinder.main(String[])!args	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2c
+String[]TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\powerFinder.java ($

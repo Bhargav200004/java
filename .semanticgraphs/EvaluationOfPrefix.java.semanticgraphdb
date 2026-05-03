@@ -1,0 +1,176 @@
+
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.javaÓ
+EvaluationOfPrefixCLASST
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java ("
+packageEvaluationOfPrefix"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"p
+declarationString[<mark class="modifier">public </mark><mark class="modifier">class </mark>EvaluationOfPrefix"
+accesspublic*EvaluationOfPrefix2Ü
+!EvaluationOfPrefix.main(String[])DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (Ô.
+!EvaluationOfPrefix.main(String[])METHODT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2u
+java.util.Stack.Stack()CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java  ('2ç
+/EvaluationOfPrefix.main(String[])?str@4.15:4.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2ã
+-EvaluationOfPrefix.main(String[])?i@7.17:7.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java& ('2ã
+-EvaluationOfPrefix.main(String[])?i@7.17:7.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java/ (02ç
+/EvaluationOfPrefix.main(String[])?str@4.15:4.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2ã
+-EvaluationOfPrefix.main(String[])?i@7.17:7.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java! ("2å
+.EvaluationOfPrefix.main(String[])?ch@8.17:8.19CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java	 	( 2è
+1EvaluationOfPrefix.main(String[])?ascii@9.16:9.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java
+ 
+(2è
+1EvaluationOfPrefix.main(String[])?ascii@9.16:9.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java
+ 
+($2å
+.EvaluationOfPrefix.main(String[])?st@5.23:5.25CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2è
+1EvaluationOfPrefix.main(String[])?ascii@9.16:9.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2å
+.EvaluationOfPrefix.main(String[])?st@5.23:5.25CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2å
+.EvaluationOfPrefix.main(String[])?st@5.23:5.25CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2å
+.EvaluationOfPrefix.main(String[])?ch@8.17:8.19CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2å
+.EvaluationOfPrefix.main(String[])?st@5.23:5.25CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2é
+0EvaluationOfPrefix.main(String[])?v1@13.18:13.20CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java& ((2é
+0EvaluationOfPrefix.main(String[])?v2@14.18:14.20CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java+ (-2å
+.EvaluationOfPrefix.main(String[])?ch@8.17:8.19CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2å
+.EvaluationOfPrefix.main(String[])?st@5.23:5.25CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java" ($2é
+0EvaluationOfPrefix.main(String[])?v1@13.18:13.20CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java+ (-2é
+0EvaluationOfPrefix.main(String[])?v2@14.18:14.20CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java0 (22å
+.EvaluationOfPrefix.main(String[])?ch@8.17:8.19CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2å
+.EvaluationOfPrefix.main(String[])?st@5.23:5.25CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java" ($2é
+0EvaluationOfPrefix.main(String[])?v1@13.18:13.20CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java+ (-2é
+0EvaluationOfPrefix.main(String[])?v2@14.18:14.20CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java0 (22å
+.EvaluationOfPrefix.main(String[])?ch@8.17:8.19CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2å
+.EvaluationOfPrefix.main(String[])?st@5.23:5.25CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java" ($2é
+0EvaluationOfPrefix.main(String[])?v1@13.18:13.20CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java+ (-2é
+0EvaluationOfPrefix.main(String[])?v2@14.18:14.20CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java0 (22å
+.EvaluationOfPrefix.main(String[])?st@5.23:5.25CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2â
+&EvaluationOfPrefix.main(String[])!args	PARAMETERT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java% ()2î
+/EvaluationOfPrefix.main(String[])?str@4.15:4.18DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2ì
+.EvaluationOfPrefix.main(String[])?st@5.23:5.25DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2í
+-EvaluationOfPrefix.main(String[])?i@7.17:7.18DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2ì
+.EvaluationOfPrefix.main(String[])?ch@8.17:8.19DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2ñ
+1EvaluationOfPrefix.main(String[])?ascii@9.16:9.21DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java	 	(2ï
+0EvaluationOfPrefix.main(String[])?v1@13.18:13.20DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2ï
+0EvaluationOfPrefix.main(String[])?v2@14.18:14.20DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2i
+voidRETURN_TYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (ç
+/EvaluationOfPrefix.main(String[])?str@4.15:4.18VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java ("
+typeString"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>String <mark class="class-field">str</mark> = "-9/*+5346"*str2d
+StringTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (å
+.EvaluationOfPrefix.main(String[])?st@5.23:5.25VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java ("
+typeStack<Integer>"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Stack<Integer> <mark class="class-field">st</mark> = new Stack<>()*st2m
+java.util.StackTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2n
+IntegerTYPE_ARGUMENTT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2u
+java.util.Stack.Stack()CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java  ('≤
+-EvaluationOfPrefix.main(String[])?i@7.17:7.18VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java ("
+typeint"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = str.length() - 1*i2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2ç
+/EvaluationOfPrefix.main(String[])?str@4.15:4.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (§
+.EvaluationOfPrefix.main(String[])?ch@8.17:8.19VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java ("
+typechar"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>char <mark class="class-field">ch</mark> = str.charAt(i)*ch2b
+charTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2ç
+/EvaluationOfPrefix.main(String[])?str@4.15:4.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2ã
+-EvaluationOfPrefix.main(String[])?i@7.17:7.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java! ("‘
+1EvaluationOfPrefix.main(String[])?ascii@9.16:9.21VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java	 	("
+typeint"
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">ascii</mark> = (<mark class="modifier">int</mark>) ch*ascii2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java	 	(2å
+.EvaluationOfPrefix.main(String[])?ch@8.17:8.19CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java	 	( Æ
+0EvaluationOfPrefix.main(String[])?v1@13.18:13.20VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java ("
+typeint"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">v1</mark> = st.pop()*v12a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2å
+.EvaluationOfPrefix.main(String[])?st@5.23:5.25CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (Æ
+0EvaluationOfPrefix.main(String[])?v2@14.18:14.20VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java ("
+typeint"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">v2</mark> = st.pop()*v22a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (2å
+.EvaluationOfPrefix.main(String[])?st@5.23:5.25CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java (ø
+&EvaluationOfPrefix.main(String[])!args	PARAMETERT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2f
+String[]TYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPrefix.java ($

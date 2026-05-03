@@ -1,0 +1,125 @@
+
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.javaÒ
+SumOfArrayValueCLASSQ
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java("
+packageSumOfArrayValue"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier">public </mark><mark class="modifier">class </mark>SumOfArrayValue"
+accesspublic*SumOfArrayValue2ë
++SumOfArrayValue.SumOfValue(int[], int, int)DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (2Ñ
+SumOfArrayValue.main(String[])DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java
+ 
+(ì
++SumOfArrayValue.SumOfValue(int[], int, int)METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java ("
+isFinalfalse"ë
+declarationString˚<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">SumOfValue</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> idx<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> ans)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*
+SumOfValue2ä
++SumOfArrayValue.SumOfValue(int[], int, int)CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (2é
+/SumOfArrayValue.SumOfValue(int[], int, int)!idxCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (2é
+/SumOfArrayValue.SumOfValue(int[], int, int)!arrCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (2é
+/SumOfArrayValue.SumOfValue(int[], int, int)!arrCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (2é
+/SumOfArrayValue.SumOfValue(int[], int, int)!idxCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (2é
+/SumOfArrayValue.SumOfValue(int[], int, int)!ansCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (!2é
+/SumOfArrayValue.SumOfValue(int[], int, int)!ansCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (2é
+/SumOfArrayValue.SumOfValue(int[], int, int)!arrCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (2é
+/SumOfArrayValue.SumOfValue(int[], int, int)!idxCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (2é
+/SumOfArrayValue.SumOfValue(int[], int, int)!ansCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (2é
+/SumOfArrayValue.SumOfValue(int[], int, int)!arrCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (2é
+/SumOfArrayValue.SumOfValue(int[], int, int)!idxCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java  (#2é
+/SumOfArrayValue.SumOfValue(int[], int, int)!ansCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java* (-2ì
+/SumOfArrayValue.SumOfValue(int[], int, int)!arr	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java! ($2ì
+/SumOfArrayValue.SumOfValue(int[], int, int)!idx	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java+ (.2ì
+/SumOfArrayValue.SumOfValue(int[], int, int)!ans	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java5 (82i
+intRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (›
+/SumOfArrayValue.SumOfValue(int[], int, int)!arr	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java! ($"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2d
+int[]TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java ( ◊
+/SumOfArrayValue.SumOfValue(int[], int, int)!idx	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java+ (."
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> idx*idx2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java' (*◊
+/SumOfArrayValue.SumOfValue(int[], int, int)!ans	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java5 (8"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> ans*ans2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java1 (4Ω
+SumOfArrayValue.main(String[])METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java
+ 
+("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ä
++SumOfArrayValue.SumOfValue(int[], int, int)CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java4 (>2ç
+.SumOfArrayValue.main(String[])?arr@11.15:11.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java? (B2á
+#SumOfArrayValue.main(String[])!args	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java
+% 
+()2î
+.SumOfArrayValue.main(String[])?arr@11.15:11.18DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (2j
+voidRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java
+ 
+(µ
+.SumOfArrayValue.main(String[])?arr@11.15:11.18VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java ("
+typeint"
+isFinalfalse"ó
+declarationStringÅ<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = { 173, 24, 12, 19, 13 }*arr2d
+int[]TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java (æ
+#SumOfArrayValue.main(String[])!args	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java
+% 
+()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2g
+String[]TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\SumOfArrayValue.java
+ 
+($

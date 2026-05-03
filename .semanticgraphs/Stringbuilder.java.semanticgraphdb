@@ -1,0 +1,62 @@
+
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java 
+StringbuilderCLASSM
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java("
+packageStringbuilder"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier">public </mark><mark class="modifier">class </mark>Stringbuilder"
+accesspublic*Stringbuilder2~
+Stringbuilder.main(String[])DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java (–
+Stringbuilder.main(String[])METHODQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ö
+*Stringbuilder.main(String[])?str@2.22:2.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java (2Ö
+*Stringbuilder.main(String[])?str@2.22:2.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java (2Ö
+*Stringbuilder.main(String[])?str@2.22:2.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java (2Ö
+*Stringbuilder.main(String[])?str@2.22:2.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java
+ 
+(2Ö
+*Stringbuilder.main(String[])?str@2.22:2.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java (2Ö
+*Stringbuilder.main(String[])?str@2.22:2.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java (2Ö
+*Stringbuilder.main(String[])?str@2.22:2.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java (2Ö
+*Stringbuilder.main(String[])?str@2.22:2.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java (2Ö
+*Stringbuilder.main(String[])?str@2.22:2.25CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java (2Å
+!Stringbuilder.main(String[])!args	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java% ()2å
+*Stringbuilder.main(String[])?str@2.22:2.25DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java (2f
+voidRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java (¥
+*Stringbuilder.main(String[])?str@2.22:2.25VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java ("
+typeStringBuilder"
+isFinalfalse"ê
+declarationString{<mark class="modifier"> </mark>StringBuilder <mark class="class-field">str</mark> = new StringBuilder("My name is bhargav")*str2h
+StringBuilderTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java (¥
+!Stringbuilder.main(String[])!args	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2c
+String[]TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\Stringbuilder.java ($

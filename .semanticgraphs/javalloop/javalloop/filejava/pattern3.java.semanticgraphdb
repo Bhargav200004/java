@@ -1,0 +1,97 @@
+
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.javaí
+javalloop.pattern3CLASS]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java ("
+package	javalloop"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>pattern3"
+accesspublic*pattern32™
++javalloop.pattern3.main(java.lang.String[])DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java (™
++javalloop.pattern3.main(java.lang.String[])METHOD]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2‚
+java.util.Scanner.nextInt()CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java	 	(2’
++java.io.PrintStream.print(java.lang.String)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java ( 2”
+-java.io.PrintStream.println(java.lang.String)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java (2•
+.java.util.Scanner.Scanner(java.io.InputStream)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java (2ž
+7javalloop.pattern3.main(java.lang.String[])?A@8.16:8.17CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java	 	(2 
+9javalloop.pattern3.main(java.lang.String[])?i@12.17:12.18CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java (2ž
+7javalloop.pattern3.main(java.lang.String[])?a@9.12:9.13CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java (2 
+9javalloop.pattern3.main(java.lang.String[])?i@12.17:12.18CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java  (!2 
+9javalloop.pattern3.main(java.lang.String[])?j@13.21:13.22CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java (2 
+9javalloop.pattern3.main(java.lang.String[])?i@12.17:12.18CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java! ("2 
+9javalloop.pattern3.main(java.lang.String[])?j@13.21:13.22CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java$ (%2œ
+0javalloop.pattern3.main(java.lang.String[])!args	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java# ()2¥
+7javalloop.pattern3.main(java.lang.String[])?A@8.16:8.17DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java (2¥
+7javalloop.pattern3.main(java.lang.String[])?a@9.12:9.13DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java	 	(2§
+9javalloop.pattern3.main(java.lang.String[])?i@12.17:12.18DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java (2§
+9javalloop.pattern3.main(java.lang.String[])?j@13.21:13.22DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java (2r
+voidRETURN_TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java (Ó
+7javalloop.pattern3.main(java.lang.String[])?A@8.16:8.17VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java ("
+typeScanner"
+isFinalfalse"w
+declarationStringb<mark class="modifier"> </mark>Scanner <mark class="class-field">A</mark> = new Scanner(System.in)*A2x
+java.util.ScannerTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java (2•
+.java.util.Scanner.Scanner(java.io.InputStream)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java (ß
+7javalloop.pattern3.main(java.lang.String[])?a@9.12:9.13VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java	 	("
+typeint"
+isFinalfalse"†
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = A.nextInt()*a2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java	 	(2‚
+java.util.Scanner.nextInt()CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java	 	(2ž
+7javalloop.pattern3.main(java.lang.String[])?A@8.16:8.17CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java	 	(°
+9javalloop.pattern3.main(java.lang.String[])?i@12.17:12.18VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java (°
+9javalloop.pattern3.main(java.lang.String[])?j@13.21:13.22VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java (å
+0javalloop.pattern3.main(java.lang.String[])!args	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java# ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2y
+java.lang.String[]TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\filejava\pattern3.java ()

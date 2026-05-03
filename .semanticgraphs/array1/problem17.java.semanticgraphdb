@@ -1,0 +1,178 @@
+
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.javaò
+array1.problem17CLASSb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java ("
+packagearray1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>problem17"
+accesspublic*	problem172œ
+)array1.problem17.main(java.lang.String[])DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (µ2
+)array1.problem17.main(java.lang.String[])METHODb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2™
+-java.io.PrintStream.println(java.lang.String)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java	 	(2‡
+java.util.Scanner.nextInt()CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java
+ 
+(2™
+-java.io.PrintStream.println(java.lang.String)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2‡
+java.util.Scanner.nextInt()CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2—
++java.io.PrintStream.print(java.lang.String)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java ($2‰
+java.io.PrintStream.println()CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java ("2š
+.java.util.Scanner.Scanner(java.io.InputStream)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java ( 2¢
+6array1.problem17.main(java.lang.String[])?sc@7.16:7.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java
+ 
+(2£
+7array1.problem17.main(java.lang.String[])?n@10.12:10.13CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2£
+7array1.problem17.main(java.lang.String[])?i@15.17:15.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2£
+7array1.problem17.main(java.lang.String[])?n@10.12:10.13CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2£
+7array1.problem17.main(java.lang.String[])?i@15.17:15.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java! ("2¥
+9array1.problem17.main(java.lang.String[])?arr@12.15:12.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2£
+7array1.problem17.main(java.lang.String[])?i@15.17:15.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2¢
+6array1.problem17.main(java.lang.String[])?sc@7.16:7.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2£
+7array1.problem17.main(java.lang.String[])?i@21.17:21.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2¥
+9array1.problem17.main(java.lang.String[])?arr@12.15:12.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2£
+7array1.problem17.main(java.lang.String[])?i@21.17:21.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java) (*2£
+7array1.problem17.main(java.lang.String[])?i@21.17:21.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2£
+7array1.problem17.main(java.lang.String[])?j@22.21:22.22CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2¥
+9array1.problem17.main(java.lang.String[])?arr@12.15:12.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java  (#2£
+7array1.problem17.main(java.lang.String[])?j@22.21:22.22CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java- (.2£
+7array1.problem17.main(java.lang.String[])?i@21.17:21.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2£
+7array1.problem17.main(java.lang.String[])?k@24.25:24.26CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java! ("2£
+7array1.problem17.main(java.lang.String[])?j@22.21:22.22CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java& ('2£
+7array1.problem17.main(java.lang.String[])?k@24.25:24.26CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java* (+2¥
+9array1.problem17.main(java.lang.String[])?arr@12.15:12.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java% ((2£
+7array1.problem17.main(java.lang.String[])?k@24.25:24.26CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java) (*2Ÿ
+.array1.problem17.main(java.lang.String[])!args	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java% ()2©
+6array1.problem17.main(java.lang.String[])?sc@7.16:7.18DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2ª
+7array1.problem17.main(java.lang.String[])?n@10.12:10.13DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java
+ 
+(2¬
+9array1.problem17.main(java.lang.String[])?arr@12.15:12.18DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2ª
+7array1.problem17.main(java.lang.String[])?i@15.17:15.18DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2ª
+7array1.problem17.main(java.lang.String[])?i@21.17:21.18DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2ª
+7array1.problem17.main(java.lang.String[])?j@22.21:22.22DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2ª
+7array1.problem17.main(java.lang.String[])?k@24.25:24.26DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2w
+voidRETURN_TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (ã
+6array1.problem17.main(java.lang.String[])?sc@7.16:7.18VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2}
+java.util.ScannerTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2š
+.java.util.Scanner.Scanner(java.io.InputStream)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java ( ó
+7array1.problem17.main(java.lang.String[])?n@10.12:10.13VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java
+ 
+("
+typeint"
+isFinalfalse"‡
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = sc.nextInt()*n2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java
+ 
+(2‡
+java.util.Scanner.nextInt()CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java
+ 
+(2¢
+6array1.problem17.main(java.lang.String[])?sc@7.16:7.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java
+ 
+(‘
+9array1.problem17.main(java.lang.String[])?arr@12.15:12.18VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java ("
+typeint"
+isFinalfalse"¨
+declarationString’<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n]*arr2q
+int[]TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2£
+7array1.problem17.main(java.lang.String[])?n@10.12:10.13CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (¸
+7array1.problem17.main(java.lang.String[])?i@15.17:15.18VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (¸
+7array1.problem17.main(java.lang.String[])?i@21.17:21.18VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (Þ
+7array1.problem17.main(java.lang.String[])?j@22.21:22.22VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = i*j2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2£
+7array1.problem17.main(java.lang.String[])?i@21.17:21.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (Þ
+7array1.problem17.main(java.lang.String[])?k@24.25:24.26VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = i*k2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (2£
+7array1.problem17.main(java.lang.String[])?i@21.17:21.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java (í
+.array1.problem17.main(java.lang.String[])!args	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2~
+java.lang.String[]TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem17.java ($

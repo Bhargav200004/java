@@ -1,0 +1,113 @@
+
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java¼
+movingStackCLASSM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java ("
+packagemovingStack"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"i
+declarationStringT<mark class="modifier">public </mark><mark class="modifier">class </mark>movingStack"
+accesspublic*movingStack2x
+movingStack.main(String[])DECLARATIONM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (æ
+movingStack.main(String[])METHODM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2n
+java.util.Stack.Stack()CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java  ('2n
+java.util.Stack.Stack()CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java  ('2n
+java.util.Stack.Stack()CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java  ('2~
+'movingStack.main(String[])?st@5.23:5.25CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (
+2~
+'movingStack.main(String[])?st@5.23:5.25CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (
+2~
+'movingStack.main(String[])?st@5.23:5.25CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java	 	(
+2~
+'movingStack.main(String[])?st@5.23:5.25CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java
+ 
+(
+2~
+'movingStack.main(String[])?st@5.23:5.25CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (
+2~
+'movingStack.main(String[])?st@5.23:5.25CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2~
+'movingStack.main(String[])?st@5.23:5.25CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2€
+)movingStack.main(String[])?rt@14.23:14.25CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2~
+'movingStack.main(String[])?st@5.23:5.25CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2€
+)movingStack.main(String[])?rt@14.23:14.25CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2€
+)movingStack.main(String[])?rt@14.23:14.25CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2€
+)movingStack.main(String[])?gt@23.23:23.25CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2€
+)movingStack.main(String[])?rt@14.23:14.25CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2€
+)movingStack.main(String[])?gt@23.23:23.25CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2{
+movingStack.main(String[])!args	PARAMETERM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java% ()2…
+'movingStack.main(String[])?st@5.23:5.25DECLARATIONM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2‡
+)movingStack.main(String[])?rt@14.23:14.25DECLARATIONM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2‡
+)movingStack.main(String[])?gt@23.23:23.25DECLARATIONM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2b
+voidRETURN_TYPEM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (é
+'movingStack.main(String[])?st@5.23:5.25VARIABLEM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java ("
+typeStack<Integer>"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Stack<Integer> <mark class="class-field">st</mark> = new Stack<>()*st2f
+java.util.StackTYPEM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2g
+IntegerTYPE_ARGUMENTM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2n
+java.util.Stack.Stack()CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java  ('ë
+)movingStack.main(String[])?rt@14.23:14.25VARIABLEM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java ("
+typeStack<Integer>"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Stack<Integer> <mark class="class-field">rt</mark> = new Stack<>()*rt2f
+java.util.StackTYPEM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2g
+IntegerTYPE_ARGUMENTM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2n
+java.util.Stack.Stack()CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java  ('ë
+)movingStack.main(String[])?gt@23.23:23.25VARIABLEM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java ("
+typeStack<Integer>"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Stack<Integer> <mark class="class-field">gt</mark> = new Stack<>()*gt2f
+java.util.StackTYPEM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2g
+IntegerTYPE_ARGUMENTM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java (2n
+java.util.Stack.Stack()CALLM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java  ('ª
+movingStack.main(String[])!args	PARAMETERM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2_
+String[]TYPEM
+CC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\movingStack.java ($

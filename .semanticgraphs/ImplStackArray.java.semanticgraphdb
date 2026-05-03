@@ -1,0 +1,285 @@
+
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaÕ
+ImplStackArrayCLASSL
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java("
+packageImplStackArray"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier">public </mark><mark class="modifier">class </mark>ImplStackArray"
+accesspublic*ImplStackArray2~
+ImplStackArray.main(String[])DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java< <(ç
+ImplStackArray.main(String[])METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java< <("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2|
+"ImplStackArray.arrayImp.arrayImp()CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java> >("2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java@ @(
+2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaA A(
+2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaB B(
+2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaC C(
+2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaD D(
+2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaE E(
+2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaG G(
+2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaJ J(
+2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaK K(
+2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaL L(
+2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaM M(
+2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaN N(
+2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaO O(
+2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaP P(
+2Ü
+,ImplStackArray.main(String[])?st@62.17:62.19CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.javaQ Q(
+2Å
+"ImplStackArray.main(String[])!args	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java<% <()2ç
+,ImplStackArray.main(String[])?st@62.17:62.19DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java> >(2e
+voidRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java< <(ñ
+,ImplStackArray.main(String[])?st@62.17:62.19VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java> >("
+typearrayImp"
+isFinalfalse"q
+declarationString\<mark class="modifier"> </mark>arrayImp <mark class="class-field">st</mark> = new arrayImp()*st2q
+ImplStackArray.arrayImpTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java> >(2|
+"ImplStackArray.arrayImp.arrayImp()CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java> >("≥
+"ImplStackArray.main(String[])!args	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java<% <()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2b
+String[]TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java< <($ë
+ImplStackArray.arrayImpCLASSP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java ("
+packageImplStackArray"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier"> </mark><mark class="modifier">class </mark>arrayImp"
+accesspackage_private*arrayImp2Ç
+!ImplStackArray.arrayImp.isEmpty()DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (2Å
+ ImplStackArray.arrayImp.isFull()DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (2Ç
+!ImplStackArray.arrayImp.push(int)DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (2~
+ImplStackArray.arrayImp.pop()DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java# #(2
+ImplStackArray.arrayImp.peek()DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java/ /(2Ç
+!ImplStackArray.arrayImp.display()DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java3 3(2Ü
+%ImplStackArray.arrayImp?top@3.19:3.22DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (2ã
+*ImplStackArray.arrayImp?capacity@4.25:4.33DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (!2à
+'ImplStackArray.arrayImp?stack@5.28:5.33DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (!2á
+&ImplStackArray.arrayImp?size@6.12:6.16DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (ÿ
+!ImplStackArray.arrayImp.isEmpty()METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java ("
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="method">isEmpty</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*isEmpty2
+%ImplStackArray.arrayImp?top@3.19:3.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java	 	(2h
+booleanRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (‹
+ ImplStackArray.arrayImp.isFull()METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java ("
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="method">isFull</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*isFull2
+%ImplStackArray.arrayImp?top@3.19:3.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (2Ñ
+*ImplStackArray.arrayImp?capacity@4.25:4.33CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (2h
+booleanRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (Ä
+!ImplStackArray.arrayImp.push(int)METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java ("
+isFinalfalse"†
+declarationStringä<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">push</mark>(<mark class="modifier">int</mark> data)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*push2z
+ ImplStackArray.arrayImp.isFull()CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (2
+%ImplStackArray.arrayImp?top@3.19:3.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (2Å
+'ImplStackArray.arrayImp?stack@5.28:5.33CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (2
+%ImplStackArray.arrayImp?top@3.19:3.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (2Ä
+&ImplStackArray.arrayImp.push(int)!dataCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (2Ä
+&ImplStackArray.arrayImp?size@6.12:6.16CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (2Ö
+&ImplStackArray.arrayImp.push(int)!data	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (2e
+voidRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (∆
+&ImplStackArray.arrayImp.push(int)!data	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (»
+ImplStackArray.arrayImp.pop()METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java# #("
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">pop</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*pop2{
+!ImplStackArray.arrayImp.isEmpty()CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java$ $(2Å
+'ImplStackArray.arrayImp?stack@5.28:5.33CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java)A )(F2
+%ImplStackArray.arrayImp?top@3.19:3.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java)G )(J2
+%ImplStackArray.arrayImp?top@3.19:3.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java* *(2Ä
+&ImplStackArray.arrayImp?size@6.12:6.16CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java+ +(2e
+voidRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java# #( 
+ImplStackArray.arrayImp.peek()METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java/ /("
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">peek</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*peek2Å
+'ImplStackArray.arrayImp?stack@5.28:5.33CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java03 0(82
+%ImplStackArray.arrayImp?top@3.19:3.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java09 0(<2e
+voidRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java/ /(ä
+
+!ImplStackArray.arrayImp.display()METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java3 3("
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">display</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2â
+/ImplStackArray.arrayImp.display()?i@52.21:52.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java4 4(2
+%ImplStackArray.arrayImp?top@3.19:3.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java4" 4(%2â
+/ImplStackArray.arrayImp.display()?i@52.21:52.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java4( 4()2Å
+'ImplStackArray.arrayImp?stack@5.28:5.33CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java5! 5(&2â
+/ImplStackArray.arrayImp.display()?i@52.21:52.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java5' 5((2ê
+/ImplStackArray.arrayImp.display()?i@52.21:52.22DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java4 4(2e
+voidRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java3 3(å
+/ImplStackArray.arrayImp.display()?i@52.21:52.22VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java4 4("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java4 4(‹
+%ImplStackArray.arrayImp?top@3.19:3.22VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java ("
+isFinalfalse"
+typeint"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="class-field">top</mark> = -1;"
+isStatictrue"
+accesspackage_private*top2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (ä
+*ImplStackArray.arrayImp?capacity@4.25:4.33VALUEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (!"
+isFinaltrue"
+typeint"Œ
+declarationString∏<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">final </mark><mark class="modifier">int</mark> <mark class="class-field">capacity</mark> = 5;"
+isStatictrue"
+accesspackage_private*capacity2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (∫
+'ImplStackArray.arrayImp?stack@5.28:5.33VALUEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (!"
+isFinaltrue"
+typeint"˚
+declarationStringÂ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">final </mark><mark class="modifier">int</mark>[] <mark class="class-field">stack</mark> = new <mark class="modifier">int</mark>[capacity];"
+isStatictrue"
+accesspackage_private*stack2_
+int[]TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (2Ñ
+*ImplStackArray.arrayImp?capacity@4.25:4.33CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java, (4π
+&ImplStackArray.arrayImp?size@6.12:6.16VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java ("
+isFinalfalse"
+typeint"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">size</mark> = 0;"
+isStaticfalse"
+accesspackage_private*size2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackArray.java (

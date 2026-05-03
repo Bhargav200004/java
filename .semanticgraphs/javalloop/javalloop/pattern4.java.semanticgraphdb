@@ -1,0 +1,113 @@
+
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java€
+javalloop.pattern4CLASST
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java ("
+package	javalloop"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>pattern4"
+accesspublic*pattern42ê
++javalloop.pattern4.main(java.lang.String[])DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java (Ü
++javalloop.pattern4.main(java.lang.String[])METHODT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2y
+java.util.Scanner.nextInt()CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java (2â
++java.io.PrintStream.print(java.lang.String)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java ( 2ã
+-java.io.PrintStream.println(java.lang.String)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java (2å
+.java.util.Scanner.Scanner(java.io.InputStream)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java (2ï
+7javalloop.pattern4.main(java.lang.String[])?A@6.16:6.17CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java (2ï
+7javalloop.pattern4.main(java.lang.String[])?i@9.17:9.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java	 	(2ï
+7javalloop.pattern4.main(java.lang.String[])?a@7.12:7.13CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java	 	(2ï
+7javalloop.pattern4.main(java.lang.String[])?i@9.17:9.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java	  	(!2ó
+9javalloop.pattern4.main(java.lang.String[])?j@10.21:10.22CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java
+ 
+(2ï
+7javalloop.pattern4.main(java.lang.String[])?a@7.12:7.13CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java
+" 
+(#2ï
+7javalloop.pattern4.main(java.lang.String[])?i@9.17:9.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java
+& 
+('2ó
+9javalloop.pattern4.main(java.lang.String[])?j@10.21:10.22CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java
+* 
+(+2ì
+0javalloop.pattern4.main(java.lang.String[])!args	PARAMETERT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java# ()2ú
+7javalloop.pattern4.main(java.lang.String[])?A@6.16:6.17DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java (2ú
+7javalloop.pattern4.main(java.lang.String[])?a@7.12:7.13DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java (2ú
+7javalloop.pattern4.main(java.lang.String[])?i@9.17:9.18DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java	 	(2û
+9javalloop.pattern4.main(java.lang.String[])?j@10.21:10.22DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java
+ 
+(2i
+voidRETURN_TYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java (∏
+7javalloop.pattern4.main(java.lang.String[])?A@6.16:6.17VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java ("
+typeScanner"
+isFinalfalse"w
+declarationStringb<mark class="modifier"> </mark>Scanner <mark class="class-field">A</mark> = new Scanner(System.in)*A2o
+java.util.ScannerTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java (2å
+.java.util.Scanner.Scanner(java.io.InputStream)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java (∫
+7javalloop.pattern4.main(java.lang.String[])?a@7.12:7.13VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java ("
+typeint"
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = A.nextInt()*a2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java (2y
+java.util.Scanner.nextInt()CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java (2ï
+7javalloop.pattern4.main(java.lang.String[])?A@6.16:6.17CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java (ú
+7javalloop.pattern4.main(java.lang.String[])?i@9.17:9.18VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java	 	("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java	 	(û
+9javalloop.pattern4.main(java.lang.String[])?j@10.21:10.22VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java
+ 
+("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java
+ 
+(”
+0javalloop.pattern4.main(java.lang.String[])!args	PARAMETERT
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java# ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2p
+java.lang.String[]TYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\pattern4.java ()

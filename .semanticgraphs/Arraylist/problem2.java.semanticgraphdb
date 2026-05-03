@@ -1,0 +1,99 @@
+
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java˚
+Arraylist.problem2CLASSd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java ("
+package	Arraylist"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>problem2"
+accesspublic*problem22†
++Arraylist.problem2.main(java.lang.String[])DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java (¢"
++Arraylist.problem2.main(java.lang.String[])METHODd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java
+
+ 
+(2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java
+ (2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java
+ (2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java
+ (2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java
+ (2õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java (2õ
+-java.util.Collections.sort(java.util.List<T>)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java (2õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java (2º
+Njava.util.Collections.sort(java.util.List<T>, java.util.Comparator<? super T>)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java (2í
+$java.util.Collections.reverseOrder()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java' (32õ
+-java.io.PrintStream.println(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java (2ç
+java.util.ArrayList.ArrayList()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java	  	(+2•
+7Arraylist.problem2.main(java.lang.String[])?S@9.26:9.27CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java
+ 
+(	2•
+7Arraylist.problem2.main(java.lang.String[])?S@9.26:9.27CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java (	2•
+7Arraylist.problem2.main(java.lang.String[])?S@9.26:9.27CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java (	2•
+7Arraylist.problem2.main(java.lang.String[])?S@9.26:9.27CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java (	2•
+7Arraylist.problem2.main(java.lang.String[])?S@9.26:9.27CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java (	2•
+7Arraylist.problem2.main(java.lang.String[])?S@9.26:9.27CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java+ (,2•
+7Arraylist.problem2.main(java.lang.String[])?S@9.26:9.27CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java (2•
+7Arraylist.problem2.main(java.lang.String[])?S@9.26:9.27CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java, (-2•
+7Arraylist.problem2.main(java.lang.String[])?S@9.26:9.27CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java (2•
+7Arraylist.problem2.main(java.lang.String[])?S@9.26:9.27CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java. (/2£
+0Arraylist.problem2.main(java.lang.String[])!args	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java% ()2¨
+7Arraylist.problem2.main(java.lang.String[])?S@9.26:9.27DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java	 	(2y
+voidRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java (ı
+7Arraylist.problem2.main(java.lang.String[])?S@9.26:9.27VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java	 	("
+typeArrayList<String>"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark>ArrayList<String> <mark class="class-field">S</mark> = new ArrayList<>()*S2Å
+java.util.ArrayListTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java	 	(2á
+java.lang.StringTYPE_ARGUMENTd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java	 	(2ç
+java.util.ArrayList.ArrayList()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java	  	(+Ù
+0Arraylist.problem2.main(java.lang.String[])!args	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ä
+java.lang.String[]TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\problem2.java ($

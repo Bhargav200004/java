@@ -1,0 +1,472 @@
+
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java„
+array_2D.problem3CLASSc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java ("
+packagearray_2D"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>problem3"
+accesspublic*problem32ô
+%array_2D.problem3.PrintArray(int[][])DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2¢
+.array_2D.problem3.Transpose(int[][], int, int)DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2©
+5array_2D.problem3.TransposeInPlace(int[][], int, int)DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (!2û
+*array_2D.problem3.main(java.lang.String[])DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java& &(ù
+%array_2D.problem3.PrintArray(int[][])METHODc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java ("
+isFinalfalse"Œ
+declarationString∏<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">PrintArray</mark>(<mark class="modifier">int</mark>[][] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*
+PrintArray2ò
++java.io.PrintStream.print(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java ( 2ä
+java.io.PrintStream.println()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2û
+1array_2D.problem3.PrintArray(int[][])?i@9.16:9.17CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java	 	(2ñ
+)array_2D.problem3.PrintArray(int[][])!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java	 	(2û
+1array_2D.problem3.PrintArray(int[][])?i@9.16:9.17CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java	" 	(#2†
+3array_2D.problem3.PrintArray(int[][])?j@10.21:10.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java
+ 
+(2ñ
+)array_2D.problem3.PrintArray(int[][])!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java
+ 
+(2û
+1array_2D.problem3.PrintArray(int[][])?i@9.16:9.17CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java
+  
+(!2†
+3array_2D.problem3.PrintArray(int[][])?j@10.21:10.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java
+* 
+(+2ñ
+)array_2D.problem3.PrintArray(int[][])!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java! ($2û
+1array_2D.problem3.PrintArray(int[][])?i@9.16:9.17CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java% (&2†
+3array_2D.problem3.PrintArray(int[][])?j@10.21:10.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java( ()2õ
+)array_2D.problem3.PrintArray(int[][])!arr	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (&2•
+1array_2D.problem3.PrintArray(int[][])?i@9.16:9.17DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java	 	(2ß
+3array_2D.problem3.PrintArray(int[][])?j@10.21:10.22DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java
+ 
+(2x
+voidRETURN_TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (¥
+1array_2D.problem3.PrintArray(int[][])?i@9.16:9.17VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java	 	("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java	 	(∂
+3array_2D.problem3.PrintArray(int[][])?j@10.21:10.22VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java
+ 
+("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java
+ 
+(˘
+)array_2D.problem3.PrintArray(int[][])!arr	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (&"
+typeint[][]"
+isFinalfalse">
+declarationString)<mark class="modifier">int</mark>[][] arr*arr2t
+int[][]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java ($ò#
+.array_2D.problem3.Transpose(int[][], int, int)METHODc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java ("
+isFinalfalse"è
+declarationString˘<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">Transpose</mark>(<mark class="modifier">int</mark>[][] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> r<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> c)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*	Transpose2í
+%array_2D.problem3.PrintArray(int[][])CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2ù
+0array_2D.problem3.Transpose(int[][], int, int)!rCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2ù
+0array_2D.problem3.Transpose(int[][], int, int)!cCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java  (!2©
+<array_2D.problem3.Transpose(int[][], int, int)?i@18.17:18.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2ù
+0array_2D.problem3.Transpose(int[][], int, int)!rCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2©
+<array_2D.problem3.Transpose(int[][], int, int)?i@18.17:18.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2©
+<array_2D.problem3.Transpose(int[][], int, int)?j@19.21:19.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2ù
+0array_2D.problem3.Transpose(int[][], int, int)!cCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2©
+<array_2D.problem3.Transpose(int[][], int, int)?j@19.21:19.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2¨
+?array_2D.problem3.Transpose(int[][], int, int)?tran@17.12:17.20CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2©
+<array_2D.problem3.Transpose(int[][], int, int)?i@18.17:18.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2©
+<array_2D.problem3.Transpose(int[][], int, int)?j@19.21:19.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2ü
+2array_2D.problem3.Transpose(int[][], int, int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2©
+<array_2D.problem3.Transpose(int[][], int, int)?j@19.21:19.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java ( 2©
+<array_2D.problem3.Transpose(int[][], int, int)?i@18.17:18.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java" (#2¨
+?array_2D.problem3.Transpose(int[][], int, int)?tran@17.12:17.20CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2§
+2array_2D.problem3.Transpose(int[][], int, int)!arr	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (%2¢
+0array_2D.problem3.Transpose(int[][], int, int)!r	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java* (+2¢
+0array_2D.problem3.Transpose(int[][], int, int)!c	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java0 (12≥
+?array_2D.problem3.Transpose(int[][], int, int)?tran@17.12:17.20DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+<array_2D.problem3.Transpose(int[][], int, int)?i@18.17:18.18DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+<array_2D.problem3.Transpose(int[][], int, int)?j@19.21:19.22DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2x
+voidRETURN_TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (º
+?array_2D.problem3.Transpose(int[][], int, int)?tran@17.12:17.20VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java ("
+typeint"
+isFinalfalse"Æ
+declarationStringò<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">tran</mark> = new <mark class="modifier">int</mark>[r][c]*tran2t
+int[][]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2ù
+0array_2D.problem3.Transpose(int[][], int, int)!rCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2ù
+0array_2D.problem3.Transpose(int[][], int, int)!cCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java  (!ø
+<array_2D.problem3.Transpose(int[][], int, int)?i@18.17:18.18VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (ø
+<array_2D.problem3.Transpose(int[][], int, int)?j@19.21:19.22VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (Ç
+2array_2D.problem3.Transpose(int[][], int, int)!arr	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (%"
+typeint[][]"
+isFinalfalse">
+declarationString)<mark class="modifier">int</mark>[][] arr*arr2t
+int[][]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (#
+0array_2D.problem3.Transpose(int[][], int, int)!r	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java* (+"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> r*r2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java& ()
+0array_2D.problem3.Transpose(int[][], int, int)!c	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java0 (1"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> c*c2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java, (/ﬂ,
+5array_2D.problem3.TransposeInPlace(int[][], int, int)METHODc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (!"
+isFinalfalse"ñ
+declarationStringÄ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">TransposeInPlace</mark>(<mark class="modifier">int</mark>[][] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> r<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> c)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*TransposeInPlace2í
+%array_2D.problem3.PrintArray(int[][])CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java# #(2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?i@27.17:27.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2§
+7array_2D.problem3.TransposeInPlace(int[][], int, int)!rCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?i@27.17:27.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?i@27.17:27.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?j@28.20:28.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2§
+7array_2D.problem3.TransposeInPlace(int[][], int, int)!cCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?j@28.20:28.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2¶
+9array_2D.problem3.TransposeInPlace(int[][], int, int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?i@27.17:27.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?j@28.20:28.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java  (!2¶
+9array_2D.problem3.TransposeInPlace(int[][], int, int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?i@27.17:27.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?j@28.20:28.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2¶
+9array_2D.problem3.TransposeInPlace(int[][], int, int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?j@28.20:28.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?i@27.17:27.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java! ("2¶
+9array_2D.problem3.TransposeInPlace(int[][], int, int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java   (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?j@28.20:28.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java   (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?i@27.17:27.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java   (2≥
+Farray_2D.problem3.TransposeInPlace(int[][], int, int)?temp@30.20:30.24CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java   (2¶
+9array_2D.problem3.TransposeInPlace(int[][], int, int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java# #(2´
+9array_2D.problem3.TransposeInPlace(int[][], int, int)!arr	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java& (-2©
+7array_2D.problem3.TransposeInPlace(int[][], int, int)!r	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java2 (32©
+7array_2D.problem3.TransposeInPlace(int[][], int, int)!c	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java8 (92∑
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?i@27.17:27.18DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∑
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?j@28.20:28.21DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∫
+Farray_2D.problem3.TransposeInPlace(int[][], int, int)?temp@30.20:30.24DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2x
+voidRETURN_TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (∆
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?i@27.17:27.18VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (˘
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?j@28.20:28.21VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = i*j2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?i@27.17:27.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (Á
+Farray_2D.problem3.TransposeInPlace(int[][], int, int)?temp@30.20:30.24VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">temp</mark> = arr[i][j]*temp2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2¶
+9array_2D.problem3.TransposeInPlace(int[][], int, int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?i@27.17:27.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java (2∞
+Carray_2D.problem3.TransposeInPlace(int[][], int, int)?j@28.20:28.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java  (!â
+9array_2D.problem3.TransposeInPlace(int[][], int, int)!arr	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java& (-"
+typeint[][]"
+isFinalfalse">
+declarationString)<mark class="modifier">int</mark>[][] arr*arr2t
+int[][]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java" (+˜
+7array_2D.problem3.TransposeInPlace(int[][], int, int)!r	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java2 (3"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> r*r2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java. (1˜
+7array_2D.problem3.TransposeInPlace(int[][], int, int)!c	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java8 (9"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> c*c2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java4 (7ç:
+*array_2D.problem3.main(java.lang.String[])METHODc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java& &("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ö
+-java.io.PrintStream.println(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java( ((2à
+java.util.Scanner.nextInt()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java) )(2ö
+-java.io.PrintStream.println(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java* *(2à
+java.util.Scanner.nextInt()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java+ +(2ö
+-java.io.PrintStream.println(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java. .(2à
+java.util.Scanner.nextInt()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java1 1($2ä
+java.io.PrintStream.println()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java3 3(2ö
+-java.io.PrintStream.println(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java6 6(2í
+%array_2D.problem3.PrintArray(int[][])CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java7 7(2ö
+-java.io.PrintStream.println(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java9 9(2õ
+.array_2D.problem3.Transpose(int[][], int, int)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java: :(2ö
+-java.io.PrintStream.println(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java< <(2¢
+5array_2D.problem3.TransposeInPlace(int[][], int, int)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java= =(2õ
+.java.util.Scanner.Scanner(java.io.InputStream)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java' '(2¶
+9array_2D.problem3.main(java.lang.String[])?sc@39.16:39.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java) )(2¶
+9array_2D.problem3.main(java.lang.String[])?sc@39.16:39.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java+ +(2•
+8array_2D.problem3.main(java.lang.String[])?r@41.12:41.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java- -(2•
+8array_2D.problem3.main(java.lang.String[])?c@43.12:43.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java-  -(!2•
+8array_2D.problem3.main(java.lang.String[])?i@47.17:47.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java/ /(2•
+8array_2D.problem3.main(java.lang.String[])?r@41.12:41.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java/ /(2•
+8array_2D.problem3.main(java.lang.String[])?i@47.17:47.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java/ /(2•
+8array_2D.problem3.main(java.lang.String[])?j@48.21:48.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java0 0(2•
+8array_2D.problem3.main(java.lang.String[])?c@43.12:43.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java0 0(2•
+8array_2D.problem3.main(java.lang.String[])?j@48.21:48.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java0 0(2ß
+:array_2D.problem3.main(java.lang.String[])?arr@45.12:45.19CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java1 1(2•
+8array_2D.problem3.main(java.lang.String[])?i@47.17:47.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java1 1(2•
+8array_2D.problem3.main(java.lang.String[])?j@48.21:48.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java1 1(2¶
+9array_2D.problem3.main(java.lang.String[])?sc@39.16:39.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java1 1(2ß
+:array_2D.problem3.main(java.lang.String[])?arr@45.12:45.19CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java7 7(2ß
+:array_2D.problem3.main(java.lang.String[])?arr@45.12:45.19CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java: :(2•
+8array_2D.problem3.main(java.lang.String[])?r@41.12:41.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java: :(2•
+8array_2D.problem3.main(java.lang.String[])?c@43.12:43.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java: :(2ß
+:array_2D.problem3.main(java.lang.String[])?arr@45.12:45.19CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java= =(2•
+8array_2D.problem3.main(java.lang.String[])?r@41.12:41.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java= =(2•
+8array_2D.problem3.main(java.lang.String[])?c@43.12:43.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java= =( 2°
+/array_2D.problem3.main(java.lang.String[])!args	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java&% &()2≠
+9array_2D.problem3.main(java.lang.String[])?sc@39.16:39.18DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java' '(2¨
+8array_2D.problem3.main(java.lang.String[])?r@41.12:41.13DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java) )(2¨
+8array_2D.problem3.main(java.lang.String[])?c@43.12:43.13DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java+ +(2Æ
+:array_2D.problem3.main(java.lang.String[])?arr@45.12:45.19DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java- -(2¨
+8array_2D.problem3.main(java.lang.String[])?i@47.17:47.18DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java/ /(2¨
+8array_2D.problem3.main(java.lang.String[])?j@48.21:48.22DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java0 0(2x
+voidRETURN_TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java& &(È
+9array_2D.problem3.main(java.lang.String[])?sc@39.16:39.18VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java' '("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2~
+java.util.ScannerTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java' '(2õ
+.java.util.Scanner.Scanner(java.io.InputStream)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java' '(˚
+8array_2D.problem3.main(java.lang.String[])?r@41.12:41.13VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java) )("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">r</mark> = sc.nextInt()*r2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java) )(2à
+java.util.Scanner.nextInt()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java) )(2¶
+9array_2D.problem3.main(java.lang.String[])?sc@39.16:39.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java) )(˚
+8array_2D.problem3.main(java.lang.String[])?c@43.12:43.13VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java+ +("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c</mark> = sc.nextInt()*c2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java+ +(2à
+java.util.Scanner.nextInt()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java+ +(2¶
+9array_2D.problem3.main(java.lang.String[])?sc@39.16:39.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java+ +(≈
+:array_2D.problem3.main(java.lang.String[])?arr@45.12:45.19VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java- -("
+typeint"
+isFinalfalse"≠
+declarationStringó<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[r][c]*arr2t
+int[][]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java- -(2•
+8array_2D.problem3.main(java.lang.String[])?r@41.12:41.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java- -(2•
+8array_2D.problem3.main(java.lang.String[])?c@43.12:43.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java-  -(!ª
+8array_2D.problem3.main(java.lang.String[])?i@47.17:47.18VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java/ /("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java/ /(ª
+8array_2D.problem3.main(java.lang.String[])?j@48.21:48.22VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java0 0("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java0 0(
+/array_2D.problem3.main(java.lang.String[])!args	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java&% &()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2
+java.lang.String[]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem3.java& &($

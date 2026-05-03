@@ -1,0 +1,241 @@
+
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.javaã
+SingleLinkedList.MainCLASS]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java ("
+packageSingleLinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Main"
+accesspublic*Main2¢
+4SingleLinkedList.Main.display(SingleLinkedList.Node)DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2£
+5SingleLinkedList.Main.displayR(SingleLinkedList.Node)DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2£
+5SingleLinkedList.Main.sizeList(SingleLinkedList.Node)DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2œ
+.SingleLinkedList.Main.main(java.lang.String[])DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (ð
+4SingleLinkedList.Main.display(SingleLinkedList.Node)METHOD]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java ("
+isFinalfalse"±
+declarationString›<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">display</mark>(Node head)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*display2’
++java.io.PrintStream.print(java.lang.String)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2 
+9SingleLinkedList.Main.display(SingleLinkedList.Node)!headCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2 
+9SingleLinkedList.Main.display(SingleLinkedList.Node)!headCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (!2 
+9SingleLinkedList.Main.display(SingleLinkedList.Node)!headCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2 
+9SingleLinkedList.Main.display(SingleLinkedList.Node)!headCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2¥
+9SingleLinkedList.Main.display(SingleLinkedList.Node)!head	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java$ ((2r
+voidRETURN_TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (é
+9SingleLinkedList.Main.display(SingleLinkedList.Node)!head	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java$ (("
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2|
+SingleLinkedList.NodeTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (#ó
+5SingleLinkedList.Main.displayR(SingleLinkedList.Node)METHOD]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">displayR</mark>(Node head)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*displayR2’
++java.io.PrintStream.print(java.lang.String)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2œ
+5SingleLinkedList.Main.displayR(SingleLinkedList.Node)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2¡
+:SingleLinkedList.Main.displayR(SingleLinkedList.Node)!headCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2¡
+:SingleLinkedList.Main.displayR(SingleLinkedList.Node)!headCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2¡
+:SingleLinkedList.Main.displayR(SingleLinkedList.Node)!headCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2¦
+:SingleLinkedList.Main.displayR(SingleLinkedList.Node)!head	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java% ()2r
+voidRETURN_TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (ê
+:SingleLinkedList.Main.displayR(SingleLinkedList.Node)!head	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java% ()"
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2|
+SingleLinkedList.NodeTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java  ($Ö
+5SingleLinkedList.Main.sizeList(SingleLinkedList.Node)METHOD]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java ("
+isFinalfalse"±
+declarationString›<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">sizeList</mark>(Node head)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typeint*sizeList2¡
+:SingleLinkedList.Main.sizeList(SingleLinkedList.Node)!headCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2¡
+:SingleLinkedList.Main.sizeList(SingleLinkedList.Node)!headCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2¡
+:SingleLinkedList.Main.sizeList(SingleLinkedList.Node)!headCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2®
+GSingleLinkedList.Main.sizeList(SingleLinkedList.Node)?count@20.12:20.17CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2®
+GSingleLinkedList.Main.sizeList(SingleLinkedList.Node)?count@20.12:20.17CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2¦
+:SingleLinkedList.Main.sizeList(SingleLinkedList.Node)!head	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java$ ((2µ
+GSingleLinkedList.Main.sizeList(SingleLinkedList.Node)?count@20.12:20.17DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2q
+intRETURN_TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (Ç
+GSingleLinkedList.Main.sizeList(SingleLinkedList.Node)?count@20.12:20.17VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java ("
+typeint"
+isFinalfalse"€
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">count</mark> = 0*count2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (ê
+:SingleLinkedList.Main.sizeList(SingleLinkedList.Node)!head	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java$ (("
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2|
+SingleLinkedList.NodeTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (#“)
+.SingleLinkedList.Main.main(java.lang.String[])METHOD]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2›
+4SingleLinkedList.Main.display(SingleLinkedList.Node)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java) )(2„
+java.io.PrintStream.println()CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java* *(2”
+-java.io.PrintStream.println(java.lang.String)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java+ +(2œ
+5SingleLinkedList.Main.displayR(SingleLinkedList.Node)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java, ,(2„
+java.io.PrintStream.println()CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java- -(2”
+-java.io.PrintStream.println(java.lang.String)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java. .(2‡
+ java.io.PrintStream.println(int)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java/ /(2œ
+5SingleLinkedList.Main.sizeList(SingleLinkedList.Node)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java/ /(#2†
+SingleLinkedList.Node.Node(int)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2†
+SingleLinkedList.Node.Node(int)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2†
+SingleLinkedList.Node.Node(int)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2†
+SingleLinkedList.Node.Node(int)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java   (2†
+SingleLinkedList.Node.Node(int)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java! !(2£
+<SingleLinkedList.Main.main(java.lang.String[])?a@29.13:29.14CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java$ $(	2£
+<SingleLinkedList.Main.main(java.lang.String[])?b@30.13:30.14CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java$ $(2£
+<SingleLinkedList.Main.main(java.lang.String[])?b@30.13:30.14CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java% %(	2£
+<SingleLinkedList.Main.main(java.lang.String[])?c@31.13:31.14CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java% %(2£
+<SingleLinkedList.Main.main(java.lang.String[])?c@31.13:31.14CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java& &(	2£
+<SingleLinkedList.Main.main(java.lang.String[])?d@32.13:32.14CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java& &(2£
+<SingleLinkedList.Main.main(java.lang.String[])?d@32.13:32.14CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java' '(	2£
+<SingleLinkedList.Main.main(java.lang.String[])?e@33.13:33.14CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java' '(2£
+<SingleLinkedList.Main.main(java.lang.String[])?a@29.13:29.14CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java) )(2£
+<SingleLinkedList.Main.main(java.lang.String[])?a@29.13:29.14CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java, ,(2£
+<SingleLinkedList.Main.main(java.lang.String[])?a@29.13:29.14CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java/$ /(%2Ÿ
+3SingleLinkedList.Main.main(java.lang.String[])!args	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java% ()2ª
+<SingleLinkedList.Main.main(java.lang.String[])?a@29.13:29.14DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2ª
+<SingleLinkedList.Main.main(java.lang.String[])?b@30.13:30.14DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2ª
+<SingleLinkedList.Main.main(java.lang.String[])?c@31.13:31.14DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2ª
+<SingleLinkedList.Main.main(java.lang.String[])?d@32.13:32.14DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java   (2ª
+<SingleLinkedList.Main.main(java.lang.String[])?e@33.13:33.14DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java! !(2r
+voidRETURN_TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (½
+<SingleLinkedList.Main.main(java.lang.String[])?a@29.13:29.14VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java ("
+typeNode"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Node <mark class="class-field">a</mark> = new Node(55)*a2|
+SingleLinkedList.NodeTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2†
+SingleLinkedList.Node.Node(int)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (½
+<SingleLinkedList.Main.main(java.lang.String[])?b@30.13:30.14VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java ("
+typeNode"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Node <mark class="class-field">b</mark> = new Node(54)*b2|
+SingleLinkedList.NodeTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2†
+SingleLinkedList.Node.Node(int)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (½
+<SingleLinkedList.Main.main(java.lang.String[])?c@31.13:31.14VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java ("
+typeNode"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Node <mark class="class-field">c</mark> = new Node(25)*c2|
+SingleLinkedList.NodeTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (2†
+SingleLinkedList.Node.Node(int)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java (½
+<SingleLinkedList.Main.main(java.lang.String[])?d@32.13:32.14VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java   ("
+typeNode"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Node <mark class="class-field">d</mark> = new Node(85)*d2|
+SingleLinkedList.NodeTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java   (2†
+SingleLinkedList.Node.Node(int)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java   (¿
+<SingleLinkedList.Main.main(java.lang.String[])?e@33.13:33.14VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java! !("
+typeNode"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>Node <mark class="class-field">e</mark> = new Node(5335)*e2|
+SingleLinkedList.NodeTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java! !(2†
+SingleLinkedList.Node.Node(int)CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java! !(è
+3SingleLinkedList.Main.main(java.lang.String[])!args	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2y
+java.lang.String[]TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Main.java ($

@@ -1,0 +1,250 @@
+
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java€
+ReverseQueueCLASSN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java ("
+packageReverseQueue"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"j
+declarationStringU<mark class="modifier">public </mark><mark class="modifier">class </mark>ReverseQueue"
+accesspublic*ReverseQueue2Ü
+'ReverseQueue.reverseQue(Queue<Integer>)DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java ($2å
+-ReverseQueue.reverseQueK(Queue<Integer>, int)DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (%2z
+ReverseQueue.main(String[])DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java( ((Ù
+'ReverseQueue.reverseQue(Queue<Integer>)METHODN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java ($"
+isFinalfalse"±
+declarationStringõ<mark class="modifier"> </mark><mark class="modifier">static </mark>Queue&lt;Integer&gt; <mark class="method">reverseQue</mark>(Queue&lt;Integer&gt; queue)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeQueue<Integer>*
+reverseQue2Ö
+-ReverseQueue.reverseQue(Queue<Integer>)!queueCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2å
+4ReverseQueue.reverseQue(Queue<Integer>)?st@7.23:7.25CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java	 	(2Ö
+-ReverseQueue.reverseQue(Queue<Integer>)!queueCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java	 	(2å
+4ReverseQueue.reverseQue(Queue<Integer>)?st@7.23:7.25CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2Ö
+-ReverseQueue.reverseQue(Queue<Integer>)!queueCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2å
+4ReverseQueue.reverseQue(Queue<Integer>)?st@7.23:7.25CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2Ö
+-ReverseQueue.reverseQue(Queue<Integer>)!queueCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2ä
+-ReverseQueue.reverseQue(Queue<Integer>)!queue	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java4 (92ì
+4ReverseQueue.reverseQue(Queue<Integer>)?st@7.23:7.25DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2d
+QueueRETURN_TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2o
+IntegerRETURN_TYPE_ARGUMENTN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (ˇ
+4ReverseQueue.reverseQue(Queue<Integer>)?st@7.23:7.25VARIABLEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java ("
+typeStack<Integer>"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Stack<Integer> <mark class="class-field">st</mark> = new Stack<>()*st2]
+StackTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2h
+IntegerTYPE_ARGUMENTN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (Ø
+-ReverseQueue.reverseQue(Queue<Integer>)!queue	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java4 (9"
+typeQueue<Integer>"
+isFinalfalse")
+declarationStringQueue<Integer> queue*queue2]
+QueueTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java% (*2h
+IntegerTYPE_ARGUMENTN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java+ (2¿%
+-ReverseQueue.reverseQueK(Queue<Integer>, int)METHODN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (%"
+isFinalfalse"‡
+declarationString <mark class="modifier"> </mark><mark class="modifier">static </mark>Queue&lt;Integer&gt; <mark class="method">reverseQueK</mark>(Queue&lt;Integer&gt; queue<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> k)<mark class="modifier"> <mark class="modifier">throws</mark> </mark>Exception"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeQueue<Integer>*reverseQueK2ã
+3ReverseQueue.reverseQueK(Queue<Integer>, int)!queueCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2á
+/ReverseQueue.reverseQueK(Queue<Integer>, int)!kCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2ì
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?i@25.21:25.22CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2á
+/ReverseQueue.reverseQueK(Queue<Integer>, int)!kCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java  (!2ì
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?i@25.21:25.22CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java# ($2î
+<ReverseQueue.reverseQueK(Queue<Integer>, int)?st@20.23:20.25CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2ã
+3ReverseQueue.reverseQueK(Queue<Integer>, int)!queueCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2ì
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?i@29.21:29.22CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2á
+/ReverseQueue.reverseQueK(Queue<Integer>, int)!kCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java  (!2ì
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?i@29.21:29.22CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java# ($2ã
+3ReverseQueue.reverseQueK(Queue<Integer>, int)!queueCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2î
+<ReverseQueue.reverseQueK(Queue<Integer>, int)?st@20.23:20.25CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2ã
+3ReverseQueue.reverseQueK(Queue<Integer>, int)!queueCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java   (2ì
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?i@33.21:33.22CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java! !(2ì
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?n@32.16:32.17CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java!! !("2á
+/ReverseQueue.reverseQueK(Queue<Integer>, int)!kCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java!% !(&2ì
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?i@33.21:33.22CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java!( !()2ã
+3ReverseQueue.reverseQueK(Queue<Integer>, int)!queueCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java" "(2ã
+3ReverseQueue.reverseQueK(Queue<Integer>, int)!queueCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java" "(2ã
+3ReverseQueue.reverseQueK(Queue<Integer>, int)!queueCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java$ $(2ê
+3ReverseQueue.reverseQueK(Queue<Integer>, int)!queue	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java5 (:2å
+/ReverseQueue.reverseQueK(Queue<Integer>, int)!k	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java@ (A2õ
+<ReverseQueue.reverseQueK(Queue<Integer>, int)?st@20.23:20.25DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2ö
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?i@25.21:25.22DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2ö
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?i@29.21:29.22DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2ö
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?n@32.16:32.17DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java   (2ö
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?i@33.21:33.22DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java! !(2d
+QueueRETURN_TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2o
+IntegerRETURN_TYPE_ARGUMENTN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (á
+<ReverseQueue.reverseQueK(Queue<Integer>, int)?st@20.23:20.25VARIABLEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java ("
+typeStack<Integer>"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Stack<Integer> <mark class="class-field">st</mark> = new Stack<>()*st2]
+StackTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (2h
+IntegerTYPE_ARGUMENTN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (î
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?i@25.21:25.22VARIABLEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2[
+intTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (î
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?i@29.21:29.22VARIABLEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2[
+intTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java (Æ
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?n@32.16:32.17VARIABLEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java   ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = queue.size()*n2[
+intTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java   (2ã
+3ReverseQueue.reverseQueK(Queue<Integer>, int)!queueCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java   (î
+;ReverseQueue.reverseQueK(Queue<Integer>, int)?i@33.21:33.22VARIABLEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java! !("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2[
+intTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java! !(µ
+3ReverseQueue.reverseQueK(Queue<Integer>, int)!queue	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java5 (:"
+typeQueue<Integer>"
+isFinalfalse")
+declarationStringQueue<Integer> queue*queue2]
+QueueTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java& (+2h
+IntegerTYPE_ARGUMENTN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java, (3≈
+/ReverseQueue.reverseQueK(Queue<Integer>, int)!k	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java@ (A"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> k*k2[
+intTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java< (?¢
+ReverseQueue.main(String[])METHODN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java( (("
+isFinalfalse"ˇ
+declarationStringÈ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)<mark class="modifier"> <mark class="modifier">throws</mark> </mark>Exception"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Ö
+-ReverseQueue.reverseQueK(Queue<Integer>, int)CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java@ @(&2o
+LinkedList.LinkedList()CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java)# )(/2Ö
+-ReverseQueue.main(String[])?queue@41.23:41.28CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java, ,(2Ö
+-ReverseQueue.main(String[])?queue@41.23:41.28CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java- -(2Ö
+-ReverseQueue.main(String[])?queue@41.23:41.28CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java. .(2Ö
+-ReverseQueue.main(String[])?queue@41.23:41.28CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java/ /(2Ö
+-ReverseQueue.main(String[])?queue@41.23:41.28CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java0 0(2Ö
+-ReverseQueue.main(String[])?queue@41.23:41.28CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java1 1(2Ö
+-ReverseQueue.main(String[])?queue@41.23:41.28CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java2 2(2Ö
+-ReverseQueue.main(String[])?queue@41.23:41.28CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java3 3(2Ö
+-ReverseQueue.main(String[])?queue@41.23:41.28CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java4 4(2Ö
+-ReverseQueue.main(String[])?queue@41.23:41.28CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java5 5(2Ö
+-ReverseQueue.main(String[])?queue@41.23:41.28CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java7 7( 2Ö
+-ReverseQueue.main(String[])?queue@41.23:41.28CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java@' @(,2}
+ ReverseQueue.main(String[])!args	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java(% (()2å
+-ReverseQueue.main(String[])?queue@41.23:41.28DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java) )(2c
+voidRETURN_TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java( ((Ù
+-ReverseQueue.main(String[])?queue@41.23:41.28VARIABLEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java) )("
+typeQueue<Integer>"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark>Queue<Integer> <mark class="class-field">queue</mark> = new LinkedList<>()*queue2]
+QueueTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java) )(2h
+IntegerTYPE_ARGUMENTN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java) )(2o
+LinkedList.LinkedList()CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java)# )(/≠
+ ReverseQueue.main(String[])!args	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java(% (()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2`
+String[]TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\ReverseQueue.java( (($

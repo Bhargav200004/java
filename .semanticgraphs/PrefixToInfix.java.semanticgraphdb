@@ -1,0 +1,158 @@
+
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java 
+PrefixToInfixCLASSO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java ("
+packagePrefixToInfix"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier">public </mark><mark class="modifier">class </mark>PrefixToInfix"
+accesspublic*PrefixToInfix2|
+PrefixToInfix.main(String[])DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (©
+PrefixToInfix.main(String[])METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2p
+java.util.Stack.Stack()CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java  ('2É
+*PrefixToInfix.main(String[])?str@4.15:4.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2Å
+(PrefixToInfix.main(String[])?i@8.17:8.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java' ((2Å
+(PrefixToInfix.main(String[])?i@8.17:8.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java0 (12É
+*PrefixToInfix.main(String[])?str@4.15:4.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java	 	(2Å
+(PrefixToInfix.main(String[])?i@8.17:8.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java	! 	("2Ç
+)PrefixToInfix.main(String[])?ch@9.17:9.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java
+ 
+( 2á
+.PrefixToInfix.main(String[])?ascii@10.16:10.21CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2á
+.PrefixToInfix.main(String[])?ascii@10.16:10.21CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java ($2É
+*PrefixToInfix.main(String[])?val@6.22:6.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2Ç
+)PrefixToInfix.main(String[])?ch@9.17:9.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2É
+*PrefixToInfix.main(String[])?val@6.22:6.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2É
+*PrefixToInfix.main(String[])?val@6.22:6.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2É
+*PrefixToInfix.main(String[])?val@6.22:6.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2Ñ
++PrefixToInfix.main(String[])?v1@14.23:14.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2Ç
+)PrefixToInfix.main(String[])?ch@9.17:9.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java  ("2Ñ
++PrefixToInfix.main(String[])?v2@15.23:15.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java# (%2É
+*PrefixToInfix.main(String[])?val@6.22:6.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2
+!PrefixToInfix.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java% ()2ä
+*PrefixToInfix.main(String[])?str@4.15:4.18DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2ä
+*PrefixToInfix.main(String[])?val@6.22:6.25DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2à
+(PrefixToInfix.main(String[])?i@8.17:8.18DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2â
+)PrefixToInfix.main(String[])?ch@9.17:9.19DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java	 	(2é
+.PrefixToInfix.main(String[])?ascii@10.16:10.21DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java
+ 
+(2ã
++PrefixToInfix.main(String[])?v1@14.23:14.25DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2ã
++PrefixToInfix.main(String[])?v2@15.23:15.25DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2d
+voidRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (˛
+*PrefixToInfix.main(String[])?str@4.15:4.18VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java ("
+typeString"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>String <mark class="class-field">str</mark> = "-9/*+5346"*str2_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (Û
+*PrefixToInfix.main(String[])?val@6.22:6.25VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java ("
+typeStack<String>"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Stack<String> <mark class="class-field">val</mark> = new Stack<>()*val2h
+java.util.StackTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2h
+StringTYPE_ARGUMENTO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2p
+java.util.Stack.Stack()CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java  ('ô
+(PrefixToInfix.main(String[])?i@8.17:8.18VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java ("
+typeint"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = str.length() - 1*i2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2É
+*PrefixToInfix.main(String[])?str@4.15:4.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (Å
+)PrefixToInfix.main(String[])?ch@9.17:9.19VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java	 	("
+typechar"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>char <mark class="class-field">ch</mark> = str.charAt(i)*ch2]
+charTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java	 	(2É
+*PrefixToInfix.main(String[])?str@4.15:4.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java	 	(2Å
+(PrefixToInfix.main(String[])?i@8.17:8.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java	! 	("Ω
+.PrefixToInfix.main(String[])?ascii@10.16:10.21VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java
+ 
+("
+typeint"
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">ascii</mark> = (<mark class="modifier">int</mark>) ch*ascii2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java
+ 
+(2Ç
+)PrefixToInfix.main(String[])?ch@9.17:9.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java
+ 
+( Å
++PrefixToInfix.main(String[])?v1@14.23:14.25VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java ("
+typeString"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>String <mark class="class-field">v1</mark> = val.pop()*v12_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2É
+*PrefixToInfix.main(String[])?val@6.22:6.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (Å
++PrefixToInfix.main(String[])?v2@15.23:15.25VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java ("
+typeString"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>String <mark class="class-field">v2</mark> = val.pop()*v22_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (2É
+*PrefixToInfix.main(String[])?val@6.22:6.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java (∞
+!PrefixToInfix.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2a
+String[]TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\PrefixToInfix.java ($

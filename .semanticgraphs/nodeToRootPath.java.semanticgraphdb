@@ -1,0 +1,236 @@
+
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java„
+nodeToRootPathCLASSP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java ("
+packagenodeToRootPath"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier">public </mark><mark class="modifier">class </mark>nodeToRootPath"
+accesspublic*nodeToRootPath2è
+.nodeToRootPath.NodeToRoot(nodeToRootPath.Node)DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2~
+nodeToRootPath.main(String[])DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (Ö
+.nodeToRootPath.NodeToRoot(nodeToRootPath.Node)METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java ("
+isFinalfalse"Æ
+declarationStringò<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">NodeToRoot</mark>(Node root)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*
+NodeToRoot2ç
+3nodeToRootPath.NodeToRoot(nodeToRootPath.Node)!rootCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2ç
+3nodeToRootPath.NodeToRoot(nodeToRootPath.Node)!rootCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2ç
+3nodeToRootPath.NodeToRoot(nodeToRootPath.Node)!rootCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java  ($2ç
+3nodeToRootPath.NodeToRoot(nodeToRootPath.Node)!rootCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (#2ç
+3nodeToRootPath.NodeToRoot(nodeToRootPath.Node)!rootCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2ç
+3nodeToRootPath.NodeToRoot(nodeToRootPath.Node)!rootCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2í
+3nodeToRootPath.NodeToRoot(nodeToRootPath.Node)!root	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java! (%2e
+voidRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java («
+3nodeToRootPath.NodeToRoot(nodeToRootPath.Node)!root	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java! (%"
+typeNode"
+isFinalfalse"
+declarationString	Node root*root2m
+nodeToRootPath.NodeTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java ( ó
+nodeToRootPath.main(String[])METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2à
+.nodeToRootPath.NodeToRoot(nodeToRootPath.Node)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java( ((2w
+nodeToRootPath.Node.Node(int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2w
+nodeToRootPath.Node.Node(int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2w
+nodeToRootPath.Node.Node(int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2w
+nodeToRootPath.Node.Node(int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java" "(2w
+nodeToRootPath.Node.Node(int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java# #(2w
+nodeToRootPath.Node.Node(int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java& &(2à
+.nodeToRootPath.main(String[])?root@29.13:29.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java   (2Ö
++nodeToRootPath.main(String[])?a@30.13:30.14CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java   (2à
+.nodeToRootPath.main(String[])?root@29.13:29.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java! !(2Ö
++nodeToRootPath.main(String[])?b@31.13:31.14CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java! !(2Ö
++nodeToRootPath.main(String[])?a@30.13:30.14CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java$ $(	2Ö
++nodeToRootPath.main(String[])?c@34.13:34.14CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java$ $(2Ö
++nodeToRootPath.main(String[])?a@30.13:30.14CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java% %(	2Ö
++nodeToRootPath.main(String[])?d@35.13:35.14CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java% %(2Ö
++nodeToRootPath.main(String[])?b@31.13:31.14CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java' '(	2Ö
++nodeToRootPath.main(String[])?e@38.13:38.14CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java' '(2à
+.nodeToRootPath.main(String[])?root@29.13:29.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java( ((2Å
+"nodeToRootPath.main(String[])!args	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java% ()2è
+.nodeToRootPath.main(String[])?root@29.13:29.17DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2å
++nodeToRootPath.main(String[])?a@30.13:30.14DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2å
++nodeToRootPath.main(String[])?b@31.13:31.14DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2å
++nodeToRootPath.main(String[])?c@34.13:34.14DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java" "(2å
++nodeToRootPath.main(String[])?d@35.13:35.14DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java# #(2å
++nodeToRootPath.main(String[])?e@38.13:38.14DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java& &(2e
+voidRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (ä
+.nodeToRootPath.main(String[])?root@29.13:29.17VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java ("
+typeNode"
+isFinalfalse"n
+declarationStringY<mark class="modifier"> </mark>Node <mark class="class-field">root</mark> = new Node(100)*root2m
+nodeToRootPath.NodeTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2w
+nodeToRootPath.Node.Node(int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (Å
++nodeToRootPath.main(String[])?a@30.13:30.14VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java ("
+typeNode"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>Node <mark class="class-field">a</mark> = new Node(200)*a2m
+nodeToRootPath.NodeTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2w
+nodeToRootPath.Node.Node(int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (Å
++nodeToRootPath.main(String[])?b@31.13:31.14VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java ("
+typeNode"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>Node <mark class="class-field">b</mark> = new Node(300)*b2m
+nodeToRootPath.NodeTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2w
+nodeToRootPath.Node.Node(int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (Å
++nodeToRootPath.main(String[])?c@34.13:34.14VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java" "("
+typeNode"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>Node <mark class="class-field">c</mark> = new Node(400)*c2m
+nodeToRootPath.NodeTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java" "(2w
+nodeToRootPath.Node.Node(int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java" "(Å
++nodeToRootPath.main(String[])?d@35.13:35.14VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java# #("
+typeNode"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>Node <mark class="class-field">d</mark> = new Node(500)*d2m
+nodeToRootPath.NodeTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java# #(2w
+nodeToRootPath.Node.Node(int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java# #(Å
++nodeToRootPath.main(String[])?e@38.13:38.14VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java& &("
+typeNode"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>Node <mark class="class-field">e</mark> = new Node(600)*e2m
+nodeToRootPath.NodeTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java& &(2w
+nodeToRootPath.Node.Node(int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java& &(≥
+"nodeToRootPath.main(String[])!args	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2b
+String[]TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java ($ÿ
+nodeToRootPath.NodeCLASSP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java ("
+packagenodeToRootPath"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2~
+nodeToRootPath.Node.Node(int)DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java	 	(2É
+"nodeToRootPath.Node?data@6.12:6.16DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2É
+"nodeToRootPath.Node?left@7.13:7.17DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (2Ñ
+#nodeToRootPath.Node?right@8.13:8.18DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (¯
+nodeToRootPath.Node.Node(int)CONSTRUCTORP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java	 	("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2|
+"nodeToRootPath.Node.Node(int)!dataCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java
+ 
+(2|
+"nodeToRootPath.Node?data@6.12:6.16CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java
+ 
+(2Å
+"nodeToRootPath.Node.Node(int)!data	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java	 	(2t
+nodeToRootPath.NodeRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java	 	(¬
+"nodeToRootPath.Node.Node(int)!data	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java	 	("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java	 	(Ø
+"nodeToRootPath.Node?data@6.12:6.16VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (£
+"nodeToRootPath.Node?left@7.13:7.17VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">left</mark>"
+isStaticfalse"
+accesspackage_private*left2m
+nodeToRootPath.NodeTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (¶
+#nodeToRootPath.Node?right@8.13:8.18VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java ("
+isFinalfalse"
+typeNode"_
+declarationStringJ<mark class="modifier"> </mark>Node <mark class="class-field">right</mark>"
+isStaticfalse"
+accesspackage_private*right2m
+nodeToRootPath.NodeTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\nodeToRootPath.java (

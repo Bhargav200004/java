@@ -1,0 +1,174 @@
+
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.javaı
+EvaluationOfPostfixCLASSU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java ( "
+packageEvaluationOfPostfix"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier">public </mark><mark class="modifier">class </mark>EvaluationOfPostfix"
+accesspublic*EvaluationOfPostfix2à
+"EvaluationOfPostfix.main(String[])DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (Ω/
+"EvaluationOfPostfix.main(String[])METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2v
+java.util.Stack.Stack()CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java  ('2ç
+.EvaluationOfPostfix.main(String[])?i@7.17:7.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2è
+0EvaluationOfPostfix.main(String[])?str@5.15:5.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java ( 2ç
+.EvaluationOfPostfix.main(String[])?i@7.17:7.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java, (-2è
+0EvaluationOfPostfix.main(String[])?str@5.15:5.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2ç
+.EvaluationOfPostfix.main(String[])?i@7.17:7.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java! ("2é
+/EvaluationOfPostfix.main(String[])?ch@8.17:8.19CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java	 	( 2ë
+2EvaluationOfPostfix.main(String[])?ascii@9.16:9.21CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java
+ 
+(2ë
+2EvaluationOfPostfix.main(String[])?ascii@9.16:9.21CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java
+ 
+($2é
+/EvaluationOfPostfix.main(String[])?st@4.23:4.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2ë
+2EvaluationOfPostfix.main(String[])?ascii@9.16:9.21CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2é
+/EvaluationOfPostfix.main(String[])?st@4.23:4.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2é
+/EvaluationOfPostfix.main(String[])?st@4.23:4.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2é
+/EvaluationOfPostfix.main(String[])?ch@8.17:8.19CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2é
+/EvaluationOfPostfix.main(String[])?st@4.23:4.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (!2ê
+1EvaluationOfPostfix.main(String[])?v1@15.20:15.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java' ()2ê
+1EvaluationOfPostfix.main(String[])?v2@14.20:14.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java, (.2é
+/EvaluationOfPostfix.main(String[])?ch@8.17:8.19CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2é
+/EvaluationOfPostfix.main(String[])?st@4.23:4.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java$ (&2ê
+1EvaluationOfPostfix.main(String[])?v1@15.20:15.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java, (.2ê
+1EvaluationOfPostfix.main(String[])?v2@14.20:14.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java1 (32é
+/EvaluationOfPostfix.main(String[])?ch@8.17:8.19CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2é
+/EvaluationOfPostfix.main(String[])?st@4.23:4.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java$ (&2ê
+1EvaluationOfPostfix.main(String[])?v1@15.20:15.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java, (.2ê
+1EvaluationOfPostfix.main(String[])?v2@14.20:14.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java1 (32é
+/EvaluationOfPostfix.main(String[])?ch@8.17:8.19CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2é
+/EvaluationOfPostfix.main(String[])?st@4.23:4.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java# (%2ê
+1EvaluationOfPostfix.main(String[])?v1@15.20:15.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java+ (-2ê
+1EvaluationOfPostfix.main(String[])?v2@14.20:14.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java0 (22é
+/EvaluationOfPostfix.main(String[])?st@4.23:4.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2ã
+'EvaluationOfPostfix.main(String[])!args	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java% ()2ï
+/EvaluationOfPostfix.main(String[])?st@4.23:4.25DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2ñ
+0EvaluationOfPostfix.main(String[])?str@5.15:5.18DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2î
+.EvaluationOfPostfix.main(String[])?i@7.17:7.18DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2ï
+/EvaluationOfPostfix.main(String[])?ch@8.17:8.19DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2ò
+2EvaluationOfPostfix.main(String[])?ascii@9.16:9.21DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java	 	(2ó
+1EvaluationOfPostfix.main(String[])?v2@14.20:14.22DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2ó
+1EvaluationOfPostfix.main(String[])?v1@15.20:15.22DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2j
+voidRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (ë
+/EvaluationOfPostfix.main(String[])?st@4.23:4.25VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java ("
+typeStack<Integer>"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Stack<Integer> <mark class="class-field">st</mark> = new Stack<>()*st2n
+java.util.StackTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2o
+IntegerTYPE_ARGUMENTU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2v
+java.util.Stack.Stack()CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java  ('ê
+0EvaluationOfPostfix.main(String[])?str@5.15:5.18VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java ("
+typeString"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>String <mark class="class-field">str</mark> = "953+4*6/-"*str2e
+StringTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (ï
+.EvaluationOfPostfix.main(String[])?i@7.17:7.18VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (´
+/EvaluationOfPostfix.main(String[])?ch@8.17:8.19VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java ("
+typechar"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>char <mark class="class-field">ch</mark> = str.charAt(i)*ch2c
+charTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2è
+0EvaluationOfPostfix.main(String[])?str@5.15:5.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2ç
+.EvaluationOfPostfix.main(String[])?i@7.17:7.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java! ("Ÿ
+2EvaluationOfPostfix.main(String[])?ascii@9.16:9.21VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java	 	("
+typeint"
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">ascii</mark> = (<mark class="modifier">int</mark>) ch*ascii2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java	 	(2é
+/EvaluationOfPostfix.main(String[])?ch@8.17:8.19CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java	 	( ≥
+1EvaluationOfPostfix.main(String[])?v2@14.20:14.22VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java ("
+typeint"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">v2</mark> = st.pop()*v22b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2é
+/EvaluationOfPostfix.main(String[])?st@4.23:4.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (≥
+1EvaluationOfPostfix.main(String[])?v1@15.20:15.22VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java ("
+typeint"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">v1</mark> = st.pop()*v12b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (2é
+/EvaluationOfPostfix.main(String[])?st@4.23:4.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java (¬
+'EvaluationOfPostfix.main(String[])!args	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2g
+String[]TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\EvaluationOfPostfix.java ($

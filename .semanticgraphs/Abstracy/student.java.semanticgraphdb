@@ -1,0 +1,50 @@
+
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\student.java†
+Abstracy.studentCLASSa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\student.java ("
+packageAbstracy"
+isFinalfalse"
+inner classfalse"
+
+isAbstracttrue"å
+declarationStringw<mark class="modifier">public </mark><mark class="modifier">abstract </mark><mark class="modifier">class </mark>student"
+accesspublic*student2à
+Abstracy.student.fun()DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\student.java	 (2â
+Abstracy.student.fun2()DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\student.java	 	(2è
+Abstracy.student?val@3.8:3.11DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\student.java (¯
+Abstracy.student.fun()METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\student.java	 ("
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">fun</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*fun2ò
+-java.io.PrintStream.println(java.lang.String)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\student.java (2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\student.java (à
+Abstracy.student.fun2()METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\student.java	 	("
+isFinalfalse"°
+declarationStringã<mark class="modifier"> </mark><mark class="modifier">abstract </mark><mark class="modifier">void</mark> <mark class="method">fun2</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstracttrue"
+typevoid*fun22v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\student.java	 	( 
+Abstracy.student?val@3.8:3.11VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\student.java ("
+isFinalfalse"
+typeint"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">val</mark>"
+isStaticfalse"
+accesspackage_private*val2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\student.java (

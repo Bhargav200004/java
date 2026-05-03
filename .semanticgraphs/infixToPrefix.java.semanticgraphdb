@@ -1,0 +1,384 @@
+
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java 
+infixToPrefixCLASSO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ("
+packageinfixToPrefix"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier">public </mark><mark class="modifier">class </mark>infixToPrefix"
+accesspublic*infixToPrefix2|
+infixToPrefix.main(String[])DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (õ]
+infixToPrefix.main(String[])METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2p
+java.util.Stack.Stack()CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java  ('2p
+java.util.Stack.Stack()CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java" ()2Ö
+,infixToPrefix.main(String[])?infix@4.15:4.20CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ( 2É
+*infixToPrefix.main(String[])?i@10.17:10.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java
+ 
+(2Ö
+,infixToPrefix.main(String[])?infix@4.15:4.20CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java
+ 
+("2É
+*infixToPrefix.main(String[])?i@10.17:10.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java
+. 
+(/2Ö
+,infixToPrefix.main(String[])?infix@4.15:4.20CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2É
+*infixToPrefix.main(String[])?i@10.17:10.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java# ($2Ñ
++infixToPrefix.main(String[])?ch@11.17:11.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ( 2á
+.infixToPrefix.main(String[])?ascii@12.16:12.21CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2á
+.infixToPrefix.main(String[])?ascii@12.16:12.21CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ($2Ñ
++infixToPrefix.main(String[])?ch@11.17:11.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java  ("2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2É
+*infixToPrefix.main(String[])?s@14.23:14.24CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2Ñ
++infixToPrefix.main(String[])?ch@11.17:11.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java% ('2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java2 (42Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2Ñ
++infixToPrefix.main(String[])?ch@11.17:11.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2Ñ
++infixToPrefix.main(String[])?ch@11.17:11.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java  (#2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java  (#2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java$ (&2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2ä
+1infixToPrefix.main(String[])?operator@25.25:25.33CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (%2Ñ
++infixToPrefix.main(String[])?v1@24.27:24.29CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java& ((2Ñ
++infixToPrefix.main(String[])?v2@23.27:23.29CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java) (+2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2Ñ
++infixToPrefix.main(String[])?ch@11.17:11.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java   (2Ñ
++infixToPrefix.main(String[])?ch@11.17:11.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java !  (#2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java"  "(#2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java#  #(#2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java$$ $(&2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java& &(2ä
+1infixToPrefix.main(String[])?operator@36.25:36.33CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java& &(%2Ñ
++infixToPrefix.main(String[])?v1@35.27:35.29CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java&& &((2Ñ
++infixToPrefix.main(String[])?v2@34.27:34.29CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java&) &(+2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java) )(2Ñ
++infixToPrefix.main(String[])?ch@11.17:11.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java) )(2Ñ
++infixToPrefix.main(String[])?ch@11.17:11.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java+ +(2Ñ
++infixToPrefix.main(String[])?ch@11.17:11.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java+& +((2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java, ,(2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java,, ,(.2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java-$ -('2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java.$ .('2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java/( /(*2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java0 0(2ä
+1infixToPrefix.main(String[])?operator@47.29:47.37CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java0! 0()2Ñ
++infixToPrefix.main(String[])?v1@46.31:46.33CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java0* 0(,2Ñ
++infixToPrefix.main(String[])?v2@45.31:45.33CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java0- 0(/2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java3 3(2Ñ
++infixToPrefix.main(String[])?ch@11.17:11.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java3  3("2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java6 6(2Ñ
++infixToPrefix.main(String[])?ch@11.17:11.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java6  6("2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java< <(2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java= =(2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java> >(2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java? ?(2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java@ @(2ä
+1infixToPrefix.main(String[])?operator@63.17:63.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java@ @(2Ñ
++infixToPrefix.main(String[])?v1@62.19:62.21CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java@ @( 2Ñ
++infixToPrefix.main(String[])?v2@61.19:61.21CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java@! @(#2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.javaC C(2
+!infixToPrefix.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java% ()2å
+,infixToPrefix.main(String[])?infix@4.15:4.20DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2ä
+*infixToPrefix.main(String[])?val@5.22:5.25DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2â
+)infixToPrefix.main(String[])?op@6.25:6.27DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2ä
+*infixToPrefix.main(String[])?i@10.17:10.18DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java
+ 
+(2ã
++infixToPrefix.main(String[])?ch@11.17:11.19DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2é
+.infixToPrefix.main(String[])?ascii@12.16:12.21DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2ä
+*infixToPrefix.main(String[])?s@14.23:14.24DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2ã
++infixToPrefix.main(String[])?v2@23.27:23.29DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2ã
++infixToPrefix.main(String[])?v1@24.27:24.29DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2ë
+1infixToPrefix.main(String[])?operator@25.25:25.33DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (!2ã
++infixToPrefix.main(String[])?v2@34.27:34.29DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java" "(2ã
++infixToPrefix.main(String[])?v1@35.27:35.29DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java# #(2ë
+1infixToPrefix.main(String[])?operator@36.25:36.33DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java$ $(!2ã
++infixToPrefix.main(String[])?v2@45.31:45.33DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java- -(!2ã
++infixToPrefix.main(String[])?v1@46.31:46.33DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java. .(!2ë
+1infixToPrefix.main(String[])?operator@47.29:47.37DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java/ /(%2ã
++infixToPrefix.main(String[])?v2@61.19:61.21DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java= =(2ã
++infixToPrefix.main(String[])?v1@62.19:62.21DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java> >(2ë
+1infixToPrefix.main(String[])?operator@63.17:63.25DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java? ?(2d
+voidRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (Ü
+,infixToPrefix.main(String[])?infix@4.15:4.20VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ("
+typeString"
+isFinalfalse"q
+declarationString\<mark class="modifier"> </mark>String <mark class="class-field">infix</mark> = "9-(5+3)*4/6"*infix2_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (Û
+*infixToPrefix.main(String[])?val@5.22:5.25VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ("
+typeStack<String>"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Stack<String> <mark class="class-field">val</mark> = new Stack<>()*val2h
+java.util.StackTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2h
+StringTYPE_ARGUMENTO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2p
+java.util.Stack.Stack()CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java  ('˘
+)infixToPrefix.main(String[])?op@6.25:6.27VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ("
+typeStack<Character>"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Stack<Character> <mark class="class-field">op</mark> = new Stack<>()*op2h
+java.util.StackTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2k
+	CharacterTYPE_ARGUMENTO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2p
+java.util.Stack.Stack()CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java" ()Ö
+*infixToPrefix.main(String[])?i@10.17:10.18VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java
+ 
+("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java
+ 
+(â
++infixToPrefix.main(String[])?ch@11.17:11.19VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ("
+typechar"
+isFinalfalse"n
+declarationStringY<mark class="modifier"> </mark>char <mark class="class-field">ch</mark> = infix.charAt(i)*ch2]
+charTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2Ö
+,infixToPrefix.main(String[])?infix@4.15:4.20CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2É
+*infixToPrefix.main(String[])?i@10.17:10.18CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java# ($ø
+.infixToPrefix.main(String[])?ascii@12.16:12.21VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ("
+typeint"
+isFinalfalse"¶
+declarationStringê<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">ascii</mark> = (<mark class="modifier">int</mark>) ch*ascii2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2Ñ
++infixToPrefix.main(String[])?ch@11.17:11.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ( ˝
+*infixToPrefix.main(String[])?s@14.23:14.24VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ("
+typeString"
+isFinalfalse"g
+declarationStringR<mark class="modifier"> </mark>String <mark class="class-field">s</mark> = "" + ch*s2_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2Ñ
++infixToPrefix.main(String[])?ch@11.17:11.19CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java  ("Å
++infixToPrefix.main(String[])?v2@23.27:23.29VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ("
+typeString"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>String <mark class="class-field">v2</mark> = val.pop()*v22_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java  (#Å
++infixToPrefix.main(String[])?v1@24.27:24.29VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ("
+typeString"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>String <mark class="class-field">v1</mark> = val.pop()*v12_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java  (#ã
+1infixToPrefix.main(String[])?operator@25.25:25.33VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (!"
+typechar"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>char <mark class="class-field">operator</mark> = op.pop()*operator2]
+charTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java (2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java$ (&Å
++infixToPrefix.main(String[])?v2@34.27:34.29VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java" "("
+typeString"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>String <mark class="class-field">v2</mark> = val.pop()*v22_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java" "(2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java"  "(#Å
++infixToPrefix.main(String[])?v1@35.27:35.29VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java# #("
+typeString"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>String <mark class="class-field">v1</mark> = val.pop()*v12_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java# #(2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java#  #(#ã
+1infixToPrefix.main(String[])?operator@36.25:36.33VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java$ $(!"
+typechar"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>char <mark class="class-field">operator</mark> = op.pop()*operator2]
+charTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java$ $(2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java$$ $(&Å
++infixToPrefix.main(String[])?v2@45.31:45.33VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java- -(!"
+typeString"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>String <mark class="class-field">v2</mark> = val.pop()*v22_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java- -(2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java-$ -('Å
++infixToPrefix.main(String[])?v1@46.31:46.33VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java. .(!"
+typeString"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>String <mark class="class-field">v1</mark> = val.pop()*v12_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java. .(2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java.$ .('ã
+1infixToPrefix.main(String[])?operator@47.29:47.37VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java/ /(%"
+typechar"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>char <mark class="class-field">operator</mark> = op.pop()*operator2]
+charTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java/ /(2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java/( /(*Å
++infixToPrefix.main(String[])?v2@61.19:61.21VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java= =("
+typeString"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>String <mark class="class-field">v2</mark> = val.pop()*v22_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java= =(2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java= =(Å
++infixToPrefix.main(String[])?v1@62.19:62.21VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java> >("
+typeString"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>String <mark class="class-field">v1</mark> = val.pop()*v12_
+StringTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java> >(2É
+*infixToPrefix.main(String[])?val@5.22:5.25CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java> >(ã
+1infixToPrefix.main(String[])?operator@63.17:63.25VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java? ?("
+typechar"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>char <mark class="class-field">operator</mark> = op.pop()*operator2]
+charTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java? ?(2Ç
+)infixToPrefix.main(String[])?op@6.25:6.27CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java? ?(∞
+!infixToPrefix.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2a
+String[]TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\infixToPrefix.java ($

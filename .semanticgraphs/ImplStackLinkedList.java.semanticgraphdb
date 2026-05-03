@@ -1,0 +1,336 @@
+
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaÒ
+ImplStackLinkedListCLASSQ
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java( "
+packageImplStackLinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier">public </mark><mark class="modifier">class </mark>ImplStackLinkedList"
+accesspublic*ImplStackLinkedList2à
+"ImplStackLinkedList.main(String[])DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaK K(“
+"ImplStackLinkedList.main(String[])METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaK K("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2å
+-ImplStackLinkedList.linkListImp.linkListImp()CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaL L((2ê
+1ImplStackLinkedList.main(String[])?st@76.20:76.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaO O(
+2ê
+1ImplStackLinkedList.main(String[])?st@76.20:76.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaP P(
+2ê
+1ImplStackLinkedList.main(String[])?st@76.20:76.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaQ Q(
+2ê
+1ImplStackLinkedList.main(String[])?st@76.20:76.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaT T(
+2ê
+1ImplStackLinkedList.main(String[])?st@76.20:76.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaV V(
+2ê
+1ImplStackLinkedList.main(String[])?st@76.20:76.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaX X(
+2ê
+1ImplStackLinkedList.main(String[])?st@76.20:76.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaY Y(
+2ê
+1ImplStackLinkedList.main(String[])?st@76.20:76.22CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaZ Z(
+2ã
+'ImplStackLinkedList.main(String[])!args	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaK% K()2ó
+1ImplStackLinkedList.main(String[])?st@76.20:76.22DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaL L(2j
+voidRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaK K(«
+1ImplStackLinkedList.main(String[])?st@76.20:76.22VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaL L("
+typelinkListImp"
+isFinalfalse"w
+declarationStringb<mark class="modifier"> </mark>linkListImp <mark class="class-field">st</mark> = new linkListImp()*st2~
+ImplStackLinkedList.linkListImpTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaL L(2å
+-ImplStackLinkedList.linkListImp.linkListImp()CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaL L((¬
+'ImplStackLinkedList.main(String[])!args	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaK% K()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2g
+String[]TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaK K($ˇ
+ImplStackLinkedList.NodeCLASSU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java ("
+packageImplStackLinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2à
+"ImplStackLinkedList.Node.Node(int)DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2ç
+'ImplStackLinkedList.Node?data@3.12:3.16DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2ç
+'ImplStackLinkedList.Node?next@5.13:5.17DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (¨
+"ImplStackLinkedList.Node.Node(int)CONSTRUCTORU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java ("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2Ü
+'ImplStackLinkedList.Node.Node(int)!dataCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2Ü
+'ImplStackLinkedList.Node?data@3.12:3.16CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2ã
+'ImplStackLinkedList.Node.Node(int)!data	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2~
+ImplStackLinkedList.NodeRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (—
+'ImplStackLinkedList.Node.Node(int)!data	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (æ
+'ImplStackLinkedList.Node?data@3.12:3.16VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (∑
+'ImplStackLinkedList.Node?next@5.13:5.17VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">next</mark>"
+isStaticfalse"
+accesspackage_private*next2w
+ImplStackLinkedList.NodeTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (±
+ImplStackLinkedList.linkListImpCLASSU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java ("
+packageImplStackLinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier"> </mark><mark class="modifier">class </mark>linkListImp"
+accesspackage_private*linkListImp2è
+)ImplStackLinkedList.linkListImp.isEmpty()DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2è
+)ImplStackLinkedList.linkListImp.push(int)DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2ã
+%ImplStackLinkedList.linkListImp.pop()DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java% %(2å
+&ImplStackLinkedList.linkListImp.peek()DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java. .(2í
+,ImplStackLinkedList.linkListImp.revDisplay()DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java2 2(2´
+EImplStackLinkedList.linkListImp.reverseList(ImplStackLinkedList.Node)DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java? ?(2è
+)ImplStackLinkedList.linkListImp.display()DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaE E(2ñ
+0ImplStackLinkedList.linkListImp?head@14.13:14.17DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2ñ
+0ImplStackLinkedList.linkListImp?size@16.12:16.16DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (˚
+)ImplStackLinkedList.linkListImp.isEmpty()METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java ("
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="method">isEmpty</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*isEmpty2è
+0ImplStackLinkedList.linkListImp?head@14.13:14.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2m
+booleanRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (≈
+)ImplStackLinkedList.linkListImp.push(int)METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java ("
+isFinalfalse"†
+declarationStringä<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">push</mark>(<mark class="modifier">int</mark> data)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*push2Å
+"ImplStackLinkedList.Node.Node(int)CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2ç
+.ImplStackLinkedList.linkListImp.push(int)!dataCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java ("2è
+0ImplStackLinkedList.linkListImp?head@14.13:14.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2ñ
+7ImplStackLinkedList.linkListImp.push(int)?a@28.17:28.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2è
+0ImplStackLinkedList.linkListImp?head@14.13:14.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2è
+0ImplStackLinkedList.linkListImp?head@14.13:14.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java! !(2ñ
+7ImplStackLinkedList.linkListImp.push(int)?a@28.17:28.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java! !(2è
+0ImplStackLinkedList.linkListImp?size@16.12:16.16CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java" "(2í
+.ImplStackLinkedList.linkListImp.push(int)!data	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2ù
+7ImplStackLinkedList.linkListImp.push(int)?a@28.17:28.18DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2j
+voidRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (∏
+7ImplStackLinkedList.linkListImp.push(int)?a@28.17:28.18VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java ("
+typeNode"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>Node <mark class="class-field">a</mark> = new Node(data)*a2w
+ImplStackLinkedList.NodeTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2Å
+"ImplStackLinkedList.Node.Node(int)CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (2ç
+.ImplStackLinkedList.linkListImp.push(int)!dataCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java ("ÿ
+.ImplStackLinkedList.linkListImp.push(int)!data	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (ú
+%ImplStackLinkedList.linkListImp.pop()METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java% %("
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">pop</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*pop2è
+0ImplStackLinkedList.linkListImp?head@14.13:14.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java& &(2è
+0ImplStackLinkedList.linkListImp?head@14.13:14.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java* *(2è
+0ImplStackLinkedList.linkListImp?head@14.13:14.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java* *(2è
+0ImplStackLinkedList.linkListImp?size@16.12:16.16CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java+ +(2j
+voidRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java% %(È
+&ImplStackLinkedList.linkListImp.peek()METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java. .("
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">peek</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*peek2è
+0ImplStackLinkedList.linkListImp?head@14.13:14.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java/1 /(52j
+voidRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java. .(®
+,ImplStackLinkedList.linkListImp.revDisplay()METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java2 2("
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">revDisplay</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*
+revDisplay2à
+)ImplStackLinkedList.linkListImp.isEmpty()CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java4 4(2è
+0ImplStackLinkedList.linkListImp?head@14.13:14.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java3 3(2ú
+=ImplStackLinkedList.linkListImp.revDisplay()?temp@51.17:51.21CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java8 8(2ú
+=ImplStackLinkedList.linkListImp.revDisplay()?temp@51.17:51.21CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java9! 9(%2ú
+=ImplStackLinkedList.linkListImp.revDisplay()?temp@51.17:51.21CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java: :(2ú
+=ImplStackLinkedList.linkListImp.revDisplay()?temp@51.17:51.21CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java: :(2£
+=ImplStackLinkedList.linkListImp.revDisplay()?temp@51.17:51.21DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java3 3(2j
+voidRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java2 2(∏
+=ImplStackLinkedList.linkListImp.revDisplay()?temp@51.17:51.21VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java3 3("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = head*temp2w
+ImplStackLinkedList.NodeTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java3 3(2è
+0ImplStackLinkedList.linkListImp?head@14.13:14.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java3 3(¥	
+EImplStackLinkedList.linkListImp.reverseList(ImplStackLinkedList.Node)METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java? ?("
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">reverseList</mark>(Node h)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*reverseList2¶
+GImplStackLinkedList.linkListImp.reverseList(ImplStackLinkedList.Node)!hCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java@ @(2¶
+GImplStackLinkedList.linkListImp.reverseList(ImplStackLinkedList.Node)!hCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaA A(2¶
+GImplStackLinkedList.linkListImp.reverseList(ImplStackLinkedList.Node)!hCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaB B(2´
+GImplStackLinkedList.linkListImp.reverseList(ImplStackLinkedList.Node)!h	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java? ?(2j
+voidRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java? ?(‰
+GImplStackLinkedList.linkListImp.reverseList(ImplStackLinkedList.Node)!h	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java? ?("
+typeNode"
+isFinalfalse"
+declarationStringNode h*h2w
+ImplStackLinkedList.NodeTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java? ?(ô
+)ImplStackLinkedList.linkListImp.display()METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaE E("
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">display</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*display2§
+EImplStackLinkedList.linkListImp.reverseList(ImplStackLinkedList.Node)CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaF F(2è
+0ImplStackLinkedList.linkListImp?head@14.13:14.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaF F(2j
+voidRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.javaE E(Á
+0ImplStackLinkedList.linkListImp?head@14.13:14.17VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java ("
+isFinalfalse"
+typeNode"Ñ
+declarationStringo<mark class="modifier"> </mark>Node <mark class="class-field">head</mark> = <mark class="modifier">null</mark>;"
+isStaticfalse"
+accesspackage_private*head2w
+ImplStackLinkedList.NodeTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (Õ
+0ImplStackLinkedList.linkListImp?size@16.12:16.16VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java ("
+isFinalfalse"
+typeint"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">size</mark> = 0;"
+isStaticfalse"
+accesspackage_private*size2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\ImplStackLinkedList.java (

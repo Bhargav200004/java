@@ -1,0 +1,106 @@
+
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java—
+QueueBasicImplCLASSP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java ("
+packageQueueBasicImpl"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"l
+declarationStringW<mark class="modifier">public </mark><mark class="modifier">class </mark>QueueBasicImpl"
+accesspublic*QueueBasicImpl2~
+QueueBasicImpl.main(String[])DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (¨
+QueueBasicImpl.main(String[])METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2q
+LinkedList.LinkedList()CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java# (/2q
+LinkedList.LinkedList()CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java" (.2á
+-QueueBasicImpl.main(String[])?queue@4.23:4.28CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2á
+-QueueBasicImpl.main(String[])?queue@4.23:4.28CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java	 	(2á
+-QueueBasicImpl.main(String[])?queue@4.23:4.28CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java
+ 
+(2á
+-QueueBasicImpl.main(String[])?queue@4.23:4.28CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2á
+-QueueBasicImpl.main(String[])?queue@4.23:4.28CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2á
+-QueueBasicImpl.main(String[])?queue@4.23:4.28CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2á
+-QueueBasicImpl.main(String[])?queue@4.23:4.28CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java ( 2á
+-QueueBasicImpl.main(String[])?queue@4.23:4.28CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2Ü
+,QueueBasicImpl.main(String[])?temp@5.23:5.27CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2á
+-QueueBasicImpl.main(String[])?queue@4.23:4.28CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2Ü
+,QueueBasicImpl.main(String[])?temp@5.23:5.27CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2Ü
+,QueueBasicImpl.main(String[])?temp@5.23:5.27CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2ä
+0QueueBasicImpl.main(String[])?remove@22.16:22.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (#2á
+-QueueBasicImpl.main(String[])?queue@4.23:4.28CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2ä
+0QueueBasicImpl.main(String[])?remove@22.16:22.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2Å
+"QueueBasicImpl.main(String[])!args	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java% ()2é
+-QueueBasicImpl.main(String[])?queue@4.23:4.28DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2ç
+,QueueBasicImpl.main(String[])?temp@5.23:5.27DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2ë
+0QueueBasicImpl.main(String[])?remove@22.16:22.22DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2e
+voidRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (¸
+-QueueBasicImpl.main(String[])?queue@4.23:4.28VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java ("
+typeQueue<Integer>"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark>Queue<Integer> <mark class="class-field">queue</mark> = new LinkedList<>()*queue2_
+QueueTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2j
+IntegerTYPE_ARGUMENTP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2q
+LinkedList.LinkedList()CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java# (/˘
+,QueueBasicImpl.main(String[])?temp@5.23:5.27VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java ("
+typeQueue<Integer>"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Queue<Integer> <mark class="class-field">temp</mark> = new LinkedList<>()*temp2_
+QueueTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2j
+IntegerTYPE_ARGUMENTP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2q
+LinkedList.LinkedList()CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java" (.≠
+0QueueBasicImpl.main(String[])?remove@22.16:22.22VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java ("
+typeint"
+isFinalfalse"ç
+declarationStringx<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">remove</mark> = temp.remove()*remove2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (2Ü
+,QueueBasicImpl.main(String[])?temp@5.23:5.27CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java (≥
+"QueueBasicImpl.main(String[])!args	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2b
+String[]TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Queue\src\QueueBasicImpl.java ($

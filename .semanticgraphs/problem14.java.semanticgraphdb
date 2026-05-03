@@ -1,0 +1,76 @@
+
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java¨
+	problem14CLASSK
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java("
+package	problem14"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>problem14"
+accesspublic*	problem142x
+problem14.factorial(int)DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java (2x
+problem14.main(String[])DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java (Ÿ
+problem14.factorial(int)METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java ("
+isFinalfalse"∆
+declarationString∞<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">factorial</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*	factorial2q
+problem14.factorial(int)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java (2s
+problem14.factorial(int)!nCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java (2s
+problem14.factorial(int)!nCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java (2s
+problem14.factorial(int)!nCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java (2x
+problem14.factorial(int)!n	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java (2c
+intRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java (≤
+problem14.factorial(int)!n	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java (Á
+problem14.main(String[])METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2q
+problem14.factorial(int)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java ($2
+&problem14.main(String[])?n@12.12:12.13CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java% (&2{
+problem14.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java% ()2Ü
+&problem14.main(String[])?n@12.12:12.13DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java (2d
+voidRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java (Å
+&problem14.main(String[])?n@12.12:12.13VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = 5*n2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java (¨
+problem14.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2a
+String[]TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem14.java ($

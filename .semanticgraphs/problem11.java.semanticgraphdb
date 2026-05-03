@@ -1,0 +1,106 @@
+
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java¶
+	problem11CLASSK
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java("
+package	problem11"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>problem11"
+accesspublic*	problem112r
+problem11.sum(int)DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java (2x
+problem11.main(String[])DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java	 	(ß
+
+problem11.sum(int)METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java ("
+isFinalfalse"¿
+declarationString™<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">sum</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*sum2k
+problem11.sum(int)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java (2m
+problem11.sum(int)!nCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java (2m
+problem11.sum(int)!nCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java (2m
+problem11.sum(int)!nCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java (2y
+ problem11.sum(int)?sum@5.12:5.15CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java (2r
+problem11.sum(int)!n	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java (2Ä
+ problem11.sum(int)?sum@5.12:5.15DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java (2c
+intRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java (ÿ
+ problem11.sum(int)?sum@5.12:5.15VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java ("
+typeint"
+isFinalfalse"ã
+declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = sum(n - 1) + n*sum2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java (2k
+problem11.sum(int)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java (2m
+problem11.sum(int)!nCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java (2m
+problem11.sum(int)!nCALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java (¨
+problem11.sum(int)!n	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java (Ê
+problem11.main(String[])METHODO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java	 	("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2k
+problem11.sum(int)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java
+ 
+(2Å
+(problem11.main(String[])?sum@10.12:10.15CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java* (-2{
+problem11.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java	% 	()2à
+(problem11.main(String[])?sum@10.12:10.15DECLARATIONO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java
+ 
+(2d
+voidRETURN_TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java	 	(˙
+(problem11.main(String[])?sum@10.12:10.15VARIABLEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java
+ 
+("
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = sum(5)*sum2\
+intTYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java
+ 
+(2k
+problem11.sum(int)CALLO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java
+ 
+(¨
+problem11.main(String[])!args	PARAMETERO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java	% 	()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2a
+String[]TYPEO
+EC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem11.java	 	($

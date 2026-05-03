@@ -1,0 +1,92 @@
+
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.javaˆ
+Polymorphism.ACLASS_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java ("
+packagePolymorphism"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"_
+declarationStringJ<mark class="modifier">public </mark><mark class="modifier">class </mark>A"
+accesspublic*A2›
++Polymorphism.A.check(int, java.lang.String)DECLARATION_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java	 (2›
++Polymorphism.A.check(java.lang.String, int)DECLARATION_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java	 (2…
+Polymorphism.A.test()DECLARATION_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java	 (¾
++Polymorphism.A.check(int, java.lang.String)METHOD_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java	 ("
+isFinalfalse"ê
+declarationStringÔ<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">check</mark>(<mark class="modifier">int</mark> val1<mark class="modifier"><mark class="modifier">,</mark></mark> String val2)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*check2–
+-java.io.PrintStream.println(java.lang.String)CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java (2ž
+0Polymorphism.A.check(int, java.lang.String)!val1	PARAMETER_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java (2ž
+0Polymorphism.A.check(int, java.lang.String)!val2	PARAMETER_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java (#2t
+voidRETURN_TYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java (î
+0Polymorphism.A.check(int, java.lang.String)!val1	PARAMETER_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> val1*val12l
+intTYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java (ã
+0Polymorphism.A.check(int, java.lang.String)!val2	PARAMETER_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java (#"
+typeString"
+isFinalfalse" 
+declarationStringString val2*val22y
+java.lang.StringTYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java (¾
++Polymorphism.A.check(java.lang.String, int)METHOD_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java	 ("
+isFinalfalse"ê
+declarationStringÔ<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">check</mark>(String val1<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> val2)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*check2–
+-java.io.PrintStream.println(java.lang.String)CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java (2ž
+0Polymorphism.A.check(java.lang.String, int)!val1	PARAMETER_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java (2ž
+0Polymorphism.A.check(java.lang.String, int)!val2	PARAMETER_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java  ($2t
+voidRETURN_TYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java (ã
+0Polymorphism.A.check(java.lang.String, int)!val1	PARAMETER_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java ("
+typeString"
+isFinalfalse" 
+declarationStringString val1*val12y
+java.lang.StringTYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java (î
+0Polymorphism.A.check(java.lang.String, int)!val2	PARAMETER_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java  ($"
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> val2*val22l
+intTYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java (ó
+Polymorphism.A.test()METHOD_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java	 ("
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">test</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*test2–
+-java.io.PrintStream.println(java.lang.String)CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java (2t
+voidRETURN_TYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\A.java (

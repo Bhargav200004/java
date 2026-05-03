@@ -1,0 +1,515 @@
+
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaƒ
+nKnightCLASSL
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java("
+packagenKnight"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>nKnight"
+accesspublic*nKnight2É
+"nKnight.isSafe(char[][], int, int)DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2ä
+)nKnight.nKnights(char[][], int, int, int)DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java3 3(2w
+nKnight.main(String[])DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaO O(2Ñ
+#nKnight?maxNumberOfKnight@2.15:2.32DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java ( Âb
+"nKnight.isSafe(char[][], int, int)METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java ("
+isFinalfalse"¯
+declarationString‚<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">isSafe</mark>(char[][] board<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> row<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> col)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*isSafe2Ç
+(nKnight.isSafe(char[][], int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java	 	(	2Ä
+&nKnight.isSafe(char[][], int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java	 	(2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java
+ 
+(	2Ä
+&nKnight.isSafe(char[][], int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java
+ 
+(2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?n@5.12:5.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2Ç
+(nKnight.isSafe(char[][], int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java ($2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java% (&2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java( ()2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (	2Ä
+&nKnight.isSafe(char[][], int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (	2Ä
+&nKnight.isSafe(char[][], int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?n@5.12:5.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?n@5.12:5.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2Ç
+(nKnight.isSafe(char[][], int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (#2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java$ (%2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java' ((2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (	2Ä
+&nKnight.isSafe(char[][], int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (	2Ä
+&nKnight.isSafe(char[][], int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2Ç
+(nKnight.isSafe(char[][], int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java  (%2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java& ('2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java) (*2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (	2Ä
+&nKnight.isSafe(char[][], int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (	2Ä
+&nKnight.isSafe(char[][], int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?n@5.12:5.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2Ç
+(nKnight.isSafe(char[][], int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java ($2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java% (&2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java( ()2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (	2Ä
+&nKnight.isSafe(char[][], int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (	2Ä
+&nKnight.isSafe(char[][], int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2à
+.nKnight.isSafe(char[][], int, int)?n@5.12:5.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2Ç
+(nKnight.isSafe(char[][], int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java ($2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java% (&2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java( ()2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java" "(	2Ä
+&nKnight.isSafe(char[][], int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java" "(2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java# #(	2Ä
+&nKnight.isSafe(char[][], int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java# #(2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java$ $(2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java$ $(2Ç
+(nKnight.isSafe(char[][], int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java$  $(%2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java$& $('2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java$) $(*2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java' '(	2Ä
+&nKnight.isSafe(char[][], int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java' '(2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java( ((	2Ä
+&nKnight.isSafe(char[][], int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java( ((2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java) )(2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java) )(2à
+.nKnight.isSafe(char[][], int, int)?n@5.12:5.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java) )(2Ç
+(nKnight.isSafe(char[][], int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java) )($2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java)% )(&2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java)( )()2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java, ,(	2Ä
+&nKnight.isSafe(char[][], int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java, ,(2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java- -(	2Ä
+&nKnight.isSafe(char[][], int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java- -(2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java. .(2à
+.nKnight.isSafe(char[][], int, int)?n@5.12:5.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java. .(2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java. .(2à
+.nKnight.isSafe(char[][], int, int)?n@5.12:5.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java. .(2Ç
+(nKnight.isSafe(char[][], int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java. .(#2à
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java.$ .(%2à
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java.' .((2á
+(nKnight.isSafe(char[][], int, int)!board	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java# ((2Ö
+&nKnight.isSafe(char[][], int, int)!row	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java. (12Ö
+&nKnight.isSafe(char[][], int, int)!col	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java8 (;2è
+.nKnight.isSafe(char[][], int, int)?n@5.12:5.13DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2è
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2è
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2h
+booleanRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (ú
+.nKnight.isSafe(char[][], int, int)?n@5.12:5.13VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = board.length*n2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (2Ç
+(nKnight.isSafe(char[][], int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (á
+.nKnight.isSafe(char[][], int, int)?i@6.12:6.13VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java ("
+typeint"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark>*i2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (á
+.nKnight.isSafe(char[][], int, int)?j@6.16:6.17VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java ("
+typeint"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark>*j2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (ª
+(nKnight.isSafe(char[][], int, int)!board	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java# (("
+typechar[][]"
+isFinalfalse"#
+declarationStringchar[][] board*board2b
+char[][]TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java ( ƒ
+&nKnight.isSafe(char[][], int, int)!row	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java. (1"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> row*row2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java* (-ƒ
+&nKnight.isSafe(char[][], int, int)!col	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java8 (;"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> col*col2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java4 (7È@
+)nKnight.nKnights(char[][], int, int, int)METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java3 3("
+isFinalfalse"⁄
+declarationStringƒ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">nKnights</mark>(char[][] board<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> row<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> col<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> num)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*nKnights2|
+"nKnight.isSafe(char[][], int, int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaD D(2É
+)nKnight.nKnights(char[][], int, int, int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaF F(&2É
+)nKnight.nKnights(char[][], int, int, int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaG G(2É
+)nKnight.nKnights(char[][], int, int, int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaK K(!2É
+)nKnight.nKnights(char[][], int, int, int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaL L(2â
+/nKnight.nKnights(char[][], int, int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java4 4(2á
+-nKnight.nKnights(char[][], int, int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java6 6(2ë
+7nKnight.nKnights(char[][], int, int, int)?n@52.12:52.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java6 6(2á
+-nKnight.nKnights(char[][], int, int, int)!numCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java7 7(2}
+#nKnight?maxNumberOfKnight@2.15:2.32CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java7 7((2ë
+7nKnight.nKnights(char[][], int, int, int)?i@56.25:56.26CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java8! 8("2ë
+7nKnight.nKnights(char[][], int, int, int)?n@52.12:52.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java8% 8(&2ë
+7nKnight.nKnights(char[][], int, int, int)?i@56.25:56.26CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java8) 8(*2ë
+7nKnight.nKnights(char[][], int, int, int)?j@57.29:57.30CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java9& 9('2ë
+7nKnight.nKnights(char[][], int, int, int)?n@52.12:52.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java9* 9(+2ë
+7nKnight.nKnights(char[][], int, int, int)?j@57.29:57.30CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java9. 9(/2â
+/nKnight.nKnights(char[][], int, int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java:) :(.2ë
+7nKnight.nKnights(char[][], int, int, int)?i@56.25:56.26CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java:/ :(02ë
+7nKnight.nKnights(char[][], int, int, int)?j@57.29:57.30CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java:2 :(32â
+/nKnight.nKnights(char[][], int, int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaD D(2á
+-nKnight.nKnights(char[][], int, int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaD D("2á
+-nKnight.nKnights(char[][], int, int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaD% D((2â
+/nKnight.nKnights(char[][], int, int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaE E(2á
+-nKnight.nKnights(char[][], int, int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaE E(2á
+-nKnight.nKnights(char[][], int, int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaE E(2á
+-nKnight.nKnights(char[][], int, int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaF F(2ë
+7nKnight.nKnights(char[][], int, int, int)?n@52.12:52.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaF F(2â
+/nKnight.nKnights(char[][], int, int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaF' F(,2á
+-nKnight.nKnights(char[][], int, int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaF- F(02á
+-nKnight.nKnights(char[][], int, int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaF1 F(42á
+-nKnight.nKnights(char[][], int, int, int)!numCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaF9 F(<2â
+/nKnight.nKnights(char[][], int, int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaG G(2á
+-nKnight.nKnights(char[][], int, int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaG! G($2á
+-nKnight.nKnights(char[][], int, int, int)!numCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaG. G(12â
+/nKnight.nKnights(char[][], int, int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaH H(2á
+-nKnight.nKnights(char[][], int, int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaH H(2á
+-nKnight.nKnights(char[][], int, int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaH H(2á
+-nKnight.nKnights(char[][], int, int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaK K(2ë
+7nKnight.nKnights(char[][], int, int, int)?n@52.12:52.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaK K(2â
+/nKnight.nKnights(char[][], int, int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaK" K('2á
+-nKnight.nKnights(char[][], int, int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaK( K(+2á
+-nKnight.nKnights(char[][], int, int, int)!colCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaK, K(/2á
+-nKnight.nKnights(char[][], int, int, int)!numCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaK4 K(72â
+/nKnight.nKnights(char[][], int, int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaL L(2á
+-nKnight.nKnights(char[][], int, int, int)!rowCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaL L( 2á
+-nKnight.nKnights(char[][], int, int, int)!numCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaL* L(-2é
+/nKnight.nKnights(char[][], int, int, int)!board	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java3" 3('2å
+-nKnight.nKnights(char[][], int, int, int)!row	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java3. 3(12å
+-nKnight.nKnights(char[][], int, int, int)!col	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java38 3(;2å
+-nKnight.nKnights(char[][], int, int, int)!num	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java3B 3(E2ò
+7nKnight.nKnights(char[][], int, int, int)?n@52.12:52.13DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java4 4(2ò
+7nKnight.nKnights(char[][], int, int, int)?i@56.25:56.26DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java8 8(2ò
+7nKnight.nKnights(char[][], int, int, int)?j@57.29:57.30DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java9 9(2e
+voidRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java3 3(¨
+7nKnight.nKnights(char[][], int, int, int)?n@52.12:52.13VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java4 4("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = board.length*n2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java4 4(2â
+/nKnight.nKnights(char[][], int, int, int)!boardCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java4 4(î
+7nKnight.nKnights(char[][], int, int, int)?i@56.25:56.26VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java8 8("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java8 8(î
+7nKnight.nKnights(char[][], int, int, int)?j@57.29:57.30VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java9 9("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java9 9(¬
+/nKnight.nKnights(char[][], int, int, int)!board	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java3" 3('"
+typechar[][]"
+isFinalfalse"#
+declarationStringchar[][] board*board2b
+char[][]TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java3 3(À
+-nKnight.nKnights(char[][], int, int, int)!row	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java3. 3(1"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> row*row2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java3* 3(-À
+-nKnight.nKnights(char[][], int, int, int)!col	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java38 3(;"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> col*col2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java34 3(7À
+-nKnight.nKnights(char[][], int, int, int)!num	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java3B 3(E"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> num*num2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java3> 3(Aù
+nKnight.main(String[])METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaO O("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2É
+)nKnight.nKnights(char[][], int, int, int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaY Y(2~
+$nKnight.main(String[])?n@80.12:80.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaQ# Q($2~
+$nKnight.main(String[])?n@80.12:80.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaQ& Q('2~
+$nKnight.main(String[])?i@83.17:83.18CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaS S(2~
+$nKnight.main(String[])?n@80.12:80.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaS S(2~
+$nKnight.main(String[])?i@83.17:83.18CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaS! S("2~
+$nKnight.main(String[])?j@84.21:84.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaT T(2~
+$nKnight.main(String[])?n@80.12:80.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaT" T(#2~
+$nKnight.main(String[])?j@84.21:84.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaT& T('2Ç
+(nKnight.main(String[])?board@81.18:81.23CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaU U(2~
+$nKnight.main(String[])?i@83.17:83.18CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaU U(2~
+$nKnight.main(String[])?j@84.21:84.22CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaU U(2Ç
+(nKnight.main(String[])?board@81.18:81.23CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaY Y(2z
+nKnight.main(String[])!args	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaO% O()2Ö
+$nKnight.main(String[])?n@80.12:80.13DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaP P(2â
+(nKnight.main(String[])?board@81.18:81.23DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaQ Q(2Ö
+$nKnight.main(String[])?i@83.17:83.18DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaS S(2Ö
+$nKnight.main(String[])?j@84.21:84.22DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaT T(2e
+voidRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaO O(Å
+$nKnight.main(String[])?n@80.12:80.13VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaP P("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = 3*n2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaP P(á
+(nKnight.main(String[])?board@81.18:81.23VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaQ Q("
+typechar"
+isFinalfalse"t
+declarationString_<mark class="modifier"> </mark>char[][] <mark class="class-field">board</mark> = new char[n][n]*board2b
+char[][]TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaQ Q(2~
+$nKnight.main(String[])?n@80.12:80.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaQ# Q($2~
+$nKnight.main(String[])?n@80.12:80.13CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaQ& Q('Å
+$nKnight.main(String[])?i@83.17:83.18VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaS S("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaS S(Å
+$nKnight.main(String[])?j@84.21:84.22VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaT T("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaT T(¨
+nKnight.main(String[])!args	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaO% O()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2b
+String[]TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.javaO O($ı
+#nKnight?maxNumberOfKnight@2.15:2.32VARIABLEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java ( "
+isFinalfalse"
+typeint"≥
+declarationStringù<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="class-field">maxNumberOfKnight</mark> = 5;"
+isStatictrue"
+accesspackage_private*maxNumberOfKnight2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\nKnight.java (

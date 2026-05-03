@@ -1,0 +1,34 @@
+
+YC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\parent.javaˇ
+inheritance.parentCLASSc
+YC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\parent.java ("
+packageinheritance"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"d
+declarationStringO<mark class="modifier">public </mark><mark class="modifier">class </mark>parent"
+accesspublic*parent2è
+inheritance.parent.parent()DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\parent.java (
+2ï
+!inheritance.parent?money@3.8:3.13DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\parent.java (ó
+inheritance.parent.parent()CONSTRUCTORc
+YC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\parent.java (
+"X
+declarationStringC<mark class="modifier"> </mark><mark class="method">parent</mark>()*parent2ö
+-java.io.PrintStream.println(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\parent.java (2Ü
+inheritance.parentRETURN_TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\parent.java (
+÷
+!inheritance.parent?money@3.8:3.13VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\parent.java ("
+isFinalfalse"
+typeint"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">money</mark>"
+isStaticfalse"
+accesspackage_private*money2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\inheritance\parent.java (

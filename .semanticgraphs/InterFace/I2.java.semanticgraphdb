@@ -1,0 +1,44 @@
+
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I2.java
+InterFace.I2TRAIT]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I2.java ("
+package	InterFace"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"ç
+declarationStringx<mark class="modifier">public </mark><mark class="modifier">interface </mark>I2<mark class="modifier"> extends </mark>I1"
+accesspublic*I22â
+InterFace.I2.fun2(int, int)DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I2.java	 (2u
+InterFace.I1EXTEND]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I2.java (˙
+InterFace.I2.fun2(int, int)METHOD]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I2.java	 ("
+isFinalfalse"˛
+declarationStringË<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">fun2</mark>(<mark class="modifier">int</mark> a<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> b)"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*fun22â
+InterFace.I2.fun2(int, int)!a	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I2.java (2â
+InterFace.I2.fun2(int, int)!b	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I2.java (2r
+voidRETURN_TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I2.java (—
+InterFace.I2.fun2(int, int)!a	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I2.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> a*a2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I2.java (—
+InterFace.I2.fun2(int, int)!b	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I2.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> b*b2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\InterFace\I2.java (

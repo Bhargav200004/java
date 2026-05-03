@@ -1,0 +1,212 @@
+
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java™
+problem2CLASSL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java ("
+packageproblem2"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>problem2"
+accesspublic*problem22Ä
+#problem2.palindromic(StringBuilder)DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java	 	(2z
+problem2.palindromic2(String)DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (2t
+problem2.main(String[])DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java/ /(°
+#problem2.palindromic(StringBuilder)METHODL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java	 	("
+isFinalfalse"µ
+declarationStringü<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">palindromic</mark>(StringBuilder s)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*palindromic2{
+%problem2.palindromic(StringBuilder)!sCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java, (-2á
+1problem2.palindromic(StringBuilder)?a@11.23:11.24CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java
+ (2{
+%problem2.palindromic(StringBuilder)!sCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (2á
+1problem2.palindromic(StringBuilder)?a@11.23:11.24CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (2{
+%problem2.palindromic(StringBuilder)!sCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java  (!2{
+%problem2.palindromic(StringBuilder)!sCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java  (!2Ä
+%problem2.palindromic(StringBuilder)!s	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java	* 	(+2é
+1problem2.palindromic(StringBuilder)?a@11.23:11.24DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (2a
+voidRETURN_TYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java	 	(ñ
+1problem2.palindromic(StringBuilder)?a@11.23:11.24VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java ("
+typeStringBuilder"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark>StringBuilder <mark class="class-field">a</mark> = new StringBuilder(s)*a2c
+StringBuilderTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java	 (2{
+%problem2.palindromic(StringBuilder)!sCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java, (-∑
+%problem2.palindromic(StringBuilder)!s	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java	* 	(+"
+typeStringBuilder"
+isFinalfalse"$
+declarationStringStringBuilder s*s2c
+StringBuilderTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java	 	()í
+problem2.palindromic2(String)METHODL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">palindromic2</mark>(String s)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*palindromic22u
+problem2.palindromic2(String)!sCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (2Å
++problem2.palindromic2(String)?i@26.12:26.13CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (2Å
++problem2.palindromic2(String)?j@27.12:27.13CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (2u
+problem2.palindromic2(String)!sCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (2Å
++problem2.palindromic2(String)?i@26.12:26.13CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (2u
+problem2.palindromic2(String)!sCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (2Å
++problem2.palindromic2(String)?j@27.12:27.13CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java% (&2Å
++problem2.palindromic2(String)?i@26.12:26.13CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java! !(2Å
++problem2.palindromic2(String)?j@27.12:27.13CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java" "(2z
+problem2.palindromic2(String)!s	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java' ((2à
++problem2.palindromic2(String)?i@26.12:26.13DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (2à
++problem2.palindromic2(String)?j@27.12:27.13DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (2d
+booleanRETURN_TYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (Ä
++problem2.palindromic2(String)?i@26.12:26.13VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2Y
+intTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (Ö
++problem2.palindromic2(String)?j@27.12:27.13VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java ("
+typeint"
+isFinalfalse"â
+declarationStringt<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = s.length() - 1*j2Y
+intTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (2u
+problem2.palindromic2(String)!sCALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java (ú
+problem2.palindromic2(String)!s	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java' (("
+typeString"
+isFinalfalse"
+declarationStringString s*s2\
+StringTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java  (&È
+problem2.main(String[])METHODL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java/ /("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2|
+&problem2.main(String[])?sc@49.16:49.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java3 3(2}
+'problem2.main(String[])?str@51.15:51.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java6 6(2{
+%problem2.main(String[])?i@56.17:56.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java8 8(2}
+'problem2.main(String[])?str@51.15:51.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java8 8(2{
+%problem2.main(String[])?i@56.17:56.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java8$ 8(%2{
+%problem2.main(String[])?j@57.21:57.22CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java9 9(2}
+'problem2.main(String[])?str@51.15:51.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java9 9(2{
+%problem2.main(String[])?j@57.21:57.22CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java9) 9(*2}
+'problem2.main(String[])?str@51.15:51.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java:  :(#2{
+%problem2.main(String[])?i@56.17:56.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java:. :(/2{
+%problem2.main(String[])?j@57.21:57.22CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java:0 :(12
+)problem2.main(String[])?count@48.12:48.17CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java; ;(2
+)problem2.main(String[])?count@48.12:48.17CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.javaB B( 2w
+problem2.main(String[])!args	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java/% /()2Ü
+)problem2.main(String[])?count@48.12:48.17DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java0 0(2É
+&problem2.main(String[])?sc@49.16:49.18DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java1 1(2Ñ
+'problem2.main(String[])?str@51.15:51.18DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java3 3(2Ç
+%problem2.main(String[])?i@56.17:56.18DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java8 8(2Ç
+%problem2.main(String[])?j@57.21:57.22DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java9 9(2a
+voidRETURN_TYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java/ /(á
+)problem2.main(String[])?count@48.12:48.17VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java0 0("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">count</mark> = 0*count2Y
+intTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java0 0(Ä
+&problem2.main(String[])?sc@49.16:49.18VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java1 1("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2]
+ScannerTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java1 1(ı
+'problem2.main(String[])?str@51.15:51.18VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java3 3("
+typeString"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>String <mark class="class-field">str</mark> = sc.nextLine()*str2\
+StringTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java3 3(2|
+&problem2.main(String[])?sc@49.16:49.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java3 3(˙
+%problem2.main(String[])?i@56.17:56.18VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java8 8("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2Y
+intTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java8 8(˙
+%problem2.main(String[])?j@57.21:57.22VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java9 9("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2Y
+intTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java9 9(•
+problem2.main(String[])!args	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java/% /()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2^
+String[]TYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem2.java/ /($

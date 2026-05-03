@@ -1,0 +1,105 @@
+
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java˛
+FiboCLASSF
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java("
+packageFibo"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Fibo"
+accesspublic*Fibo2n
+Fibo.main(String[])DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (2m
+Fibo.fibonaci(int)DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (π
+Fibo.main(String[])METHODJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2f
+Fibo.fibonaci(int)CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (#2q
+Fibo.main(String[])!args	PARAMETERJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java% ()2_
+voidRETURN_TYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (ù
+Fibo.main(String[])!args	PARAMETERJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2\
+String[]TYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java ($÷
+Fibo.fibonaci(int)METHODJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java ("
+isFinalfalse"≈
+declarationStringØ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">fibonaci</mark>(<mark class="modifier">int</mark> n)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*fibonaci2f
+Fibo.fibonaci(int)CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java ("2f
+Fibo.fibonaci(int)CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (#2h
+Fibo.fibonaci(int)!nCALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (2h
+Fibo.fibonaci(int)!nCALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (2h
+Fibo.fibonaci(int)!nCALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java$ (%2h
+Fibo.fibonaci(int)!nCALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java# ($2h
+Fibo.fibonaci(int)!nCALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java$ (%2|
+(Fibo.fibonaci(int)?firstNumber@7.12:7.23CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java
+ 
+(2}
+)Fibo.fibonaci(int)?secondNumber@8.12:8.24CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java
+ 
+(*2m
+Fibo.fibonaci(int)!n	PARAMETERJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (2É
+(Fibo.fibonaci(int)?firstNumber@7.12:7.23DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (2Ñ
+)Fibo.fibonaci(int)?secondNumber@8.12:8.24DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (2^
+intRETURN_TYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (Ó
+(Fibo.fibonaci(int)?firstNumber@7.12:7.23VARIABLEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java ("
+typeint"
+isFinalfalse"î
+declarationString<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">firstNumber</mark> = fibonaci(n - 1)*firstNumber2W
+intTYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (2f
+Fibo.fibonaci(int)CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java ("2h
+Fibo.fibonaci(int)!nCALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java# ($Ú
+)Fibo.fibonaci(int)?secondNumber@8.12:8.24VARIABLEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java ("
+typeint"
+isFinalfalse"ñ
+declarationStringÄ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">secondNumber</mark> = fibonaci(n - 2)*secondNumber2W
+intTYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (2f
+Fibo.fibonaci(int)CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (#2h
+Fibo.fibonaci(int)!nCALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java$ (%¢
+Fibo.fibonaci(int)!n	PARAMETERJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> n*n2W
+intTYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\Fibo.java (

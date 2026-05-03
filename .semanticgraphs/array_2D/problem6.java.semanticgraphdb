@@ -1,0 +1,471 @@
+
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.javaæ
+array_2D.problem6CLASSc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ("
+packagearray_2D"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>problem6"
+accesspublic*problem62ô
+%array_2D.problem6.PrintArray(int[][])DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2©
+5array_2D.problem6.printSpiralOrder(int[][], int, int)DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ( 2û
+*array_2D.problem6.main(java.lang.String[])DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java/ /(ï
+%array_2D.problem6.PrintArray(int[][])METHODc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ("
+isFinalfalse"Œ
+declarationString∏<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">PrintArray</mark>(<mark class="modifier">int</mark>[][] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*
+PrintArray2ò
++java.io.PrintStream.print(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ( 2ä
+java.io.PrintStream.println()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java	 	(2û
+1array_2D.problem6.PrintArray(int[][])?i@5.17:5.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2ñ
+)array_2D.problem6.PrintArray(int[][])!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2û
+1array_2D.problem6.PrintArray(int[][])?i@5.17:5.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java" (#2û
+1array_2D.problem6.PrintArray(int[][])?j@6.21:6.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2ñ
+)array_2D.problem6.PrintArray(int[][])!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2û
+1array_2D.problem6.PrintArray(int[][])?i@5.17:5.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java  (!2û
+1array_2D.problem6.PrintArray(int[][])?j@6.21:6.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java* (+2ñ
+)array_2D.problem6.PrintArray(int[][])!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java! ($2û
+1array_2D.problem6.PrintArray(int[][])?i@5.17:5.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java% (&2û
+1array_2D.problem6.PrintArray(int[][])?j@6.21:6.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java( ()2õ
+)array_2D.problem6.PrintArray(int[][])!arr	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java# (&2•
+1array_2D.problem6.PrintArray(int[][])?i@5.17:5.18DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2•
+1array_2D.problem6.PrintArray(int[][])?j@6.21:6.22DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2x
+voidRETURN_TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (¥
+1array_2D.problem6.PrintArray(int[][])?i@5.17:5.18VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (¥
+1array_2D.problem6.PrintArray(int[][])?j@6.21:6.22VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (˘
+)array_2D.problem6.PrintArray(int[][])!arr	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java# (&"
+typeint[][]"
+isFinalfalse">
+declarationString)<mark class="modifier">int</mark>[][] arr*arr2t
+int[][]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ( Óf
+5array_2D.problem6.printSpiralOrder(int[][], int, int)METHODc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ( "
+isFinalfalse"ñ
+declarationStringÄ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">printSpiralOrder</mark>(<mark class="modifier">int</mark>[][] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> r<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> c)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*printSpiralOrder2ò
++java.io.PrintStream.print(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ( 2ò
++java.io.PrintStream.print(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ( 2ò
++java.io.PrintStream.print(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java! !( 2ò
++java.io.PrintStream.print(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java( (( 2§
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!rCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ( 2§
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!cCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java6 (72ª
+Narray_2D.problem6.printSpiralOrder(int[][], int, int)?totalelement@15.12:15.24CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2§
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!rCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2§
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!cCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2∂
+Iarray_2D.problem6.printSpiralOrder(int[][], int, int)?leftCol@14.35:14.42CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2∞
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?j@18.21:18.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ( 2∑
+Jarray_2D.problem6.printSpiralOrder(int[][], int, int)?rightCol@14.45:14.53CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java" (*2ª
+Narray_2D.problem6.printSpiralOrder(int[][], int, int)?totalelement@15.12:15.24CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java. (:2§
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!rCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java; (<2§
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!cCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java= (>2∞
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?j@18.21:18.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java? (@2¶
+9array_2D.problem6.printSpiralOrder(int[][], int, int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java! ($2µ
+Harray_2D.problem6.printSpiralOrder(int[][], int, int)?topRow@14.12:14.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java% (+2∞
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?j@18.21:18.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java- (.2ª
+Narray_2D.problem6.printSpiralOrder(int[][], int, int)?totalelement@15.12:15.24CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2µ
+Harray_2D.problem6.printSpiralOrder(int[][], int, int)?topRow@14.12:14.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2µ
+Harray_2D.problem6.printSpiralOrder(int[][], int, int)?topRow@14.12:14.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2∞
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?i@25.21:25.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2∏
+Karray_2D.problem6.printSpiralOrder(int[][], int, int)?bottomRow@14.21:14.30CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java! (*2ª
+Narray_2D.problem6.printSpiralOrder(int[][], int, int)?totalelement@15.12:15.24CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java. (:2§
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!rCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java; (<2§
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!cCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java= (>2∞
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?i@25.21:25.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java? (@2¶
+9array_2D.problem6.printSpiralOrder(int[][], int, int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java! ($2∞
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?i@25.21:25.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java% (&2∑
+Jarray_2D.problem6.printSpiralOrder(int[][], int, int)?rightCol@14.45:14.53CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java( (02ª
+Narray_2D.problem6.printSpiralOrder(int[][], int, int)?totalelement@15.12:15.24CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2∑
+Jarray_2D.problem6.printSpiralOrder(int[][], int, int)?rightCol@14.45:14.53CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2∑
+Jarray_2D.problem6.printSpiralOrder(int[][], int, int)?rightCol@14.45:14.53CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java   (2∞
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?j@32.21:32.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java    (!2∂
+Iarray_2D.problem6.printSpiralOrder(int[][], int, int)?leftCol@14.35:14.42CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java #  (*2ª
+Narray_2D.problem6.printSpiralOrder(int[][], int, int)?totalelement@15.12:15.24CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java .  (:2§
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!rCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ;  (<2§
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!cCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java =  (>2∞
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?j@32.21:32.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ?  (@2¶
+9array_2D.problem6.printSpiralOrder(int[][], int, int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java!! !($2∏
+Karray_2D.problem6.printSpiralOrder(int[][], int, int)?bottomRow@14.21:14.30CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java!% !(.2∞
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?j@32.21:32.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java!0 !(12ª
+Narray_2D.problem6.printSpiralOrder(int[][], int, int)?totalelement@15.12:15.24CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java" "(2∏
+Karray_2D.problem6.printSpiralOrder(int[][], int, int)?bottomRow@14.21:14.30CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java$ $(2∏
+Karray_2D.problem6.printSpiralOrder(int[][], int, int)?bottomRow@14.21:14.30CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java' '( 2∞
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?i@39.21:39.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java'! '("2µ
+Harray_2D.problem6.printSpiralOrder(int[][], int, int)?topRow@14.12:14.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java'$ '(*2ª
+Narray_2D.problem6.printSpiralOrder(int[][], int, int)?totalelement@15.12:15.24CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java'. '(:2§
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!rCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java'; '(<2§
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!cCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java'= '(>2∞
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?i@39.21:39.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java'? '(@2¶
+9array_2D.problem6.printSpiralOrder(int[][], int, int)!arrCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java(! (($2∞
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?i@39.21:39.22CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java(% ((&2∂
+Iarray_2D.problem6.printSpiralOrder(int[][], int, int)?leftCol@14.35:14.42CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java(( ((/2ª
+Narray_2D.problem6.printSpiralOrder(int[][], int, int)?totalelement@15.12:15.24CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java) )(2∂
+Iarray_2D.problem6.printSpiralOrder(int[][], int, int)?leftCol@14.35:14.42CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java+ +(2´
+9array_2D.problem6.printSpiralOrder(int[][], int, int)!arr	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java* (-2©
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!r	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java2 (32©
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!c	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java8 (92º
+Harray_2D.problem6.printSpiralOrder(int[][], int, int)?topRow@14.12:14.18DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2ø
+Karray_2D.problem6.printSpiralOrder(int[][], int, int)?bottomRow@14.21:14.30DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2Ω
+Iarray_2D.problem6.printSpiralOrder(int[][], int, int)?leftCol@14.35:14.42DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java# (*2æ
+Jarray_2D.problem6.printSpiralOrder(int[][], int, int)?rightCol@14.45:14.53DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java- (52¬
+Narray_2D.problem6.printSpiralOrder(int[][], int, int)?totalelement@15.12:15.24DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2∑
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?j@18.21:18.22DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2∑
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?i@25.21:25.22DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2∑
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?j@32.21:32.22DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java   (2∑
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?i@39.21:39.22DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java' '(2x
+voidRETURN_TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (â
+Harray_2D.problem6.printSpiralOrder(int[][], int, int)?topRow@14.12:14.18VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ("
+typeint"
+isFinalfalse"¥
+declarationStringû<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">topRow</mark> = 0, bottomRow = r - 1, leftCol = 0, rightCol = c - 1*topRow2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (π
+Karray_2D.problem6.printSpiralOrder(int[][], int, int)?bottomRow@14.21:14.30VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ("
+typeint"
+isFinalfalse"∑
+declarationString°<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">bottomRow</mark> = 0, bottomRow = r - 1, leftCol = 0, rightCol = c - 1*	bottomRow2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2§
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!rCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ( å
+Iarray_2D.problem6.printSpiralOrder(int[][], int, int)?leftCol@14.35:14.42VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java# (*"
+typeint"
+isFinalfalse"µ
+declarationStringü<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">leftCol</mark> = 0, bottomRow = r - 1, leftCol = 0, rightCol = c - 1*leftCol2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (∂
+Jarray_2D.problem6.printSpiralOrder(int[][], int, int)?rightCol@14.45:14.53VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java- (5"
+typeint"
+isFinalfalse"∂
+declarationString†<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">rightCol</mark> = 0, bottomRow = r - 1, leftCol = 0, rightCol = c - 1*rightCol2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2§
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!cCALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java6 (7Ë
+Narray_2D.problem6.printSpiralOrder(int[][], int, int)?totalelement@15.12:15.24VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">totalelement</mark> = 0*totalelement2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (Ü
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?j@18.21:18.22VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ("
+typeint"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = leftCol*j2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2∂
+Iarray_2D.problem6.printSpiralOrder(int[][], int, int)?leftCol@14.35:14.42CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (Ñ
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?i@25.21:25.22VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java ("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = topRow*i2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (2µ
+Harray_2D.problem6.printSpiralOrder(int[][], int, int)?topRow@14.12:14.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java (à
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?j@32.21:32.22VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java   ("
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = rightCol*j2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java   (2∑
+Jarray_2D.problem6.printSpiralOrder(int[][], int, int)?rightCol@14.45:14.53CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java   (ä
+Carray_2D.problem6.printSpiralOrder(int[][], int, int)?i@39.21:39.22VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java' '("
+typeint"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = bottomRow*i2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java' '(2∏
+Karray_2D.problem6.printSpiralOrder(int[][], int, int)?bottomRow@14.21:14.30CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java' '( â
+9array_2D.problem6.printSpiralOrder(int[][], int, int)!arr	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java* (-"
+typeint[][]"
+isFinalfalse">
+declarationString)<mark class="modifier">int</mark>[][] arr*arr2t
+int[][]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java! ('˜
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!r	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java2 (3"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> r*r2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java. (1˜
+7array_2D.problem6.printSpiralOrder(int[][], int, int)!c	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java8 (9"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> c*c2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java4 (7À2
+*array_2D.problem6.main(java.lang.String[])METHODc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java/ /("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ö
+-java.io.PrintStream.println(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java1 1(2à
+java.util.Scanner.nextInt()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java2 2(2ö
+-java.io.PrintStream.println(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java3 3(2à
+java.util.Scanner.nextInt()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java4 4(2ö
+-java.io.PrintStream.println(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java6 6(2à
+java.util.Scanner.nextInt()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java9 9($2ö
+-java.io.PrintStream.println(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java< <(2í
+%array_2D.problem6.PrintArray(int[][])CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java= =(2ö
+-java.io.PrintStream.println(java.lang.String)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java? ?(2¢
+5array_2D.problem6.printSpiralOrder(int[][], int, int)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java@ @(2õ
+.java.util.Scanner.Scanner(java.io.InputStream)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java0 0(2¶
+9array_2D.problem6.main(java.lang.String[])?sc@48.16:48.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java2 2(2¶
+9array_2D.problem6.main(java.lang.String[])?sc@48.16:48.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java4 4(2•
+8array_2D.problem6.main(java.lang.String[])?r@50.12:50.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java5 5(2•
+8array_2D.problem6.main(java.lang.String[])?c@52.12:52.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java5 5( 2•
+8array_2D.problem6.main(java.lang.String[])?i@55.17:55.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java7 7(2•
+8array_2D.problem6.main(java.lang.String[])?r@50.12:50.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java7 7(2•
+8array_2D.problem6.main(java.lang.String[])?i@55.17:55.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java7 7(2•
+8array_2D.problem6.main(java.lang.String[])?j@56.20:56.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java8 8(2•
+8array_2D.problem6.main(java.lang.String[])?c@52.12:52.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java8 8(2•
+8array_2D.problem6.main(java.lang.String[])?j@56.20:56.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java8 8(2ß
+:array_2D.problem6.main(java.lang.String[])?arr@53.16:53.19CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java9 9(2•
+8array_2D.problem6.main(java.lang.String[])?i@55.17:55.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java9 9(2•
+8array_2D.problem6.main(java.lang.String[])?j@56.20:56.21CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java9 9(2¶
+9array_2D.problem6.main(java.lang.String[])?sc@48.16:48.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java9 9(2ß
+:array_2D.problem6.main(java.lang.String[])?arr@53.16:53.19CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java= =(2ß
+:array_2D.problem6.main(java.lang.String[])?arr@53.16:53.19CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java@ @(2•
+8array_2D.problem6.main(java.lang.String[])?r@50.12:50.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java@ @(2•
+8array_2D.problem6.main(java.lang.String[])?c@52.12:52.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java@ @( 2°
+/array_2D.problem6.main(java.lang.String[])!args	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java/% /()2≠
+9array_2D.problem6.main(java.lang.String[])?sc@48.16:48.18DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java0 0(2¨
+8array_2D.problem6.main(java.lang.String[])?r@50.12:50.13DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java2 2(2¨
+8array_2D.problem6.main(java.lang.String[])?c@52.12:52.13DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java4 4(2Æ
+:array_2D.problem6.main(java.lang.String[])?arr@53.16:53.19DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java5 5(2¨
+8array_2D.problem6.main(java.lang.String[])?i@55.17:55.18DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java7 7(2¨
+8array_2D.problem6.main(java.lang.String[])?j@56.20:56.21DECLARATIONc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java8 8(2x
+voidRETURN_TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java/ /(È
+9array_2D.problem6.main(java.lang.String[])?sc@48.16:48.18VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java0 0("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2~
+java.util.ScannerTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java0 0(2õ
+.java.util.Scanner.Scanner(java.io.InputStream)CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java0 0(˚
+8array_2D.problem6.main(java.lang.String[])?r@50.12:50.13VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java2 2("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">r</mark> = sc.nextInt()*r2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java2 2(2à
+java.util.Scanner.nextInt()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java2 2(2¶
+9array_2D.problem6.main(java.lang.String[])?sc@48.16:48.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java2 2(˚
+8array_2D.problem6.main(java.lang.String[])?c@52.12:52.13VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java4 4("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c</mark> = sc.nextInt()*c2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java4 4(2à
+java.util.Scanner.nextInt()CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java4 4(2¶
+9array_2D.problem6.main(java.lang.String[])?sc@48.16:48.18CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java4 4(≈
+:array_2D.problem6.main(java.lang.String[])?arr@53.16:53.19VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java5 5("
+typeint"
+isFinalfalse"≠
+declarationStringó<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[r][c]*arr2t
+int[][]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java5 5(2•
+8array_2D.problem6.main(java.lang.String[])?r@50.12:50.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java5 5(2•
+8array_2D.problem6.main(java.lang.String[])?c@52.12:52.13CALLc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java5 5( ª
+8array_2D.problem6.main(java.lang.String[])?i@55.17:55.18VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java7 7("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java7 7(ª
+8array_2D.problem6.main(java.lang.String[])?j@56.20:56.21VARIABLEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java8 8("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2p
+intTYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java8 8(
+/array_2D.problem6.main(java.lang.String[])!args	PARAMETERc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java/% /()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2
+java.lang.String[]TYPEc
+YC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array_2D\problem6.java/ /($

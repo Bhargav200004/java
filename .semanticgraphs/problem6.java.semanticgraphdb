@@ -1,0 +1,126 @@
+
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.javaß
+problem6CLASSH
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java("
+packageproblem6"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>problem6"
+accesspublic*problem62t
+problem6.main(String[])DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (È
+problem6.main(String[])METHODL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2z
+$problem6.main(String[])?st@3.15:3.17CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2y
+#problem6.main(String[])?i@8.17:8.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2z
+$problem6.main(String[])?ch@5.15:5.17CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2y
+#problem6.main(String[])?i@8.17:8.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java) (*2z
+$problem6.main(String[])?ch@5.15:5.17CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java
+! 
+(#2y
+#problem6.main(String[])?i@8.17:8.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java
+$ 
+(%2É
+-problem6.main(String[])?asciiCode@10.16:10.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2É
+-problem6.main(String[])?asciiCode@10.16:10.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2É
+-problem6.main(String[])?asciiCode@10.16:10.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2z
+$problem6.main(String[])?ch@5.15:5.17CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2y
+#problem6.main(String[])?i@8.17:8.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2É
+-problem6.main(String[])?asciiCode@10.16:10.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java ($2z
+$problem6.main(String[])?ch@5.15:5.17CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2{
+%problem6.main(String[])?c@26.18:26.19CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2w
+problem6.main(String[])!args	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java% ()2Å
+$problem6.main(String[])?st@3.15:3.17DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2Å
+$problem6.main(String[])?ch@5.15:5.17DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2Ä
+#problem6.main(String[])?i@8.17:8.18DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2ä
+-problem6.main(String[])?asciiCode@10.16:10.25DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java
+ 
+(2Ç
+%problem6.main(String[])?c@26.18:26.19DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2a
+voidRETURN_TYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (Û
+$problem6.main(String[])?st@3.15:3.17VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java ("
+typeString"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>String <mark class="class-field">st</mark> = "WelCome BaCk"*st2\
+StringTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (Ô
+$problem6.main(String[])?ch@5.15:5.17VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java ("
+typechar"
+isFinalfalse"q
+declarationString\<mark class="modifier"> </mark>char[] <mark class="class-field">ch</mark> = st.toCharArray()*ch2\
+char[]TYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (2z
+$problem6.main(String[])?st@3.15:3.17CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (¯
+#problem6.main(String[])?i@8.17:8.18VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2Y
+intTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (≥
+-problem6.main(String[])?asciiCode@10.16:10.25VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java
+ 
+("
+typeint"
+isFinalfalse"≠
+declarationStringó<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">asciiCode</mark> = (<mark class="modifier">int</mark>) ch[i]*	asciiCode2Y
+intTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java
+ 
+(2z
+$problem6.main(String[])?ch@5.15:5.17CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java
+! 
+(#2y
+#problem6.main(String[])?i@8.17:8.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java
+$ 
+(%€
+%problem6.main(String[])?c@26.18:26.19VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java ("
+typechar"
+isFinalfalse"[
+declarationStringF<mark class="modifier"> </mark>char <mark class="class-field">c</mark>*c2Z
+charTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java (•
+problem6.main(String[])!args	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2^
+String[]TYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem6.java ($

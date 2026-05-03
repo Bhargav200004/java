@@ -1,0 +1,56 @@
+
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.javaÜ
+Abstracy.MainCLASS^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java ("
+packageAbstracy"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Main"
+accesspublic*Main2•
+&Abstracy.Main.main(java.lang.String[])DECLARATION^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java (˜
+&Abstracy.Main.main(java.lang.String[])METHOD^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2~
+Abstracy.student.fun()CALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java
+ (2
+Abstracy.teacher.fun2()CALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java
+ (2‚
+Abstracy.teacher.teacher()CALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java (2š
+2Abstracy.Main.main(java.lang.String[])?t@5.16:5.17CALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java (	2š
+2Abstracy.Main.main(java.lang.String[])?t@5.16:5.17CALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java (	2˜
++Abstracy.Main.main(java.lang.String[])!args	PARAMETER^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java% ()2¡
+2Abstracy.Main.main(java.lang.String[])?t@5.16:5.17DECLARATION^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java (2s
+voidRETURN_TYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java (³
+2Abstracy.Main.main(java.lang.String[])?t@5.16:5.17VARIABLE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java ("
+typeteacher"
+isFinalfalse"n
+declarationStringY<mark class="modifier"> </mark>teacher <mark class="class-field">t</mark> = new teacher()*t2x
+Abstracy.teacherTYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java (2‚
+Abstracy.teacher.teacher()CALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java (â
++Abstracy.Main.main(java.lang.String[])!args	PARAMETER^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2z
+java.lang.String[]TYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\Main.java ($

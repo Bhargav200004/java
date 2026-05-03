@@ -1,0 +1,30 @@
+
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\teacher.javaŠ
+Abstracy.teacherCLASSa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\teacher.java ("
+packageAbstracy"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"“
+declarationString~<mark class="modifier">public </mark><mark class="modifier">class </mark>teacher<mark class="modifier"> extends </mark>student"
+accesspublic*teacher2‰
+Abstracy.teacher.fun2()DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\teacher.java	 (2}
+Abstracy.studentEXTENDa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\teacher.java ($„
+Abstracy.teacher.fun2()METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\teacher.java	 ("
+isFinalfalse"y
+declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">fun2</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*fun22˜
+-java.io.PrintStream.println(java.lang.String)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\teacher.java (2†
+Abstracy.student.fun2()OVERRIDEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\teacher.java	 (2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Abstracy\teacher.java (

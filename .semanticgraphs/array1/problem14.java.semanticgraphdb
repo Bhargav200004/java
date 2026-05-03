@@ -1,0 +1,318 @@
+
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java∫
+array1.problem14CLASSb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ("
+packagearray1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>problem14"
+accesspublic*	problem142ï
+"array1.problem14.PrintArray(int[])DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2ì
+ array1.problem14.sumArray(int[])DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2ó
+$array1.problem14.sumpartition(int[])DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2ú
+)array1.problem14.main(java.lang.String[])DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java& &(Ï
+"array1.problem14.PrintArray(int[])METHODb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ("
+isFinalfalse"Ã
+declarationString∂<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">PrintArray</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*
+PrintArray2ó
++java.io.PrintStream.print(java.lang.String)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java
+ 
+(2â
+java.io.PrintStream.println()CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2í
+&array1.problem14.PrintArray(int[])!arrCALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2ö
+.array1.problem14.PrintArray(int[])?i@9.16:9.17CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java	 	(2ö
+.array1.problem14.PrintArray(int[])?n@8.12:8.13CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java	 	(2ö
+.array1.problem14.PrintArray(int[])?i@9.16:9.17CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java	 	(2í
+&array1.problem14.PrintArray(int[])!arrCALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java
+! 
+($2ö
+.array1.problem14.PrintArray(int[])?i@9.16:9.17CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java
+% 
+(&2ó
+&array1.problem14.PrintArray(int[])!arr	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ($2°
+.array1.problem14.PrintArray(int[])?n@8.12:8.13DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2°
+.array1.problem14.PrintArray(int[])?i@9.16:9.17DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java	 	(2w
+voidRETURN_TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (Œ
+.array1.problem14.PrintArray(int[])?n@8.12:8.13VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = arr.length*n2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2í
+&array1.problem14.PrintArray(int[])!arrCALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (Ø
+.array1.problem14.PrintArray(int[])?i@9.16:9.17VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java	 	("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java	 	(Ó
+&array1.problem14.PrintArray(int[])!arr	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ($"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2q
+int[]TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ($È
+ array1.problem14.sumArray(int[])METHODb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ("
+isFinalfalse"…
+declarationString≥<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">sumArray</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*sumArray2ö
+.array1.problem14.sumArray(int[])?i@17.17:17.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2ê
+$array1.problem14.sumArray(int[])!arrCALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2ö
+.array1.problem14.sumArray(int[])?i@17.17:17.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java" (#2°
+5array1.problem14.sumArray(int[])?totalsum@16.12:16.20CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2ê
+$array1.problem14.sumArray(int[])!arrCALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2ö
+.array1.problem14.sumArray(int[])?i@17.17:17.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2°
+5array1.problem14.sumArray(int[])?totalsum@16.12:16.20CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2ï
+$array1.problem14.sumArray(int[])!arr	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ("2®
+5array1.problem14.sumArray(int[])?totalsum@16.12:16.20DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2°
+.array1.problem14.sumArray(int[])?i@17.17:17.18DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2v
+intRETURN_TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (≈
+5array1.problem14.sumArray(int[])?totalsum@16.12:16.20VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ("
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">totalsum</mark> = 0*totalsum2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (Ø
+.array1.problem14.sumArray(int[])?i@17.17:17.18VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (Ï
+$array1.problem14.sumArray(int[])!arr	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (""
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2q
+int[]TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (©
+$array1.problem14.sumpartition(int[])METHODb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ("
+isFinalfalse"—
+declarationStringª<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">sumpartition</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*sumpartition2å
+ array1.problem14.sumArray(int[])CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2î
+(array1.problem14.sumpartition(int[])!arrCALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (!2û
+2array1.problem14.sumpartition(int[])?i@26.17:26.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2î
+(array1.problem14.sumpartition(int[])!arrCALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2û
+2array1.problem14.sumpartition(int[])?i@26.17:26.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java" (#2¶
+:array1.problem14.sumpartition(int[])?prefixsum@25.12:25.21CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2î
+(array1.problem14.sumpartition(int[])!arrCALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2û
+2array1.problem14.sumpartition(int[])?i@26.17:26.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2•
+9array1.problem14.sumpartition(int[])?totalsum@24.12:24.20CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (!2¶
+:array1.problem14.sumpartition(int[])?prefixsum@25.12:25.21CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java" (+2¶
+:array1.problem14.sumpartition(int[])?prefixsum@25.12:25.21CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2•
+9array1.problem14.sumpartition(int[])?sufixsum@28.16:28.24CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (#2ô
+(array1.problem14.sumpartition(int[])!arr	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java$ ()2¨
+9array1.problem14.sumpartition(int[])?totalsum@24.12:24.20DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2≠
+:array1.problem14.sumpartition(int[])?prefixsum@25.12:25.21DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2•
+2array1.problem14.sumpartition(int[])?i@26.17:26.18DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2¨
+9array1.problem14.sumpartition(int[])?sufixsum@28.16:28.24DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2z
+booleanRETURN_TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (˚
+9array1.problem14.sumpartition(int[])?totalsum@24.12:24.20VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ("
+typeint"
+isFinalfalse"è
+declarationStringz<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">totalsum</mark> = sumArray(arr)*totalsum2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2å
+ array1.problem14.sumArray(int[])CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2î
+(array1.problem14.sumpartition(int[])!arrCALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (!Ã
+:array1.problem14.sumpartition(int[])?prefixsum@25.12:25.21VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ("
+typeint"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">prefixsum</mark> = 0*	prefixsum2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (≥
+2array1.problem14.sumpartition(int[])?i@26.17:26.18VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (Æ
+9array1.problem14.sumpartition(int[])?sufixsum@28.16:28.24VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java ("
+typeint"
+isFinalfalse"ó
+declarationStringÅ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sufixsum</mark> = totalsum - prefixsum*sufixsum2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (2•
+9array1.problem14.sumpartition(int[])?totalsum@24.12:24.20CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java (!2¶
+:array1.problem14.sumpartition(int[])?prefixsum@25.12:25.21CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java" (+
+(array1.problem14.sumpartition(int[])!arr	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java$ ()"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2q
+int[]TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java  ()Ò
+)array1.problem14.main(java.lang.String[])METHODb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java& &("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ô
+-java.io.PrintStream.println(java.lang.String)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java( ((2á
+java.util.Scanner.nextInt()CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java) )(2ô
+-java.io.PrintStream.println(java.lang.String)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java, ,(2á
+java.util.Scanner.nextInt()CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java. .(2ô
+-java.io.PrintStream.println(java.lang.String)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java1 1(2ê
+$array1.problem14.sumpartition(int[])CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java18 1(D2ö
+.java.util.Scanner.Scanner(java.io.InputStream)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java' '(2§
+8array1.problem14.main(java.lang.String[])?sc@39.16:39.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java) )(2£
+7array1.problem14.main(java.lang.String[])?n@41.12:41.13CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java* *(2£
+7array1.problem14.main(java.lang.String[])?i@45.17:45.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java- -(2£
+7array1.problem14.main(java.lang.String[])?n@41.12:41.13CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java- -(2£
+7array1.problem14.main(java.lang.String[])?i@45.17:45.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java- -(2•
+9array1.problem14.main(java.lang.String[])?arr@42.12:42.17CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java. .(2£
+7array1.problem14.main(java.lang.String[])?i@45.17:45.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java. .(2§
+8array1.problem14.main(java.lang.String[])?sc@39.16:39.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java. .(2•
+9array1.problem14.main(java.lang.String[])?arr@42.12:42.17CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java1E 1(H2ü
+.array1.problem14.main(java.lang.String[])!args	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java&% &()2´
+8array1.problem14.main(java.lang.String[])?sc@39.16:39.18DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java' '(2™
+7array1.problem14.main(java.lang.String[])?n@41.12:41.13DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java) )(2¨
+9array1.problem14.main(java.lang.String[])?arr@42.12:42.17DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java* *(2™
+7array1.problem14.main(java.lang.String[])?i@45.17:45.18DECLARATIONb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java- -(2w
+voidRETURN_TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java& &(Â
+8array1.problem14.main(java.lang.String[])?sc@39.16:39.18VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java' '("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2}
+java.util.ScannerTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java' '(2ö
+.java.util.Scanner.Scanner(java.io.InputStream)CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java' '(ı
+7array1.problem14.main(java.lang.String[])?n@41.12:41.13VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java) )("
+typeint"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = sc.nextInt()*n2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java) )(2á
+java.util.Scanner.nextInt()CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java) )(2§
+8array1.problem14.main(java.lang.String[])?sc@39.16:39.18CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java) )(ë
+9array1.problem14.main(java.lang.String[])?arr@42.12:42.17VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java* *("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = new <mark class="modifier">int</mark>[n]*arr2q
+int[]TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java* *(2£
+7array1.problem14.main(java.lang.String[])?n@41.12:41.13CALLb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java* *(∏
+7array1.problem14.main(java.lang.String[])?i@45.17:45.18VARIABLEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java- -("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2o
+intTYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java- -(Ì
+.array1.problem14.main(java.lang.String[])!args	PARAMETERb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java&% &()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2~
+java.lang.String[]TYPEb
+XC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\array1\problem14.java& &($

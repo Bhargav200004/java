@@ -1,0 +1,270 @@
+
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaÂ
+FrogJumpCLASSW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ("
+packageFrogJump"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>FrogJump"
+accesspublic*FrogJump2û
+6FrogJump.rec(int, java.util.List<Integer>, int, int[])DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2
+FrogJump.main(String[])DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2Ä
+FrogJump?calls@5.24:5.29DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (Ö3
+6FrogJump.rec(int, java.util.List<Integer>, int, int[])METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ("
+isFinalfalse"Á
+declarationString—<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">rec</mark>(<mark class="modifier">int</mark> idx<mark class="modifier"><mark class="modifier">,</mark></mark> List&lt;Integer&gt; heights<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> k<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark>[] dp)"
+isStatictrue"
+accessprivate"
+
+isAbstractfalse"
+typeint*rec2ó
+6FrogJump.rec(int, java.util.List<Integer>, int, int[])CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaO (R2y
+FrogJump?calls@5.24:5.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2õ
+:FrogJump.rec(int, java.util.List<Integer>, int, int[])!idxCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2ö
+9FrogJump.rec(int, java.util.List<Integer>, int, int[])!dpCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java
+ 
+(2õ
+:FrogJump.rec(int, java.util.List<Integer>, int, int[])!idxCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java
+ 
+(2ö
+9FrogJump.rec(int, java.util.List<Integer>, int, int[])!dpCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java
+" 
+($2õ
+:FrogJump.rec(int, java.util.List<Integer>, int, int[])!idxCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java
+% 
+((2•
+DFrogJump.rec(int, java.util.List<Integer>, int, int[])?i@13.17:13.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2ô
+8FrogJump.rec(int, java.util.List<Integer>, int, int[])!kCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2•
+DFrogJump.rec(int, java.util.List<Integer>, int, int[])?i@13.17:13.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java" (#2õ
+:FrogJump.rec(int, java.util.List<Integer>, int, int[])!idxCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2•
+DFrogJump.rec(int, java.util.List<Integer>, int, int[])?i@13.17:13.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2ü
+>FrogJump.rec(int, java.util.List<Integer>, int, int[])!heightsCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java$ (+2õ
+:FrogJump.rec(int, java.util.List<Integer>, int, int[])!idxCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java0 (32ü
+>FrogJump.rec(int, java.util.List<Integer>, int, int[])!heightsCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java7 (>2õ
+:FrogJump.rec(int, java.util.List<Integer>, int, int[])!idxCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaC (F2•
+DFrogJump.rec(int, java.util.List<Integer>, int, int[])?i@13.17:13.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaI (J2õ
+:FrogJump.rec(int, java.util.List<Integer>, int, int[])!idxCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaS (V2•
+DFrogJump.rec(int, java.util.List<Integer>, int, int[])?i@13.17:13.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaY (Z2ü
+>FrogJump.rec(int, java.util.List<Integer>, int, int[])!heightsCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java\ (c2ô
+8FrogJump.rec(int, java.util.List<Integer>, int, int[])!kCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javae (f2ö
+9FrogJump.rec(int, java.util.List<Integer>, int, int[])!dpCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javai (k2´
+JFrogJump.rec(int, java.util.List<Integer>, int, int[])?minCost@12.12:12.19CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2´
+JFrogJump.rec(int, java.util.List<Integer>, int, int[])?minCost@12.12:12.19CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java# (*2®
+GFrogJump.rec(int, java.util.List<Integer>, int, int[])?jump@15.20:15.24CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java, (02ö
+9FrogJump.rec(int, java.util.List<Integer>, int, int[])!dpCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2õ
+:FrogJump.rec(int, java.util.List<Integer>, int, int[])!idxCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2´
+JFrogJump.rec(int, java.util.List<Integer>, int, int[])?minCost@12.12:12.19CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ( 2†
+:FrogJump.rec(int, java.util.List<Integer>, int, int[])!idx	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ("2§
+>FrogJump.rec(int, java.util.List<Integer>, int, int[])!heights	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java3 (:2û
+8FrogJump.rec(int, java.util.List<Integer>, int, int[])!k	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaA (B2ü
+9FrogJump.rec(int, java.util.List<Integer>, int, int[])!dp	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaL (N2≤
+JFrogJump.rec(int, java.util.List<Integer>, int, int[])?minCost@12.12:12.19DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2¨
+DFrogJump.rec(int, java.util.List<Integer>, int, int[])?i@13.17:13.18DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2Ø
+GFrogJump.rec(int, java.util.List<Integer>, int, int[])?jump@15.20:15.24DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2k
+intRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (“
+JFrogJump.rec(int, java.util.List<Integer>, int, int[])?minCost@12.12:12.19VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ("
+typeint"
+isFinalfalse"í
+declarationString}<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">minCost</mark> = Integer.MAX_VALUE*minCost2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (Ø
+DFrogJump.rec(int, java.util.List<Integer>, int, int[])?i@13.17:13.18VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (Ï
+GFrogJump.rec(int, java.util.List<Integer>, int, int[])?jump@15.20:15.24VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ("
+typeint"
+isFinalfalse"œ
+declarationStringπ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">jump</mark> = Math.abs(heights.get(idx) - heights.get(idx - i)) + rec(idx - i, heights, k, dp)*jump2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2ó
+6FrogJump.rec(int, java.util.List<Integer>, int, int[])CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaO (R2ü
+>FrogJump.rec(int, java.util.List<Integer>, int, int[])!heightsCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java$ (+2õ
+:FrogJump.rec(int, java.util.List<Integer>, int, int[])!idxCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java0 (32ü
+>FrogJump.rec(int, java.util.List<Integer>, int, int[])!heightsCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java7 (>2õ
+:FrogJump.rec(int, java.util.List<Integer>, int, int[])!idxCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaC (F2•
+DFrogJump.rec(int, java.util.List<Integer>, int, int[])?i@13.17:13.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaI (J2õ
+:FrogJump.rec(int, java.util.List<Integer>, int, int[])!idxCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaS (V2•
+DFrogJump.rec(int, java.util.List<Integer>, int, int[])?i@13.17:13.18CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaY (Z2ü
+>FrogJump.rec(int, java.util.List<Integer>, int, int[])!heightsCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java\ (c2ô
+8FrogJump.rec(int, java.util.List<Integer>, int, int[])!kCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javae (f2ö
+9FrogJump.rec(int, java.util.List<Integer>, int, int[])!dpCALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javai (kÊ
+:FrogJump.rec(int, java.util.List<Integer>, int, int[])!idx	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (""
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> idx*idx2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (Ê
+>FrogJump.rec(int, java.util.List<Integer>, int, int[])!heights	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java3 (:"
+typeList<Integer>"
+isFinalfalse"*
+declarationStringList<Integer> heights*heights2o
+java.util.ListTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java% ()2q
+IntegerTYPE_ARGUMENTW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java* (1‡
+8FrogJump.rec(int, java.util.List<Integer>, int, int[])!k	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaA (B"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> k*k2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java= (@È
+9FrogJump.rec(int, java.util.List<Integer>, int, int[])!dp	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaL (N"
+typeint[]"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark>[] dp*dp2f
+int[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.javaE (K§
+FrogJump.main(String[])METHODW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Å
+ java.util.List.of(E, E, E, E, E)CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java% ('2Ç
+!java.util.Arrays.fill(int[], int)CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2ó
+6FrogJump.rec(int, java.util.List<Integer>, int, int[])CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2Ü
+%FrogJump.main(String[])?n@24.12:24.13CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2á
+&FrogJump.main(String[])?dp@27.15:27.17CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2Ü
+%FrogJump.main(String[])?n@24.12:24.13CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ( 2å
++FrogJump.main(String[])?heights@23.22:23.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java' (.2Ü
+%FrogJump.main(String[])?k@25.12:25.13CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java1 (22á
+&FrogJump.main(String[])?dp@27.15:27.17CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java5 (72y
+FrogJump?calls@5.24:5.29CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ( 2Ç
+FrogJump.main(String[])!args	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java% ()2ì
++FrogJump.main(String[])?heights@23.22:23.29DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2ç
+%FrogJump.main(String[])?n@24.12:24.13DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2ç
+%FrogJump.main(String[])?k@25.12:25.13DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2é
+&FrogJump.main(String[])?dp@27.15:27.17DECLARATIONW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2l
+voidRETURN_TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (µ
++FrogJump.main(String[])?heights@23.22:23.29VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ("
+typeList<Integer>"
+isFinalfalse"à
+declarationStrings<mark class="modifier"> </mark>List<Integer> <mark class="class-field">heights</mark> = List.of(10, 30, 40, 50, 20)*heights2o
+java.util.ListTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2q
+IntegerTYPE_ARGUMENTW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2Å
+ java.util.List.of(E, E, E, E, E)CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java% ('ê
+%FrogJump.main(String[])?n@24.12:24.13VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = 5*n2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (ê
+%FrogJump.main(String[])?k@25.12:25.13VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">k</mark> = 3*k2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (…
+&FrogJump.main(String[])?dp@27.15:27.17VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ("
+typeint"
+isFinalfalse"ß
+declarationStringë<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">dp</mark> = new <mark class="modifier">int</mark>[n]*dp2f
+int[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (2Ü
+%FrogJump.main(String[])?n@24.12:24.13CALLW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (ª
+FrogJump.main(String[])!args	PARAMETERW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2i
+String[]TYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ($ﬂ
+FrogJump?calls@5.24:5.29VARIABLEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java ("
+isFinalfalse"
+typeint"Æ
+declarationStringò<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="class-field">calls</mark> = 0;"
+isStatictrue"
+accessprivate*calls2d
+intTYPEW
+MC:\Users\BHARGAV\Desktop\Personal\coding\DynamicProgramming\src\FrogJump.java (

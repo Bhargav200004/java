@@ -1,0 +1,288 @@
+
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.javaç
+largestPalindromeCLASST
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java ("
+packagelargestPalindrome"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"o
+declarationStringZ<mark class="modifier">public </mark><mark class="modifier">class </mark>largestPalindrome"
+accesspublic*largestPalindrome2°
+<largestPalindrome.validateFrequency(java.util.List<Integer>)DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (,2Ö
+ largestPalindrome.main(String[])DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (í
+<largestPalindrome.validateFrequency(java.util.List<Integer>)METHODT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (,"
+isFinalfalse"µ
+declarationStringü<mark class="modifier">private </mark><mark class="modifier">static </mark>Boolean <mark class="method">validateFrequency</mark>(List&lt;Integer&gt; frequency)"
+isStatictrue"
+accessprivate"
+
+isAbstractfalse"
+typeBoolean*validateFrequency2¶
+HlargestPalindrome.validateFrequency(java.util.List<Integer>)?i@9.17:9.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java	 	(2§
+FlargestPalindrome.validateFrequency(java.util.List<Integer>)!frequencyCALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java	 	('2¶
+HlargestPalindrome.validateFrequency(java.util.List<Integer>)?i@9.17:9.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java	1 	(22§
+FlargestPalindrome.validateFrequency(java.util.List<Integer>)!frequencyCALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java
+ 
+(2¶
+HlargestPalindrome.validateFrequency(java.util.List<Integer>)?i@9.17:9.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java
+ 
+(2™
+LlargestPalindrome.validateFrequency(java.util.List<Integer>)?isOdd@7.16:7.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2™
+LlargestPalindrome.validateFrequency(java.util.List<Integer>)?isOdd@7.16:7.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2™
+LlargestPalindrome.validateFrequency(java.util.List<Integer>)?isOdd@7.16:7.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2©
+FlargestPalindrome.validateFrequency(java.util.List<Integer>)!frequency	PARAMETERT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java; (D2±
+LlargestPalindrome.validateFrequency(java.util.List<Integer>)?isOdd@7.16:7.21DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2≠
+HlargestPalindrome.validateFrequency(java.util.List<Integer>)?i@9.17:9.18DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java	 	(2l
+BooleanRETURN_TYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (È
+LlargestPalindrome.validateFrequency(java.util.List<Integer>)?isOdd@7.16:7.21VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java ("
+typeboolean"
+isFinalfalse"ß
+declarationStringë<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">isOdd</mark> = <mark class="modifier">false</mark>*isOdd2e
+booleanTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (≠
+HlargestPalindrome.validateFrequency(java.util.List<Integer>)?i@9.17:9.18VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java	 	("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java	 	(È
+FlargestPalindrome.validateFrequency(java.util.List<Integer>)!frequency	PARAMETERT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java; (D"
+typeList<Integer>"
+isFinalfalse",
+declarationStringList<Integer> frequency*	frequency2l
+java.util.ListTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java- (12n
+IntegerTYPE_ARGUMENTT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java2 (9Í=
+ largestPalindrome.main(String[])METHODT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ö
+<largestPalindrome.validateFrequency(java.util.List<Integer>)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java! !(2Ä
+"java.util.ArrayList.ArrayList(int)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java& (12å
+.largestPalindrome.main(String[])?i@23.17:23.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2å
+.largestPalindrome.main(String[])?i@23.17:23.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java! ("2î
+6largestPalindrome.main(String[])?frequency@21.22:21.31CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2î
+6largestPalindrome.main(String[])?frequency@21.22:21.31CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java ($2å
+.largestPalindrome.main(String[])?i@28.17:28.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2ë
+3largestPalindrome.main(String[])?number@20.15:20.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (#2å
+.largestPalindrome.main(String[])?i@28.17:28.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java/ (02ë
+3largestPalindrome.main(String[])?number@20.15:20.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2å
+.largestPalindrome.main(String[])?i@28.17:28.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java& ('2î
+6largestPalindrome.main(String[])?frequency@21.22:21.31CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2ê
+2largestPalindrome.main(String[])?digit@29.16:29.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2î
+6largestPalindrome.main(String[])?frequency@21.22:21.31CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java" (+2ê
+2largestPalindrome.main(String[])?digit@29.16:29.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java0 (52î
+6largestPalindrome.main(String[])?frequency@21.22:21.31CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java! !('2å
+.largestPalindrome.main(String[])?i@39.17:39.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java' '(2å
+.largestPalindrome.main(String[])?i@39.17:39.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java'  '(!2î
+6largestPalindrome.main(String[])?frequency@21.22:21.31CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java( ((2å
+.largestPalindrome.main(String[])?i@39.17:39.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java(! (("2î
+6largestPalindrome.main(String[])?firstHalf@38.15:38.24CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java) )(2å
+.largestPalindrome.main(String[])?i@39.17:39.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java) )(2î
+6largestPalindrome.main(String[])?frequency@21.22:21.31CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java* *(2å
+.largestPalindrome.main(String[])?i@39.17:39.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java* *(2î
+6largestPalindrome.main(String[])?frequency@21.22:21.31CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java*" *(+2å
+.largestPalindrome.main(String[])?i@39.17:39.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java*0 *(12î
+6largestPalindrome.main(String[])?firstHalf@38.15:38.24CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java.- .(62ç
+/largestPalindrome.main(String[])?sb@46.22:46.24CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java/ /(
+2ç
+/largestPalindrome.main(String[])?sb@46.22:46.24CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java0 0(2å
+.largestPalindrome.main(String[])?i@50.17:50.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java2 2(2å
+.largestPalindrome.main(String[])?i@50.17:50.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java2! 2("2î
+6largestPalindrome.main(String[])?frequency@21.22:21.31CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java3 3(2å
+.largestPalindrome.main(String[])?i@50.17:50.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java3 3(2î
+6largestPalindrome.main(String[])?firstHalf@38.15:38.24CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java4 4(2å
+.largestPalindrome.main(String[])?i@50.17:50.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java4 4(2î
+6largestPalindrome.main(String[])?firstHalf@38.15:38.24CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java8 8(!2ï
+7largestPalindrome.main(String[])?secondHalf@48.15:48.25CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java8$ 8(.2ë
+3largestPalindrome.main(String[])?result@56.15:56.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java9 9(!2à
+%largestPalindrome.main(String[])!args	PARAMETERT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java% ()2ò
+3largestPalindrome.main(String[])?number@20.15:20.21DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2õ
+6largestPalindrome.main(String[])?frequency@21.22:21.31DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2ì
+.largestPalindrome.main(String[])?i@23.17:23.18DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2ì
+.largestPalindrome.main(String[])?i@28.17:28.18DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2ó
+2largestPalindrome.main(String[])?digit@29.16:29.21DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2õ
+6largestPalindrome.main(String[])?firstHalf@38.15:38.24DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java& &(2ì
+.largestPalindrome.main(String[])?i@39.17:39.18DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java' '(2î
+/largestPalindrome.main(String[])?sb@46.22:46.24DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java. .(2ú
+7largestPalindrome.main(String[])?secondHalf@48.15:48.25DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java0 0(2ì
+.largestPalindrome.main(String[])?i@50.17:50.18DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java2 2(2ò
+3largestPalindrome.main(String[])?result@56.15:56.21DECLARATIONT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java8 8(2i
+voidRETURN_TYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (î
+3largestPalindrome.main(String[])?number@20.15:20.21VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java ("
+typeString"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>String <mark class="class-field">number</mark> = "313551"*number2d
+StringTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (≤
+6largestPalindrome.main(String[])?frequency@21.22:21.31VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java ("
+typeList<Integer>"
+isFinalfalse"Ç
+declarationStringm<mark class="modifier"> </mark>List<Integer> <mark class="class-field">frequency</mark> = new ArrayList<>(10)*	frequency2l
+java.util.ListTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2n
+IntegerTYPE_ARGUMENTT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2Ä
+"java.util.ArrayList.ArrayList(int)CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java& (1ì
+.largestPalindrome.main(String[])?i@23.17:23.18VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (ì
+.largestPalindrome.main(String[])?i@28.17:28.18VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (Ÿ
+2largestPalindrome.main(String[])?digit@29.16:29.21VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java ("
+typeint"
+isFinalfalse"ñ
+declarationStringÄ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">digit</mark> = number.charAt(i) - '0'*digit2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2ë
+3largestPalindrome.main(String[])?number@20.15:20.21CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java (2å
+.largestPalindrome.main(String[])?i@28.17:28.18CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java& ('ó
+6largestPalindrome.main(String[])?firstHalf@38.15:38.24VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java& &("
+typeString"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>String <mark class="class-field">firstHalf</mark> = ""*	firstHalf2d
+StringTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java& &(ì
+.largestPalindrome.main(String[])?i@39.17:39.18VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java' '("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 9*i2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java' '(…
+/largestPalindrome.main(String[])?sb@46.22:46.24VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java. .("
+typeStringBuilder"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark>StringBuilder <mark class="class-field">sb</mark> = new StringBuilder(firstHalf)*sb2k
+StringBuilderTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java. .(2î
+6largestPalindrome.main(String[])?firstHalf@38.15:38.24CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java.- .(6µ
+7largestPalindrome.main(String[])?secondHalf@48.15:48.25VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java0 0("
+typeString"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>String <mark class="class-field">secondHalf</mark> = sb.toString()*
+secondHalf2d
+StringTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java0 0(2ç
+/largestPalindrome.main(String[])?sb@46.22:46.24CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java0 0(ì
+.largestPalindrome.main(String[])?i@50.17:50.18VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java2 2("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 9*i2a
+intTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java2 2(—
+3largestPalindrome.main(String[])?result@56.15:56.21VARIABLET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java8 8("
+typeString"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark>String <mark class="class-field">result</mark> = firstHalf + secondHalf*result2d
+StringTYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java8 8(2î
+6largestPalindrome.main(String[])?firstHalf@38.15:38.24CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java8 8(!2ï
+7largestPalindrome.main(String[])?secondHalf@48.15:48.25CALLT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java8$ 8(.æ
+%largestPalindrome.main(String[])!args	PARAMETERT
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2f
+String[]TYPET
+JC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\largestPalindrome.java ($

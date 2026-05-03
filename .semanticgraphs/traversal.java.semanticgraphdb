@@ -1,0 +1,423 @@
+
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaπ
+	traversalCLASSI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("
+package	traversal"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>traversal"
+accesspublic*	traversal2z
+ traversal.constructBFS(String[])DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2|
+"traversal.preorder(traversal.Node)DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java2 2(2í
+8traversal.sortedTree(traversal.Node, ArrayList<Integer>)DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java9 9(2r
+traversal.main(String[])DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaA A(Ú,
+ traversal.constructBFS(String[])METHODI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("
+isFinalfalse"î
+declarationString<mark class="modifier"> </mark><mark class="modifier">static </mark>Node <mark class="method">constructBFS</mark>(String[] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeNode*constructBFS2j
+LinkedList.LinkedList()CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java  (,2k
+traversal.Node.Node(int)CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ( 2k
+traversal.Node.Node(int)CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (!2w
+$traversal.constructBFS(String[])!arrCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java. (12Ö
+2traversal.constructBFS(String[])?queue@15.20:15.25CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2Ñ
+1traversal.constructBFS(String[])?root@14.13:14.17CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2w
+$traversal.constructBFS(String[])!arrCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2Å
+.traversal.constructBFS(String[])?i@19.12:19.13CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2Å
+.traversal.constructBFS(String[])?n@17.12:17.13CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2Ö
+2traversal.constructBFS(String[])?queue@15.20:15.25CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2w
+$traversal.constructBFS(String[])!arrCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2Å
+.traversal.constructBFS(String[])?i@19.12:19.13CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2Ñ
+1traversal.constructBFS(String[])?left@21.17:21.21CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2Ñ
+1traversal.constructBFS(String[])?left@21.17:21.21CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2w
+$traversal.constructBFS(String[])!arrCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java- (02Å
+.traversal.constructBFS(String[])?i@19.12:19.13CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java1 (22Ö
+2traversal.constructBFS(String[])?queue@15.20:15.25CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2Ñ
+1traversal.constructBFS(String[])?left@21.17:21.21CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2w
+$traversal.constructBFS(String[])!arrCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java   (2Å
+.traversal.constructBFS(String[])?i@19.12:19.13CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java   (2Ö
+2traversal.constructBFS(String[])?right@22.17:22.22CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java! !(2Ö
+2traversal.constructBFS(String[])?right@22.17:22.22CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java$ $(2w
+$traversal.constructBFS(String[])!arrCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java$. $(12Å
+.traversal.constructBFS(String[])?i@19.12:19.13CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java$2 $(32Ö
+2traversal.constructBFS(String[])?queue@15.20:15.25CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java% %(2Ö
+2traversal.constructBFS(String[])?right@22.17:22.22CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java% %(2Ñ
+1traversal.constructBFS(String[])?temp@23.17:23.21CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java( ((2Ñ
+1traversal.constructBFS(String[])?left@21.17:21.21CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java( ((2Ñ
+1traversal.constructBFS(String[])?temp@23.17:23.21CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java) )(2Ö
+2traversal.constructBFS(String[])?right@22.17:22.22CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java) )(2Å
+.traversal.constructBFS(String[])?i@19.12:19.13CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java+ +(2Ñ
+1traversal.constructBFS(String[])?root@14.13:14.17CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java- -(2|
+$traversal.constructBFS(String[])!arr	PARAMETERI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java' (*2ã
+1traversal.constructBFS(String[])?root@14.13:14.17DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2å
+2traversal.constructBFS(String[])?queue@15.20:15.25DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2à
+.traversal.constructBFS(String[])?n@17.12:17.13DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2à
+.traversal.constructBFS(String[])?i@19.12:19.13DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2ã
+1traversal.constructBFS(String[])?left@21.17:21.21DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2å
+2traversal.constructBFS(String[])?right@22.17:22.22DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2ã
+1traversal.constructBFS(String[])?temp@23.17:23.21DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2h
+traversal.NodeRETURN_TYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (ê
+1traversal.constructBFS(String[])?root@14.13:14.17VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("
+typeNode"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark>Node <mark class="class-field">root</mark> = new Node(Integer.parseInt(arr[0]))*root2a
+traversal.NodeTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2w
+$traversal.constructBFS(String[])!arrCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java. (1Ê
+2traversal.constructBFS(String[])?queue@15.20:15.25VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("
+typeQueue<Node>"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark>Queue<Node> <mark class="class-field">queue</mark> = new LinkedList<>()*queue2X
+QueueTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2j
+traversal.NodeTYPE_ARGUMENTI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2j
+LinkedList.LinkedList()CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java  (,Ä
+.traversal.constructBFS(String[])?n@17.12:17.13VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = arr.length*n2V
+intTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2w
+$traversal.constructBFS(String[])!arrCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (˝
+.traversal.constructBFS(String[])?i@19.12:19.13VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2V
+intTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (Ó
+1traversal.constructBFS(String[])?left@21.17:21.21VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("
+typeNode"
+isFinalfalse"n
+declarationStringY<mark class="modifier"> </mark>Node <mark class="class-field">left</mark> = new Node(239)*left2a
+traversal.NodeTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2k
+traversal.Node.Node(int)CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ( Ò
+2traversal.constructBFS(String[])?right@22.17:22.22VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("
+typeNode"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>Node <mark class="class-field">right</mark> = new Node(239)*right2a
+traversal.NodeTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2k
+traversal.Node.Node(int)CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (!ä
+1traversal.constructBFS(String[])?temp@23.17:23.21VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("
+typeNode"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = queue.remove()*temp2a
+traversal.NodeTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2Ö
+2traversal.constructBFS(String[])?queue@15.20:15.25CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (•
+$traversal.constructBFS(String[])!arr	PARAMETERI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java' (*"
+typeString[]"
+isFinalfalse"!
+declarationStringString[] arr*arr2[
+String[]TYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (&„
+"traversal.preorder(traversal.Node)METHODI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java2 2("
+isFinalfalse"¨
+declarationStringñ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">preorder</mark>(Node root)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*preorder2z
+'traversal.preorder(traversal.Node)!rootCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java3 3(2z
+'traversal.preorder(traversal.Node)!rootCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java4 4(2z
+'traversal.preorder(traversal.Node)!rootCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java5 5(2z
+'traversal.preorder(traversal.Node)!rootCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java6 6(2
+'traversal.preorder(traversal.Node)!root	PARAMETERI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java2 2(#2^
+voidRETURN_TYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java2 2(®
+'traversal.preorder(traversal.Node)!root	PARAMETERI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java2 2(#"
+typeNode"
+isFinalfalse"
+declarationString	Node root*root2a
+traversal.NodeTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java2 2(ó
+8traversal.sortedTree(traversal.Node, ArrayList<Integer>)METHODI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java9 9("
+isFinalfalse"à
+declarationStringÚ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">sortedTree</mark>(Node root<mark class="modifier"><mark class="modifier">,</mark></mark> ArrayList&lt;Integer&gt; ans)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*
+sortedTree2ê
+=traversal.sortedTree(traversal.Node, ArrayList<Integer>)!rootCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java: :(2ê
+=traversal.sortedTree(traversal.Node, ArrayList<Integer>)!rootCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java< <(2è
+<traversal.sortedTree(traversal.Node, ArrayList<Integer>)!ansCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java< <("2è
+<traversal.sortedTree(traversal.Node, ArrayList<Integer>)!ansCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java= =(2ê
+=traversal.sortedTree(traversal.Node, ArrayList<Integer>)!rootCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java= =(2ê
+=traversal.sortedTree(traversal.Node, ArrayList<Integer>)!rootCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java> >(2è
+<traversal.sortedTree(traversal.Node, ArrayList<Integer>)!ansCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java>  >(#2ï
+=traversal.sortedTree(traversal.Node, ArrayList<Integer>)!root	PARAMETERI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java9  9($2î
+<traversal.sortedTree(traversal.Node, ArrayList<Integer>)!ans	PARAMETERI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java9: 9(=2^
+voidRETURN_TYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java9 9(æ
+=traversal.sortedTree(traversal.Node, ArrayList<Integer>)!root	PARAMETERI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java9  9($"
+typeNode"
+isFinalfalse"
+declarationString	Node root*root2a
+traversal.NodeTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java9 9(∑
+<traversal.sortedTree(traversal.Node, ArrayList<Integer>)!ans	PARAMETERI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java9: 9(="
+typeArrayList<Integer>"
+isFinalfalse"+
+declarationStringArrayList<Integer> ans*ans2\
+	ArrayListTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java9' 9(02c
+IntegerTYPE_ARGUMENTI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java91 9(8ª
+traversal.main(String[])METHODI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaA A("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2s
+ traversal.constructBFS(String[])CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaC C( 2u
+"traversal.preorder(traversal.Node)CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaD D(2ã
+8traversal.sortedTree(traversal.Node, ArrayList<Integer>)CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaH H(2{
+(traversal.main(String[])?arr@66.18:66.21CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaC! C($2|
+)traversal.main(String[])?root@67.13:67.17CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaD D(2|
+)traversal.main(String[])?root@67.13:67.17CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaH H(2{
+(traversal.main(String[])?ans@71.27:71.30CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaH H(2{
+(traversal.main(String[])?ans@71.27:71.30CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaL L(2y
+&traversal.main(String[])?i@77.16:77.17CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaM M(2{
+(traversal.main(String[])?ans@71.27:71.30CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaM M(2y
+&traversal.main(String[])?i@77.16:77.17CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaM) M(*2{
+(traversal.main(String[])?ans@71.27:71.30CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaN N(2y
+&traversal.main(String[])?i@77.16:77.17CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaN N(2~
++traversal.main(String[])?target@74.12:74.18CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaN N($2{
+(traversal.main(String[])?ans@71.27:71.30CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaO4 O(72y
+&traversal.main(String[])?i@77.16:77.17CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaO< O(=2{
+(traversal.main(String[])?ans@71.27:71.30CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaP4 P(72y
+&traversal.main(String[])?i@77.16:77.17CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaP< P(=2u
+traversal.main(String[])!args	PARAMETERI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaA% A()2Ç
+(traversal.main(String[])?arr@66.18:66.21DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaB B(2É
+)traversal.main(String[])?root@67.13:67.17DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaC C(2Ç
+(traversal.main(String[])?ans@71.27:71.30DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaG G(2Ö
++traversal.main(String[])?target@74.12:74.18DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaJ J(2Ä
+&traversal.main(String[])?i@77.16:77.17DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaM M(2^
+voidRETURN_TYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaA A(»
+(traversal.main(String[])?arr@66.18:66.21VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaB B("
+typeString"
+isFinalfalse"¬
+declarationString¨<mark class="modifier"> </mark>String[] <mark class="class-field">arr</mark> = { "10"<mark class="modifier">,</mark> "5"<mark class="modifier">,</mark> "15"<mark class="modifier">,</mark> "2"<mark class="modifier">,</mark> "8"<mark class="modifier">,</mark> "12"<mark class="modifier">,</mark> "17" }*arr2[
+String[]TYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaB B(Ô
+)traversal.main(String[])?root@67.13:67.17VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaC C("
+typeNode"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Node <mark class="class-field">root</mark> = constructBFS(arr)*root2a
+traversal.NodeTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaC C(2s
+ traversal.constructBFS(String[])CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaC C( 2{
+(traversal.main(String[])?arr@66.18:66.21CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaC! C($ˆ
+(traversal.main(String[])?ans@71.27:71.30VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaG G("
+typeArrayList<Integer>"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark>ArrayList<Integer> <mark class="class-field">ans</mark> = new ArrayList<>()*ans2\
+	ArrayListTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaG G(2c
+IntegerTYPE_ARGUMENTI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaG G(Ö
++traversal.main(String[])?target@74.12:74.18VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaJ J("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">target</mark> = 5*target2V
+intTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaJ J(ı
+&traversal.main(String[])?i@77.16:77.17VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaM M("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2V
+intTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaM M(†
+traversal.main(String[])!args	PARAMETERI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaA% A()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2[
+String[]TYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.javaA A($î
+traversal.NodeCLASSI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("
+package	traversal"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2r
+traversal.Node.Node(int)DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2w
+traversal.Node?data@5.12:5.16DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2w
+traversal.Node?left@6.13:6.17DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2x
+traversal.Node?right@7.13:7.18DECLARATIONI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (ª
+traversal.Node.Node(int)CONSTRUCTORI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2p
+traversal.Node.Node(int)!dataCALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java	 	(2p
+traversal.Node?data@5.12:5.16CALLI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java	 	(2u
+traversal.Node.Node(int)!data	PARAMETERI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (2h
+traversal.NodeRETURN_TYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (Ø
+traversal.Node.Node(int)!data	PARAMETERI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2V
+intTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (ú
+traversal.Node?data@5.12:5.16VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2V
+intTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (ã
+traversal.Node?left@6.13:6.17VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">left</mark>"
+isStaticfalse"
+accesspackage_private*left2a
+traversal.NodeTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (é
+traversal.Node?right@7.13:7.18VARIABLEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java ("
+isFinalfalse"
+typeNode"_
+declarationStringJ<mark class="modifier"> </mark>Node <mark class="class-field">right</mark>"
+isStaticfalse"
+accesspackage_private*right2a
+traversal.NodeTYPEI
+?C:\Users\BHARGAV\Desktop\Personal\coding\BST\src\traversal.java (

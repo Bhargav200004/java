@@ -1,0 +1,145 @@
+
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.javaÕ
+javalloop.patter2CLASSS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java ("
+package	javalloop"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>patter2"
+accesspublic*patter22Ž
+*javalloop.patter2.main(java.lang.String[])DECLARATIONS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (‚"
+*javalloop.patter2.main(java.lang.String[])METHODS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java ("
+isFinalfalse"´
+declarationStringž<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] laptop)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2x
+java.util.Scanner.nextInt()CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2x
+java.util.Scanner.nextInt()CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2ˆ
++java.io.PrintStream.print(java.lang.String)CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2ˆ
++java.io.PrintStream.print(java.lang.String)CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2z
+java.io.PrintStream.println()CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2‹
+.java.util.Scanner.Scanner(java.io.InputStream)CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2“
+6javalloop.patter2.main(java.lang.String[])?A@6.14:6.15CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2“
+6javalloop.patter2.main(java.lang.String[])?A@6.14:6.15CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2“
+6javalloop.patter2.main(java.lang.String[])?i@9.14:9.15CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java	 	(2“
+6javalloop.patter2.main(java.lang.String[])?a@7.10:7.11CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java	 	(2“
+6javalloop.patter2.main(java.lang.String[])?i@9.14:9.15CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java	 	(2•
+8javalloop.patter2.main(java.lang.String[])?j@10.16:10.17CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java
+ 
+(2“
+6javalloop.patter2.main(java.lang.String[])?b@8.10:8.11CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java
+ 
+(2•
+8javalloop.patter2.main(java.lang.String[])?j@10.16:10.17CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java
+ 
+(2“
+6javalloop.patter2.main(java.lang.String[])?i@9.14:9.15CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2“
+6javalloop.patter2.main(java.lang.String[])?i@9.14:9.15CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2“
+6javalloop.patter2.main(java.lang.String[])?a@7.10:7.11CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2•
+8javalloop.patter2.main(java.lang.String[])?j@10.16:10.17CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2•
+8javalloop.patter2.main(java.lang.String[])?j@10.16:10.17CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java$ (%2“
+6javalloop.patter2.main(java.lang.String[])?b@8.10:8.11CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java' ((2“
+1javalloop.patter2.main(java.lang.String[])!laptop	PARAMETERS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java# (+2š
+6javalloop.patter2.main(java.lang.String[])?A@6.14:6.15DECLARATIONS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2š
+6javalloop.patter2.main(java.lang.String[])?a@7.10:7.11DECLARATIONS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java
+ (2š
+6javalloop.patter2.main(java.lang.String[])?b@8.10:8.11DECLARATIONS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java
+ (2š
+6javalloop.patter2.main(java.lang.String[])?i@9.14:9.15DECLARATIONS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java	 	(2œ
+8javalloop.patter2.main(java.lang.String[])?j@10.16:10.17DECLARATIONS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java
+ 
+(2h
+voidRETURN_TYPES
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (´
+6javalloop.patter2.main(java.lang.String[])?A@6.14:6.15VARIABLES
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java ("
+typeScanner"
+isFinalfalse"w
+declarationStringb<mark class="modifier"> </mark>Scanner <mark class="class-field">A</mark> = new Scanner(System.in)*A2n
+java.util.ScannerTYPES
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2‹
+.java.util.Scanner.Scanner(java.io.InputStream)CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (´
+6javalloop.patter2.main(java.lang.String[])?a@7.10:7.11VARIABLES
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java
+ ("
+typeint"
+isFinalfalse"†
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = A.nextInt()*a2`
+intTYPES
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (	2x
+java.util.Scanner.nextInt()CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2“
+6javalloop.patter2.main(java.lang.String[])?A@6.14:6.15CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (´
+6javalloop.patter2.main(java.lang.String[])?b@8.10:8.11VARIABLES
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java
+ ("
+typeint"
+isFinalfalse"†
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = A.nextInt()*b2`
+intTYPES
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (	2x
+java.util.Scanner.nextInt()CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (2“
+6javalloop.patter2.main(java.lang.String[])?A@6.14:6.15CALLS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (™
+6javalloop.patter2.main(java.lang.String[])?i@9.14:9.15VARIABLES
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java	 	("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2`
+intTYPES
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java	
+ 	(›
+8javalloop.patter2.main(java.lang.String[])?j@10.16:10.17VARIABLES
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java
+ 
+("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2`
+intTYPES
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java
+ 
+(Ö
+1javalloop.patter2.main(java.lang.String[])!laptop	PARAMETERS
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java# (+"
+typeString[]"
+isFinalfalse"$
+declarationStringString[] laptop*laptop2o
+java.lang.String[]TYPES
+IC:\Users\BHARGAV\Desktop\Personal\coding\javalloop\javalloop\patter2.java (+

@@ -1,0 +1,148 @@
+
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.javaÆ
+	Question1CLASSK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java ("
+package	Question1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>Question1"
+accesspublic*	Question12t
+Question1.main(String[])DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (˚$
+Question1.main(String[])METHODK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Å
+,Question1.main(String[])?costPrice@4.12:4.21CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (2z
+%Question1.main(String[])?sc@6.16:6.18CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (2Ñ
+/Question1.main(String[])?sellingPrice@4.24:4.36CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java
+ 
+(2z
+%Question1.main(String[])?sc@6.16:6.18CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java
+ 
+(2Ñ
+/Question1.main(String[])?sellingPrice@4.24:4.36CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (2Å
+,Question1.main(String[])?costPrice@4.12:4.21CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java ($2~
+)Question1.main(String[])?profit@4.39:4.45CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (2Ñ
+/Question1.main(String[])?sellingPrice@4.24:4.36CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java ( 2Å
+,Question1.main(String[])?costPrice@4.12:4.21CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java# (,2Ö
+0Question1.main(String[])?profitPercent@5.14:5.27CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (2~
+)Question1.main(String[])?profit@4.39:4.45CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java# ()2Å
+,Question1.main(String[])?costPrice@4.12:4.21CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java+ (42~
+)Question1.main(String[])?profit@4.39:4.45CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java7 (=2Ö
+0Question1.main(String[])?profitPercent@5.14:5.27CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java4 (A2Å
+,Question1.main(String[])?costPrice@4.12:4.21CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (2Ñ
+/Question1.main(String[])?sellingPrice@4.24:4.36CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (+2|
+'Question1.main(String[])?loss@4.48:4.52CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (2Å
+,Question1.main(String[])?costPrice@4.12:4.21CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (2Ñ
+/Question1.main(String[])?sellingPrice@4.24:4.36CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (+2Ü
+1Question1.main(String[])?lossPercentage@5.30:5.44CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (2|
+'Question1.main(String[])?loss@4.48:4.52CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java% ()2Å
+,Question1.main(String[])?costPrice@4.12:4.21CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java, (52|
+'Question1.main(String[])?loss@4.48:4.52CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java6 (:2Ü
+1Question1.main(String[])?lossPercentage@5.30:5.44CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java3 (A2w
+Question1.main(String[])!args	PARAMETERK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java% ()2à
+,Question1.main(String[])?costPrice@4.12:4.21DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (2ã
+/Question1.main(String[])?sellingPrice@4.24:4.36DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java ($2Ö
+)Question1.main(String[])?profit@4.39:4.45DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java' (-2É
+'Question1.main(String[])?loss@4.48:4.52DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java0 (42å
+0Question1.main(String[])?profitPercent@5.14:5.27DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (2ç
+1Question1.main(String[])?lossPercentage@5.30:5.44DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (,2Å
+%Question1.main(String[])?sc@6.16:6.18DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (2`
+voidRETURN_TYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (å
+,Question1.main(String[])?costPrice@4.12:4.21VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java ("
+typeint"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">costPrice</mark>*	costPrice2X
+intTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (ï
+/Question1.main(String[])?sellingPrice@4.24:4.36VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java ($"
+typeint"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sellingPrice</mark>*sellingPrice2X
+intTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (Ç
+)Question1.main(String[])?profit@4.39:4.45VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java' (-"
+typeint"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">profit</mark>*profit2X
+intTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (¸
+'Question1.main(String[])?loss@4.48:4.52VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java0 (4"
+typeint"
+isFinalfalse"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">loss</mark>*loss2X
+intTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (û
+0Question1.main(String[])?profitPercent@5.14:5.27VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java ("
+typefloat"
+isFinalfalse"Ü
+declarationStringq<mark class="modifier"> </mark><mark class="modifier">float</mark> <mark class="class-field">profitPercent</mark>*profitPercent2Z
+floatTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (°
+1Question1.main(String[])?lossPercentage@5.30:5.44VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (,"
+typefloat"
+isFinalfalse"á
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">float</mark> <mark class="class-field">lossPercentage</mark>*lossPercentage2Z
+floatTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (á
+%Question1.main(String[])?sc@6.16:6.18VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2f
+java.util.ScannerTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java (§
+Question1.main(String[])!args	PARAMETERK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2]
+String[]TYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\Question1.java ($

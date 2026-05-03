@@ -1,0 +1,227 @@
+
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java˜
+RatInDeadMazeCLASSR
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java("
+packageRatInDeadMaze"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier">public </mark><mark class="modifier">class </mark>RatInDeadMaze"
+accesspublic*RatInDeadMaze2ü
+8RatInDeadMaze.print(int, int, int, int, String, int[][])DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2É
+RatInDeadMaze.main(String[])DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java   (ÎI
+8RatInDeadMaze.print(int, int, int, int, String, int[][])METHODV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java ("
+isFinalfalse"ò
+declarationStringÇ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">print</mark>(<mark class="modifier">int</mark> sr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> sc<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> er<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> ec<mark class="modifier"><mark class="modifier">,</mark></mark> String s<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark>[][] maze)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*print2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!srCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!erCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!scCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!ecCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!srCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!scCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!srCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!erCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!scCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!ecCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java ( 2ö
+:RatInDeadMaze.print(int, int, int, int, String, int[][])!sCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java ( 2ù
+=RatInDeadMaze.print(int, int, int, int, String, int[][])!mazeCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!srCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!scCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2ù
+=RatInDeadMaze.print(int, int, int, int, String, int[][])!mazeCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!srCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!scCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2ù
+=RatInDeadMaze.print(int, int, int, int, String, int[][])!mazeCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!srCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!scCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!srCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!scCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!erCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!ecCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java ( 2ö
+:RatInDeadMaze.print(int, int, int, int, String, int[][])!sCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java" (#2ù
+=RatInDeadMaze.print(int, int, int, int, String, int[][])!mazeCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java+ (/2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!srCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!scCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!erCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!ecCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java ( 2ö
+:RatInDeadMaze.print(int, int, int, int, String, int[][])!sCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java" (#2ù
+=RatInDeadMaze.print(int, int, int, int, String, int[][])!mazeCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java+ (/2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!srCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!scCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!erCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!ecCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java ( 2ö
+:RatInDeadMaze.print(int, int, int, int, String, int[][])!sCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java" (#2ù
+=RatInDeadMaze.print(int, int, int, int, String, int[][])!mazeCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java+ (/2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!srCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!scCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!erCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!ecCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (!2ö
+:RatInDeadMaze.print(int, int, int, int, String, int[][])!sCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java# ($2ù
+=RatInDeadMaze.print(int, int, int, int, String, int[][])!mazeCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java, (02ù
+=RatInDeadMaze.print(int, int, int, int, String, int[][])!mazeCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!srCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2õ
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!scCALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2†
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!sr	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (2†
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!sc	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java" ($2†
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!er	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java* (,2†
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!ec	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java2 (42ü
+:RatInDeadMaze.print(int, int, int, int, String, int[][])!s	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java= (>2¢
+=RatInDeadMaze.print(int, int, int, int, String, int[][])!maze	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.javaH (L2k
+voidRETURN_TYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java („
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!sr	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java ("
+typeint"
+isFinalfalse"9
+declarationString$<mark class="modifier">int</mark> sr*sr2c
+intTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java („
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!sc	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java" ($"
+typeint"
+isFinalfalse"9
+declarationString$<mark class="modifier">int</mark> sc*sc2c
+intTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java (!„
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!er	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java* (,"
+typeint"
+isFinalfalse"9
+declarationString$<mark class="modifier">int</mark> er*er2c
+intTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java& ()„
+;RatInDeadMaze.print(int, int, int, int, String, int[][])!ec	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java2 (4"
+typeint"
+isFinalfalse"9
+declarationString$<mark class="modifier">int</mark> ec*ec2c
+intTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java. (1À
+:RatInDeadMaze.print(int, int, int, int, String, int[][])!s	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java= (>"
+typeString"
+isFinalfalse"
+declarationStringString s*s2f
+StringTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java6 (<ı
+=RatInDeadMaze.print(int, int, int, int, String, int[][])!maze	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.javaH (L"
+typeint[][]"
+isFinalfalse"?
+declarationString*<mark class="modifier">int</mark>[][] maze*maze2g
+int[][]TYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java@ (EÖ
+RatInDeadMaze.main(String[])METHODV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java   ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2è
+/RatInDeadMaze.main(String[])?endRow@33.12:33.18CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java* *(2è
+/RatInDeadMaze.main(String[])?endCol@34.12:34.18CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java*  *(&2ç
+-RatInDeadMaze.main(String[])?maze@36.16:36.20CALLV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java*0 *(42Ü
+!RatInDeadMaze.main(String[])!args	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java %  ()2ñ
+/RatInDeadMaze.main(String[])?endRow@33.12:33.18DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java! !(2ñ
+/RatInDeadMaze.main(String[])?endCol@34.12:34.18DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java" "(2î
+-RatInDeadMaze.main(String[])?maze@36.16:36.20DECLARATIONV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java$ $(2k
+voidRETURN_TYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java   (£
+/RatInDeadMaze.main(String[])?endRow@33.12:33.18VARIABLEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java! !("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">endRow</mark> = 4*endRow2c
+intTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java! !(£
+/RatInDeadMaze.main(String[])?endCol@34.12:34.18VARIABLEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java" "("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">endCol</mark> = 4*endCol2c
+intTYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java" "(¡
+-RatInDeadMaze.main(String[])?maze@36.16:36.20VARIABLEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java$ $("
+typeint"
+isFinalfalse"ü
+declarationStringâ<mark class="modifier"> </mark><mark class="modifier">int</mark>[][] <mark class="class-field">maze</mark> = { { 1, 1, 1, 1 }<mark class="modifier">,</mark> { 1, 1, 0, 1 }<mark class="modifier">,</mark> { 1, 1, 1, 1 }<mark class="modifier">,</mark> { 0, 1, 0, 1 } }*maze2g
+int[][]TYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java$ $(æ
+!RatInDeadMaze.main(String[])!args	PARAMETERV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java %  ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2h
+String[]TYPEV
+LC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\RatInDeadMaze.java   ($

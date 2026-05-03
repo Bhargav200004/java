@@ -1,0 +1,229 @@
+
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java√
+FourDirectionMazePathCLASSZ
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java("" 
+packageFourDirectionMazePath"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"s
+declarationString^<mark class="modifier">public </mark><mark class="modifier">class </mark>FourDirectionMazePath"
+accesspublic*FourDirectionMazePath2≥
+DFourDirectionMazePath.print(int, int, int, int, String, boolean[][])DECLARATION^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (2ì
+$FourDirectionMazePath.main(String[])DECLARATION^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (»Q
+DFourDirectionMazePath.print(int, int, int, int, String, boolean[][])METHOD^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java ("
+isFinalfalse"Œ
+declarationString∏<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">print</mark>(<mark class="modifier">int</mark> startingRow<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> startingColumn<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> endingRow<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> endingColumn<mark class="modifier"><mark class="modifier">,</mark></mark> String s<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">boolean</mark>[][] isVisited)"
+isStatictrue"
+accessprivate"
+
+isAbstractfalse"
+typevoid*print2∏
+PFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (2ª
+SFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java  (.2∏
+PFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (2∂
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (#2ª
+SFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java' (52π
+QFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java8 (D2∂
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!isVisitedCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (2∏
+PFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (!2ª
+SFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java# (12∏
+PFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (2∂
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java ($2ª
+SFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java( (62π
+QFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java: (F2Æ
+FFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!sCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java ( 2∂
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!isVisitedCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (2∏
+PFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (2ª
+SFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (-2∏
+PFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (2ª
+SFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (,2∂
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java/ (82π
+QFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java; (G2Æ
+FFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!sCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javaJ (K2∂
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!isVisitedCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javaS (\2∏
+PFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (2ª
+SFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (*2∂
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java/ (82π
+QFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java; (G2Æ
+FFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!sCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javaJ (K2∂
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!isVisitedCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javaS (\2∏
+PFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (2ª
+SFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (,2∂
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java/ (82π
+QFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java; (G2Æ
+FFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!sCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javaJ (K2∂
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!isVisitedCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javaS (\2∏
+PFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (2ª
+SFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (*2∂
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java/ (82π
+QFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java; (G2Æ
+FFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!sCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javaJ (K2∂
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!isVisitedCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javaS (\2∂
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!isVisitedCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (2∏
+PFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingRowCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (2ª
+SFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingColumnCALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (-2Ω
+PFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingRow	PARAMETER^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java" (-2¿
+SFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingColumn	PARAMETER^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java3 (A2ª
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingRow	PARAMETER^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javaG (P2æ
+QFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingColumn	PARAMETER^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javaV (b2≥
+FFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!s	PARAMETER^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javal (m2º
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!isVisited	PARAMETER_
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java{ (Ñ2s
+voidRETURN_TYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (ö
+PFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingRow	PARAMETER^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java" (-"
+typeint"
+isFinalfalse"B
+declarationString-<mark class="modifier">int</mark> startingRow*startingRow2k
+intTYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (!£
+SFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!startingColumn	PARAMETER^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java3 (A"
+typeint"
+isFinalfalse"E
+declarationString0<mark class="modifier">int</mark> startingColumn*startingColumn2k
+intTYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java/ (2î
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingRow	PARAMETER^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javaG (P"
+typeint"
+isFinalfalse"@
+declarationString+<mark class="modifier">int</mark> endingRow*	endingRow2k
+intTYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javaC (Fù
+QFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!endingColumn	PARAMETER^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javaV (b"
+typeint"
+isFinalfalse"C
+declarationString.<mark class="modifier">int</mark> endingColumn*endingColumn2k
+intTYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javaR (UÁ
+FFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!s	PARAMETER^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javal (m"
+typeString"
+isFinalfalse"
+declarationStringString s*s2n
+StringTYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javae (k≠
+NFourDirectionMazePath.print(int, int, int, int, String, boolean[][])!isVisited	PARAMETER_
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java{ (Ñ"
+typeboolean[][]"
+isFinalfalse"H
+declarationString3<mark class="modifier">boolean</mark>[][] isVisited*	isVisited2s
+boolean[][]TYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.javao (x…
+$FourDirectionMazePath.main(String[])METHOD^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ú
+4FourDirectionMazePath.main(String[])?row@32.12:32.15CALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java", "(/2ú
+4FourDirectionMazePath.main(String[])?col@33.12:33.15CALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java"1 "(42ú
+4FourDirectionMazePath.main(String[])?row@32.12:32.15CALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java# #(2ú
+4FourDirectionMazePath.main(String[])?col@33.12:33.15CALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java# #(2¢
+:FourDirectionMazePath.main(String[])?isVisited@34.20:34.29CALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java#( #(12ñ
+)FourDirectionMazePath.main(String[])!args	PARAMETER^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java% ()2£
+4FourDirectionMazePath.main(String[])?row@32.12:32.15DECLARATION^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java   (2£
+4FourDirectionMazePath.main(String[])?col@33.12:33.15DECLARATION^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java! !(2©
+:FourDirectionMazePath.main(String[])?isVisited@34.20:34.29DECLARATION^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java" "(2s
+voidRETURN_TYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java (±
+4FourDirectionMazePath.main(String[])?row@32.12:32.15VARIABLE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java   ("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">row</mark> = 4*row2k
+intTYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java   (±
+4FourDirectionMazePath.main(String[])?col@33.12:33.15VARIABLE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java! !("
+typeint"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">col</mark> = 4*col2k
+intTYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java! !(…
+:FourDirectionMazePath.main(String[])?isVisited@34.20:34.29VARIABLE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java" "("
+typeboolean"
+isFinalfalse"ø
+declarationString©<mark class="modifier"> </mark><mark class="modifier">boolean</mark>[][] <mark class="class-field">isVisited</mark> = new <mark class="modifier">boolean</mark>[row][col]*	isVisited2s
+boolean[][]TYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java" "(2ú
+4FourDirectionMazePath.main(String[])?row@32.12:32.15CALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java", "(/2ú
+4FourDirectionMazePath.main(String[])?col@33.12:33.15CALL^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java"1 "(4÷
+)FourDirectionMazePath.main(String[])!args	PARAMETER^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2p
+String[]TYPE^
+TC:\Users\BHARGAV\Desktop\Personal\coding\BackTracking\src\FourDirectionMazePath.java ($

@@ -1,0 +1,132 @@
+
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java´
+problem3CLASSL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java ("
+packageproblem3"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>problem3"
+accesspublic*problem32t
+problem3.main(String[])DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (Ω
+problem3.main(String[])METHODL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2{
+%problem3.main(String[])?i@10.17:10.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java
+ 
+(2{
+%problem3.main(String[])?str@7.15:7.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java
+ 
+(2{
+%problem3.main(String[])?i@10.17:10.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java
+$ 
+(%2{
+%problem3.main(String[])?str@7.15:7.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2{
+%problem3.main(String[])?i@10.17:10.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java ( 2|
+&problem3.main(String[])?ch@11.17:11.19CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2z
+$problem3.main(String[])?sc@9.22:9.24CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2|
+&problem3.main(String[])?ch@11.17:11.19CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2z
+$problem3.main(String[])?sc@9.22:9.24CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2{
+%problem3.main(String[])?ans@8.15:8.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2z
+$problem3.main(String[])?sc@9.22:9.24CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2{
+%problem3.main(String[])?ans@8.15:8.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2z
+$problem3.main(String[])?sc@9.22:9.24CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2z
+$problem3.main(String[])?sc@9.22:9.24CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (
+2z
+$problem3.main(String[])?sc@9.22:9.24CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (
+2{
+%problem3.main(String[])?ans@8.15:8.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2z
+$problem3.main(String[])?sc@9.22:9.24CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2{
+%problem3.main(String[])?ans@8.15:8.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2w
+problem3.main(String[])!args	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java% ()2Ç
+%problem3.main(String[])?str@7.15:7.18DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2Ç
+%problem3.main(String[])?ans@8.15:8.18DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2Å
+$problem3.main(String[])?sc@9.22:9.24DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java	 	(2Ç
+%problem3.main(String[])?i@10.17:10.18DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java
+ 
+(2É
+&problem3.main(String[])?ch@11.17:11.19DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2a
+voidRETURN_TYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (˘
+%problem3.main(String[])?str@7.15:7.18VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java ("
+typeString"
+isFinalfalse"s
+declarationString^<mark class="modifier"> </mark>String <mark class="class-field">str</mark> = "I am an Student"*str2\
+StringTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (Í
+%problem3.main(String[])?ans@8.15:8.18VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java ("
+typeString"
+isFinalfalse"d
+declarationStringO<mark class="modifier"> </mark>String <mark class="class-field">ans</mark> = ""*ans2\
+StringTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (è
+$problem3.main(String[])?sc@9.22:9.24VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java	 	("
+typeStringBuilder"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>StringBuilder <mark class="class-field">sc</mark> = new StringBuilder("")*sc2c
+StringBuilderTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java	 	(˙
+%problem3.main(String[])?i@10.17:10.18VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java
+ 
+("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2Y
+intTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java
+ 
+(Ë
+&problem3.main(String[])?ch@11.17:11.19VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java ("
+typechar"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>char <mark class="class-field">ch</mark> = str.charAt(i)*ch2Z
+charTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2{
+%problem3.main(String[])?str@7.15:7.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java (2{
+%problem3.main(String[])?i@10.17:10.18CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java ( •
+problem3.main(String[])!args	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2^
+String[]TYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\problem3.java ($

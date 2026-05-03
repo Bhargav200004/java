@@ -1,0 +1,305 @@
+
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java€
+MaximumActivityCLASSR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java ("
+packageMaximumActivity"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier">public </mark><mark class="modifier">class </mark>MaximumActivity"
+accesspublic*MaximumActivity2Å
+MaximumActivity.main(String[])DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (ò*
+MaximumActivity.main(String[])METHODR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2y
+java.util.List.of(E, E, E, E)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java# (%2y
+java.util.List.of(E, E, E, E)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java! (#2{
+java.util.ArrayList.ArrayList()CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java* (52w
+MaximumActivity.comp.comp()CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java   ("2à
+,MaximumActivity.main(String[])?i@28.17:28.18CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2å
+0MaximumActivity.main(String[])?start@23.22:23.27CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java ("2à
+,MaximumActivity.main(String[])?i@28.17:28.18CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java, (-2ì
+7MaximumActivity.main(String[])?activityList@26.23:26.35CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2å
+0MaximumActivity.main(String[])?start@23.22:23.27CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java* (/2à
+,MaximumActivity.main(String[])?i@28.17:28.18CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java4 (52ä
+.MaximumActivity.main(String[])?end@24.22:24.25CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java8 (;2à
+,MaximumActivity.main(String[])?i@28.17:28.18CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java@ (A2ì
+7MaximumActivity.main(String[])?activityList@26.23:26.35CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java   (2ì
+7MaximumActivity.main(String[])?activityList@26.23:26.35CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java"# "(/2à
+,MaximumActivity.main(String[])?i@36.17:36.18CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java$ $(2ì
+7MaximumActivity.main(String[])?activityList@26.23:26.35CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java$ $()2à
+,MaximumActivity.main(String[])?i@36.17:36.18CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java$3 $(42ì
+7MaximumActivity.main(String[])?activityList@26.23:26.35CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java%) %(52à
+,MaximumActivity.main(String[])?i@36.17:36.18CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java%: %(;2ñ
+:MaximumActivity.main(String[])?currentActivity@37.24:37.39CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java& &("2ñ
+:MaximumActivity.main(String[])?onGoingActivity@34.17:34.32CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java&+ &(:2ç
+1MaximumActivity.main(String[])?result@33.12:33.18CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java' '(2ñ
+:MaximumActivity.main(String[])?onGoingActivity@34.17:34.32CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java( (("2ñ
+:MaximumActivity.main(String[])?currentActivity@37.24:37.39CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java(% ((42ç
+1MaximumActivity.main(String[])?result@33.12:33.18CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java, ,(!2Ñ
+#MaximumActivity.main(String[])!args	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java% ()2ì
+0MaximumActivity.main(String[])?start@23.22:23.27DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2ë
+.MaximumActivity.main(String[])?end@24.22:24.25DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2ö
+7MaximumActivity.main(String[])?activityList@26.23:26.35DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (#2è
+,MaximumActivity.main(String[])?i@28.17:28.18DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2î
+1MaximumActivity.main(String[])?result@33.12:33.18DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java! !(2ù
+:MaximumActivity.main(String[])?onGoingActivity@34.17:34.32DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java" "( 2è
+,MaximumActivity.main(String[])?i@36.17:36.18DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java$ $(2ù
+:MaximumActivity.main(String[])?currentActivity@37.24:37.39DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java% %('2g
+voidRETURN_TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (ï
+0MaximumActivity.main(String[])?start@23.22:23.27VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java ("
+typeList<Integer>"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark>List<Integer> <mark class="class-field">start</mark> = List.of(1, 3, 2, 5)*start2j
+java.util.ListTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2l
+IntegerTYPE_ARGUMENTR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2y
+java.util.List.of(E, E, E, E)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java# (%è
+.MaximumActivity.main(String[])?end@24.22:24.25VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java ("
+typeList<Integer>"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark>List<Integer> <mark class="class-field">end</mark> = List.of(2, 4, 3, 6)*end2j
+java.util.ListTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2l
+IntegerTYPE_ARGUMENTR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2y
+java.util.List.of(E, E, E, E)CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java! (#æ
+7MaximumActivity.main(String[])?activityList@26.23:26.35VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (#"
+typeList<Activity>"
+isFinalfalse"Ñ
+declarationStringo<mark class="modifier"> </mark>List<Activity> <mark class="class-field">activityList</mark> = new ArrayList<>()*activityList2j
+java.util.ListTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2}
+MaximumActivity.ActivityTYPE_ARGUMENTR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2{
+java.util.ArrayList.ArrayList()CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java* (5ç
+,MaximumActivity.main(String[])?i@28.17:28.18VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2_
+intTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (ù
+1MaximumActivity.main(String[])?result@33.12:33.18VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java! !("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">result</mark> = 1*result2_
+intTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java! !(·
+:MaximumActivity.main(String[])?onGoingActivity@34.17:34.32VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java" "( "
+typeActivity"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark>Activity <mark class="class-field">onGoingActivity</mark> = activityList.get(0)*onGoingActivity2t
+MaximumActivity.ActivityTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java" "(2ì
+7MaximumActivity.main(String[])?activityList@26.23:26.35CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java"# "(/ç
+,MaximumActivity.main(String[])?i@36.17:36.18VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java$ $("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2_
+intTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java$ $(Ï
+:MaximumActivity.main(String[])?currentActivity@37.24:37.39VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java% %('"
+typeActivity"
+isFinalfalse"É
+declarationStringn<mark class="modifier"> </mark>Activity <mark class="class-field">currentActivity</mark> = activityList.get(i)*currentActivity2t
+MaximumActivity.ActivityTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java% %(2ì
+7MaximumActivity.main(String[])?activityList@26.23:26.35CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java%) %(52à
+,MaximumActivity.main(String[])?i@36.17:36.18CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java%: %(;∏
+#MaximumActivity.main(String[])!args	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2d
+String[]TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java ($Ä
+MaximumActivity.ActivityCLASSR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java ("
+packageMaximumActivity"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"`
+declarationStringK<mark class="modifier"> </mark><mark class="modifier">class </mark>Activity"
+accesspackage_private*Activity2é
++MaximumActivity.Activity.Activity(int, int)DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java
+ 
+(2ã
+(MaximumActivity.Activity?start@7.12:7.17DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2â
+&MaximumActivity.Activity?end@8.12:8.15DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (œ
+
++MaximumActivity.Activity.Activity(int, int)CONSTRUCTORR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java
+ 
+("Â
+declarationStringœ<mark class="modifier"> </mark><mark class="method">Activity</mark>(<mark class="modifier">int</mark> start<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> end)*Activity2ç
+1MaximumActivity.Activity.Activity(int, int)!startCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2ã
+/MaximumActivity.Activity.Activity(int, int)!endCALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2Ñ
+(MaximumActivity.Activity?start@7.12:7.17CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2Ç
+&MaximumActivity.Activity?end@8.12:8.15CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2í
+1MaximumActivity.Activity.Activity(int, int)!start	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java
+ 
+(2ê
+/MaximumActivity.Activity.Activity(int, int)!end	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java
+! 
+($2{
+MaximumActivity.ActivityRETURN_TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java
+ 
+(◊
+1MaximumActivity.Activity.Activity(int, int)!start	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java
+ 
+("
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> start*start2_
+intTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java
+ 
+(—
+/MaximumActivity.Activity.Activity(int, int)!end	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java
+! 
+($"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> end*end2_
+intTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java
+ 
+( ª
+(MaximumActivity.Activity?start@7.12:7.17VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java ("
+isFinalfalse"
+typeint"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">start</mark>"
+isStaticfalse"
+accesspackage_private*start2_
+intTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (µ
+&MaximumActivity.Activity?end@8.12:8.15VARIABLER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java ("
+isFinalfalse"
+typeint"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">end</mark>"
+isStaticfalse"
+accesspackage_private*end2_
+intTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (¬
+MaximumActivity.compCLASSR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java ("
+packageMaximumActivity"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"´
+declarationStringï<mark class="modifier">private </mark><mark class="modifier">class </mark>comp<mark class="modifier"><br>implements </mark>Comparator&lt;Activity&gt;"
+accessprivate*comp2≥
+PMaximumActivity.comp.compare(MaximumActivity.Activity, MaximumActivity.Activity)DECLARATIONR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (2r
+java.util.ComparatorEXTENDR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java) (32Ñ
+MaximumActivity.ActivityEXTEND_TYPE_ARGUMENTR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java4 (<£
+
+PMaximumActivity.comp.compare(MaximumActivity.Activity, MaximumActivity.Activity)METHODR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java ("
+isFinalfalse"÷
+declarationString¿<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">compare</mark>(Activity o1<mark class="modifier"><mark class="modifier">,</mark></mark> Activity o2)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*compare2Ø
+SMaximumActivity.comp.compare(MaximumActivity.Activity, MaximumActivity.Activity)!o1CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java# (%2Ø
+SMaximumActivity.comp.compare(MaximumActivity.Activity, MaximumActivity.Activity)!o2CALLR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java, (.2¥
+SMaximumActivity.comp.compare(MaximumActivity.Activity, MaximumActivity.Activity)!o1	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java$ (&2¥
+SMaximumActivity.comp.compare(MaximumActivity.Activity, MaximumActivity.Activity)!o2	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java2 (42f
+intRETURN_TYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (Ù
+SMaximumActivity.comp.compare(MaximumActivity.Activity, MaximumActivity.Activity)!o1	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java$ (&"
+typeActivity"
+isFinalfalse" 
+declarationStringActivity o1*o12t
+MaximumActivity.ActivityTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java (#Ù
+SMaximumActivity.comp.compare(MaximumActivity.Activity, MaximumActivity.Activity)!o2	PARAMETERR
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java2 (4"
+typeActivity"
+isFinalfalse" 
+declarationStringActivity o2*o22t
+MaximumActivity.ActivityTYPER
+HC:\Users\BHARGAV\Desktop\Personal\coding\Greedy\src\MaximumActivity.java) (1

@@ -1,0 +1,102 @@
+
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java¢
+progam3CLASSJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java ("
+packageprogam3"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>progam3"
+accesspublic*progam32q
+progam3.main(String[])DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (‚
+progam3.main(String[])METHODJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2w
+#progam3.main(String[])?sc@4.16:4.18CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (2v
+"progam3.main(String[])?i@8.17:8.18CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (2v
+"progam3.main(String[])?n@6.12:6.13CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (2v
+"progam3.main(String[])?i@8.17:8.18CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (2v
+"progam3.main(String[])?j@9.21:9.22CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java	 	(2v
+"progam3.main(String[])?n@6.12:6.13CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java	 	(2v
+"progam3.main(String[])?i@8.17:8.18CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java	 	(2v
+"progam3.main(String[])?j@9.21:9.22CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java	  	(!2x
+$progam3.main(String[])?j@12.21:12.22CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (2v
+"progam3.main(String[])?i@8.17:8.18CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (2x
+$progam3.main(String[])?j@12.21:12.22CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java! ("2t
+progam3.main(String[])!args	PARAMETERJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java% ()2~
+#progam3.main(String[])?sc@4.16:4.18DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (2}
+"progam3.main(String[])?n@6.12:6.13DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (2}
+"progam3.main(String[])?i@8.17:8.18DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (2}
+"progam3.main(String[])?j@9.21:9.22DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java	 	(2
+$progam3.main(String[])?j@12.21:12.22DECLARATIONJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (2_
+voidRETURN_TYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (ƒ
+#progam3.main(String[])?sc@4.16:4.18VARIABLEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2e
+java.util.ScannerTYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (ø
+"progam3.main(String[])?n@6.12:6.13VARIABLEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java ("
+typeint"
+isFinalfalse"‡
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">n</mark> = sc.nextInt()*n2W
+intTYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (2w
+#progam3.main(String[])?sc@4.16:4.18CALLJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (ó
+"progam3.main(String[])?i@8.17:8.18VARIABLEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2W
+intTYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java (ó
+"progam3.main(String[])?j@9.21:9.22VARIABLEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java	 	("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 1*j2W
+intTYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java	 	(õ
+$progam3.main(String[])?j@12.21:12.22VARIABLEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2W
+intTYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java ( 
+progam3.main(String[])!args	PARAMETERJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2\
+String[]TYPEJ
+@C:\Users\BHARGAV\Desktop\Personal\coding\patern\src\progam3.java ($

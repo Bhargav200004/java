@@ -1,0 +1,302 @@
+
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java∏
+problem7CLASSN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java ("
+packageproblem7"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>problem7"
+accesspublic*problem72á
+(problem7.findAllIndices(int[], int, int)DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2y
+problem7.print(int[], int)DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2
+ problem7.search(int[], int, int)DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2Ä
+!problem7.search1(int[], int, int)DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2v
+problem7.main(String[])DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java" "(‰
+(problem7.findAllIndices(int[], int, int)METHODN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java ("
+isFinalfalse"ô
+declarationStringÉ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">findAllIndices</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> target<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> idx)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*findAllIndices2Ä
+(problem7.findAllIndices(int[], int, int)CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2Ñ
+,problem7.findAllIndices(int[], int, int)!idxCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2Ñ
+,problem7.findAllIndices(int[], int, int)!arrCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2Ñ
+,problem7.findAllIndices(int[], int, int)!arrCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java
+ 
+(2Ñ
+,problem7.findAllIndices(int[], int, int)!idxCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java
+ 
+(2á
+/problem7.findAllIndices(int[], int, int)!targetCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java
+ 
+(2Ñ
+,problem7.findAllIndices(int[], int, int)!idxCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java ( 2Ñ
+,problem7.findAllIndices(int[], int, int)!arrCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2á
+/problem7.findAllIndices(int[], int, int)!targetCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (!2Ñ
+,problem7.findAllIndices(int[], int, int)!idxCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java" (%2â
+,problem7.findAllIndices(int[], int, int)!arr	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java& ()2å
+/problem7.findAllIndices(int[], int, int)!target	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java. (42â
+,problem7.findAllIndices(int[], int, int)!idx	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java9 (<2c
+voidRETURN_TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (Ã
+,problem7.findAllIndices(int[], int, int)!arr	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java& ()"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2]
+int[]TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (%œ
+/problem7.findAllIndices(int[], int, int)!target	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java. (4"
+typeint"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark> target*target2[
+intTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java* (-∆
+,problem7.findAllIndices(int[], int, int)!idx	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java9 (<"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> idx*idx2[
+intTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java5 (8∑
+problem7.print(int[], int)METHODN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java ("
+isFinalfalse"¨
+declarationStringñ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">print</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> index)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*print2r
+problem7.print(int[], int)CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2x
+ problem7.print(int[], int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2v
+problem7.print(int[], int)!arrCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2v
+problem7.print(int[], int)!arrCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2x
+ problem7.print(int[], int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java ("2v
+problem7.print(int[], int)!arrCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2x
+ problem7.print(int[], int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2{
+problem7.print(int[], int)!arr	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2}
+ problem7.print(int[], int)!index	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java$ ()2c
+voidRETURN_TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (æ
+problem7.print(int[], int)!arr	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java ("
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2]
+int[]TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (æ
+ problem7.print(int[], int)!index	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java$ ()"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> index*index2[
+intTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java  (#Ô
+ problem7.search(int[], int, int)METHODN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java ("
+isFinalfalse"ñ
+declarationStringÄ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">boolean</mark> <mark class="method">search</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> target<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> index)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeboolean*search2x
+ problem7.search(int[], int, int)CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2~
+&problem7.search(int[], int, int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2|
+$problem7.search(int[], int, int)!arrCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2|
+$problem7.search(int[], int, int)!arrCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2~
+&problem7.search(int[], int, int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2
+'problem7.search(int[], int, int)!targetCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2|
+$problem7.search(int[], int, int)!arrCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2
+'problem7.search(int[], int, int)!targetCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java ( 2~
+&problem7.search(int[], int, int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java! (&2Å
+$problem7.search(int[], int, int)!arr	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (#2Ñ
+'problem7.search(int[], int, int)!target	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java( (.2É
+&problem7.search(int[], int, int)!index	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java4 (92f
+booleanRETURN_TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (ƒ
+$problem7.search(int[], int, int)!arr	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (#"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2]
+int[]TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (#«
+'problem7.search(int[], int, int)!target	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java( (."
+typeint"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark> target*target2[
+intTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java$ ('ƒ
+&problem7.search(int[], int, int)!index	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java4 (9"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> index*index2[
+intTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java0 (3ı
+!problem7.search1(int[], int, int)METHODN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java ("
+isFinalfalse"ì
+declarationString˝<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">search1</mark>(<mark class="modifier">int</mark>[] arr<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> target<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> index)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*search12y
+!problem7.search1(int[], int, int)CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2
+'problem7.search1(int[], int, int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2}
+%problem7.search1(int[], int, int)!arrCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2}
+%problem7.search1(int[], int, int)!arrCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2
+'problem7.search1(int[], int, int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2Ä
+(problem7.search1(int[], int, int)!targetCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2
+'problem7.search1(int[], int, int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java& (+2}
+%problem7.search1(int[], int, int)!arrCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (2Ä
+(problem7.search1(int[], int, int)!targetCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (!2
+'problem7.search1(int[], int, int)!indexCALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java" ('2Ç
+%problem7.search1(int[], int, int)!arr	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java ( 2Ö
+(problem7.search1(int[], int, int)!target	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java% (+2Ñ
+'problem7.search1(int[], int, int)!index	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java1 (62b
+intRETURN_TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java (≈
+%problem7.search1(int[], int, int)!arr	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java ( "
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2]
+int[]TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java ( »
+(problem7.search1(int[], int, int)!target	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java% (+"
+typeint"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark> target*target2[
+intTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java! ($≈
+'problem7.search1(int[], int, int)!index	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java1 (6"
+typeint"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark> index*index2[
+intTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java- (0˘
+problem7.main(String[])METHODN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java" "("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2r
+problem7.print(int[], int)CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java& &(2x
+ problem7.search(int[], int, int)CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java) )(2y
+!problem7.search1(int[], int, int)CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java/ /("2Ä
+(problem7.findAllIndices(int[], int, int)CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java1 1(2
+'problem7.main(String[])?arr@35.12:35.17CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java& &(2
+'problem7.main(String[])?arr@35.12:35.17CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java) )(2Ç
+*problem7.main(String[])?target@36.12:36.18CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java) )(2
+'problem7.main(String[])?arr@35.12:35.17CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java/# /(&2Ç
+*problem7.main(String[])?target@36.12:36.18CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java/' /(-2
+'problem7.main(String[])?arr@35.12:35.17CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java1 1(2Ç
+*problem7.main(String[])?target@36.12:36.18CALLN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java1 1(!2y
+problem7.main(String[])!args	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java"% "()2Ü
+'problem7.main(String[])?arr@35.12:35.17DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java# #(2â
+*problem7.main(String[])?target@36.12:36.18DECLARATIONN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java$ $(2c
+voidRETURN_TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java" "(†
+'problem7.main(String[])?arr@35.12:35.17VARIABLEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java# #("
+typeint"
+isFinalfalse"ó
+declarationStringÅ<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = { 4, 2, 3, 4, 5, 4, 4 }*arr2]
+int[]TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java# #(é
+*problem7.main(String[])?target@36.12:36.18VARIABLEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java$ $("
+typeint"
+isFinalfalse"Å
+declarationStringl<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">target</mark> = 4*target2[
+intTYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java$ $(©
+problem7.main(String[])!args	PARAMETERN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java"% "()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2`
+String[]TYPEN
+DC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\problem7.java" "($

@@ -1,0 +1,83 @@
+
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java´
+
+GCDProblemCLASSL
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java("
+package
+GCDProblem"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"h
+declarationStringS<mark class="modifier">public </mark><mark class="modifier">class </mark>GCDProblem"
+accesspublic*
+GCDProblem2y
+GCDProblem.gcd(int, int)DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java (2z
+GCDProblem.main(String[])DECLARATIONP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java (œ
+GCDProblem.gcd(int, int)METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java ("
+isFinalfalse"¡
+declarationString‹<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">gcd</mark>(<mark class="modifier">int</mark> x<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> y)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*gcd2r
+GCDProblem.gcd(int, int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java (2t
+GCDProblem.gcd(int, int)!yCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java (2t
+GCDProblem.gcd(int, int)!xCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java (2t
+GCDProblem.gcd(int, int)!yCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java (2t
+GCDProblem.gcd(int, int)!xCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java (2t
+GCDProblem.gcd(int, int)!yCALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java (2y
+GCDProblem.gcd(int, int)!x	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java (2y
+GCDProblem.gcd(int, int)!y	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java ( 2d
+intRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java (´
+GCDProblem.gcd(int, int)!x	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> x*x2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java (´
+GCDProblem.gcd(int, int)!y	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java ( "
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> y*y2]
+intTYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java (×
+GCDProblem.main(String[])METHODP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2r
+GCDProblem.gcd(int, int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java (2r
+GCDProblem.gcd(int, int)CALLP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java	5 	(82}
+GCDProblem.main(String[])!args	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java% ()2e
+voidRETURN_TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java (¯
+GCDProblem.main(String[])!args	PARAMETERP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2b
+String[]TYPEP
+FC:\Users\BHARGAV\Desktop\Personal\coding\Recursion\src\GCDProblem.java ($

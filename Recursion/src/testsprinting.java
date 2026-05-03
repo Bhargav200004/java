@@ -1,14 +1,29 @@
+import java.util.*;
+
 class testsprinting{
 
-    static int count(int n){
-        if(n>=0&&n<=9){
-            return 1;
-        }
-        return count(n/10)+1;
-    }
-    public static void main(String[] args) {
 
-        System.out.println(count(342375674));
+    public static void main(String[] args) {
+       String s = "aaacb";
+
+        HashSet<Character> set = new HashSet<>();
+
+        int left = 0;
+        int n = s.length();
+        int ans = 0;
+
+        for(int right = 0 ; right < n ; right++){
+            set.add(s.charAt(right));
+
+            while(left < right && set.size() >= 2){
+                set.remove(s.charAt(left));
+                left++;
+            }
+
+            ans += right - left + 1;
+        }
+
+        System.out.println(ans);
     }
 
 }

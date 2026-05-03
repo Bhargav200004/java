@@ -1,0 +1,64 @@
+
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.javaü
+SingleLinkedList.NodeCLASS]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java ("
+packageSingleLinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Node"
+accesspublic*Node2ç
+SingleLinkedList.Node.Node(int)DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java (2ë
+#SingleLinkedList.Node?data@3.8:3.12DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java (2ë
+#SingleLinkedList.Node?next@4.9:4.13DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java	 (2ë
+#SingleLinkedList.Node?node@5.8:5.12DECLARATION]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java (≈
+SingleLinkedList.Node.Node(int)CONSTRUCTOR]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java ("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2ã
+$SingleLinkedList.Node.Node(int)!dataCALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java	 	(2ä
+#SingleLinkedList.Node?data@3.8:3.12CALL]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java	 	(2ê
+$SingleLinkedList.Node.Node(int)!data	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java (2É
+SingleLinkedList.NodeRETURN_TYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java (ﬁ
+$SingleLinkedList.Node.Node(int)!data	PARAMETER]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java	 ( 
+#SingleLinkedList.Node?data@3.8:3.12VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java (¿
+#SingleLinkedList.Node?next@4.9:4.13VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java	 ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">next</mark>"
+isStaticfalse"
+accesspackage_private*next2|
+SingleLinkedList.NodeTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java ( 
+#SingleLinkedList.Node?node@5.8:5.12VARIABLE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">node</mark>"
+isStaticfalse"
+accesspackage_private*node2j
+intTYPE]
+SC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\Node.java (

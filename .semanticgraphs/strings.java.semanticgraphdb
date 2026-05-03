@@ -1,0 +1,63 @@
+
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java¤
+stringsCLASSK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java ("
+packagestrings"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>strings"
+accesspublic*strings2r
+strings.main(String[])DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java (±
+strings.main(String[])METHODK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2w
+"strings.main(String[])?s@5.15:5.16CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java (2w
+"strings.main(String[])?s@5.15:5.16CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java (2w
+"strings.main(String[])?s@5.15:5.16CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java (2w
+"strings.main(String[])?s@5.15:5.16CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java (2w
+"strings.main(String[])?s@5.15:5.16CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java (2w
+"strings.main(String[])?s@5.15:5.16CALLK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java (2u
+strings.main(String[])!args	PARAMETERK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java% ()2
+#strings.main(String[])?sc@3.16:3.18DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java (2~
+"strings.main(String[])?s@5.15:5.16DECLARATIONK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java (2`
+voidRETURN_TYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java (û
+#strings.main(String[])?sc@3.16:3.18VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java ("
+typeScanner"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark>Scanner <mark class="class-field">sc</mark> = new Scanner(System.in)*sc2\
+ScannerTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java (ì
+"strings.main(String[])?s@5.15:5.16VARIABLEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java ("
+typeString"
+isFinalfalse"m
+declarationStringX<mark class="modifier"> </mark>String <mark class="class-field">s</mark> = "hello world"*s2[
+StringTYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java (¢
+strings.main(String[])!args	PARAMETERK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2]
+String[]TYPEK
+AC:\Users\BHARGAV\Desktop\Personal\coding\Strings\src\strings.java ($

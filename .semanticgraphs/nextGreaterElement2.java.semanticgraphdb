@@ -1,0 +1,188 @@
+
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.javaá
+nextGreaterElement2CLASSU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java ( "
+packagenextGreaterElement2"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"q
+declarationString\<mark class="modifier">public </mark><mark class="modifier">class </mark>nextGreaterElement2"
+accesspublic*nextGreaterElement22è
+)nextGreaterElement2.greaterElement(int[])DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2à
+"nextGreaterElement2.main(String[])DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (Ω'
+)nextGreaterElement2.greaterElement(int[])METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java ("
+isFinalfalse"—
+declarationStringª<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark>[] <mark class="method">greaterElement</mark>(<mark class="modifier">int</mark>[] arr)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint[]*greaterElement2v
+java.util.Stack.Stack()CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java  ('2å
+-nextGreaterElement2.greaterElement(int[])!arrCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2ï
+6nextGreaterElement2.greaterElement(int[])?st@5.23:5.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (
+2î
+5nextGreaterElement2.greaterElement(int[])?i@9.17:9.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java	 	(2å
+-nextGreaterElement2.greaterElement(int[])!arrCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java	 	(2î
+5nextGreaterElement2.greaterElement(int[])?i@9.17:9.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java	( 	()2å
+-nextGreaterElement2.greaterElement(int[])!arrCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java
+ 
+(2î
+5nextGreaterElement2.greaterElement(int[])?i@9.17:9.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java
+ 
+(2å
+-nextGreaterElement2.greaterElement(int[])!arrCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java
+ 
+(2ï
+6nextGreaterElement2.greaterElement(int[])?st@5.23:5.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java
+ 
+(2ï
+6nextGreaterElement2.greaterElement(int[])?st@5.23:5.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2å
+-nextGreaterElement2.greaterElement(int[])!arrCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java( (+2î
+5nextGreaterElement2.greaterElement(int[])?i@9.17:9.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java, (-2å
+-nextGreaterElement2.greaterElement(int[])!arrCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java1 (42ï
+6nextGreaterElement2.greaterElement(int[])?st@5.23:5.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java5 (72ñ
+7nextGreaterElement2.greaterElement(int[])?res@6.14:6.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2ï
+6nextGreaterElement2.greaterElement(int[])?st@5.23:5.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2å
+-nextGreaterElement2.greaterElement(int[])!arrCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java% ((2î
+5nextGreaterElement2.greaterElement(int[])?i@9.17:9.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java) (*2ï
+6nextGreaterElement2.greaterElement(int[])?st@5.23:5.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2ï
+6nextGreaterElement2.greaterElement(int[])?st@5.23:5.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2î
+5nextGreaterElement2.greaterElement(int[])?i@9.17:9.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2ï
+6nextGreaterElement2.greaterElement(int[])?st@5.23:5.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2ñ
+7nextGreaterElement2.greaterElement(int[])?res@6.14:6.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2ï
+6nextGreaterElement2.greaterElement(int[])?st@5.23:5.25CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2ñ
+7nextGreaterElement2.greaterElement(int[])?res@6.14:6.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2ë
+-nextGreaterElement2.greaterElement(int[])!arr	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java& ()2ú
+6nextGreaterElement2.greaterElement(int[])?st@5.23:5.25DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2ù
+7nextGreaterElement2.greaterElement(int[])?res@6.14:6.17DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2õ
+5nextGreaterElement2.greaterElement(int[])?i@9.17:9.18DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java	 	(2k
+int[]RETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (ò
+6nextGreaterElement2.greaterElement(int[])?st@5.23:5.25VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java ("
+typeStack<Integer>"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Stack<Integer> <mark class="class-field">st</mark> = new Stack<>()*st2n
+java.util.StackTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2o
+IntegerTYPE_ARGUMENTU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2v
+java.util.Stack.Stack()CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java  ('Á
+7nextGreaterElement2.greaterElement(int[])?res@6.14:6.17VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java ("
+typeint"
+isFinalfalse"±
+declarationStringõ<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">res</mark> = new <mark class="modifier">int</mark>[arr.length]*res2d
+int[]TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2å
+-nextGreaterElement2.greaterElement(int[])!arrCALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (ú
+5nextGreaterElement2.greaterElement(int[])?i@9.17:9.18VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java	 	("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java	 	(€
+-nextGreaterElement2.greaterElement(int[])!arr	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java& ()"
+typeint[]"
+isFinalfalse"<
+declarationString'<mark class="modifier">int</mark>[] arr*arr2d
+int[]TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java  (%´
+"nextGreaterElement2.main(String[])METHODU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2à
+)nextGreaterElement2.greaterElement(int[])CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (%2ë
+2nextGreaterElement2.main(String[])?arr@29.14:29.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java& ()2î
+5nextGreaterElement2.main(String[])?result@30.14:30.20CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java   (2è
+0nextGreaterElement2.main(String[])?i@32.17:32.18CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java! !(2ã
+'nextGreaterElement2.main(String[])!args	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java% ()2ò
+2nextGreaterElement2.main(String[])?arr@29.14:29.17DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2õ
+5nextGreaterElement2.main(String[])?result@30.14:30.20DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2ñ
+0nextGreaterElement2.main(String[])?i@32.17:32.18DECLARATIONU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java   (2j
+voidRETURN_TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (º
+2nextGreaterElement2.main(String[])?arr@29.14:29.17VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java ("
+typeint"
+isFinalfalse"ö
+declarationStringÑ<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">arr</mark> = { 1, 5, 3, 2, 1, 6, 3, 4 }*arr2d
+int[]TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (›
+5nextGreaterElement2.main(String[])?result@30.14:30.20VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java ("
+typeint"
+isFinalfalse"ñ
+declarationStringÄ<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">result</mark> = greaterElement(arr)*result2d
+int[]TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (2à
+)nextGreaterElement2.greaterElement(int[])CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java (%2ë
+2nextGreaterElement2.main(String[])?arr@29.14:29.17CALLU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java& ()ì
+0nextGreaterElement2.main(String[])?i@32.17:32.18VARIABLEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java   ("
+typeint"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark>*i2b
+intTYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java   (¬
+'nextGreaterElement2.main(String[])!args	PARAMETERU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2g
+String[]TYPEU
+KC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\nextGreaterElement2.java ($

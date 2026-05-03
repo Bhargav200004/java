@@ -1,0 +1,416 @@
+
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java“
+zigZagTraversalCLASSQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java ("
+packagezigZagTraversal"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"m
+declarationStringX<mark class="modifier">public </mark><mark class="modifier">class </mark>zigZagTraversal"
+accesspublic*zigZagTraversal2é
+,zigZagTraversal.height(zigZagTraversal.Node)DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2±
+OzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2±
+OzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2Ä
+zigZagTraversal.main(String[])DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java( ((∆
+,zigZagTraversal.height(zigZagTraversal.Node)METHODQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java ("
+isFinalfalse"©
+declarationStringì<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">int</mark> <mark class="method">height</mark>(Node root)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeint*height2å
+1zigZagTraversal.height(zigZagTraversal.Node)!rootCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2å
+1zigZagTraversal.height(zigZagTraversal.Node)!rootCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java# ('2å
+1zigZagTraversal.height(zigZagTraversal.Node)!rootCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java7 (;2ë
+1zigZagTraversal.height(zigZagTraversal.Node)!root	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2e
+intRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (»
+1zigZagTraversal.height(zigZagTraversal.Node)!root	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java ("
+typeNode"
+isFinalfalse"
+declarationString	Node root*root2o
+zigZagTraversal.NodeTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (à
+OzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)METHODQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java ("
+isFinalfalse"È
+declarationString”<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">leftToRight</mark>(Node root<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> idx<mark class="modifier"><mark class="modifier">,</mark></mark> List&lt;Integer&gt; value)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*leftToRight2Ø
+TzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!rootCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2Æ
+SzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!idxCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2∞
+UzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!valueCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2Ø
+TzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!rootCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2Ø
+TzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!rootCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2Æ
+SzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!idxCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java  (#2∞
+UzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!valueCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java( (-2Ø
+TzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!rootCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2Æ
+SzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!idxCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java! ($2∞
+UzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!valueCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java) (.2¥
+TzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!root	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java! (%2≥
+SzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!idx	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java, (/2µ
+UzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!value	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java@ (E2f
+voidRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (Î
+TzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!root	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java! (%"
+typeNode"
+isFinalfalse"
+declarationString	Node root*root2o
+zigZagTraversal.NodeTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java ( Û
+SzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!idx	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java, (/"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> idx*idx2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java( (+Á
+UzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)!value	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java@ (E"
+typeList<Integer>"
+isFinalfalse"(
+declarationStringList<Integer> value*value2i
+java.util.ListTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java2 (62k
+IntegerTYPE_ARGUMENTQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java7 (>à
+OzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)METHODQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java ("
+isFinalfalse"È
+declarationString”<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">RightToLeft</mark>(Node root<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> idx<mark class="modifier"><mark class="modifier">,</mark></mark> List&lt;Integer&gt; value)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*RightToLeft2Ø
+TzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!rootCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2Æ
+SzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!idxCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java   (2∞
+UzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!valueCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java! !(2Ø
+TzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!rootCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java! !(2Ø
+TzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!rootCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java$ $(2Æ
+SzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!idxCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java$! $($2∞
+UzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!valueCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java$) $(.2Ø
+TzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!rootCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java% %(2Æ
+SzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!idxCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java%  %(#2∞
+UzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!valueCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java%( %(-2¥
+TzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!root	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java! (%2≥
+SzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!idx	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java, (/2µ
+UzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!value	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java@ (E2f
+voidRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (Î
+TzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!root	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java! (%"
+typeNode"
+isFinalfalse"
+declarationString	Node root*root2o
+zigZagTraversal.NodeTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java ( Û
+SzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!idx	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java, (/"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> idx*idx2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java( (+Á
+UzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)!value	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java@ (E"
+typeList<Integer>"
+isFinalfalse"(
+declarationStringList<Integer> value*value2i
+java.util.ListTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java2 (62k
+IntegerTYPE_ARGUMENTQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java7 (>Á1
+zigZagTraversal.main(String[])METHODQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java( (("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2á
+,zigZagTraversal.height(zigZagTraversal.Node)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java6 6(2™
+OzigZagTraversal.RightToLeft(zigZagTraversal.Node, int, java.util.List<Integer>)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java: :(2™
+OzigZagTraversal.leftToRight(zigZagTraversal.Node, int, java.util.List<Integer>)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java= =(2y
+zigZagTraversal.Node.Node(int)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java) )(2y
+zigZagTraversal.Node.Node(int)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java* *(2y
+zigZagTraversal.Node.Node(int)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java+ +(2y
+zigZagTraversal.Node.Node(int)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java. .(2y
+zigZagTraversal.Node.Node(int)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java/ /(2z
+java.util.ArrayList.ArrayList()CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java4& 4(12z
+java.util.ArrayList.ArrayList()CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java8& 8(12ä
+/zigZagTraversal.main(String[])?root@41.13:41.17CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java, ,(2á
+,zigZagTraversal.main(String[])?a@42.13:42.14CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java, ,(2ä
+/zigZagTraversal.main(String[])?root@41.13:41.17CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java- -(2á
+,zigZagTraversal.main(String[])?b@43.13:43.14CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java- -(2á
+,zigZagTraversal.main(String[])?b@43.13:43.14CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java0 0(	2á
+,zigZagTraversal.main(String[])?c@46.13:46.14CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java0 0(2á
+,zigZagTraversal.main(String[])?b@43.13:43.14CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java1 1(	2á
+,zigZagTraversal.main(String[])?d@47.13:47.14CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java1 1(2ä
+/zigZagTraversal.main(String[])?root@41.13:41.17CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java6 6( 2á
+,zigZagTraversal.main(String[])?i@55.17:55.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java7 7(2å
+1zigZagTraversal.main(String[])?height@54.12:54.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java7 7(#2á
+,zigZagTraversal.main(String[])?i@55.17:55.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java7% 7(&2á
+,zigZagTraversal.main(String[])?i@55.17:55.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java9 9(2ä
+/zigZagTraversal.main(String[])?root@41.13:41.17CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java: :( 2á
+,zigZagTraversal.main(String[])?i@55.17:55.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java:# :($2ã
+0zigZagTraversal.main(String[])?value@56.26:56.31CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java:' :(,2ä
+/zigZagTraversal.main(String[])?root@41.13:41.17CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java= =(2á
+,zigZagTraversal.main(String[])?i@55.17:55.18CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java=" =(#2ã
+0zigZagTraversal.main(String[])?value@56.26:56.31CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java=& =(+2â
+.zigZagTraversal.main(String[])?ans@52.28:52.31CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java? ?(2ã
+0zigZagTraversal.main(String[])?value@56.26:56.31CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java? ?(2â
+.zigZagTraversal.main(String[])?ans@52.28:52.31CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.javaB B(2É
+#zigZagTraversal.main(String[])!args	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java(% (()2ë
+/zigZagTraversal.main(String[])?root@41.13:41.17DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java) )(2é
+,zigZagTraversal.main(String[])?a@42.13:42.14DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java* *(2é
+,zigZagTraversal.main(String[])?b@43.13:43.14DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java+ +(2é
+,zigZagTraversal.main(String[])?c@46.13:46.14DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java. .(2é
+,zigZagTraversal.main(String[])?d@47.13:47.14DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java/ /(2ê
+.zigZagTraversal.main(String[])?ans@52.28:52.31DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java4 4(2ì
+1zigZagTraversal.main(String[])?height@54.12:54.18DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java6 6(2é
+,zigZagTraversal.main(String[])?i@55.17:55.18DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java7 7(2í
+0zigZagTraversal.main(String[])?value@56.26:56.31DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java8 8(2f
+voidRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java( ((é
+/zigZagTraversal.main(String[])?root@41.13:41.17VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java) )("
+typeNode"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>Node <mark class="class-field">root</mark> = new Node(3)*root2o
+zigZagTraversal.NodeTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java) )(2y
+zigZagTraversal.Node.Node(int)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java) )(Ö
+,zigZagTraversal.main(String[])?a@42.13:42.14VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java* *("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">a</mark> = new Node(9)*a2o
+zigZagTraversal.NodeTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java* *(2y
+zigZagTraversal.Node.Node(int)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java* *(Ü
+,zigZagTraversal.main(String[])?b@43.13:43.14VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java+ +("
+typeNode"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Node <mark class="class-field">b</mark> = new Node(20)*b2o
+zigZagTraversal.NodeTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java+ +(2y
+zigZagTraversal.Node.Node(int)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java+ +(Ü
+,zigZagTraversal.main(String[])?c@46.13:46.14VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java. .("
+typeNode"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Node <mark class="class-field">c</mark> = new Node(15)*c2o
+zigZagTraversal.NodeTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java. .(2y
+zigZagTraversal.Node.Node(int)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java. .(Ü
+,zigZagTraversal.main(String[])?d@47.13:47.14VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java/ /("
+typeNode"
+isFinalfalse"j
+declarationStringU<mark class="modifier"> </mark>Node <mark class="class-field">d</mark> = new Node(17)*d2o
+zigZagTraversal.NodeTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java/ /(2y
+zigZagTraversal.Node.Node(int)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java/ /(å
+.zigZagTraversal.main(String[])?ans@52.28:52.31VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java4 4("
+typeList<List<Integer>>"
+isFinalfalse"Ä
+declarationStringk<mark class="modifier"> </mark>List<List<Integer>> <mark class="class-field">ans</mark> = new ArrayList<>()*ans2i
+java.util.ListTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java4 4(2r
+java.util.ListTYPE_ARGUMENTQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java4 4(2k
+IntegerTYPE_ARGUMENTQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java4 4(2z
+java.util.ArrayList.ArrayList()CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java4& 4(1Ω
+1zigZagTraversal.main(String[])?height@54.12:54.18VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java6 6("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">height</mark> = height(root)*height2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java6 6(2á
+,zigZagTraversal.height(zigZagTraversal.Node)CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java6 6(2ä
+/zigZagTraversal.main(String[])?root@41.13:41.17CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java6 6( ã
+,zigZagTraversal.main(String[])?i@55.17:55.18VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java7 7("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 1*i2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java7 7(ë
+0zigZagTraversal.main(String[])?value@56.26:56.31VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java8 8("
+typeList<Integer>"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark>List<Integer> <mark class="class-field">value</mark> = new ArrayList<>()*value2i
+java.util.ListTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java8 8(2k
+IntegerTYPE_ARGUMENTQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java8 8(2z
+java.util.ArrayList.ArrayList()CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java8& 8(1∂
+#zigZagTraversal.main(String[])!args	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java(% (()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2c
+String[]TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java( (($‰
+zigZagTraversal.NodeCLASSQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java ("
+packagezigZagTraversal"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2Ä
+zigZagTraversal.Node.Node(int)DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2Ö
+#zigZagTraversal.Node?data@5.12:5.16DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2Ö
+#zigZagTraversal.Node?left@6.13:6.17DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2Ü
+$zigZagTraversal.Node?right@7.13:7.18DECLARATIONQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (Ç
+zigZagTraversal.Node.Node(int)CONSTRUCTORQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java ("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2~
+#zigZagTraversal.Node.Node(int)!dataCALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java	 	(2~
+#zigZagTraversal.Node?data@5.12:5.16CALLQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java	 	(2É
+#zigZagTraversal.Node.Node(int)!data	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (2v
+zigZagTraversal.NodeRETURN_TYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (≈
+#zigZagTraversal.Node.Node(int)!data	PARAMETERQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java ("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (≤
+#zigZagTraversal.Node?data@5.12:5.16VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2^
+intTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (ß
+#zigZagTraversal.Node?left@6.13:6.17VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">left</mark>"
+isStaticfalse"
+accesspackage_private*left2o
+zigZagTraversal.NodeTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (™
+$zigZagTraversal.Node?right@7.13:7.18VARIABLEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java ("
+isFinalfalse"
+typeNode"_
+declarationStringJ<mark class="modifier"> </mark>Node <mark class="class-field">right</mark>"
+isStaticfalse"
+accesspackage_private*right2o
+zigZagTraversal.NodeTYPEQ
+GC:\Users\BHARGAV\Desktop\Personal\coding\Trees\src\zigZagTraversal.java (

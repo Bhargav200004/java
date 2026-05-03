@@ -1,0 +1,540 @@
+
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java•
+&DoublyLinkedList.PalindromeChecker_DLLCLASSn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (""
+packageDoublyLinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"s
+declarationString^<mark class="modifier">public </mark><mark class="modifier">class </mark>PalindromeChecker_DLL"
+accesspublic*PalindromeChecker_DLL2‚
+cDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java ("2Â
+fDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java# #( 2æ
+?DoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaA A(Ê2
+cDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)METHODn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (""
+isFinalfalse"ò
+declarationStringÇ<mark class="modifier"> </mark><mark class="modifier">static </mark>Boolean <mark class="method">checkPalindrome</mark>(Node head)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeBoolean*checkPalindrome2‡
+hDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)!headCALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ï
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp@15.13:15.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ï
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp@15.13:15.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ï
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp@15.13:15.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ï
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp@15.13:15.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ï
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp@15.13:15.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2‡
+hDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)!headCALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ï
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?tail@21.13:21.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ï
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp@15.13:15.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ì
+uDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp1@24.13:24.18CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ï
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp@15.13:15.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ì
+uDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp1@24.13:24.18CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java ("2Ï
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp@15.13:15.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ï
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp@15.13:15.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ì
+uDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp1@24.13:24.18CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ì
+uDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp1@24.13:24.18CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?data@5.12:5.16CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?data@5.12:5.16CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java# ('2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?prev@7.13:7.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Â
+hDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)!head	PARAMETERn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java( (,2Û
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp@15.13:15.17DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Û
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?tail@21.13:21.17DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ù
+uDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp1@24.13:24.18DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2ê
+java.lang.BooleanRETURN_TYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (Ü
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp@15.13:15.17VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java ("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = head*temp2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2‡
+hDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)!headCALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (í
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?tail@21.13:21.17VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java ("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">tail</mark> = temp*tail2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ï
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp@15.13:15.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (ï
+uDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?temp1@24.13:24.18VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java ("
+typeNode"
+isFinalfalse"f
+declarationStringQ<mark class="modifier"> </mark>Node <mark class="class-field">temp1</mark> = tail*temp12£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2Ï
+tDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)?tail@21.13:21.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (—
+hDoublyLinkedList.PalindromeChecker_DLL.checkPalindrome(DoublyLinkedList.PalindromeChecker_DLL.Node)!head	PARAMETERn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java( (,"
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java# ('˝B
+fDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)METHODn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java# #( "
+isFinalfalse"¸
+declarationStringÊ<mark class="modifier"> </mark><mark class="modifier">static </mark>Boolean <mark class="method">findTwoSumDLL</mark>(Node head<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> target)"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typeBoolean*findTwoSumDLL2„
+kDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)!headCALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java% %(2Ô
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp@37.13:37.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java' '(2Ô
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp@37.13:37.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java( ((2Ô
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp@37.13:37.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java( ((2Ô
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp@37.13:37.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java+ +(2Ô
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp@37.13:37.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java- -(2„
+kDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)!headCALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java- -(2Ô
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?tail@43.13:43.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java/ /(2Ô
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp@37.13:37.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java1 1(2
+xDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp1@47.13:47.18CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java1 1(2Ô
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp@37.13:37.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java2 2(2
+xDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp1@47.13:47.18CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java2 2("2Â
+mDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)!targetCALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java2, 2(22Ô
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp@37.13:37.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java5 5(2
+xDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp1@47.13:47.18CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java5! 5(&2Â
+mDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)!targetCALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java5/ 5(52
+xDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp1@47.13:47.18CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java6 6(2
+xDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp1@47.13:47.18CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java6 6(2Ô
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp@37.13:37.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java9 9(2Ô
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp@37.13:37.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java9 9(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java' '(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java( ((2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?data@5.12:5.16CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java1 1(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?data@5.12:5.16CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java1  1($2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?data@5.12:5.16CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java2 2(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?data@5.12:5.16CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java2# 2('2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?data@5.12:5.16CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java5 5(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?data@5.12:5.16CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java5' 5(+2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?prev@7.13:7.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java6 6("2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java9 9( 2Ë
+kDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)!head	PARAMETERn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java#& #(*2Í
+mDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)!target	PARAMETERn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java#1 #(72ˆ
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp@37.13:37.17DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java% %(2ˆ
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?tail@43.13:43.17DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java+ +(2˜
+xDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp1@47.13:47.18DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java/ /(2ê
+java.lang.BooleanRETURN_TYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java# #(å
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp@37.13:37.17VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java% %("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">temp</mark> = head*temp2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java% %(2„
+kDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)!headCALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java% %(ò
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?tail@43.13:43.17VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java+ +("
+typeNode"
+isFinalfalse"e
+declarationStringP<mark class="modifier"> </mark>Node <mark class="class-field">tail</mark> = temp*tail2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java+ +(2Ô
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp@37.13:37.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java+ +(õ
+xDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?temp1@47.13:47.18VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java/ /("
+typeNode"
+isFinalfalse"f
+declarationStringQ<mark class="modifier"> </mark>Node <mark class="class-field">temp1</mark> = tail*temp12£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java/ /(2Ô
+wDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)?tail@43.13:43.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java/ /(‘
+kDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)!head	PARAMETERn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java#& #(*"
+typeNode"
+isFinalfalse"
+declarationString	Node head*head2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java#! #(%Õ
+mDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)!target	PARAMETERn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java#1 #(7"
+typeint"
+isFinalfalse"=
+declarationString(<mark class="modifier">int</mark> target*target2{
+intTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java#- #(0†h
+?DoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])METHODn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaA A("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2•
+-java.io.PrintStream.println(java.lang.Object)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java_ _(2ﬁ
+fDoublyLinkedList.PalindromeChecker_DLL.findTwoSumDLL(DoublyLinkedList.PalindromeChecker_DLL.Node, int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java_ _((2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaB B(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaC C(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaD D(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaE E(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaF F(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaG G(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaH H(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaI I(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?a@66.13:66.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaK K(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?b@67.13:67.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaK K(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?b@67.13:67.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaL L(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?c@68.13:68.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaL L(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?c@68.13:68.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaM M(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?d@69.13:69.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaM M(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?d@69.13:69.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaN N(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?e@70.13:70.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaN N(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?e@70.13:70.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaO O(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?f@71.13:71.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaO O(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?f@71.13:71.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaP P(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?g@72.13:72.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaP P(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?g@72.13:72.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaQ Q(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?h@73.13:73.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaQ Q(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?h@73.13:73.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaR R(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?h@73.13:73.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaU U(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?g@72.13:72.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaU U(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?g@72.13:72.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaV V(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?f@71.13:71.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaV V(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?f@71.13:71.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaW W(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?e@70.13:70.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaW W(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?e@70.13:70.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaX X(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?d@69.13:69.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaX X(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?d@69.13:69.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaY Y(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?c@68.13:68.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaY Y(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?c@68.13:68.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaZ Z(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?b@67.13:67.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaZ Z(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?b@67.13:67.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java[ [(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?a@66.13:66.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java[ [(2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?a@66.13:66.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java\ \(	2≈
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?a@66.13:66.14CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java_) _(*2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaK
+ K(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaL
+ L(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaM
+ M(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaN
+ N(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaO
+ O(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaP
+ P(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaQ
+ Q(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaR
+ R(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?prev@7.13:7.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaU
+ U(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?prev@7.13:7.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaV
+ V(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?prev@7.13:7.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaW
+ W(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?prev@7.13:7.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaX
+ X(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?prev@7.13:7.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaY
+ Y(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?prev@7.13:7.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaZ
+ Z(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?prev@7.13:7.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java[
+ [(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?prev@7.13:7.17CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java\
+ \(2¡
+DDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])!args	PARAMETERn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaA% A()2Ã
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?a@66.13:66.14DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaB B(2Ã
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?b@67.13:67.14DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaC C(2Ã
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?c@68.13:68.14DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaD D(2Ã
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?d@69.13:69.14DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaE E(2Ã
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?e@70.13:70.14DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaF F(2Ã
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?f@71.13:71.14DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaG G(2Ã
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?g@72.13:72.14DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaH H(2Ã
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?h@73.13:73.14DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaI I(2É
+voidRETURN_TYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaA A(≠
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?a@66.13:66.14VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaB B("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">a</mark> = new Node(1)*a2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaB B(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaB B(≠
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?b@67.13:67.14VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaC C("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">b</mark> = new Node(2)*b2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaC C(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaC C(≠
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?c@68.13:68.14VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaD D("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">c</mark> = new Node(3)*c2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaD D(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaD D(≠
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?d@69.13:69.14VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaE E("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">d</mark> = new Node(4)*d2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaE E(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaE E(≠
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?e@70.13:70.14VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaF F("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">e</mark> = new Node(5)*e2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaF F(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaF F(≠
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?f@71.13:71.14VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaG G("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">f</mark> = new Node(6)*f2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaG G(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaG G(≠
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?g@72.13:72.14VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaH H("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">g</mark> = new Node(7)*g2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaH H(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaH H(≠
+MDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])?h@73.13:73.14VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaI I("
+typeNode"
+isFinalfalse"i
+declarationStringT<mark class="modifier"> </mark>Node <mark class="class-field">h</mark> = new Node(8)*h2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaI I(2≠
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaI I(ú
+DDoublyLinkedList.PalindromeChecker_DLL.main(java.lang.String[])!args	PARAMETERn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaA% A()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2ä
+java.lang.String[]TYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.javaA A($˛
++DoublyLinkedList.PalindromeChecker_DLL.NodeCLASSn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java ("1
+package&DoublyLinkedList.PalindromeChecker_DLL"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"\
+declarationStringG<mark class="modifier"> </mark><mark class="modifier">class </mark>Node"
+accesspackage_private*Node2¥
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java	 	(2π
+:DoublyLinkedList.PalindromeChecker_DLL.Node?data@5.12:5.16DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2π
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (2π
+:DoublyLinkedList.PalindromeChecker_DLL.Node?prev@7.13:7.17DECLARATIONn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (â
+5DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)CONSTRUCTORn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java	 	("|
+declarationStringg<mark class="modifier"> </mark><mark class="method">Node</mark>(<mark class="modifier">int</mark> data)*Node2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)!dataCALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java
+ 
+(2≤
+:DoublyLinkedList.PalindromeChecker_DLL.Node?data@5.12:5.16CALLn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java
+ 
+(2∑
+:DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)!data	PARAMETERn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java	 	(2™
++DoublyLinkedList.PalindromeChecker_DLL.NodeRETURN_TYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java	 	(ñ
+:DoublyLinkedList.PalindromeChecker_DLL.Node.Node(int)!data	PARAMETERn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java	 	("
+typeint"
+isFinalfalse";
+declarationString&<mark class="modifier">int</mark> data*data2{
+intTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java	 	(É
+:DoublyLinkedList.PalindromeChecker_DLL.Node?data@5.12:5.16VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2{
+intTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (ê
+:DoublyLinkedList.PalindromeChecker_DLL.Node?next@6.13:6.17VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">next</mark>"
+isStaticfalse"
+accesspackage_private*next2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (ê
+:DoublyLinkedList.PalindromeChecker_DLL.Node?prev@7.13:7.17VARIABLEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java ("
+isFinalfalse"
+typeNode"^
+declarationStringI<mark class="modifier"> </mark>Node <mark class="class-field">prev</mark>"
+isStaticfalse"
+accesspackage_private*prev2£
++DoublyLinkedList.PalindromeChecker_DLL.NodeTYPEn
+dC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\DoublyLinkedList\PalindromeChecker_DLL.java (

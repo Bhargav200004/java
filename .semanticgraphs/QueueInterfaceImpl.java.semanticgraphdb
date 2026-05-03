@@ -1,0 +1,123 @@
+
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java 
+QueueInterfaceImplCLASSf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java ("
+packageQueueInterfaceImpl"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"p
+declarationString[<mark class="modifier">public </mark><mark class="modifier">class </mark>QueueInterfaceImpl"
+accesspublic*QueueInterfaceImpl2ï
+QueueInterfaceImpl.queueImpl()DECLARATIONf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (2ù
+&QueueInterfaceImpl.priorityQueueImpl()DECLARATIONf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (!2ò
+!QueueInterfaceImpl.main(String[])DECLARATIONf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java   (ß
+QueueInterfaceImpl.queueImpl()METHODf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java ("
+isFinalfalse"§
+declarationStringé<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">queueImpl</mark>()"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*	queueImpl2ë
+!java.util.LinkedList.LinkedList()CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java# (/2û
+.QueueInterfaceImpl.queueImpl()?queue@6.23:6.28CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (2û
+.QueueInterfaceImpl.queueImpl()?queue@6.23:6.28CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java	 	(2û
+.QueueInterfaceImpl.queueImpl()?queue@6.23:6.28CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java
+ 
+(2û
+.QueueInterfaceImpl.queueImpl()?queue@6.23:6.28CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (2û
+.QueueInterfaceImpl.queueImpl()?queue@6.23:6.28CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java ( 2û
+.QueueInterfaceImpl.queueImpl()?queue@6.23:6.28CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java ( 2û
+.QueueInterfaceImpl.queueImpl()?queue@6.23:6.28CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java ( 2û
+.QueueInterfaceImpl.queueImpl()?queue@6.23:6.28CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java ( 2û
+.QueueInterfaceImpl.queueImpl()?queue@6.23:6.28CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java ( 2û
+.QueueInterfaceImpl.queueImpl()?queue@6.23:6.28CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java ( 2•
+.QueueInterfaceImpl.queueImpl()?queue@6.23:6.28DECLARATIONf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (2{
+voidRETURN_TYPEf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (Î
+.QueueInterfaceImpl.queueImpl()?queue@6.23:6.28VARIABLEf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java ("
+typeQueue<Integer>"
+isFinalfalse"~
+declarationStringi<mark class="modifier"> </mark>Queue<Integer> <mark class="class-field">queue</mark> = new LinkedList<>()*queue2
+java.util.QueueTYPEf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (2Ä
+IntegerTYPE_ARGUMENTf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (2ë
+!java.util.LinkedList.LinkedList()CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java# (/å
+&QueueInterfaceImpl.priorityQueueImpl()METHODf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (!"
+isFinalfalse"¨
+declarationStringñ<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">priorityQueueImpl</mark>()"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*priorityQueueImpl2ó
+'java.util.PriorityQueue.PriorityQueue()CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java3 (B2∞
+@QueueInterfaceImpl.priorityQueueImpl()?priorityQueue@23.31:23.44CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (2∞
+@QueueInterfaceImpl.priorityQueueImpl()?priorityQueue@23.31:23.44CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (2∞
+@QueueInterfaceImpl.priorityQueueImpl()?priorityQueue@23.31:23.44CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (2∞
+@QueueInterfaceImpl.priorityQueueImpl()?priorityQueue@23.31:23.44CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java ((2∞
+@QueueInterfaceImpl.priorityQueueImpl()?priorityQueue@23.31:23.44CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java ((2∑
+@QueueInterfaceImpl.priorityQueueImpl()?priorityQueue@23.31:23.44DECLARATIONf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (,2{
+voidRETURN_TYPEf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (∞
+@QueueInterfaceImpl.priorityQueueImpl()?priorityQueue@23.31:23.44VARIABLEf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (,"
+typePriorityQueue<Integer>"
+isFinalfalse"ë
+declarationString|<mark class="modifier"> </mark>PriorityQueue<Integer> <mark class="class-field">priorityQueue</mark> = new PriorityQueue<>()*priorityQueue2á
+java.util.PriorityQueueTYPEf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (2Ä
+IntegerTYPE_ARGUMENTf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java (2ó
+'java.util.PriorityQueue.PriorityQueue()CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java3 (B€
+!QueueInterfaceImpl.main(String[])METHODf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java   ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ñ
+&QueueInterfaceImpl.priorityQueueImpl()CALLf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java" "(2õ
+&QueueInterfaceImpl.main(String[])!args	PARAMETERf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java %  ()2{
+voidRETURN_TYPEf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java   („
+&QueueInterfaceImpl.main(String[])!args	PARAMETERf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java %  ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2x
+String[]TYPEf
+\C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\QueueInterfaceImpl.java   ($

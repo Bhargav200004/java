@@ -1,0 +1,83 @@
+
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java•
+ListInterfaceImplCLASSe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java ("
+packageListInterfaceImpl"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"o
+declarationStringZ<mark class="modifier">public </mark><mark class="modifier">class </mark>ListInterfaceImpl"
+accesspublic*ListInterfaceImpl2ó
+!ListInterfaceImpl.ArrayListImpl()DECLARATIONe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java (2ñ
+ ListInterfaceImpl.main(String[])DECLARATIONe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java (»
+!ListInterfaceImpl.ArrayListImpl()METHODe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java ("
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">ArrayListImpl</mark>()"
+isStatictrue"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*ArrayListImpl2é
+java.util.ArrayList.ArrayList()CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java+ (62§
+5ListInterfaceImpl.ArrayListImpl()?arrayList@5.27:5.36CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java (2§
+5ListInterfaceImpl.ArrayListImpl()?arrayList@5.27:5.36CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java (2§
+5ListInterfaceImpl.ArrayListImpl()?arrayList@5.27:5.36CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java (2§
+5ListInterfaceImpl.ArrayListImpl()?arrayList@5.27:5.36CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java	 	(2§
+5ListInterfaceImpl.ArrayListImpl()?arrayList@5.27:5.36CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java
+ 
+($2§
+5ListInterfaceImpl.ArrayListImpl()?arrayList@5.27:5.36CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java (2§
+5ListInterfaceImpl.ArrayListImpl()?arrayList@5.27:5.36CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java ($2§
+5ListInterfaceImpl.ArrayListImpl()?arrayList@5.27:5.36CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java ($2§
+5ListInterfaceImpl.ArrayListImpl()?arrayList@5.27:5.36CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java ($2´
+5ListInterfaceImpl.ArrayListImpl()?arrayList@5.27:5.36DECLARATIONe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java ($2z
+voidRETURN_TYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java (Ä
+5ListInterfaceImpl.ArrayListImpl()?arrayList@5.27:5.36VARIABLEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java ($"
+typeArrayList<Integer>"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark>ArrayList<Integer> <mark class="class-field">arrayList</mark> = new ArrayList<>()*	arrayList2Ç
+java.util.ArrayListTYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java (2
+IntegerTYPE_ARGUMENTe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java (2é
+java.util.ArrayList.ArrayList()CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java+ (6–
+ ListInterfaceImpl.main(String[])METHODe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2ê
+!ListInterfaceImpl.ArrayListImpl()CALLe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java (2ô
+%ListInterfaceImpl.main(String[])!args	PARAMETERe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java% ()2z
+voidRETURN_TYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java (‡
+%ListInterfaceImpl.main(String[])!args	PARAMETERe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2w
+String[]TYPEe
+[C:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\ListInterfaceImpl.java ($

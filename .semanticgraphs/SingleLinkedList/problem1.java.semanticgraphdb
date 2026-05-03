@@ -1,0 +1,308 @@
+
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.javaå
+SingleLinkedList.problem1CLASSa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ("
+packageSingleLinkedList"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>problem1"
+accesspublic*problem12…
+WSingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (/2§
+2SingleLinkedList.problem1.main(java.lang.String[])DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2≥
+ASingleLinkedList.problem1.display(SingleLinkedList.problem1.node)DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java0 0(…
+WSingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (/"
+isFinalfalse"á
+declarationStringÒ<mark class="modifier">public </mark><mark class="modifier">static </mark>node <mark class="method">insertNewNodeAtBeginning</mark>(node head<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> val)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typenode*insertNewNodeAtBeginning2ì
+(SingleLinkedList.problem1.node.node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2∆
+[SingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)!valCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2–
+eSingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)?n@15.13:15.14CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (	2«
+\SingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)!headCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2«
+\SingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)!headCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2–
+eSingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)?n@15.13:15.14CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2«
+\SingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)!headCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ò
+-SingleLinkedList.problem1.node?next@5.13:5.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java
+ (2Ã
+\SingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)!head	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java5 (92À
+[SingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)!val	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java? (B2◊
+eSingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)?n@15.13:15.14DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ê
+SingleLinkedList.problem1.nodeRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (œ
+eSingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)?n@15.13:15.14VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ("
+typenode"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>node <mark class="class-field">n</mark> = new node(val)*n2â
+SingleLinkedList.problem1.nodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ì
+(SingleLinkedList.problem1.node.node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2∆
+[SingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)!valCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (û
+\SingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)!head	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java5 (9"
+typenode"
+isFinalfalse"
+declarationString	node head*head2â
+SingleLinkedList.problem1.nodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java0 (4õ
+[SingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)!val	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java? (B"
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> val*val2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java; (>∫-
+2SingleLinkedList.problem1.main(java.lang.String[])METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2¬
+WSingleLinkedList.problem1.insertNewNodeAtBeginning(SingleLinkedList.problem1.node, int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java* *( 2¨
+ASingleLinkedList.problem1.display(SingleLinkedList.problem1.node)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java, ,(2ì
+(SingleLinkedList.problem1.node.node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ì
+(SingleLinkedList.problem1.node.node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ì
+(SingleLinkedList.problem1.node.node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ì
+(SingleLinkedList.problem1.node.node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ì
+(SingleLinkedList.problem1.node.node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ì
+(SingleLinkedList.problem1.node.node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2¨
+ASingleLinkedList.problem1.main(java.lang.String[])?n1@24.13:24.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java! !(
+2¨
+ASingleLinkedList.problem1.main(java.lang.String[])?n2@25.13:25.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java! !(2¨
+ASingleLinkedList.problem1.main(java.lang.String[])?n2@25.13:25.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java" "(
+2¨
+ASingleLinkedList.problem1.main(java.lang.String[])?n3@26.13:26.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java" "(2¨
+ASingleLinkedList.problem1.main(java.lang.String[])?n3@26.13:26.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java# #(
+2¨
+ASingleLinkedList.problem1.main(java.lang.String[])?n4@27.13:27.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java# #(2¨
+ASingleLinkedList.problem1.main(java.lang.String[])?n4@27.13:27.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java$ $(
+2¨
+ASingleLinkedList.problem1.main(java.lang.String[])?n5@28.13:28.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java$ $(2¨
+ASingleLinkedList.problem1.main(java.lang.String[])?n1@24.13:24.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java' '(2´
+@SingleLinkedList.problem1.main(java.lang.String[])?n@30.13:30.14CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java*! *("2Æ
+CSingleLinkedList.problem1.main(java.lang.String[])?head@39.13:39.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java, ,(2ò
+-SingleLinkedList.problem1.node?next@5.13:5.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java! !(2ò
+-SingleLinkedList.problem1.node?next@5.13:5.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java" "(2ò
+-SingleLinkedList.problem1.node?next@5.13:5.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java# #(2ò
+-SingleLinkedList.problem1.node?next@5.13:5.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java$ $(2ß
+7SingleLinkedList.problem1.main(java.lang.String[])!args	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java% ()2≥
+ASingleLinkedList.problem1.main(java.lang.String[])?n1@24.13:24.15DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2≥
+ASingleLinkedList.problem1.main(java.lang.String[])?n2@25.13:25.15DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2≥
+ASingleLinkedList.problem1.main(java.lang.String[])?n3@26.13:26.15DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2≥
+ASingleLinkedList.problem1.main(java.lang.String[])?n4@27.13:27.15DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2≥
+ASingleLinkedList.problem1.main(java.lang.String[])?n5@28.13:28.15DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2≤
+@SingleLinkedList.problem1.main(java.lang.String[])?n@30.13:30.14DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2µ
+CSingleLinkedList.problem1.main(java.lang.String[])?head@39.13:39.17DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java' '(2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (‰
+ASingleLinkedList.problem1.main(java.lang.String[])?n1@24.13:24.15VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ("
+typenode"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>node <mark class="class-field">n1</mark> = new node(100)*n12â
+SingleLinkedList.problem1.nodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ì
+(SingleLinkedList.problem1.node.node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (‰
+ASingleLinkedList.problem1.main(java.lang.String[])?n2@25.13:25.15VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ("
+typenode"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>node <mark class="class-field">n2</mark> = new node(200)*n22â
+SingleLinkedList.problem1.nodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ì
+(SingleLinkedList.problem1.node.node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (‰
+ASingleLinkedList.problem1.main(java.lang.String[])?n3@26.13:26.15VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ("
+typenode"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>node <mark class="class-field">n3</mark> = new node(300)*n32â
+SingleLinkedList.problem1.nodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ì
+(SingleLinkedList.problem1.node.node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (‰
+ASingleLinkedList.problem1.main(java.lang.String[])?n4@27.13:27.15VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ("
+typenode"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>node <mark class="class-field">n4</mark> = new node(400)*n42â
+SingleLinkedList.problem1.nodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ì
+(SingleLinkedList.problem1.node.node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (‰
+ASingleLinkedList.problem1.main(java.lang.String[])?n5@28.13:28.15VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ("
+typenode"
+isFinalfalse"l
+declarationStringW<mark class="modifier"> </mark>node <mark class="class-field">n5</mark> = new node(500)*n52â
+SingleLinkedList.problem1.nodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ì
+(SingleLinkedList.problem1.node.node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (·
+@SingleLinkedList.problem1.main(java.lang.String[])?n@30.13:30.14VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ("
+typenode"
+isFinalfalse"k
+declarationStringV<mark class="modifier"> </mark>node <mark class="class-field">n</mark> = new node(600)*n2â
+SingleLinkedList.problem1.nodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ì
+(SingleLinkedList.problem1.node.node(int)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (¯
+CSingleLinkedList.problem1.main(java.lang.String[])?head@39.13:39.17VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java' '("
+typenode"
+isFinalfalse"c
+declarationStringN<mark class="modifier"> </mark>node <mark class="class-field">head</mark> = n1*head2â
+SingleLinkedList.problem1.nodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java' '(2¨
+ASingleLinkedList.problem1.main(java.lang.String[])?n1@24.13:24.15CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java' '(Ù
+7SingleLinkedList.problem1.main(java.lang.String[])!args	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2}
+java.lang.String[]TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ($î
+ASingleLinkedList.problem1.display(SingleLinkedList.problem1.node)METHODa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java0 0("
+isFinalfalse"±
+declarationStringõ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">display</mark>(node head)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*display2ñ
++java.io.PrintStream.print(java.lang.String)CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java2 2(2±
+FSingleLinkedList.problem1.display(SingleLinkedList.problem1.node)!headCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java1 1(2±
+FSingleLinkedList.problem1.display(SingleLinkedList.problem1.node)!headCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java2 2(!2±
+FSingleLinkedList.problem1.display(SingleLinkedList.problem1.node)!headCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java3 3(2±
+FSingleLinkedList.problem1.display(SingleLinkedList.problem1.node)!headCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java3 3(2ò
+-SingleLinkedList.problem1.node?data@4.12:4.16CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java2" 2(&2ò
+-SingleLinkedList.problem1.node?next@5.13:5.17CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java3 3(2∂
+FSingleLinkedList.problem1.display(SingleLinkedList.problem1.node)!head	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java0$ 0((2v
+voidRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java0 0(à
+FSingleLinkedList.problem1.display(SingleLinkedList.problem1.node)!head	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java0$ 0(("
+typenode"
+isFinalfalse"
+declarationString	node head*head2â
+SingleLinkedList.problem1.nodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java0 0(# 
+SingleLinkedList.problem1.nodeCLASSa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ("$
+packageSingleLinkedList.problem1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>node"
+accesspublic*node2ö
+(SingleLinkedList.problem1.node.node(int)DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ü
+-SingleLinkedList.problem1.node?data@4.12:4.16DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ü
+-SingleLinkedList.problem1.node?next@5.13:5.17DECLARATIONa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (Ñ
+(SingleLinkedList.problem1.node.node(int)CONSTRUCTORa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ("{
+declarationStringf<mark class="modifier"> </mark><mark class="method">node</mark>(<mark class="modifier">int</mark> val)*node2ó
+,SingleLinkedList.problem1.node.node(int)!valCALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java	 	(2ò
+-SingleLinkedList.problem1.node?data@4.12:4.16CALLa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java	 	(2ú
+,SingleLinkedList.problem1.node.node(int)!val	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (2ê
+SingleLinkedList.problem1.nodeRETURN_TYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (Ï
+,SingleLinkedList.problem1.node.node(int)!val	PARAMETERa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ("
+typeint"
+isFinalfalse":
+declarationString%<mark class="modifier">int</mark> val*val2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (‹
+-SingleLinkedList.problem1.node?data@4.12:4.16VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ("
+isFinalfalse"
+typeint"{
+declarationStringf<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">data</mark>"
+isStaticfalse"
+accesspackage_private*data2n
+intTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (‹
+-SingleLinkedList.problem1.node?next@5.13:5.17VARIABLEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java ("
+isFinalfalse"
+typenode"^
+declarationStringI<mark class="modifier"> </mark>node <mark class="class-field">next</mark>"
+isStaticfalse"
+accesspackage_private*next2â
+SingleLinkedList.problem1.nodeTYPEa
+WC:\Users\BHARGAV\Desktop\Personal\coding\Linked list\src\SingleLinkedList\problem1.java (

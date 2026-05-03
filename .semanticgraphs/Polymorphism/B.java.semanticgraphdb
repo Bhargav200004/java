@@ -1,0 +1,30 @@
+
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\B.javað
+Polymorphism.BCLASS_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\B.java ("
+packagePolymorphism"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"‡
+declarationStringr<mark class="modifier">public </mark><mark class="modifier">class </mark>B<mark class="modifier"> extends </mark>A"
+accesspublic*B2…
+Polymorphism.B.test()DECLARATION_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\B.java	 (2y
+Polymorphism.AEXTEND_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\B.java (¨
+Polymorphism.B.test()METHOD_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\B.java	 ("
+isFinalfalse"¨
+declarationString’<mark class="annotation">@Override</mark> <br><mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">test</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*test2–
+-java.io.PrintStream.println(java.lang.String)CALL_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\B.java (2‚
+Polymorphism.A.test()OVERRIDE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\B.java	 (2t
+voidRETURN_TYPE_
+UC:\Users\BHARGAV\Desktop\Personal\coding\Introduction_to_OOPs\src\Polymorphism\B.java (

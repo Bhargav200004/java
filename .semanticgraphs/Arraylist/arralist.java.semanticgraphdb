@@ -1,0 +1,196 @@
+
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java˚
+Arraylist.arralistCLASSd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java ("
+package	Arraylist"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"f
+declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>arralist"
+accesspublic*arralist2†
++Arraylist.arralist.main(java.lang.String[])DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (¨L
++Arraylist.arralist.main(java.lang.String[])METHODd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java
+ (2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java
+ (2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java
+ (2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java
+ (2õ
+-java.io.PrintStream.println(java.lang.Object)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (2ä
+java.util.ArrayList.get(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java ( 2à
+java.util.ArrayList.size()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (2ô
++java.io.PrintStream.print(java.lang.String)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (2ä
+java.util.ArrayList.get(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java ("2ã
+java.io.PrintStream.println()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (2õ
+-java.io.PrintStream.println(java.lang.Object)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (2ç
+java.util.ArrayList.add(int, E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java"
+ "(2õ
+-java.io.PrintStream.println(java.lang.Object)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java# #(2ç
+java.util.ArrayList.set(int, E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java'
+ '(2õ
+-java.io.PrintStream.println(java.lang.Object)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java( ((2ç
+java.util.ArrayList.remove(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java,
+ ,(2õ
+-java.io.PrintStream.println(java.lang.Object)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java- -(2ö
+,java.util.ArrayList.remove(java.lang.Object)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java1
+ 1(2å
+java.lang.Integer.valueOf(int)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java1 1( 2õ
+-java.io.PrintStream.println(java.lang.Object)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java2 2(2ú
+.java.util.ArrayList.contains(java.lang.Object)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java6 6(2í
+$java.io.PrintStream.println(boolean)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java7 7(2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java=
+ =(2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java>
+ >(2à
+java.util.ArrayList.add(E)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java?
+ ?(2õ
+-java.io.PrintStream.println(java.lang.Object)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java@ @(2ç
+java.util.ArrayList.ArrayList()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java! (,2ç
+java.util.ArrayList.ArrayList()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java< <(!2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (	2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (	2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (	2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (	2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (2ß
+9Arraylist.arralist.main(java.lang.String[])?j@22.17:22.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (2ß
+9Arraylist.arralist.main(java.lang.String[])?j@22.17:22.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java  (!2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (2ß
+9Arraylist.arralist.main(java.lang.String[])?j@22.17:22.18CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java# ($2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java" "(	2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java# #(2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java' '(	2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java( ((2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java, ,(	2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java- -(2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java1 1(	2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java2 2(2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java6 6(2©
+;Arraylist.arralist.main(java.lang.String[])?ans@54.16:54.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java7 7(2ß
+9Arraylist.arralist.main(java.lang.String[])?a@60.18:60.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java= =(	2ß
+9Arraylist.arralist.main(java.lang.String[])?a@60.18:60.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java> >(	2ß
+9Arraylist.arralist.main(java.lang.String[])?a@60.18:60.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java? ?(	2ß
+9Arraylist.arralist.main(java.lang.String[])?a@60.18:60.19CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java@ @(2£
+0Arraylist.arralist.main(java.lang.String[])!args	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java% ()2¨
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (2Æ
+9Arraylist.arralist.main(java.lang.String[])?j@22.17:22.18DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (2∞
+;Arraylist.arralist.main(java.lang.String[])?ans@54.16:54.19DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java6 6(2Æ
+9Arraylist.arralist.main(java.lang.String[])?a@60.18:60.19DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java< <(2y
+voidRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (¯
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java ("
+typeArrayList<Integer>"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>ArrayList<Integer> <mark class="class-field">i</mark> = new ArrayList<>()*i2Å
+java.util.ArrayListTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (2à
+java.lang.IntegerTYPE_ARGUMENTd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (2ç
+java.util.ArrayList.ArrayList()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java! (,æ
+9Arraylist.arralist.main(java.lang.String[])?j@22.17:22.18VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 0*j2q
+intTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java (§
+;Arraylist.arralist.main(java.lang.String[])?ans@54.16:54.19VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java6 6("
+typeboolean"
+isFinalfalse"é
+declarationStringy<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">ans</mark> = i.contains(8)*ans2u
+booleanTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java6 6(2ú
+.java.util.ArrayList.contains(java.lang.Object)CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java6 6(2•
+7Arraylist.arralist.main(java.lang.String[])?i@7.27:7.28CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java6 6(€
+9Arraylist.arralist.main(java.lang.String[])?a@60.18:60.19VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java< <("
+type	ArrayList"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>ArrayList <mark class="class-field">a</mark> = new ArrayList()*a2Å
+java.util.ArrayListTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java< <(2ç
+java.util.ArrayList.ArrayList()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java< <(!Ù
+0Arraylist.arralist.main(java.lang.String[])!args	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2Ä
+java.lang.String[]TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\arrays\arraysproblems\src\Arraylist\arralist.java ($

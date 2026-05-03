@@ -1,0 +1,86 @@
+
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.javaµ
+
+BasicStackCLASSL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java ("
+package
+BasicStack"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"h
+declarationStringS<mark class="modifier">public </mark><mark class="modifier">class </mark>BasicStack"
+accesspublic*
+BasicStack2v
+BasicStack.main(String[])DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java (É
+BasicStack.main(String[])METHODL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java (
+2|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java6 (82|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java	 	(2|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java
+ 
+(
+2|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java8 (:2|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java (2|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java (
+2|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java6 (82|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java (2|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java (
+2|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java6 (82|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java (2|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java (
+2|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java6 (82|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java (2|
+&BasicStack.main(String[])?st@5.23:5.25CALLL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java (2y
+BasicStack.main(String[])!args	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java% ()2ƒ
+&BasicStack.main(String[])?st@5.23:5.25DECLARATIONL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java (2a
+voidRETURN_TYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java (ë
+&BasicStack.main(String[])?st@5.23:5.25VARIABLEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java ("
+typeStack<Integer>"
+isFinalfalse"v
+declarationStringa<mark class="modifier"> </mark>Stack<Integer> <mark class="class-field">st</mark> = new Stack<>()*st2[
+StackTYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java (2f
+IntegerTYPE_ARGUMENTL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java (§
+BasicStack.main(String[])!args	PARAMETERL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2^
+String[]TYPEL
+BC:\Users\BHARGAV\Desktop\Personal\coding\Stack\src\BasicStack.java ($

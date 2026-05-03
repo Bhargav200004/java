@@ -1,0 +1,72 @@
+
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java„
+SetInterfaceImplCLASSd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java ("
+packageSetInterfaceImpl"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"n
+declarationStringY<mark class="modifier">public </mark><mark class="modifier">class </mark>SetInterfaceImpl"
+accesspublic*SetInterfaceImpl2”
+SetInterfaceImpl.main(String[])DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java (ã
+SetInterfaceImpl.main(String[])METHODd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2‰
+java.util.HashSet.HashSet()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java' (02Ÿ
+1SetInterfaceImpl.main(String[])?hashSet@4.25:4.32CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java (2Ÿ
+1SetInterfaceImpl.main(String[])?hashSet@4.25:4.32CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java (2Ÿ
+1SetInterfaceImpl.main(String[])?hashSet@4.25:4.32CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java (2Ÿ
+1SetInterfaceImpl.main(String[])?hashSet@4.25:4.32CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java (2Ÿ
+1SetInterfaceImpl.main(String[])?hashSet@4.25:4.32CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java	 	("2Ÿ
+1SetInterfaceImpl.main(String[])?hashSet@4.25:4.32CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java
+ 
+(2Ÿ
+1SetInterfaceImpl.main(String[])?hashSet@4.25:4.32CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java (2Ÿ
+1SetInterfaceImpl.main(String[])?hashSet@4.25:4.32CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java (2Ÿ
+1SetInterfaceImpl.main(String[])?hashSet@4.25:4.32CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java (2Ÿ
+1SetInterfaceImpl.main(String[])?hashSet@4.25:4.32CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java (2Ÿ
+1SetInterfaceImpl.main(String[])?hashSet@4.25:4.32CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java ("2—
+$SetInterfaceImpl.main(String[])!args	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java% ()2¦
+1SetInterfaceImpl.main(String[])?hashSet@4.25:4.32DECLARATIONd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java ( 2y
+voidRETURN_TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java (æ
+1SetInterfaceImpl.main(String[])?hashSet@4.25:4.32VARIABLEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java ( "
+typeHashSet<Integer>"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark>HashSet<Integer> <mark class="class-field">hashSet</mark> = new HashSet<>()*hashSet2
+java.util.HashSetTYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java (2~
+IntegerTYPE_ARGUMENTd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java (2‰
+java.util.HashSet.HashSet()CALLd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java' (0Ý
+$SetInterfaceImpl.main(String[])!args	PARAMETERd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2v
+String[]TYPEd
+ZC:\Users\BHARGAV\Desktop\Personal\coding\JavaCollectionFrameWork\src\SetInterfaceImpl.java ($

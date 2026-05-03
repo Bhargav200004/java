@@ -1,0 +1,28 @@
+
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Bicycle.java®
+BicycleCLASSI
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Bicycle.java("
+packageBicycle"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"“
+declarationString~<mark class="modifier">public </mark><mark class="modifier">class </mark>Bicycle<mark class="modifier"> extends </mark>Vehicle"
+accesspublic*Bicycle2q
+Bicycle.hasEngine()DECLARATIONM
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Bicycle.java (2\
+VehicleEXTENDI
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Bicycle.java(%Æ
+Bicycle.hasEngine()METHODM
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Bicycle.java ("
+isFinalfalse"˜
+declarationString‚<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>Boolean <mark class="method">hasEngine</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeBoolean*	hasEngine2n
+Vehicle.hasEngine()OVERRIDEM
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Bicycle.java (2e
+BooleanRETURN_TYPEM
+CC:\Users\BHARGAV\Desktop\Personal\coding\principal\src\Bicycle.java (
